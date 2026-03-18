@@ -3,102 +3,200 @@
   "puzzles": [
     {
       "id": 1,
-      "answer": "Elon Musk",
-      "acceptedAnswers": ["Elon Musk", "Musk"],
-      "clues": ["tech billionaire", "South African-born", "political donations", "satellite internet", "rocket company", "government efficiency"],
-      "summary": "Elon Musk continued to dominate headlines this week over his controversial role advising on US government spending cuts, while simultaneously managing his sprawling tech empire.",
-      "sourceUrl": "https://www.bbc.com/news",
+      "answer": "Cuba",
+      "acceptedAnswers": [
+        "Cuba"
+      ],
+      "clues": [
+        "Caribbean island nation",
+        "Socialist government since 1959",
+        "Havana is the capital",
+        "US embargo history",
+        "Nationwide blackout crisis",
+        "Oil blockade consequences"
+      ],
+      "summary": "Trump declared he could 'take' Cuba amid a US oil blockade that caused the country's national energy grid to collapse, triggering a nationwide blackout.",
+      "sourceUrl": "https://www.washingtonpost.com",
       "difficulty": "easy",
       "region": "global"
     },
     {
       "id": 2,
-      "answer": "DeepSeek",
-      "acceptedAnswers": ["DeepSeek"],
-      "clues": ["Chinese startup", "open source", "low cost training", "Silicon Valley disruption", "language model", "artificial intelligence"],
-      "summary": "DeepSeek's latest AI model release continued to challenge assumptions about the cost of training frontier models, sending shockwaves through the US tech industry.",
-      "sourceUrl": "https://www.theverge.com",
-      "difficulty": "medium",
+      "answer": "Ali Larijani",
+      "acceptedAnswers": [
+        "Ali Larijani",
+        "Larijani"
+      ],
+      "clues": [
+        "Iranian political figure",
+        "Senior security official",
+        "Killed in an airstrike",
+        "Middle Eastern geopolitics",
+        "Target of military operation",
+        "Member of a prominent political family"
+      ],
+      "summary": "Israel announced it killed Iran's top security official Ali Larijani in overnight strikes, marking a major blow to Iran's leadership.",
+      "sourceUrl": "https://apnews.com",
+      "difficulty": "hard",
       "region": "global"
     },
     {
       "id": 3,
-      "answer": "NATO",
-      "acceptedAnswers": ["NATO", "North Atlantic Treaty Organization", "North Atlantic Treaty Organisation"],
-      "clues": ["military alliance", "European security", "defence spending", "collective defence", "Brussels headquarters", "Ukraine support"],
-      "summary": "NATO members met this week to discuss increased defence spending commitments amid ongoing pressure from the US and continued concerns over European security.",
-      "sourceUrl": "https://www.reuters.com",
+      "answer": "Kabul",
+      "acceptedAnswers": [
+        "Kabul"
+      ],
+      "clues": [
+        "Capital city in Central Asia",
+        "Taliban-governed territory",
+        "Hospital targeted in attack",
+        "Afghanistan's largest city",
+        "Pakistan blamed for strike",
+        "Hundreds feared dead"
+      ],
+      "summary": "A devastating strike on a hospital in Afghanistan's capital left hundreds feared dead, with the Taliban blaming Pakistan and threatening to escalate the neighbors' conflict.",
+      "sourceUrl": "https://www.ft.com",
       "difficulty": "medium",
       "region": "global"
     },
     {
       "id": 4,
-      "answer": "Apple",
-      "acceptedAnswers": ["Apple", "Apple Inc"],
-      "clues": ["Cupertino", "smartphone manufacturer", "antitrust scrutiny", "App Store", "Tim Cook", "services revenue"],
-      "summary": "Apple faced fresh antitrust pressure this week from regulators in both the US and Europe over its App Store policies and restrictions on third-party developers.",
-      "sourceUrl": "https://www.theverge.com",
-      "difficulty": "easy",
+      "answer": "Marine Le Pen",
+      "acceptedAnswers": [
+        "Marine Le Pen",
+        "Le Pen"
+      ],
+      "clues": [
+        "French politician",
+        "National Rally leader",
+        "Far-right movement figure",
+        "Daughter of a controversial politician",
+        "Perennial presidential candidate",
+        "Local elections setback in second round"
+      ],
+      "summary": "Marine Le Pen's National Rally performed well in the first round of French local elections but faces challenges in the second round as rival parties team up against it.",
+      "sourceUrl": "https://www.politico.eu",
+      "difficulty": "medium",
       "region": "global"
     },
     {
       "id": 5,
-      "answer": "Gaza",
-      "acceptedAnswers": ["Gaza", "Gaza Strip"],
-      "clues": ["Middle East", "humanitarian crisis", "ceasefire negotiations", "aid blockade", "civilian casualties", "international pressure"],
-      "summary": "The humanitarian situation in Gaza remained dire this week as ceasefire negotiations stalled and aid organisations warned of catastrophic conditions for civilians.",
-      "sourceUrl": "https://www.reuters.com",
-      "difficulty": "easy",
+      "answer": "World Baseball Classic",
+      "acceptedAnswers": [
+        "World Baseball Classic",
+        "WBC"
+      ],
+      "clues": [
+        "International sports tournament",
+        "Team USA vs Venezuela final",
+        "Held every few years",
+        "National teams compete",
+        "Championship game on FOX",
+        "Mark DeRosa manages a squad"
+      ],
+      "summary": "Team USA faces Venezuela in the World Baseball Classic final, with manager Mark DeRosa making critical lineup decisions for the championship game.",
+      "sourceUrl": "https://www.mlb.com",
+      "difficulty": "medium",
       "region": "global"
     },
     {
       "id": 6,
-      "answer": "Anthropic",
-      "acceptedAnswers": ["Anthropic"],
-      "clues": ["AI safety company", "San Francisco", "large language model", "Amazon investment", "Claude", "responsible AI"],
-      "summary": "Anthropic announced a major expansion this week, revealing new model capabilities and deepening its partnership with Amazon amid the intensifying AI arms race.",
-      "sourceUrl": "https://www.wired.com",
+      "answer": "Asteroid Ryugu",
+      "acceptedAnswers": [
+        "Ryugu",
+        "Asteroid Ryugu"
+      ],
+      "clues": [
+        "Near-Earth object",
+        "Sampled by Japanese spacecraft",
+        "Hayabusa2 mission target",
+        "Contains DNA and RNA building blocks",
+        "Carbon-rich space rock",
+        "Origin of life research"
+      ],
+      "summary": "Scientists found all five DNA and RNA building blocks in samples from Asteroid Ryugu, adding evidence that asteroid impacts may have played a critical role in the emergence of life on Earth.",
+      "sourceUrl": "https://gizmodo.com",
       "difficulty": "hard",
       "region": "global"
     },
     {
       "id": 7,
-      "answer": "Australian Open",
-      "acceptedAnswers": ["Australian Open"],
-      "clues": ["grand slam", "Melbourne", "hard court", "tennis", "January", "Jannik Sinner"],
-      "summary": "Jannik Sinner defended his Australian Open title this week in a thrilling final, cementing his status as the world's top ranked men's tennis player.",
-      "sourceUrl": "https://www.bbc.com/sport",
-      "difficulty": "medium",
+      "answer": "David Zaslav",
+      "acceptedAnswers": [
+        "David Zaslav",
+        "Zaslav"
+      ],
+      "clues": [
+        "Media industry executive",
+        "Warner Bros. Discovery leadership",
+        "Controversial CEO compensation",
+        "Over $550 million payout",
+        "Paramount merger deal",
+        "Entertainment conglomerate figure"
+      ],
+      "summary": "David Zaslav is set to receive more than $550 million in compensation related to the Warner Bros.-Paramount merger, drawing attention to executive pay in the media industry.",
+      "sourceUrl": "https://variety.com",
+      "difficulty": "hard",
       "region": "global"
     },
     {
       "id": 8,
-      "answer": "Meta",
-      "acceptedAnswers": ["Meta", "Meta Platforms"],
-      "clues": ["social media conglomerate", "Mark Zuckerberg", "virtual reality", "content moderation rollback", "Ray-Ban glasses", "Llama model"],
-      "summary": "Meta made headlines this week after announcing significant changes to its content moderation policies across Facebook and Instagram, drawing criticism from advocacy groups.",
-      "sourceUrl": "https://www.theverge.com",
+      "answer": "AirPods Max",
+      "acceptedAnswers": [
+        "AirPods Max",
+        "AirPods Max 2"
+      ],
+      "clues": [
+        "Premium over-ear headphones",
+        "H2 chip upgrade",
+        "Audio technology product",
+        "Cupertino tech company device",
+        "Noise-cancelling features",
+        "Refreshed consumer electronics"
+      ],
+      "summary": "Apple refreshed its premium over-ear headphones with an H2 chip and ten audio improvements, replacing the older H1 chip model.",
+      "sourceUrl": "https://www.macrumors.com",
       "difficulty": "easy",
       "region": "global"
     },
     {
       "id": 9,
-      "answer": "Bank of England",
-      "acceptedAnswers": ["Bank of England", "BoE"],
-      "clues": ["central bank", "Threadneedle Street", "interest rate decision", "inflation target", "monetary policy committee", "British economy"],
-      "summary": "The Bank of England held interest rates steady this week, signalling caution amid persistent inflation and growing uncertainty about the UK economic outlook.",
-      "sourceUrl": "https://www.bbc.com/news/business",
-      "difficulty": "hard",
-      "region": "english"
+      "answer": "Oscars",
+      "acceptedAnswers": [
+        "Oscars",
+        "Academy Awards",
+        "98th Academy Awards"
+      ],
+      "clues": [
+        "Annual film industry ceremony",
+        "98th edition in 2026",
+        "Hosted by a late-night comedian",
+        "Sinners among the honored films",
+        "Hollywood's biggest night",
+        "Barbra Streisand appearance"
+      ],
+      "summary": "The 98th annual Academy Awards ceremony was held, hosted by Conan O'Brien, and described as a messy yet celebratory night featuring appearances by Barbra Streisand and recognition for the film 'Sinners.'",
+      "sourceUrl": "https://www.rollingstone.com",
+      "difficulty": "easy",
+      "region": "global"
     },
     {
       "id": 10,
-      "answer": "Climate Change Conference",
-      "acceptedAnswers": ["Climate Change Conference", "COP", "COP31"],
-      "clues": ["United Nations", "emissions targets", "fossil fuels", "developing nations", "carbon pledges", "global temperature"],
-      "summary": "Preparations for the next UN Climate Change Conference ramped up this week, with developing nations pushing wealthy countries to honour their financial commitments to climate adaptation.",
-      "sourceUrl": "https://www.reuters.com",
-      "difficulty": "medium",
+      "answer": "Silicosis",
+      "acceptedAnswers": [
+        "Silicosis"
+      ],
+      "clues": [
+        "Incurable occupational lung disease",
+        "Caused by inhaling mineral dust",
+        "Linked to countertop fabrication",
+        "Quartz cutting hazard",
+        "Bay Area worker epidemic",
+        "Respiratory health crisis"
+      ],
+      "summary": "A surge in quartz countertop fabrication has triggered a growing epidemic of silicosis, an incurable lung disease, among Bay Area workers who cut and polish the popular kitchen material.",
+      "sourceUrl": "https://www.mercurynews.com",
+      "difficulty": "hard",
       "region": "global"
     }
   ]

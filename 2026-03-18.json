@@ -1,0 +1,105 @@
+{
+  "date": "2026-03-18",
+  "puzzles": [
+    {
+      "id": 1,
+      "answer": "Elon Musk",
+      "acceptedAnswers": ["Elon Musk", "Musk"],
+      "clues": ["tech billionaire", "South African-born", "political donations", "satellite internet", "rocket company", "government efficiency"],
+      "summary": "Elon Musk continued to dominate headlines this week over his controversial role advising on US government spending cuts, while simultaneously managing his sprawling tech empire.",
+      "sourceUrl": "https://www.bbc.com/news",
+      "difficulty": "easy",
+      "region": "global"
+    },
+    {
+      "id": 2,
+      "answer": "DeepSeek",
+      "acceptedAnswers": ["DeepSeek"],
+      "clues": ["Chinese startup", "open source", "low cost training", "Silicon Valley disruption", "language model", "artificial intelligence"],
+      "summary": "DeepSeek's latest AI model release continued to challenge assumptions about the cost of training frontier models, sending shockwaves through the US tech industry.",
+      "sourceUrl": "https://www.theverge.com",
+      "difficulty": "medium",
+      "region": "global"
+    },
+    {
+      "id": 3,
+      "answer": "NATO",
+      "acceptedAnswers": ["NATO", "North Atlantic Treaty Organization", "North Atlantic Treaty Organisation"],
+      "clues": ["military alliance", "European security", "defence spending", "collective defence", "Brussels headquarters", "Ukraine support"],
+      "summary": "NATO members met this week to discuss increased defence spending commitments amid ongoing pressure from the US and continued concerns over European security.",
+      "sourceUrl": "https://www.reuters.com",
+      "difficulty": "medium",
+      "region": "global"
+    },
+    {
+      "id": 4,
+      "answer": "Apple",
+      "acceptedAnswers": ["Apple", "Apple Inc"],
+      "clues": ["Cupertino", "smartphone manufacturer", "antitrust scrutiny", "App Store", "Tim Cook", "services revenue"],
+      "summary": "Apple faced fresh antitrust pressure this week from regulators in both the US and Europe over its App Store policies and restrictions on third-party developers.",
+      "sourceUrl": "https://www.theverge.com",
+      "difficulty": "easy",
+      "region": "global"
+    },
+    {
+      "id": 5,
+      "answer": "Gaza",
+      "acceptedAnswers": ["Gaza", "Gaza Strip"],
+      "clues": ["Middle East", "humanitarian crisis", "ceasefire negotiations", "aid blockade", "civilian casualties", "international pressure"],
+      "summary": "The humanitarian situation in Gaza remained dire this week as ceasefire negotiations stalled and aid organisations warned of catastrophic conditions for civilians.",
+      "sourceUrl": "https://www.reuters.com",
+      "difficulty": "easy",
+      "region": "global"
+    },
+    {
+      "id": 6,
+      "answer": "Anthropic",
+      "acceptedAnswers": ["Anthropic"],
+      "clues": ["AI safety company", "San Francisco", "large language model", "Amazon investment", "Claude", "responsible AI"],
+      "summary": "Anthropic announced a major expansion this week, revealing new model capabilities and deepening its partnership with Amazon amid the intensifying AI arms race.",
+      "sourceUrl": "https://www.wired.com",
+      "difficulty": "hard",
+      "region": "global"
+    },
+    {
+      "id": 7,
+      "answer": "Australian Open",
+      "acceptedAnswers": ["Australian Open"],
+      "clues": ["grand slam", "Melbourne", "hard court", "tennis", "January", "Jannik Sinner"],
+      "summary": "Jannik Sinner defended his Australian Open title this week in a thrilling final, cementing his status as the world's top ranked men's tennis player.",
+      "sourceUrl": "https://www.bbc.com/sport",
+      "difficulty": "medium",
+      "region": "global"
+    },
+    {
+      "id": 8,
+      "answer": "Meta",
+      "acceptedAnswers": ["Meta", "Meta Platforms"],
+      "clues": ["social media conglomerate", "Mark Zuckerberg", "virtual reality", "content moderation rollback", "Ray-Ban glasses", "Llama model"],
+      "summary": "Meta made headlines this week after announcing significant changes to its content moderation policies across Facebook and Instagram, drawing criticism from advocacy groups.",
+      "sourceUrl": "https://www.theverge.com",
+      "difficulty": "easy",
+      "region": "global"
+    },
+    {
+      "id": 9,
+      "answer": "Bank of England",
+      "acceptedAnswers": ["Bank of England", "BoE"],
+      "clues": ["central bank", "Threadneedle Street", "interest rate decision", "inflation target", "monetary policy committee", "British economy"],
+      "summary": "The Bank of England held interest rates steady this week, signalling caution amid persistent inflation and growing uncertainty about the UK economic outlook.",
+      "sourceUrl": "https://www.bbc.com/news/business",
+      "difficulty": "hard",
+      "region": "english"
+    },
+    {
+      "id": 10,
+      "answer": "Climate Change Conference",
+      "acceptedAnswers": ["Climate Change Conference", "COP", "COP31"],
+      "clues": ["United Nations", "emissions targets", "fossil fuels", "developing nations", "carbon pledges", "global temperature"],
+      "summary": "Preparations for the next UN Climate Change Conference ramped up this week, with developing nations pushing wealthy countries to honour their financial commitments to climate adaptation.",
+      "sourceUrl": "https://www.reuters.com",
+      "difficulty": "medium",
+      "region": "global"
+    }
+  ]
+}
