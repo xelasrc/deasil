@@ -1,0 +1,35 @@
+{
+  "date": "2026-03-18",
+  "puzzles": [
+    {
+      "id": 1,
+      "answer": "Elon Musk",
+      "acceptedAnswers": ["Elon Musk", "Musk"],
+      "clues": ["tech billionaire", "South African-born", "political donations", "satellite internet", "rocket company", "social media platform"],
+      "summary": "Elon Musk faced renewed scrutiny this week over his role in government spending cuts, while his companies SpaceX and Tesla continued to dominate headlines.",
+      "sourceUrl": "https://bbc.com",
+      "difficulty": "easy",
+      "region": "global"
+    },
+    {
+      "id": 2,
+      "answer": "Six Nations",
+      "acceptedAnswers": ["Six Nations", "Six Nations Championship"],
+      "clues": ["rugby union", "annual tournament", "European teams", "France, England, Ireland", "grand slam"],
+      "summary": "The 2026 Six Nations Championship concluded this week with a thrilling final round of matches deciding the title.",
+      "sourceUrl": "https://bbc.com/sport",
+      "difficulty": "medium",
+      "region": "english"
+    },
+    {
+      "id": 3,
+      "answer": "DeepSeek",
+      "acceptedAnswers": ["DeepSeek"],
+      "clues": ["artificial intelligence", "Chinese startup", "open source model", "low cost training", "Silicon Valley disruption"],
+      "summary": "DeepSeek's latest model release continued to challenge assumptions about the cost of training frontier AI models.",
+      "sourceUrl": "https://theverge.com",
+      "difficulty": "medium",
+      "region": "global"
+    }
+  ]
+}

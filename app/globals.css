@@ -1,1 +1,36 @@
 @import "tailwindcss";
+
+@layer base {
+  :root {
+    --font-syne:     "Syne", sans-serif;
+    --font-figtree:  "Figtree", sans-serif;
+    --font-mono:     "JetBrains Mono", monospace;
+    --color-bg:      #f5ede0;
+    --color-bg2:     #ede3d0;
+    --color-surface: #e5d8c4;
+    --color-border:  #d6c8b0;
+    --color-accent:  #ea5a0f;
+    --color-muted:   #8a7560;
+    --color-bright:  #1e1408;
+    --color-text:    #2e2416;
+    --color-success: #3a7d44;
+    --color-error:   #c1121f;
+  }
+
+  * { box-sizing: border-box; }
+
+  body {
+    background-color: var(--color-bg);
+    color: var(--color-text);
+    font-family: var(--font-mono);
+  }
+
+  ::selection {
+    background: var(--color-accent);
+    color: var(--color-bg);
+  }
+
+  ::-webkit-scrollbar { width: 8px; }
+  ::-webkit-scrollbar-track { background: var(--color-bg); }
+  ::-webkit-scrollbar-thumb { background: var(--color-bright); }
+}
