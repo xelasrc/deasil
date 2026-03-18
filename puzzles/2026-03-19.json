@@ -1,0 +1,207 @@
+{
+  "date": "2026-03-19",
+  "puzzles": [
+    {
+      "id": 1,
+      "answer": "AIPAC",
+      "acceptedAnswers": [
+        "AIPAC",
+        "American Israel Public Affairs Committee"
+      ],
+      "clues": [
+        "Political lobbying organization",
+        "Pro-Israel advocacy",
+        "Campaign finance heavyweight",
+        "Washington D.C. influence",
+        "Super PAC spending",
+        "Congressional elections"
+      ],
+      "summary": "AIPAC is making a $22 million investment in Illinois House races, marking a tactical shift as it navigates Democrats' increasingly negative views of Israel.",
+      "sourceUrl": "https://www.politico.com/news/2026/03/17/aipac-illinois-primary-israel-democrats-divides-00829743",
+      "difficulty": "medium",
+      "region": "global"
+    },
+    {
+      "id": 2,
+      "answer": "Kabul",
+      "acceptedAnswers": [
+        "Kabul"
+      ],
+      "clues": [
+        "Capital city in Central Asia",
+        "Taliban governance",
+        "Hindu Kush region",
+        "Hamid Karzai International Airport",
+        "Pashtun heartland",
+        "Afghanistan's largest city"
+      ],
+      "summary": "Hundreds are feared dead after a devastating strike on a hospital in the Afghan capital, with the Taliban blaming Pakistan for the attack.",
+      "sourceUrl": "https://www.ft.com/content/da1d82c6-5939-4479-8e7d-71915ab7f520",
+      "difficulty": "medium",
+      "region": "global"
+    },
+    {
+      "id": 3,
+      "answer": "Robert Redford",
+      "acceptedAnswers": [
+        "Robert Redford",
+        "Redford"
+      ],
+      "clues": [
+        "Sundance Film Festival founder",
+        "The Sting star",
+        "Butch Cassidy actor",
+        "Hollywood golden era leading man",
+        "Environmental activist",
+        "All the President's Men"
+      ],
+      "summary": "Jane Fonda expressed her wish to have delivered the Oscars tribute to the late legendary actor instead of Barbra Streisand, noting she had appeared in four films with him.",
+      "sourceUrl": "http://www.hollywoodreporter.com/movies/movie-news/jane-fonda-wishes-robert-redford-oscars-tribute-barbra-streisand-1236535353/",
+      "difficulty": "easy",
+      "region": "global"
+    },
+    {
+      "id": 4,
+      "answer": "World Baseball Classic",
+      "acceptedAnswers": [
+        "World Baseball Classic",
+        "WBC"
+      ],
+      "clues": [
+        "International tournament held every four years",
+        "National teams competition",
+        "MLB players represent home countries",
+        "First held in 2006",
+        "Team USA vs. Venezuela final",
+        "Diamond sport's premier global event"
+      ],
+      "summary": "The 2026 World Baseball Classic final is set, featuring Team USA against Venezuela in a matchup of two of the tournament's best rosters.",
+      "sourceUrl": "https://www.si.com/mlb/world-baseball-classic-final-team-usa-vs-venezuela-preview",
+      "difficulty": "medium",
+      "region": "global"
+    },
+    {
+      "id": 5,
+      "answer": "Marine Le Pen",
+      "acceptedAnswers": [
+        "Marine Le Pen",
+        "Le Pen"
+      ],
+      "clues": [
+        "French far-right leader",
+        "National Rally party",
+        "Presidential candidate multiple times",
+        "Daughter of Jean-Marie",
+        "Eurosceptic politician",
+        "Rassemblement National"
+      ],
+      "summary": "Le Pen's National Rally performed well in the first round of French local elections but faces its traditional second-round challenge as rival parties unite against it.",
+      "sourceUrl": "https://www.politico.eu/article/france-far-right-struggles-major-local-election-wins/",
+      "difficulty": "medium",
+      "region": "global"
+    },
+    {
+      "id": 6,
+      "answer": "Warner Bros. Discovery",
+      "acceptedAnswers": [
+        "Warner Bros. Discovery",
+        "Warner Bros Discovery",
+        "WBD"
+      ],
+      "clues": [
+        "HBO parent company",
+        "CNN owner",
+        "Merger with Paramount Skydance",
+        "David Zaslav-led media giant",
+        "Max streaming service",
+        "Hollywood studio conglomerate"
+      ],
+      "summary": "CEO David Zaslav is set to receive over $550 million in compensation as part of the closing of the Paramount-Skydance deal to acquire the media company.",
+      "sourceUrl": "https://variety.com/2026/biz/news/david-zaslav-pay-warner-bros-paramount-merger-1236690521/",
+      "difficulty": "medium",
+      "region": "global"
+    },
+    {
+      "id": 7,
+      "answer": "Asteroid Ryugu",
+      "acceptedAnswers": [
+        "Ryugu",
+        "Asteroid Ryugu",
+        "162173 Ryugu"
+      ],
+      "clues": [
+        "Near-Earth object",
+        "Hayabusa2 mission target",
+        "JAXA sample return",
+        "Carbon-rich space rock",
+        "DNA building blocks discovery",
+        "Origins of life research"
+      ],
+      "summary": "A new study has found that samples from this asteroid contain all five nucleobases used in DNA and RNA, supporting the theory that asteroid impacts helped spark life on Earth.",
+      "sourceUrl": "https://gizmodo.com/asteroid-ryugu-contains-the-same-genetic-ingredients-found-in-life-on-earth-2000734179",
+      "difficulty": "hard",
+      "region": "global"
+    },
+    {
+      "id": 8,
+      "answer": "January 6",
+      "acceptedAnswers": [
+        "January 6",
+        "Jan 6",
+        "January 6th",
+        "Jan. 6"
+      ],
+      "clues": [
+        "U.S. Capitol breach",
+        "2021 insurrection",
+        "Congressional certification disruption",
+        "Trump pardons controversy",
+        "Pipe bomb suspect",
+        "Electoral count crisis"
+      ],
+      "summary": "A suspect in the D.C. pipe bomb case is arguing he should be covered by Trump's blanket pardon for participants in the 2021 Capitol events.",
+      "sourceUrl": "https://www.nbcnews.com/politics/politics-news/dc-pipe-bomb-suspect-brian-cole-says-covered-trump-jan-6-pardons-rcna263826",
+      "difficulty": "easy",
+      "region": "global"
+    },
+    {
+      "id": 9,
+      "answer": "Kouri Richins",
+      "acceptedAnswers": [
+        "Kouri Richins",
+        "Richins"
+      ],
+      "clues": [
+        "True crime case",
+        "Children's grief book author",
+        "Utah murder trial",
+        "Poisoning allegations",
+        "Husband's suspicious death",
+        "Guilty verdict in 2026"
+      ],
+      "summary": "The grief author who wrote a children's book about dealing with loss after her husband's death has been found guilty of his murder.",
+      "sourceUrl": "https://www.axios.com/local/salt-lake-city/2026/03/17/kouri-richins-convicted-aggravated-murder",
+      "difficulty": "hard",
+      "region": "us"
+    },
+    {
+      "id": 10,
+      "answer": "Nigeria",
+      "acceptedAnswers": [
+        "Nigeria"
+      ],
+      "clues": [
+        "Most populous African nation",
+        "Borno state location",
+        "Boko Haram insurgency region",
+        "West African country",
+        "Abuja is the capital",
+        "Lake Chad basin"
+      ],
+      "summary": "Multiple bomb blasts struck Maiduguri in northeastern Nigeria, killing and injuring scores of people across at least three locations.",
+      "sourceUrl": "https://apnews.com/article/nigeria-bombings-boko-haram-borno-maiduguri-2256cebae89370b21930b006c5aa6f6e",
+      "difficulty": "medium",
+      "region": "global"
+    }
+  ]
+}

@@ -2,8 +2,9 @@
 import { useEffect, useState } from "react";
 import { useRouter } from "next/navigation";
 import { getStorage } from "@/app/lib/storage";
+import { getToday } from "@/app/lib/date";
 
-const today = new Date().toISOString().split("T")[0];
+const today = getToday();
 
 const HOW_TO_PLAY = [
   { step: "01", text: "Each puzzle shows you a set of category clues about a current news topic." },

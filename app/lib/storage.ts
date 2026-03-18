@@ -1,4 +1,5 @@
 import { GameStorage, DayHistory } from "../types/puzzle";
+import { getToday } from "./date";
 
 const STORAGE_KEY = "deasil_game";
 
@@ -41,7 +42,7 @@ export function getTodayHistory(date: string): DayHistory | null {
 
 export function saveDayHistory(date: string, history: DayHistory): void {
   const storage = getStorage();
-  const today = new Date().toISOString().split("T")[0];
+  const today = getToday();
 
   const existing = storage.history[date];
   if (existing) {

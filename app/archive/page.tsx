@@ -2,6 +2,7 @@
 import { useEffect, useState } from "react";
 import { useRouter } from "next/navigation";
 import { getStorage } from "@/app/lib/storage";
+import { getToday } from "@/app/lib/date";
 
 function getDaysInMonth(year: number, month: number) {
   return new Date(year, month + 1, 0).getDate();
@@ -18,7 +19,7 @@ export default function ArchivePage() {
   const router = useRouter();
   const [dates, setDates] = useState<string[]>([]);
   const [history, setHistory] = useState<Record<string, { totalScore: number }>>({});
-  const today = new Date().toISOString().split("T")[0];
+  const today = getToday();
   const [viewYear, setViewYear] = useState(new Date().getFullYear());
   const [viewMonth, setViewMonth] = useState(new Date().getMonth());
 
