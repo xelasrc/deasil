@@ -79,7 +79,7 @@ export default function LandingPage() {
 
       {/* Play today CTA */}
       <button
-        onClick={() => router.push(`/play/${today}`)}
+        onClick={() => router.push(`/play/${today}?from=home`)}
         className="w-full py-4 md:py-5 mb-6 md:mb-10 border-2 font-bold uppercase tracking-widest text-base md:text-lg transition-all"
         style={{
           borderColor: 'var(--color-bright)',

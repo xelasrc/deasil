@@ -2,6 +2,28 @@ import { GameStorage, DayHistory } from "../types/puzzle";
 
 const STORAGE_KEY = "deasil_game";
 
+const PROGRESS_KEY = (date: string) => `deasil_progress_${date}`;
+
+export type GameProgress = {
+  currentIndex: number;
+  completedCount: number;
+  todayScore: number;
+  attempts: { points: number; attempts: number; solved: boolean; wrongGuesses: string[] }[];
+};
+
+export function saveProgress(date: string, progress: GameProgress): void {
+  localStorage.setItem(PROGRESS_KEY(date), JSON.stringify(progress));
+}
+
+export function getProgress(date: string): GameProgress | null {
+  const raw = localStorage.getItem(PROGRESS_KEY(date));
+  return raw ? JSON.parse(raw) : null;
+}
+
+export function clearProgress(date: string): void {
+  localStorage.removeItem(PROGRESS_KEY(date));
+}
+
 export function getStorage(): GameStorage {
   if (typeof window === "undefined") return defaultStorage();
   const raw = localStorage.getItem(STORAGE_KEY);

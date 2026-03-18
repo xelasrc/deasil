@@ -10,7 +10,7 @@ type Props = {
   puzzle: Puzzle;
   puzzleNumber: number;
   totalPuzzles: number;
-  onDone: (points: number) => void;
+  onDone: (points: number, attempts: number, solved: boolean, wrongGuesses: string[]) => void;
   onComplete: (points: number, attempts: number, solved: boolean, wrongGuesses: string[]) => void;
 };
 
@@ -32,12 +32,13 @@ export default function PuzzleCard({ puzzle, puzzleNumber, totalPuzzles, onDone,
       setPoints(earnedPoints);
       setSolved(true);
       setDone(true);
-      onDone(earnedPoints);
+      onDone(earnedPoints, newAttempts, true, wrongGuesses);
     } else {
-      setWrongGuesses((prev) => [...prev, guess]);
+      const newWrongGuesses = [...wrongGuesses, guess];
+      setWrongGuesses(newWrongGuesses);
       if (newAttempts >= MAX_ATTEMPTS) {
         setDone(true);
-        onDone(0);
+        onDone(0, newAttempts, false, newWrongGuesses);
       }
     }
   }
@@ -45,7 +46,7 @@ export default function PuzzleCard({ puzzle, puzzleNumber, totalPuzzles, onDone,
   function handleSkip() {
     setAttempts(MAX_ATTEMPTS);
     setDone(true);
-    onDone(0);
+    onDone(0, MAX_ATTEMPTS, false, wrongGuesses);
   }
 
   return (

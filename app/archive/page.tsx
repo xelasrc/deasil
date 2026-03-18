@@ -138,7 +138,7 @@ export default function ArchivePage() {
             return (
               <div
                 key={day}
-                onClick={() => hasPuzzle && !isFuture && router.push(`/play/${dateStr}`)}
+                onClick={() => hasPuzzle && !isFuture && router.push(`/play/${dateStr}?from=archive`)}
                 className="aspect-square flex flex-col items-center justify-center relative transition-colors"
                 style={{
                   backgroundColor: bg,
