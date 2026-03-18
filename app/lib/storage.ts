@@ -19,8 +19,8 @@ export function getTodayHistory(date: string): DayHistory | null {
 
 export function saveDayHistory(date: string, history: DayHistory): void {
   const storage = getStorage();
+  const today = new Date().toISOString().split("T")[0];
 
-  // If this date already has a score saved, subtract it first
   const existing = storage.history[date];
   if (existing) {
     storage.totalScore -= existing.totalScore;
@@ -29,16 +29,18 @@ export function saveDayHistory(date: string, history: DayHistory): void {
   storage.history[date] = history;
   storage.totalScore += history.totalScore;
 
-  // Update streak
-  const yesterday = new Date();
-  yesterday.setDate(yesterday.getDate() - 1);
-  const yStr = yesterday.toISOString().split("T")[0];
-
-  if (storage.lastPlayedDate !== date) {
-    storage.streak = storage.lastPlayedDate === yStr ? storage.streak + 1 : 1;
+  if (date === today && !existing) {
+    if (!storage.lastPlayedDate) {
+      storage.streak = 1;
+    } else {
+      const last = new Date(storage.lastPlayedDate + "T00:00:00");
+      const current = new Date(today + "T00:00:00");
+      const diffDays = Math.round((current.getTime() - last.getTime()) / (1000 * 60 * 60 * 24));
+      storage.streak = diffDays === 1 ? storage.streak + 1 : 1;
+    }
+    storage.lastPlayedDate = today;
   }
 
-  storage.lastPlayedDate = date;
   saveStorage(storage);
 }
 

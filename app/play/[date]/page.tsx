@@ -163,8 +163,6 @@ export default function PlayPage() {
       ) : (
         <ScoreBoard
           score={todayScore}
-          streak={streak} 
-          totalScore={totalScore}
           onShare={handleShare}
           puzzles={puzzle.puzzles}
           attempts={attempts}
