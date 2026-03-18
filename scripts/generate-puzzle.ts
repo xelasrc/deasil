@@ -17,29 +17,15 @@ async function fetchNews(): Promise<string> {
     .map((a) => `- ${a.title}: ${a.description} (${a.source.name})`)
     .join("\n");
 }
+async function generatePuzzle(headlines: string, date: string, recentAnswers: string[]) {
+  const exclusionList = recentAnswers.length > 0
+    ? `\nDo NOT use any of these topics that have been used in the past month:\n${recentAnswers.map(a => `- ${a}`).join("\n")}\n`
+    : "";
 
-async function generatePuzzleWithRetry(headlines: string, date: string, retries = 3): Promise<any> {
-  for (let i = 0; i < retries; i++) {
-    try {
-      return await generatePuzzle(headlines, date);
-    } catch (err: unknown) {
-      const isOverloaded = err instanceof Error && err.message.includes("529");
-      if (isOverloaded && i < retries - 1) {
-        const wait = (i + 1) * 10000; // 10s, 20s, 30s
-        console.log(`API overloaded, retrying in ${wait / 1000}s... (attempt ${i + 2}/${retries})`);
-        await new Promise((res) => setTimeout(res, wait));
-      } else {
-        throw err;
-      }
-    }
-  }
-}
-
-async function generatePuzzle(headlines: string, date: string) {
   const prompt = `You are generating puzzles for Deasil, a daily news guessing game similar to Wordle.
 
 Today's date is ${date}.
-
+${exclusionList}
 Here are today's top news headlines:
 ${headlines}
 
@@ -74,11 +60,44 @@ Return ONLY a valid JSON object in this exact format, no markdown, no explanatio
   });
 
   const text = message.content[0].type === "text" ? message.content[0].text : "";
-
-  // Strip any accidental markdown fences
   const clean = text.replace(/```json|```/g, "").trim();
-
   return JSON.parse(clean);
+}
+
+async function generatePuzzleWithRetry(headlines: string, date: string, recentAnswers: string[], retries = 3): Promise<any> {
+  for (let i = 0; i < retries; i++) {
+    try {
+      return await generatePuzzle(headlines, date, recentAnswers);
+    } catch (err: unknown) {
+      const isOverloaded = err instanceof Error && err.message.includes("529");
+      if (isOverloaded && i < retries - 1) {
+        const wait = (i + 1) * 10000;
+        console.log(`API overloaded, retrying in ${wait / 1000}s... (attempt ${i + 2}/${retries})`);
+        await new Promise((res) => setTimeout(res, wait));
+      } else {
+        throw err;
+      }
+    }
+  }
+}
+
+function getRecentAnswers(): string[] {
+  const answers: string[] = [];
+  const today = new Date();
+
+  for (let i = 1; i <= 30; i++) {
+    const d = new Date(today);
+    d.setDate(today.getDate() - i);
+    const dateStr = d.toISOString().split("T")[0];
+    const filePath = path.join(process.cwd(), "puzzles", `${dateStr}.json`);
+
+    if (fs.existsSync(filePath)) {
+      const data = JSON.parse(fs.readFileSync(filePath, "utf-8"));
+      data.puzzles.forEach((p: { answer: string }) => answers.push(p.answer));
+    }
+  }
+
+  return answers;
 }
 
 async function main() {
@@ -95,12 +114,13 @@ async function main() {
     return;
   }
 
-  console.log(`Fetching news for ${date}...`);
+  console.log("Fetching news for ${date}...");
   const headlines = await fetchNews();
+  const recentAnswers = getRecentAnswers();
+  console.log(`Excluding ${recentAnswers.length} recent answers from the past month.`);
 
   console.log("Generating puzzle with Claude...");
-  const puzzle = await generatePuzzleWithRetry(headlines, date);
-
+  const puzzle = await generatePuzzleWithRetry(headlines, date, recentAnswers);
   // Validate we got 10 puzzles
   if (!puzzle.puzzles || puzzle.puzzles.length !== 10) {
     throw new Error(`Expected 10 puzzles, got ${puzzle.puzzles?.length ?? 0}`);
@@ -115,3 +135,4 @@ main().catch((err) => {
   console.error("Generation failed:", err);
   process.exit(1);
 });
+
