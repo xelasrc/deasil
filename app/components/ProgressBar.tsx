@@ -5,7 +5,7 @@ type Props = {
 };
 
 export default function ProgressBar({ current, total, score }: Props) {
-  const pct = (current / total) * 100;
+  const pct = Math.min((current / total) * 100, 100);
 
   return (
     <div className="mb-6 md:mb-8">
