@@ -18,6 +18,23 @@ async function fetchNews(): Promise<string> {
     .join("\n");
 }
 
+async function generatePuzzleWithRetry(headlines: string, date: string, retries = 3): Promise<any> {
+  for (let i = 0; i < retries; i++) {
+    try {
+      return await generatePuzzle(headlines, date);
+    } catch (err: unknown) {
+      const isOverloaded = err instanceof Error && err.message.includes("529");
+      if (isOverloaded && i < retries - 1) {
+        const wait = (i + 1) * 10000; // 10s, 20s, 30s
+        console.log(`API overloaded, retrying in ${wait / 1000}s... (attempt ${i + 2}/${retries})`);
+        await new Promise((res) => setTimeout(res, wait));
+      } else {
+        throw err;
+      }
+    }
+  }
+}
+
 async function generatePuzzle(headlines: string, date: string) {
   const prompt = `You are generating puzzles for Deasil, a daily news guessing game similar to Wordle.
 
@@ -82,7 +99,7 @@ async function main() {
   const headlines = await fetchNews();
 
   console.log("Generating puzzle with Claude...");
-  const puzzle = await generatePuzzle(headlines, date);
+  const puzzle = await generatePuzzleWithRetry(headlines, date);
 
   // Validate we got 10 puzzles
   if (!puzzle.puzzles || puzzle.puzzles.length !== 10) {
