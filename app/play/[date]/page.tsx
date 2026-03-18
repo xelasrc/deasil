@@ -19,7 +19,7 @@ export default function PlayPage() {
   const [streak, setStreak] = useState(0);
   const [totalScore, setTotalScore] = useState(0);
   const [finished, setFinished] = useState(false);
-  const [attempts, setAttempts] = useState<{ points: number; attempts: number; solved: boolean }[]>([]);
+  const [attempts, setAttempts] = useState<{ points: number; attempts: number; solved: boolean; wrongGuesses: string[] }[]>([]);
   const [completedCount, setCompletedCount] = useState(0);
 
   useEffect(() => {
@@ -38,15 +38,22 @@ export default function PlayPage() {
       if (today) {
         setFinished(true);
         setTodayScore(today.totalScore);
+        // Restore saved attempts for the scoreboard
+        setAttempts(today.puzzles.map((p) => ({
+          points: p.points,
+          attempts: p.attempts,
+          solved: p.solved,
+          wrongGuesses: p.wrongGuesses ?? [],
+        })));
       }
       setLoading(false);
     }
     loadPuzzle();
   }, [date, router]);
 
-  function handlePuzzleComplete(points: number, numAttempts: number, solved: boolean) {
+  function handlePuzzleComplete(points: number, numAttempts: number, solved: boolean, wrongGuesses: string[]) {
     if (!puzzle) return;
-    const newAttempts = [...attempts, { points, attempts: numAttempts, solved }];
+    const newAttempts = [...attempts, { points, attempts: numAttempts, solved, wrongGuesses }];
     setAttempts(newAttempts);
 
     if (currentIndex + 1 >= puzzle.puzzles.length) {
@@ -59,6 +66,7 @@ export default function PlayPage() {
           attempts: a.attempts,
           points: a.points,
           skipped: !a.solved,
+          wrongGuesses: a.wrongGuesses,
         })),
       };
       saveDayHistory(date, history);
@@ -155,9 +163,11 @@ export default function PlayPage() {
       ) : (
         <ScoreBoard
           score={todayScore}
-          streak={streak}
+          streak={streak} 
           totalScore={totalScore}
           onShare={handleShare}
+          puzzles={puzzle.puzzles}
+          attempts={attempts}
         />
       )}
     </main>

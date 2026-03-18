@@ -20,6 +20,7 @@ export type PuzzleAttempt = {
   attempts: number;
   points: number;
   skipped: boolean;
+  wrongGuesses: string[];
 };
 
 export type DayHistory = {

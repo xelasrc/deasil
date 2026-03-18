@@ -11,7 +11,7 @@ type Props = {
   puzzleNumber: number;
   totalPuzzles: number;
   onDone: (points: number) => void;
-  onComplete: (points: number, attempts: number, solved: boolean) => void;
+  onComplete: (points: number, attempts: number, solved: boolean, wrongGuesses: string[]) => void;
 };
 
 export default function PuzzleCard({ puzzle, puzzleNumber, totalPuzzles, onDone, onComplete }: Props) {
@@ -112,7 +112,7 @@ export default function PuzzleCard({ puzzle, puzzleNumber, totalPuzzles, onDone,
             solved={solved}
           />
           <button
-            onClick={() => onComplete(points, attempts, solved)}
+            onClick={() => onComplete(points, attempts, solved, wrongGuesses)}
             className="w-full mt-4 py-3 text-sm font-bold uppercase tracking-widest border-2 transition-all"
             style={{
               borderColor: 'var(--color-bright)',

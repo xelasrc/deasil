@@ -1,50 +1,56 @@
+import { Puzzle } from "@/app/types/puzzle";
+
+type AttemptResult = {
+  points: number;
+  attempts: number;
+  solved: boolean;
+  wrongGuesses: string[];
+};
+
 type Props = {
   score: number;
   streak: number;
   totalScore: number;
   onShare: () => void;
+  puzzles: Puzzle[];
+  attempts: AttemptResult[];
 };
 
-export default function ScoreBoard({ score, streak, totalScore, onShare }: Props) {
-  return (
-    <div
-      className="border-2 p-8"
-      style={{ borderColor: 'var(--border)', backgroundColor: 'var(--cream)' }}
-    >
-      <h2
-        className="text-6xl font-bold mb-8 border-b-2 pb-4"
-        style={{ fontFamily: 'Bebas Neue, sans-serif', borderColor: 'var(--border)' }}
-      >
-        Today's Results
-      </h2>
+export default function ScoreBoard({ score, streak, totalScore, onShare, puzzles, attempts }: Props) {
+  const maxScore = puzzles.length * 3;
 
-      <div className="grid grid-cols-3 gap-0 mb-8">
+  return (
+    <div>
+      {/* Stats bar */}
+      <div className="grid grid-cols-3 gap-0 mb-6 border-2" style={{ borderColor: 'var(--color-border)' }}>
         {[
-          { label: "Today", value: score, color: 'var(--orange)' },
-          { label: "Streak", value: `${streak}🔥`, color: 'var(--dark)' },
-          { label: "All Time", value: totalScore, color: 'var(--dark)' },
+          { label: "Today", value: `${score}/${maxScore}` },
+          { label: "Streak", value: `${streak} 🔥` },
+          { label: "All Time", value: totalScore },
         ].map((stat, i) => (
           <div
             key={stat.label}
-            className="p-6 border-2 text-center"
+            className="p-5 text-center"
             style={{
-              borderColor: 'var(--border)',
-              borderLeft: i > 0 ? 'none' : undefined,
-              backgroundColor: i === 0 ? 'var(--orange)' : 'var(--cream)',
+              borderRight: i < 2 ? '2px solid var(--color-border)' : 'none',
+              backgroundColor: i === 0 ? 'var(--color-accent)' : 'var(--color-bg2)',
             }}
           >
             <p
-              className="text-5xl font-bold mb-1"
+              className="text-4xl font-bold mb-1"
               style={{
-                fontFamily: 'Bebas Neue, sans-serif',
-                color: i === 0 ? 'var(--cream)' : 'var(--dark)',
+                fontFamily: 'var(--font-syne)',
+                color: i === 0 ? 'var(--color-bg)' : 'var(--color-bright)',
               }}
             >
               {stat.value}
             </p>
             <p
               className="text-xs uppercase tracking-widest"
-              style={{ color: i === 0 ? 'var(--cream)' : 'var(--muted)' }}
+              style={{
+                fontFamily: 'var(--font-mono)',
+                color: i === 0 ? 'var(--color-bg)' : 'var(--color-muted)',
+              }}
             >
               {stat.label}
             </p>
@@ -52,17 +58,102 @@ export default function ScoreBoard({ score, streak, totalScore, onShare }: Props
         ))}
       </div>
 
+      {/* Per-puzzle breakdown */}
+      <div className="flex flex-col gap-2 mb-6">
+        {puzzles.map((puzzle, i) => {
+          const result = attempts[i];
+          if (!result) return null;
+
+          return (
+            <div
+              key={puzzle.id}
+              className="border-2 p-4"
+              style={{
+                borderColor: result.solved ? 'var(--color-accent)' : 'var(--color-border)',
+                backgroundColor: result.solved ? 'var(--color-bg2)' : 'var(--color-bg)',
+              }}
+            >
+              {/* Top row */}
+              <div className="flex justify-between items-start mb-2">
+                <div className="flex items-center gap-3">
+                  <span
+                    className="text-xs uppercase tracking-widest"
+                    style={{ color: 'var(--color-muted)', fontFamily: 'var(--font-mono)' }}
+                  >
+                    #{i + 1}
+                  </span>
+                  <span
+                    className="text-lg font-bold"
+                    style={{ fontFamily: 'var(--font-syne)', color: 'var(--color-bright)' }}
+                  >
+                    {puzzle.answer}
+                  </span>
+                </div>
+                <span
+                  className="text-2xl font-bold"
+                  style={{
+                    fontFamily: 'var(--font-syne)',
+                    color: result.solved ? 'var(--color-accent)' : '#C1121F',
+                  }}
+                >
+                  {result.solved ? `+${result.points}` : '0'}
+                </span>
+              </div>
+
+              {/* Wrong guesses */}
+              {result.wrongGuesses.length > 0 && (
+                <div className="flex flex-wrap gap-1 mb-2">
+                  {result.wrongGuesses.map((g, j) => (
+                    <span
+                      key={j}
+                      className="text-xs px-2 py-0.5 border"
+                      style={{
+                        borderColor: '#C1121F',
+                        color: '#C1121F',
+                        fontFamily: 'var(--font-mono)',
+                        backgroundColor: 'var(--color-bg)',
+                      }}
+                    >
+                      ✗ {g}
+                    </span>
+                  ))}
+                </div>
+              )}
+
+              {/* Attempt dots */}
+              <div className="flex gap-1">
+                {Array.from({ length: 3 }).map((_, j) => (
+                  <span
+                    key={j}
+                    className="w-2 h-2 rounded-full"
+                    style={{
+                      backgroundColor:
+                        j < result.attempts
+                          ? result.solved && j === result.attempts - 1
+                            ? 'var(--color-accent)'
+                            : '#C1121F'
+                          : 'var(--color-border)',
+                    }}
+                  />
+                ))}
+              </div>
+            </div>
+          );
+        })}
+      </div>
+
+      {/* Share button */}
       <button
         onClick={onShare}
         className="w-full py-4 text-sm font-bold uppercase tracking-widest border-2 transition-all"
         style={{
-          borderColor: 'var(--border)',
-          backgroundColor: 'var(--dark)',
-          color: 'var(--cream)',
-          fontFamily: 'IBM Plex Mono, monospace',
+          borderColor: 'var(--color-bright)',
+          backgroundColor: 'var(--color-bright)',
+          color: 'var(--color-bg)',
+          fontFamily: 'var(--font-mono)',
         }}
-        onMouseEnter={e => (e.currentTarget.style.backgroundColor = 'var(--orange)')}
-        onMouseLeave={e => (e.currentTarget.style.backgroundColor = 'var(--dark)')}
+        onMouseEnter={e => (e.currentTarget.style.backgroundColor = 'var(--color-accent)')}
+        onMouseLeave={e => (e.currentTarget.style.backgroundColor = 'var(--color-bright)')}
       >
         Share Results →
       </button>
