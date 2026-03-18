@@ -3,11 +3,6 @@ import { useEffect, useState } from "react";
 import { useRouter } from "next/navigation";
 import { getStorage } from "@/app/lib/storage";
 
-// Manually list available puzzle dates — we'll automate this later
-const AVAILABLE_DATES = [
-  "2026-03-18",
-];
-
 function formatDate(dateStr: string) {
   const d = new Date(dateStr + "T00:00:00");
   return d.toLocaleDateString("en-US", { weekday: "short", month: "short", day: "numeric" });
@@ -15,15 +10,18 @@ function formatDate(dateStr: string) {
 
 export default function ArchivePage() {
   const router = useRouter();
+  const [dates, setDates] = useState<string[]>([]);
   const [history, setHistory] = useState<Record<string, { totalScore: number }>>({});
   const today = new Date().toISOString().split("T")[0];
 
   useEffect(() => {
     const storage = getStorage();
     setHistory(storage.history);
-  }, []);
 
-  const sorted = [...AVAILABLE_DATES].sort((a, b) => b.localeCompare(a));
+    fetch("/api/puzzles")
+      .then((r) => r.json())
+      .then((data) => setDates(data.dates));
+  }, []);
 
   return (
     <main className="min-h-screen p-8 max-w-2xl mx-auto" style={{ backgroundColor: 'var(--color-bg)' }}>
@@ -52,7 +50,12 @@ export default function ArchivePage() {
 
       {/* Puzzle list */}
       <div className="flex flex-col gap-3">
-        {sorted.map((date) => {
+        {dates.length === 0 && (
+          <p className="text-xs uppercase tracking-widest" style={{ color: 'var(--color-muted)', fontFamily: 'var(--font-mono)' }}>
+            Loading...
+          </p>
+        )}
+        {dates.map((date) => {
           const completed = !!history[date];
           const score = history[date]?.totalScore;
           const isToday = date === today;
@@ -71,7 +74,7 @@ export default function ArchivePage() {
             >
               <div className="flex items-center gap-4">
                 <span
-                  className="text-xs w-2 h-2 rounded-full inline-block"
+                  className="w-2 h-2 rounded-full inline-block shrink-0"
                   style={{ backgroundColor: completed ? 'var(--color-accent)' : 'var(--color-border)' }}
                 />
                 <div>
@@ -79,7 +82,7 @@ export default function ArchivePage() {
                     className="text-sm font-medium uppercase tracking-widest block"
                     style={{ fontFamily: 'var(--font-mono)', color: 'var(--color-text)' }}
                   >
-                    {formatDate(date)} {isToday && <span style={{ color: 'var(--color-accent)' }}>— Today</span>}
+                    {formatDate(date)}{isToday && <span style={{ color: 'var(--color-accent)' }}> — Today</span>}
                   </span>
                   <span className="text-xs uppercase tracking-widest" style={{ color: 'var(--color-muted)', fontFamily: 'var(--font-mono)' }}>
                     {completed ? `Score: ${score}` : "Not played"}
@@ -87,10 +90,10 @@ export default function ArchivePage() {
                 </div>
               </div>
               <span
-                className="text-xs uppercase tracking-widest"
+                className="text-xs uppercase tracking-widest shrink-0"
                 style={{ color: 'var(--color-muted)', fontFamily: 'var(--font-mono)' }}
               >
-                {completed ? "✓ View Result →" : "Play →"}
+                {completed ? "✓ View Results →" : "Play →"}
               </span>
             </button>
           );
