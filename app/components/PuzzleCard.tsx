@@ -79,9 +79,9 @@ export default function PuzzleCard({ puzzle, puzzleNumber, totalPuzzles, onDone,
 
       {wrongGuesses.length > 0 && (
         <div className="mb-3 flex flex-wrap gap-2">
-          {wrongGuesses.map((g) => (
+          {wrongGuesses.map((g, i) => (
             <span
-              key={g}
+              key={i}
               className="text-xs px-2 py-1 border"
               style={{
                 borderColor: '#C1121F',
