@@ -7,16 +7,24 @@ dotenv.config({ path: ".env.local" });
 
 const anthropic = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY });
 
-async function fetchNews(): Promise<string> {
-  const url = `https://newsapi.org/v2/top-headlines?language=en&pageSize=50&apiKey=${process.env.NEWS_API_KEY}`;
+async function fetchNews(recentAnswers: string[]): Promise<string> {
+  const url = `https://newsapi.org/v2/top-headlines?language=en&pageSize=100&apiKey=${process.env.NEWS_API_KEY}`;
   const res = await fetch(url);
   const data = await res.json() as { articles: { title: string; description: string; source: { name: string } }[] };
 
+  const recentLower = recentAnswers.map(a => a.toLowerCase());
+
   return data.articles
-    .filter((a) => a.title && a.description)
+    .filter((a) => {
+      if (!a.title || !a.description) return false;
+      const text = `${a.title} ${a.description}`.toLowerCase();
+      // Remove articles that mention any recent answer
+      return !recentLower.some(answer => text.includes(answer.toLowerCase()));
+    })
     .map((a) => `- ${a.title}: ${a.description} (${a.source.name})`)
     .join("\n");
-}
+} 
+
 async function generatePuzzle(headlines: string, date: string, recentAnswers: string[]) {
   const exclusionList = recentAnswers.length > 0
     ? `\nDo NOT use any of these topics that have been used in the past month:\n${recentAnswers.map(a => `- ${a}`).join("\n")}\n`
@@ -83,7 +91,9 @@ async function generatePuzzleWithRetry(headlines: string, date: string, recentAn
 
 function getRecentAnswers(): string[] {
   const answers: string[] = [];
-  const today = new Date();
+  const nztOffset = 13 * 60;
+  const now = new Date();
+  const today = new Date(now.getTime() + nztOffset * 60 * 1000);
 
   for (let i = 1; i <= 30; i++) {
     const d = new Date(today);
@@ -97,6 +107,7 @@ function getRecentAnswers(): string[] {
     }
   }
 
+  console.log(answers)
   return answers;
 }
 
@@ -115,8 +126,9 @@ async function main() {
   }
 
   console.log("Fetching news for ${date}...");
-  const headlines = await fetchNews();
   const recentAnswers = getRecentAnswers();
+  console.log(recentAnswers)
+  const headlines = await fetchNews(recentAnswers);
   console.log(`Excluding ${recentAnswers.length} recent answers from the past month.`);
 
   console.log("Generating puzzle with Claude...");

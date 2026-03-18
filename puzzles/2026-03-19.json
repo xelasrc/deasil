@@ -6,43 +6,23 @@
       "answer": "Iran",
       "acceptedAnswers": [
         "Iran",
-        "Islamic Republic of Iran"
+        "Iran war"
       ],
       "clues": [
         "Middle Eastern country",
-        "Strait of Hormuz",
-        "Theocratic government",
-        "Persian Gulf",
-        "Former Persian Empire",
-        "Nuclear program disputes"
+        "Persian Gulf nation",
+        "Shia-majority state",
+        "OPEC member",
+        "Ancient civilization of Persia",
+        "Nuclear program controversy"
       ],
-      "summary": "Israel has killed senior Iranian leaders including top security official Ali Larijani, escalating a war that is creating global economic turmoil and drawing in multiple world powers.",
-      "sourceUrl": "https://www.cbsnews.com",
+      "summary": "The US-Iran conflict is escalating into what analysts describe as an economic world war, with Germany's Chancellor Merz distancing himself from Trump's approach to the conflict.",
+      "sourceUrl": "https://www.axios.com",
       "difficulty": "easy",
       "region": "global"
     },
     {
       "id": 2,
-      "answer": "Strait of Hormuz",
-      "acceptedAnswers": [
-        "Strait of Hormuz",
-        "Hormuz Strait"
-      ],
-      "clues": [
-        "Strategic waterway",
-        "Oil shipping chokepoint",
-        "Connects Persian Gulf to Arabian Sea",
-        "Bordered by Oman",
-        "Narrowest point about 21 miles wide",
-        "Critical to global energy supply"
-      ],
-      "summary": "The Strait of Hormuz is at the center of international tensions as European allies reject Trump's call for help securing the vital shipping lane amid the Iran conflict.",
-      "sourceUrl": "https://www.cbsnews.com",
-      "difficulty": "medium",
-      "region": "global"
-    },
-    {
-      "id": 3,
       "answer": "Friedrich Merz",
       "acceptedAnswers": [
         "Friedrich Merz",
@@ -50,19 +30,60 @@
       ],
       "clues": [
         "CDU party leader",
-        "German chancellor",
+        "German Chancellor",
         "Corporate lawyer background",
         "BlackRock former board member",
         "Succeeded Olaf Scholz",
-        "Distanced from U.S. president's foreign policy"
+        "Critic of migration policy"
       ],
-      "summary": "Germany's Chancellor has publicly distanced himself from Trump and the U.S.-led war on Iran, stressing that Germany will not get involved in the conflict.",
+      "summary": "Germany's Chancellor Friedrich Merz has publicly criticized President Trump and stressed Germany will not get involved in the US war on Iran, marking a shift in his previously understanding stance.",
       "sourceUrl": "https://www.dw.com",
       "difficulty": "hard",
       "region": "global"
     },
     {
+      "id": 3,
+      "answer": "AIPAC",
+      "acceptedAnswers": [
+        "AIPAC",
+        "American Israel Public Affairs Committee"
+      ],
+      "clues": [
+        "Washington lobbying organization",
+        "Pro-Israel advocacy group",
+        "Political action committee",
+        "Major campaign donor",
+        "US foreign policy influence",
+        "Bipartisan outreach history"
+      ],
+      "summary": "AIPAC is spending $22 million in Illinois House races, making a sharp tactical shift as it faces growing opposition from Democrats souring on Israel and the group itself.",
+      "sourceUrl": "https://www.politico.com",
+      "difficulty": "medium",
+      "region": "north-america"
+    },
+    {
       "id": 4,
+      "answer": "RFK Jr.",
+      "acceptedAnswers": [
+        "RFK Jr.",
+        "Robert F. Kennedy Jr.",
+        "RFK Jr"
+      ],
+      "clues": [
+        "Political dynasty member",
+        "Former environmental lawyer",
+        "Anti-vaccine advocate",
+        "Health and Human Services Secretary",
+        "2024 presidential candidate turned cabinet official",
+        "Nephew of a former US president"
+      ],
+      "summary": "A federal judge has halted RFK Jr.'s vaccine policy overhaul, ruling that the government's process was flawed and undermined the role of independent public health experts.",
+      "sourceUrl": "https://www.washingtonpost.com",
+      "difficulty": "easy",
+      "region": "north-america"
+    },
+    {
+      "id": 5,
       "answer": "Justin Fields",
       "acceptedAnswers": [
         "Justin Fields",
@@ -70,135 +91,112 @@
       ],
       "clues": [
         "NFL quarterback",
-        "Ohio State alumni",
-        "Former Chicago Bears draft pick",
-        "Mobile passer",
-        "Traded to Kansas City",
-        "Previously played for New York"
+        "Former Ohio State Buckeye",
+        "2021 first-round draft pick",
+        "Former Chicago Bears starter",
+        "Dual-threat passer",
+        "Moving to defending Super Bowl champions"
       ],
-      "summary": "The Jets are trading quarterback Justin Fields to the Kansas City Chiefs in a notable NFL offseason move.",
+      "summary": "Quarterback Justin Fields is being traded from the New York Jets to the Kansas City Chiefs, joining the defending champions' roster.",
       "sourceUrl": "https://www.profootballrumors.com",
       "difficulty": "medium",
       "region": "north-america"
     },
     {
-      "id": 5,
-      "answer": "World Baseball Classic",
-      "acceptedAnswers": [
-        "World Baseball Classic",
-        "WBC"
-      ],
-      "clues": [
-        "International tournament",
-        "National teams compete",
-        "Held every few years",
-        "2026 edition features USA vs. Venezuela final",
-        "Professional players represent home countries",
-        "Major League talent showcase"
-      ],
-      "summary": "The 2026 World Baseball Classic final is set between Team USA and Venezuela, featuring some of the best rosters in the tournament.",
-      "sourceUrl": "https://www.si.com",
-      "difficulty": "medium",
-      "region": "global"
-    },
-    {
       "id": 6,
-      "answer": "Asteroid Ryugu",
+      "answer": "March Madness",
       "acceptedAnswers": [
-        "Ryugu",
-        "Asteroid Ryugu",
-        "162173 Ryugu"
+        "March Madness",
+        "NCAA Tournament"
       ],
       "clues": [
-        "Near-Earth object",
-        "Hayabusa2 mission target",
-        "JAXA sample return",
-        "Carbon-rich space body",
-        "DNA building blocks discovered",
-        "Origins of life research"
+        "College basketball championship",
+        "68-team bracket",
+        "Cinderella stories",
+        "Selection Sunday precursor",
+        "Final Four event",
+        "Annual spring sporting tradition"
       ],
-      "summary": "Scientists have found all five DNA and RNA building blocks in samples from Asteroid Ryugu, bolstering the theory that impacts helped spark life on Earth.",
-      "sourceUrl": "https://gizmodo.com",
-      "difficulty": "hard",
-      "region": "global"
-    },
-    {
-      "id": 7,
-      "answer": "Robert F. Kennedy Jr.",
-      "acceptedAnswers": [
-        "RFK Jr.",
-        "Robert F. Kennedy Jr.",
-        "Robert Kennedy Jr."
-      ],
-      "clues": [
-        "Health and Human Services Secretary",
-        "Famous political dynasty",
-        "Anti-vaccine advocacy",
-        "Environmental lawyer",
-        "Nephew of a U.S. president",
-        "Public health policy overhaul blocked by court"
-      ],
-      "summary": "A federal judge has halted RFK Jr.'s vaccine overhaul, ruling the process was flawed and undermined the role of independent health experts.",
-      "sourceUrl": "https://www.washingtonpost.com",
+      "summary": "The 2026 NCAA Tournament bracket has been released, with experts making their picks for every game from the Round of 64 through the national championship.",
+      "sourceUrl": "https://247sports.com",
       "difficulty": "easy",
       "region": "north-america"
     },
     {
-      "id": 8,
-      "answer": "Marine Le Pen",
+      "id": 7,
+      "answer": "Meningitis",
       "acceptedAnswers": [
-        "Marine Le Pen",
-        "Le Pen"
+        "Meningitis",
+        "Meningococcal disease"
       ],
       "clues": [
-        "French far-right leader",
-        "National Rally party",
-        "Three-time presidential candidate",
-        "Daughter of Jean-Marie",
-        "Eurosceptic politician",
-        "Local election struggles in second rounds"
+        "Bacterial infection of protective membranes",
+        "Inflammation around the brain and spinal cord",
+        "Vaccine-preventable illness",
+        "Can cause septicemia",
+        "University campus outbreak risk",
+        "Neisseria pathogen family"
       ],
-      "summary": "Marine Le Pen's National Rally party performed well in France's first round of local elections but faces its traditional challenge of rivals teaming up in runoffs.",
-      "sourceUrl": "https://www.politico.eu",
+      "summary": "Two young people have died and 11 others are infected in an outbreak of invasive meningococcal disease linked to a university in southern England.",
+      "sourceUrl": "https://www.cnn.com",
       "difficulty": "medium",
       "region": "global"
     },
     {
-      "id": 9,
-      "answer": "David Zaslav",
+      "id": 8,
+      "answer": "WhatsApp",
       "acceptedAnswers": [
-        "David Zaslav",
-        "Zaslav"
+        "WhatsApp"
       ],
       "clues": [
-        "Media industry executive",
-        "Warner Bros. Discovery CEO",
-        "Paramount merger deal",
-        "Over $550 million compensation package",
-        "Former NBCUniversal cable chief",
-        "Entertainment conglomerate leader"
+        "Meta-owned messaging platform",
+        "End-to-end encryption service",
+        "Green logo chat application",
+        "Acquired for $19 billion in 2014",
+        "Over 2 billion users worldwide",
+        "Popular in India and Brazil"
       ],
-      "summary": "David Zaslav is set to receive more than $550 million in compensation tied to the closing of the Warner Bros.-Paramount-Skydance merger deal.",
-      "sourceUrl": "https://variety.com",
-      "difficulty": "hard",
+      "summary": "WhatsApp is developing a 'guest chats' feature that will allow people without accounts to participate in conversations, currently being tested on iOS and web platforms.",
+      "sourceUrl": "https://9to5mac.com",
+      "difficulty": "easy",
+      "region": "global"
+    },
+    {
+      "id": 9,
+      "answer": "Lebanon",
+      "acceptedAnswers": [
+        "Lebanon"
+      ],
+      "clues": [
+        "Mediterranean coastal nation",
+        "Cedar tree national symbol",
+        "Beirut is its capital",
+        "Former French mandate territory",
+        "Hezbollah stronghold",
+        "Borders Syria and a Middle Eastern neighbor"
+      ],
+      "summary": "European leaders are warning Israel against a ground offensive in Lebanon, as Israeli forces have begun ground operations in the country's southern region.",
+      "sourceUrl": "https://www.politico.eu",
+      "difficulty": "easy",
       "region": "global"
     },
     {
       "id": 10,
-      "answer": "Kabul",
+      "answer": "Blood pressure",
       "acceptedAnswers": [
-        "Kabul"
+        "Blood pressure",
+        "Hypertension"
       ],
       "clues": [
-        "Afghan capital city",
-        "Taliban-controlled territory",
-        "Hospital bombing target",
-        "South Asian metropolis",
-        "Hindu Kush region",
-        "Blamed on neighboring country's military"
+        "Measured in millimeters of mercury",
+        "Systolic and diastolic readings",
+        "Silent killer condition",
+        "Cardiovascular health indicator",
+        "Sphygmomanometer measurement",
+        "120/80 considered normal"
       ],
-      "summary": "Hundreds are feared dead after a devastating strike on a hospital in Afghanistan's capital, with the Taliban blaming Pakistan for the attack that threatens to escalate regional conflict.",
-      "sourceUrl": "https://www.ft.com",
+      "summary": "New guidance highlights the importance of home monitoring for blood pressure, noting that elevated readings at a doctor's office may not be definitive due to white-coat syndrome.",
+      "sourceUrl": "https://www.npr.org",
       "difficulty": "medium",
       "region": "global"
     }
