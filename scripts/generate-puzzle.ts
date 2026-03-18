@@ -65,7 +65,11 @@ Return ONLY a valid JSON object in this exact format, no markdown, no explanatio
 }
 
 async function main() {
-  const date = new Date().toISOString().split("T")[0];
+  const nztOffset = 13 * 60; // UTC+13 in minutes
+  const now = new Date();
+  const nzt = new Date(now.getTime() + nztOffset * 60 * 1000);
+  const date = nzt.toISOString().split("T")[0];
+  
   const outputPath = path.join(process.cwd(), "puzzles", `${date}.json`);
 
   // Don't regenerate if already exists
