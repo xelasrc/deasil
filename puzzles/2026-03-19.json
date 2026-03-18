@@ -1,0 +1,206 @@
+{
+  "date": "2026-03-19",
+  "puzzles": [
+    {
+      "id": 1,
+      "answer": "Iran",
+      "acceptedAnswers": [
+        "Iran",
+        "Islamic Republic of Iran"
+      ],
+      "clues": [
+        "Middle Eastern country",
+        "Strait of Hormuz",
+        "Theocratic government",
+        "Persian Gulf",
+        "Former Persian Empire",
+        "Nuclear program disputes"
+      ],
+      "summary": "Israel has killed senior Iranian leaders including top security official Ali Larijani, escalating a war that is creating global economic turmoil and drawing in multiple world powers.",
+      "sourceUrl": "https://www.cbsnews.com",
+      "difficulty": "easy",
+      "region": "global"
+    },
+    {
+      "id": 2,
+      "answer": "Strait of Hormuz",
+      "acceptedAnswers": [
+        "Strait of Hormuz",
+        "Hormuz Strait"
+      ],
+      "clues": [
+        "Strategic waterway",
+        "Oil shipping chokepoint",
+        "Connects Persian Gulf to Arabian Sea",
+        "Bordered by Oman",
+        "Narrowest point about 21 miles wide",
+        "Critical to global energy supply"
+      ],
+      "summary": "The Strait of Hormuz is at the center of international tensions as European allies reject Trump's call for help securing the vital shipping lane amid the Iran conflict.",
+      "sourceUrl": "https://www.cbsnews.com",
+      "difficulty": "medium",
+      "region": "global"
+    },
+    {
+      "id": 3,
+      "answer": "Friedrich Merz",
+      "acceptedAnswers": [
+        "Friedrich Merz",
+        "Merz"
+      ],
+      "clues": [
+        "CDU party leader",
+        "German chancellor",
+        "Corporate lawyer background",
+        "BlackRock former board member",
+        "Succeeded Olaf Scholz",
+        "Distanced from U.S. president's foreign policy"
+      ],
+      "summary": "Germany's Chancellor has publicly distanced himself from Trump and the U.S.-led war on Iran, stressing that Germany will not get involved in the conflict.",
+      "sourceUrl": "https://www.dw.com",
+      "difficulty": "hard",
+      "region": "global"
+    },
+    {
+      "id": 4,
+      "answer": "Justin Fields",
+      "acceptedAnswers": [
+        "Justin Fields",
+        "Fields"
+      ],
+      "clues": [
+        "NFL quarterback",
+        "Ohio State alumni",
+        "Former Chicago Bears draft pick",
+        "Mobile passer",
+        "Traded to Kansas City",
+        "Previously played for New York"
+      ],
+      "summary": "The Jets are trading quarterback Justin Fields to the Kansas City Chiefs in a notable NFL offseason move.",
+      "sourceUrl": "https://www.profootballrumors.com",
+      "difficulty": "medium",
+      "region": "north-america"
+    },
+    {
+      "id": 5,
+      "answer": "World Baseball Classic",
+      "acceptedAnswers": [
+        "World Baseball Classic",
+        "WBC"
+      ],
+      "clues": [
+        "International tournament",
+        "National teams compete",
+        "Held every few years",
+        "2026 edition features USA vs. Venezuela final",
+        "Professional players represent home countries",
+        "Major League talent showcase"
+      ],
+      "summary": "The 2026 World Baseball Classic final is set between Team USA and Venezuela, featuring some of the best rosters in the tournament.",
+      "sourceUrl": "https://www.si.com",
+      "difficulty": "medium",
+      "region": "global"
+    },
+    {
+      "id": 6,
+      "answer": "Asteroid Ryugu",
+      "acceptedAnswers": [
+        "Ryugu",
+        "Asteroid Ryugu",
+        "162173 Ryugu"
+      ],
+      "clues": [
+        "Near-Earth object",
+        "Hayabusa2 mission target",
+        "JAXA sample return",
+        "Carbon-rich space body",
+        "DNA building blocks discovered",
+        "Origins of life research"
+      ],
+      "summary": "Scientists have found all five DNA and RNA building blocks in samples from Asteroid Ryugu, bolstering the theory that impacts helped spark life on Earth.",
+      "sourceUrl": "https://gizmodo.com",
+      "difficulty": "hard",
+      "region": "global"
+    },
+    {
+      "id": 7,
+      "answer": "Robert F. Kennedy Jr.",
+      "acceptedAnswers": [
+        "RFK Jr.",
+        "Robert F. Kennedy Jr.",
+        "Robert Kennedy Jr."
+      ],
+      "clues": [
+        "Health and Human Services Secretary",
+        "Famous political dynasty",
+        "Anti-vaccine advocacy",
+        "Environmental lawyer",
+        "Nephew of a U.S. president",
+        "Public health policy overhaul blocked by court"
+      ],
+      "summary": "A federal judge has halted RFK Jr.'s vaccine overhaul, ruling the process was flawed and undermined the role of independent health experts.",
+      "sourceUrl": "https://www.washingtonpost.com",
+      "difficulty": "easy",
+      "region": "north-america"
+    },
+    {
+      "id": 8,
+      "answer": "Marine Le Pen",
+      "acceptedAnswers": [
+        "Marine Le Pen",
+        "Le Pen"
+      ],
+      "clues": [
+        "French far-right leader",
+        "National Rally party",
+        "Three-time presidential candidate",
+        "Daughter of Jean-Marie",
+        "Eurosceptic politician",
+        "Local election struggles in second rounds"
+      ],
+      "summary": "Marine Le Pen's National Rally party performed well in France's first round of local elections but faces its traditional challenge of rivals teaming up in runoffs.",
+      "sourceUrl": "https://www.politico.eu",
+      "difficulty": "medium",
+      "region": "global"
+    },
+    {
+      "id": 9,
+      "answer": "David Zaslav",
+      "acceptedAnswers": [
+        "David Zaslav",
+        "Zaslav"
+      ],
+      "clues": [
+        "Media industry executive",
+        "Warner Bros. Discovery CEO",
+        "Paramount merger deal",
+        "Over $550 million compensation package",
+        "Former NBCUniversal cable chief",
+        "Entertainment conglomerate leader"
+      ],
+      "summary": "David Zaslav is set to receive more than $550 million in compensation tied to the closing of the Warner Bros.-Paramount-Skydance merger deal.",
+      "sourceUrl": "https://variety.com",
+      "difficulty": "hard",
+      "region": "global"
+    },
+    {
+      "id": 10,
+      "answer": "Kabul",
+      "acceptedAnswers": [
+        "Kabul"
+      ],
+      "clues": [
+        "Afghan capital city",
+        "Taliban-controlled territory",
+        "Hospital bombing target",
+        "South Asian metropolis",
+        "Hindu Kush region",
+        "Blamed on neighboring country's military"
+      ],
+      "summary": "Hundreds are feared dead after a devastating strike on a hospital in Afghanistan's capital, with the Taliban blaming Pakistan for the attack that threatens to escalate regional conflict.",
+      "sourceUrl": "https://www.ft.com",
+      "difficulty": "medium",
+      "region": "global"
+    }
+  ]
+}
