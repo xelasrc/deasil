@@ -12,7 +12,7 @@ function getFirstDayOfMonth(year: number, month: number) {
 }
 
 const MONTHS = ["January","February","March","April","May","June","July","August","September","October","November","December"];
-const DAYS = ["Sun","Mon","Tue","Wed","Thu","Fri","Sat"];
+const DAYS = ["S","M","T","W","T","F","S"];
 
 export default function ArchivePage() {
   const router = useRouter();
@@ -47,17 +47,17 @@ export default function ArchivePage() {
   const isNextDisabled = viewYear === new Date().getFullYear() && viewMonth === new Date().getMonth();
 
   return (
-    <main className="min-h-screen p-8 max-w-2xl mx-auto" style={{ backgroundColor: 'var(--color-bg)' }}>
+    <main className="min-h-screen p-4 md:p-8 max-w-2xl mx-auto" style={{ backgroundColor: 'var(--color-bg)' }}>
 
       {/* Header */}
-      <div className="mb-10 border-b-4 pb-6" style={{ borderColor: 'var(--color-border)' }}>
+      <div className="mb-8 border-b-4 pb-4 md:pb-6" style={{ borderColor: 'var(--color-border)' }}>
         <div className="flex justify-between items-end">
-          <h1 className="text-8xl leading-none" style={{ fontFamily: 'var(--font-syne)', color: 'var(--color-bright)' }}>
+          <h1 className="text-6xl md:text-8xl leading-none" style={{ fontFamily: 'var(--font-syne)', color: 'var(--color-bright)' }}>
             Archive
           </h1>
           <button
             onClick={() => router.push("/")}
-            className="text-xs uppercase tracking-widest underline mb-2"
+            className="text-xs uppercase tracking-widest underline mb-1 md:mb-2"
             style={{ color: 'var(--color-muted)', fontFamily: 'var(--font-mono)' }}
           >
             ← Home
@@ -75,20 +75,20 @@ export default function ArchivePage() {
       >
         <button
           onClick={prevMonth}
-          className="text-xs uppercase tracking-widest transition-all"
+          className="text-xs uppercase tracking-widest transition-all p-1"
           style={{ color: 'var(--color-bg)', fontFamily: 'var(--font-mono)' }}
           onMouseEnter={e => (e.currentTarget.style.color = 'var(--color-accent)')}
           onMouseLeave={e => (e.currentTarget.style.color = 'var(--color-bg)')}
         >
           ← Prev
         </button>
-        <span className="text-xl uppercase tracking-widest" style={{ fontFamily: 'var(--font-syne)', color: 'var(--color-bg)' }}>
+        <span className="text-base md:text-xl uppercase tracking-widest" style={{ fontFamily: 'var(--font-syne)', color: 'var(--color-bg)' }}>
           {MONTHS[viewMonth]} {viewYear}
         </span>
         <button
           onClick={nextMonth}
           disabled={isNextDisabled}
-          className="text-xs uppercase tracking-widest transition-all disabled:opacity-30"
+          className="text-xs uppercase tracking-widest transition-all disabled:opacity-30 p-1"
           style={{ color: 'var(--color-bg)', fontFamily: 'var(--font-mono)' }}
           onMouseEnter={e => !isNextDisabled && (e.currentTarget.style.color = 'var(--color-accent)')}
           onMouseLeave={e => (e.currentTarget.style.color = 'var(--color-bg)')}
@@ -102,9 +102,9 @@ export default function ArchivePage() {
 
         {/* Day headers */}
         <div className="grid grid-cols-7 border-b-2" style={{ borderColor: 'var(--color-border)' }}>
-          {DAYS.map((d) => (
+          {DAYS.map((d, i) => (
             <div
-              key={d}
+              key={i}
               className="text-center py-2 text-xs uppercase tracking-widest"
               style={{ color: 'var(--color-muted)', fontFamily: 'var(--font-mono)' }}
             >
@@ -116,7 +116,11 @@ export default function ArchivePage() {
         {/* Day cells */}
         <div className="grid grid-cols-7">
           {Array.from({ length: firstDay }).map((_, i) => (
-            <div key={`empty-${i}`} className="aspect-square" style={{ backgroundColor: 'var(--color-bg2)', borderRight: '1px solid var(--color-border)', borderBottom: '1px solid var(--color-border)' }} />
+            <div
+              key={`empty-${i}`}
+              className="aspect-square"
+              style={{ backgroundColor: 'var(--color-bg2)', borderRight: '1px solid var(--color-border)', borderBottom: '1px solid var(--color-border)' }}
+            />
           ))}
 
           {Array.from({ length: daysInMonth }).map((_, i) => {
@@ -127,10 +131,7 @@ export default function ArchivePage() {
             const isToday = dateStr === today;
             const isFuture = dateStr > today;
 
-            // Determine cell style based on state
-            let bg = 'var(--color-bg)';           // no puzzle — plain
-            if (!hasPuzzle) bg = 'var(--color-bg)';
-            if (hasPuzzle && !completed) bg = 'var(--color-bg)';
+            let bg = 'var(--color-bg)';
             if (completed) bg = 'var(--color-accent)';
             if (isToday && !completed) bg = 'var(--color-surface)';
 
@@ -150,7 +151,7 @@ export default function ArchivePage() {
                 onMouseLeave={e => { e.currentTarget.style.opacity = isFuture ? '0.25' : '1'; }}
               >
                 <span
-                  className="text-sm font-bold"
+                  className="text-xs md:text-sm font-bold"
                   style={{
                     fontFamily: 'var(--font-syne)',
                     color: completed ? 'var(--color-bg)' : hasPuzzle ? 'var(--color-bright)' : 'var(--color-border)',
@@ -159,9 +160,12 @@ export default function ArchivePage() {
                   {day}
                 </span>
 
-                {/* Completed — show score */}
+                {/* Completed — show score on md+ only */}
                 {completed && (
-                  <span className="text-xs font-bold" style={{ fontFamily: 'var(--font-mono)', color: 'var(--color-bg)', fontSize: '10px' }}>
+                  <span
+                    className="hidden md:block font-bold"
+                    style={{ fontFamily: 'var(--font-mono)', color: 'var(--color-bg)', fontSize: '10px' }}
+                  >
                     {history[dateStr].totalScore}pt
                   </span>
                 )}
@@ -171,9 +175,12 @@ export default function ArchivePage() {
                   <span className="w-1 h-1 rounded-full mt-0.5" style={{ backgroundColor: 'var(--color-accent)' }} />
                 )}
 
-                {/* Today indicator */}
+                {/* Today indicator — hidden on mobile to save space */}
                 {isToday && (
-                  <span className="absolute top-1 right-1 text-xs" style={{ color: 'var(--color-accent)', fontSize: '8px', fontFamily: 'var(--font-mono)' }}>
+                  <span
+                    className="hidden md:block absolute top-1 right-1"
+                    style={{ color: 'var(--color-accent)', fontSize: '8px', fontFamily: 'var(--font-mono)' }}
+                  >
                     TODAY
                   </span>
                 )}
@@ -184,7 +191,10 @@ export default function ArchivePage() {
       </div>
 
       {/* Legend */}
-      <div className="flex gap-6 mt-4 px-4 py-3 border-2" style={{ borderColor: 'var(--color-border)', backgroundColor: 'var(--color-bg2)' }}>
+      <div
+        className="flex flex-wrap gap-4 mt-4 px-4 py-3 border-2"
+        style={{ borderColor: 'var(--color-border)', backgroundColor: 'var(--color-bg2)' }}
+      >
         {[
           { bg: 'var(--color-accent)', label: 'Completed', textColor: 'var(--color-bg)' },
           { bg: 'var(--color-bg)', label: 'Not played', dot: true },
@@ -192,7 +202,7 @@ export default function ArchivePage() {
         ].map(({ bg, label, dot, textColor }) => (
           <div key={label} className="flex items-center gap-2">
             <div
-              className="w-6 h-6 border flex items-center justify-center shrink-0"
+              className="w-5 h-5 border flex items-center justify-center shrink-0"
               style={{ backgroundColor: bg, borderColor: 'var(--color-border)' }}
             >
               {dot && <span className="w-1 h-1 rounded-full" style={{ backgroundColor: 'var(--color-accent)' }} />}

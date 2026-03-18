@@ -38,7 +38,6 @@ export default function PlayPage() {
       if (today) {
         setFinished(true);
         setTodayScore(today.totalScore);
-        // Restore saved attempts for the scoreboard
         setAttempts(today.puzzles.map((p) => ({
           points: p.points,
           attempts: p.attempts,
@@ -95,41 +94,28 @@ export default function PlayPage() {
   }
 
   return (
-    <main className="min-h-screen p-8 max-w-2xl mx-auto" style={{ backgroundColor: 'var(--color-bg)' }}>
+    <main className="min-h-screen p-4 md:p-8 max-w-2xl mx-auto" style={{ backgroundColor: 'var(--color-bg)' }}>
 
       {/* Header */}
-      <div className="mb-10 border-b-4 pb-6" style={{ borderColor: 'var(--color-border)' }}>
+      <div className="mb-6 md:mb-10 border-b-4 pb-4 md:pb-6" style={{ borderColor: 'var(--color-border)' }}>
         <div className="flex justify-between items-end">
           <h1
-            className="text-8xl leading-none"
+            className="text-6xl md:text-8xl leading-none"
             style={{ fontFamily: 'var(--font-syne)', color: 'var(--color-bright)' }}
           >
             Deasil
           </h1>
-          <div className="text-right">
-            <p className="text-xs uppercase tracking-widest mb-1" style={{ color: 'var(--color-muted)' }}>
-              Daily News Puzzle
-            </p>
-            <p className="text-xs uppercase tracking-widest" style={{ color: 'var(--color-muted)' }}>
-              {date}
-            </p>
-          </div>
-        </div>
-        <div className="flex justify-between items-center mt-2">
-          <p
-            className="text-xs uppercase tracking-widest"
-            style={{ color: 'var(--color-muted)', fontFamily: 'var(--font-mono)' }}
-          >
-            Guess the topic from the clues
-          </p>
           <button
             onClick={() => router.push("/")}
-            className="text-xs uppercase tracking-widest underline"
+            className="text-xs uppercase tracking-widest underline mb-1 md:mb-2"
             style={{ color: 'var(--color-muted)', fontFamily: 'var(--font-mono)' }}
           >
             ← Home
           </button>
         </div>
+        <p className="text-xs uppercase tracking-widest mt-2" style={{ color: 'var(--color-muted)', fontFamily: 'var(--font-mono)' }}>
+          Daily News Puzzle — {date}
+        </p>
         {process.env.NODE_ENV === "development" && (
           <button
             onClick={() => { localStorage.clear(); window.location.reload(); }}

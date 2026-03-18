@@ -8,7 +8,7 @@ export default function ProgressBar({ current, total, score }: Props) {
   const pct = (current / total) * 100;
 
   return (
-    <div className="mb-8">
+    <div className="mb-6 md:mb-8">
       <div className="flex justify-between items-baseline mb-2">
         <span
           className="text-xs uppercase tracking-widest"
@@ -17,16 +17,15 @@ export default function ProgressBar({ current, total, score }: Props) {
           {current} / {total}
         </span>
         <span
-          className="text-2xl font-bold"
+          className="text-xl md:text-2xl font-bold"
           style={{ fontFamily: 'var(--font-syne)', color: 'var(--color-accent)' }}
         >
           {score} PTS
         </span>
       </div>
-
       <div
         className="w-full border-2"
-        style={{ borderColor: 'var(--color-border)', backgroundColor: 'var(--color-bg)', height: '12px' }}
+        style={{ borderColor: 'var(--color-border)', backgroundColor: 'var(--color-bg)', height: '10px' }}
       >
         <div
           style={{

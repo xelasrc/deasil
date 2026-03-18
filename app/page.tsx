@@ -27,46 +27,46 @@ export default function LandingPage() {
   }, []);
 
   return (
-    <main className="min-h-screen p-8 max-w-2xl mx-auto" style={{ backgroundColor: 'var(--color-bg)' }}>
+    <main className="min-h-screen p-4 md:p-8 max-w-2xl mx-auto" style={{ backgroundColor: 'var(--color-bg)' }}>
 
       {/* Header */}
-      <div className="mb-10 border-b-4 pb-6" style={{ borderColor: 'var(--color-border)' }}>
+      <div className="mb-8 border-b-4 pb-4 md:pb-6" style={{ borderColor: 'var(--color-border)' }}>
         <div className="flex justify-between items-end">
           <h1
-            className="text-8xl leading-none"
+            className="text-6xl md:text-8xl leading-none"
             style={{ fontFamily: 'var(--font-syne)', color: 'var(--color-bright)' }}
           >
             Deasil
           </h1>
           <button
             onClick={() => router.push("/archive")}
-            className="text-xs uppercase tracking-widest underline mb-2"
+            className="text-xs uppercase tracking-widest underline mb-1 md:mb-2"
             style={{ color: 'var(--color-muted)', fontFamily: 'var(--font-mono)' }}
           >
             Archive →
           </button>
         </div>
         <p className="text-xs uppercase tracking-widest mt-2" style={{ color: 'var(--color-muted)', fontFamily: 'var(--font-mono)' }}>
-          Daily news puzzle — {today}
+          How well do you know this week's news?
         </p>
       </div>
 
       {/* Stats (returning users) */}
       {totalScore > 0 && (
-        <div className="grid grid-cols-2 gap-0 mb-10 border-2" style={{ borderColor: 'var(--color-border)' }}>
+        <div className="grid grid-cols-2 gap-0 mb-6 md:mb-10 border-2" style={{ borderColor: 'var(--color-border)' }}>
           {[
             { label: "Streak", value: `${streak} 🔥` },
             { label: "All Time", value: totalScore },
           ].map((stat, i) => (
             <div
               key={stat.label}
-              className="p-6 text-center"
+              className="p-4 md:p-6 text-center"
               style={{
                 borderRight: i === 0 ? `2px solid var(--color-border)` : 'none',
                 backgroundColor: 'var(--color-bg2)',
               }}
             >
-              <p className="text-4xl font-bold mb-1" style={{ fontFamily: 'var(--font-syne)', color: 'var(--color-accent)' }}>
+              <p className="text-3xl md:text-4xl font-bold mb-1" style={{ fontFamily: 'var(--font-syne)', color: 'var(--color-accent)' }}>
                 {stat.value}
               </p>
               <p className="text-xs uppercase tracking-widest" style={{ color: 'var(--color-muted)', fontFamily: 'var(--font-mono)' }}>
@@ -80,7 +80,7 @@ export default function LandingPage() {
       {/* Play today CTA */}
       <button
         onClick={() => router.push(`/play/${today}`)}
-        className="w-full py-5 mb-10 border-2 font-bold uppercase tracking-widest text-lg transition-all"
+        className="w-full py-4 md:py-5 mb-6 md:mb-10 border-2 font-bold uppercase tracking-widest text-base md:text-lg transition-all"
         style={{
           borderColor: 'var(--color-bright)',
           backgroundColor: 'var(--color-accent)',
@@ -96,26 +96,26 @@ export default function LandingPage() {
       {/* How to play */}
       <div>
         <h2
-          className="text-3xl mb-6 pb-3 border-b-2"
+          className="text-2xl md:text-3xl mb-4 md:mb-6 pb-3 border-b-2"
           style={{ fontFamily: 'var(--font-syne)', color: 'var(--color-bright)', borderColor: 'var(--color-border)' }}
         >
           How to Play
         </h2>
-        <div className="flex flex-col gap-3">
+        <div className="flex flex-col gap-2 md:gap-3">
           {HOW_TO_PLAY.map(({ step, text }) => (
             <div
               key={step}
-              className="flex gap-4 items-start p-4 border-2"
+              className="flex gap-3 md:gap-4 items-start p-3 md:p-4 border-2"
               style={{ borderColor: 'var(--color-border)', backgroundColor: 'var(--color-bg2)' }}
             >
               <span
-                className="text-2xl font-bold shrink-0"
+                className="text-xl md:text-2xl font-bold shrink-0"
                 style={{ fontFamily: 'var(--font-syne)', color: 'var(--color-accent)' }}
               >
                 {step}
               </span>
               <p
-                className="text-sm leading-relaxed pt-1"
+                className="text-sm leading-relaxed pt-0.5 md:pt-1"
                 style={{ color: 'var(--color-text)', fontFamily: 'var(--font-mono)' }}
               >
                 {text}

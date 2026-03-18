@@ -18,7 +18,7 @@ export default function GuessInput({ onGuess, onSkip, disabled, attemptsLeft }: 
   }
 
   return (
-    <div className="flex flex-col gap-3">
+    <div className="flex flex-col gap-2 md:gap-3">
       <div className="flex gap-0">
         <input
           type="text"
@@ -26,8 +26,8 @@ export default function GuessInput({ onGuess, onSkip, disabled, attemptsLeft }: 
           onChange={(e) => setValue(e.target.value)}
           onKeyDown={(e) => e.key === "Enter" && handleSubmit()}
           disabled={disabled}
-          placeholder="YOUR GUESS..."
-          className="flex-1 px-4 py-3 text-sm uppercase tracking-widest border-2 border-r-0 focus:outline-none disabled:opacity-50"
+          placeholder="Your guess..."
+          className="flex-1 px-3 md:px-4 py-2 md:py-3 text-xs md:text-sm uppercase tracking-widest border-2 border-r-0 focus:outline-none disabled:opacity-50"
           style={{
             borderColor: 'var(--color-border)',
             backgroundColor: 'var(--color-bg)',
@@ -38,7 +38,7 @@ export default function GuessInput({ onGuess, onSkip, disabled, attemptsLeft }: 
         <button
           onClick={handleSubmit}
           disabled={disabled || !value.trim()}
-          className="px-6 py-3 text-sm font-bold uppercase tracking-widest border-2 transition-all disabled:opacity-40"
+          className="px-3 md:px-6 py-2 md:py-3 text-xs md:text-sm font-bold uppercase tracking-widest border-2 transition-all disabled:opacity-40"
           style={{
             borderColor: 'var(--color-border)',
             backgroundColor: 'var(--color-accent)',
@@ -48,11 +48,14 @@ export default function GuessInput({ onGuess, onSkip, disabled, attemptsLeft }: 
           onMouseEnter={e => (e.currentTarget.style.backgroundColor = 'var(--color-bright)')}
           onMouseLeave={e => (e.currentTarget.style.backgroundColor = 'var(--color-accent)')}
         >
-          GUESS →
+          Guess →
         </button>
       </div>
       <div className="flex justify-between items-center">
-        <span className="text-xs uppercase tracking-widest" style={{ color: 'var(--color-muted)', fontFamily: 'var(--font-mono)' }}>
+        <span
+          className="text-xs uppercase tracking-widest"
+          style={{ color: 'var(--color-muted)', fontFamily: 'var(--font-mono)' }}
+        >
           {attemptsLeft} attempt{attemptsLeft !== 1 ? 's' : ''} left
         </span>
         <button

@@ -48,15 +48,17 @@ export default function PuzzleCard({ puzzle, puzzleNumber, totalPuzzles, onDone,
     onDone(0);
   }
 
-  const isLast = puzzleNumber === totalPuzzles;
-
   return (
     <div
-      className="border-2 p-6"
+      className="border-2 p-4 md:p-6"
       style={{ borderColor: 'var(--color-border)', backgroundColor: 'var(--color-bg2)' }}
     >
+      {/* Header row */}
       <div className="flex justify-between items-center mb-4">
-        <span className="text-sm font-medium" style={{ color: 'var(--color-muted)' }}>
+        <span
+          className="text-sm font-medium"
+          style={{ color: 'var(--color-muted)', fontFamily: 'var(--font-mono)' }}
+        >
           #{puzzleNumber}
         </span>
         <div className="flex gap-1">
@@ -67,7 +69,7 @@ export default function PuzzleCard({ puzzle, puzzleNumber, totalPuzzles, onDone,
               style={{
                 backgroundColor:
                   i < attempts
-                    ? solved && i === attempts - 1 ? 'var(--color-accent)' : '#C1121F'
+                    ? solved && i === attempts - 1 ? 'var(--color-success)' : 'var(--color-error)'
                     : 'var(--color-border)',
               }}
             />
@@ -78,15 +80,16 @@ export default function PuzzleCard({ puzzle, puzzleNumber, totalPuzzles, onDone,
       <ClueList clues={puzzle.clues} />
 
       {wrongGuesses.length > 0 && (
-        <div className="mb-3 flex flex-wrap gap-2">
+        <div className="mb-3 flex flex-wrap gap-1 md:gap-2">
           {wrongGuesses.map((g, i) => (
             <span
               key={i}
-              className="text-xs px-2 py-1 border"
+              className="text-xs px-2 py-0.5 border"
               style={{
-                borderColor: '#C1121F',
-                color: '#C1121F',
+                borderColor: 'var(--color-error)',
+                color: 'var(--color-error)',
                 backgroundColor: 'var(--color-bg)',
+                fontFamily: 'var(--font-mono)',
               }}
             >
               ✗ {g}

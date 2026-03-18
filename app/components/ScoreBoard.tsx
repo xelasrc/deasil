@@ -19,17 +19,26 @@ export default function ScoreBoard({ score, onShare, puzzles, attempts }: Props)
 
   return (
     <div>
-      <div className="flex justify-between items-baseline mb-6 pb-4 border-b-2" style={{ borderColor: 'var(--color-border)' }}>
-        <h2 className="text-5xl font-bold" style={{ fontFamily: 'var(--font-syne)', color: 'var(--color-bright)' }}>
+      <div
+        className="flex justify-between items-baseline mb-4 md:mb-6 pb-4 border-b-2"
+        style={{ borderColor: 'var(--color-border)' }}
+      >
+        <h2
+          className="text-4xl md:text-5xl font-bold"
+          style={{ fontFamily: 'var(--font-syne)', color: 'var(--color-bright)' }}
+        >
           Results
         </h2>
-        <span className="text-2xl font-bold" style={{ fontFamily: 'var(--font-syne)', color: 'var(--color-accent)' }}>
+        <span
+          className="text-xl md:text-2xl font-bold"
+          style={{ fontFamily: 'var(--font-syne)', color: 'var(--color-accent)' }}
+        >
           {score}/{maxScore}
         </span>
       </div>
 
       {/* Per-puzzle breakdown */}
-      <div className="flex flex-col gap-2 mb-6">
+      <div className="flex flex-col gap-2 mb-4 md:mb-6">
         {puzzles.map((puzzle, i) => {
           const result = attempts[i];
           if (!result) return null;
@@ -37,24 +46,33 @@ export default function ScoreBoard({ score, onShare, puzzles, attempts }: Props)
           return (
             <div
               key={puzzle.id}
-              className="border-2 p-4"
+              className="border-2 p-3 md:p-4"
               style={{
                 borderColor: result.solved ? 'var(--color-accent)' : 'var(--color-border)',
                 backgroundColor: result.solved ? 'var(--color-bg2)' : 'var(--color-bg)',
               }}
             >
               <div className="flex justify-between items-start mb-2">
-                <div className="flex items-center gap-3">
-                  <span className="text-xs uppercase tracking-widest" style={{ color: 'var(--color-muted)', fontFamily: 'var(--font-mono)' }}>
+                <div className="flex items-center gap-2 md:gap-3">
+                  <span
+                    className="text-xs uppercase tracking-widest"
+                    style={{ color: 'var(--color-muted)', fontFamily: 'var(--font-mono)' }}
+                  >
                     #{i + 1}
                   </span>
-                  <span className="text-lg font-bold" style={{ fontFamily: 'var(--font-syne)', color: 'var(--color-bright)' }}>
+                  <span
+                    className="text-base md:text-lg font-bold"
+                    style={{ fontFamily: 'var(--font-syne)', color: 'var(--color-bright)' }}
+                  >
                     {puzzle.answer}
                   </span>
                 </div>
                 <span
-                  className="text-2xl font-bold"
-                  style={{ fontFamily: 'var(--font-syne)', color: result.solved ? 'var(--color-accent)' : 'var(--color-error)' }}
+                  className="text-xl md:text-2xl font-bold shrink-0 ml-2"
+                  style={{
+                    fontFamily: 'var(--font-syne)',
+                    color: result.solved ? 'var(--color-accent)' : 'var(--color-error)',
+                  }}
                 >
                   {result.solved ? `+${result.points}` : '0'}
                 </span>
@@ -66,7 +84,12 @@ export default function ScoreBoard({ score, onShare, puzzles, attempts }: Props)
                     <span
                       key={j}
                       className="text-xs px-2 py-0.5 border"
-                      style={{ borderColor: 'var(--color-error)', color: 'var(--color-error)', fontFamily: 'var(--font-mono)', backgroundColor: 'var(--color-bg)' }}
+                      style={{
+                        borderColor: 'var(--color-error)',
+                        color: 'var(--color-error)',
+                        fontFamily: 'var(--font-mono)',
+                        backgroundColor: 'var(--color-bg)',
+                      }}
                     >
                       ✗ {g}
                     </span>
@@ -82,7 +105,9 @@ export default function ScoreBoard({ score, onShare, puzzles, attempts }: Props)
                     style={{
                       backgroundColor:
                         j < result.attempts
-                          ? result.solved && j === result.attempts - 1 ? 'var(--color-accent)' : 'var(--color-error)'
+                          ? result.solved && j === result.attempts - 1
+                            ? 'var(--color-success)'
+                            : 'var(--color-error)'
                           : 'var(--color-border)',
                     }}
                   />
@@ -95,8 +120,13 @@ export default function ScoreBoard({ score, onShare, puzzles, attempts }: Props)
 
       <button
         onClick={onShare}
-        className="w-full py-4 text-sm font-bold uppercase tracking-widest border-2 transition-all"
-        style={{ borderColor: 'var(--color-bright)', backgroundColor: 'var(--color-bright)', color: 'var(--color-bg)', fontFamily: 'var(--font-mono)' }}
+        className="w-full py-3 md:py-4 text-sm font-bold uppercase tracking-widest border-2 transition-all"
+        style={{
+          borderColor: 'var(--color-bright)',
+          backgroundColor: 'var(--color-bright)',
+          color: 'var(--color-bg)',
+          fontFamily: 'var(--font-mono)',
+        }}
         onMouseEnter={e => (e.currentTarget.style.backgroundColor = 'var(--color-accent)')}
         onMouseLeave={e => (e.currentTarget.style.backgroundColor = 'var(--color-bright)')}
       >

@@ -8,7 +8,7 @@ export default function ClueList({ clues }: Props) {
       {clues.map((clue) => (
         <span
           key={clue}
-          className="text-xs px-3 py-1 border-2 font-medium uppercase tracking-wider"
+          className="text-xs px-2 py-1 md:px-3 border-2 font-medium uppercase tracking-wider"
           style={{
             borderColor: 'var(--color-border)',
             backgroundColor: 'var(--color-surface)',
