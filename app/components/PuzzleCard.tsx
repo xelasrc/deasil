@@ -111,6 +111,7 @@ export default function PuzzleCard({ puzzle, puzzleNumber, totalPuzzles, onDone,
           <ArticleSummary
             summary={puzzle.summary}
             sourceUrl={puzzle.sourceUrl}
+            imageUrl={puzzle.imageUrl}
             answer={puzzle.answer}
             points={points}
             solved={solved}

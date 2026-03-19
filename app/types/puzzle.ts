@@ -5,6 +5,7 @@ export type Puzzle = {
   clues: string[];
   summary: string;
   sourceUrl: string;
+  imageUrl: string;
   difficulty: "easy" | "medium" | "hard";
   region: "global" | "english";
 };

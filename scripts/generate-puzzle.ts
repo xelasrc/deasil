@@ -28,7 +28,11 @@ function getRecentAnswers(): string[] {
   return answers;
 }
 
-async function fetchNews(recentAnswers: string[]): Promise<{ headlines: string; urlMap: Record<string, string> }> {
+async function fetchNews(recentAnswers: string[]): Promise<{
+  headlines: string;
+  urlMap: Record<string, string>;
+  imageMap: Record<string, string>;
+}> {
   const url = `https://newsapi.org/v2/top-headlines?language=en&pageSize=100&apiKey=${process.env.NEWS_API_KEY}`;
   const res = await fetch(url);
   const data = await res.json() as {
@@ -37,11 +41,13 @@ async function fetchNews(recentAnswers: string[]): Promise<{ headlines: string; 
       description: string;
       source: { name: string };
       url: string;
+      urlToImage: string | null;
     }[];
   };
 
   const recentLower = recentAnswers.map(a => a.toLowerCase());
   const urlMap: Record<string, string> = {};
+  const imageMap: Record<string, string> = {};
 
   const headlines = data.articles
     .filter((a) => {
@@ -52,14 +58,21 @@ async function fetchNews(recentAnswers: string[]): Promise<{ headlines: string; 
     .map((a, i) => {
       const id = `article_${i}`;
       urlMap[id] = a.url;
+      imageMap[id] = a.urlToImage ?? "";
       return `[${id}] ${a.title}: ${a.description} (${a.source.name})`;
     })
     .join("\n");
 
-  return { headlines, urlMap };
+  return { headlines, urlMap, imageMap };
 }
 
-async function generatePuzzle(headlines: string, date: string, recentAnswers: string[], urlMap: Record<string, string>) {
+async function generatePuzzle(
+  headlines: string,
+  date: string,
+  recentAnswers: string[],
+  urlMap: Record<string, string>,
+  imageMap: Record<string, string>
+) {
   const exclusionList = recentAnswers.length > 0
     ? `\nCRITICAL: You MUST NOT use any of the following topics as answers. This is a hard rule — if a topic appears in this list, skip it entirely and pick something else:\n${recentAnswers.map(a => `- ${a}`).join("\n")}\n`
     : "";
@@ -106,9 +119,10 @@ Return ONLY a valid JSON object in this exact format, no markdown, no explanatio
   const clean = text.replace(/```json|```/g, "").trim();
   const result = JSON.parse(clean);
 
-  // Replace article_N references with real URLs
+  // Replace article_N references with real URLs and images
   result.puzzles = result.puzzles.map((p: { sourceUrl: string }) => ({
     ...p,
+    imageUrl: imageMap[p.sourceUrl] ?? "",
     sourceUrl: urlMap[p.sourceUrl] ?? p.sourceUrl,
   }));
 
@@ -120,15 +134,15 @@ async function generatePuzzleWithRetry(
   date: string,
   recentAnswers: string[],
   urlMap: Record<string, string>,
+  imageMap: Record<string, string>,
   retries = 3
 ): Promise<any> {
   const recentLower = recentAnswers.map(a => a.toLowerCase());
 
   for (let i = 0; i < retries; i++) {
     try {
-      const puzzle = await generatePuzzle(headlines, date, recentAnswers, urlMap);
+      const puzzle = await generatePuzzle(headlines, date, recentAnswers, urlMap, imageMap);
 
-      // Validate no repeats
       const repeats = puzzle.puzzles.filter((p: { answer: string }) =>
         recentLower.includes(p.answer.toLowerCase())
       );
@@ -169,10 +183,10 @@ async function main() {
   console.log(`Fetching news for ${date}...`);
   const recentAnswers = getRecentAnswers();
   console.log(`Excluding ${recentAnswers.length} recent answers from the past month.`);
-  const { headlines, urlMap } = await fetchNews(recentAnswers);
+  const { headlines, urlMap, imageMap } = await fetchNews(recentAnswers);
 
   console.log("Generating puzzle with Claude...");
-  const puzzle = await generatePuzzleWithRetry(headlines, date, recentAnswers, urlMap);
+  const puzzle = await generatePuzzleWithRetry(headlines, date, recentAnswers, urlMap, imageMap);
 
   if (!puzzle.puzzles || puzzle.puzzles.length !== 10) {
     throw new Error(`Expected 10 puzzles, got ${puzzle.puzzles?.length ?? 0}`);
