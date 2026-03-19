@@ -10,6 +10,7 @@ export type GameProgress = {
   completedCount: number;
   todayScore: number;
   attempts: { points: number; attempts: number; solved: boolean; wrongGuesses: string[] }[];
+  currentQuestionWrongGuesses?: string[];
 };
 
 export function saveProgress(date: string, progress: GameProgress): void {

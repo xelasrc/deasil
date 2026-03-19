@@ -24,7 +24,6 @@ export default function PlayPage() {
   const [totalScore, setTotalScore] = useState(0);
   const [finished, setFinished] = useState(false);
   const [attempts, setAttempts] = useState<{ points: number; attempts: number; solved: boolean; wrongGuesses: string[] }[]>([]);
-  const [completedCount, setCompletedCount] = useState(0);
 
   useEffect(() => {
     async function loadPuzzle() {
@@ -51,11 +50,9 @@ export default function PlayPage() {
           wrongGuesses: p.wrongGuesses ?? [],
         })));
       } else {
-        // Restore mid-game progress if it exists
         const progress = getProgress(date);
         if (progress) {
           setCurrentIndex(progress.currentIndex);
-          setCompletedCount(progress.completedCount);
           setTodayScore(progress.todayScore);
           setAttempts(progress.attempts);
         }
@@ -72,34 +69,10 @@ export default function PlayPage() {
     setAttempts(newAttempts);
 
     if (currentIndex + 1 >= puzzle.puzzles.length) {
-      const finalScore = newAttempts.reduce((sum, a) => sum + a.points, 0);
-      const history = {
-        totalScore: finalScore,
-        puzzles: newAttempts.map((a, i) => ({
-          id: puzzle.puzzles[i].id,
-          solved: a.solved,
-          attempts: a.attempts,
-          points: a.points,
-          skipped: !a.solved,
-          wrongGuesses: a.wrongGuesses,
-        })),
-      };
-      saveDayHistory(date, history);
-      clearProgress(date);
-      const storage = getStorage();
-      setStreak(storage.streak);
-      setTotalScore(storage.totalScore);
+      // History already saved in onDone — just show scoreboard
       setFinished(true);
     } else {
-      const nextIndex = currentIndex + 1;
-      const newScore = newAttempts.reduce((sum, a) => sum + a.points, 0);
-      saveProgress(date, {
-        currentIndex: nextIndex,
-        completedCount: completedCount + 1,
-        todayScore: newScore,
-        attempts: newAttempts,
-      });
-      setCurrentIndex(nextIndex);
+      setCurrentIndex(currentIndex + 1);
     }
   }
 
@@ -117,6 +90,10 @@ export default function PlayPage() {
       </main>
     );
   }
+
+  // If restored index is out of bounds, clamp it
+  const safeIndex = Math.min(currentIndex, puzzle.puzzles.length - 1);
+  const currentPuzzle = puzzle.puzzles[safeIndex];
 
   return (
     <main className="min-h-screen p-4 md:p-8 max-w-2xl mx-auto" style={{ backgroundColor: 'var(--color-bg)' }}>
@@ -154,40 +131,58 @@ export default function PlayPage() {
       {!finished ? (
         <>
           <ProgressBar
-            current={completedCount}
+            current={safeIndex}
             total={puzzle.puzzles.length}
             score={todayScore}
           />
           <PuzzleCard
-            key={currentIndex}
-            puzzle={puzzle.puzzles[currentIndex]}
-            puzzleNumber={currentIndex + 1}
+            key={safeIndex}
+            puzzle={currentPuzzle}
+            puzzleNumber={safeIndex + 1}
             totalPuzzles={puzzle.puzzles.length}
             onAttempt={(currentWrongGuesses) => {
               saveProgress(date, {
-                currentIndex,
-                completedCount,
+                currentIndex: safeIndex,
+                completedCount: safeIndex,
                 todayScore,
-                attempts: [...attempts, {
-                  points: 0,
-                  attempts: currentWrongGuesses.length,
-                  solved: false,
-                  wrongGuesses: currentWrongGuesses,
-                }],
+                attempts,
+                currentQuestionWrongGuesses: currentWrongGuesses,
               });
             }}
             onDone={(points, numAttempts, solved, wrongGuesses) => {
-              const newCompletedCount = completedCount + 1;
               const newScore = todayScore + points;
               const newAttempt = { points, attempts: numAttempts, solved, wrongGuesses };
-              setCompletedCount(newCompletedCount);
+              const newAttempts = [...attempts, newAttempt];
               setTodayScore(newScore);
-              saveProgress(date, {
-                currentIndex,
-                completedCount: newCompletedCount,
-                todayScore: newScore,
-                attempts: [...attempts, newAttempt],
-              });
+
+              if (safeIndex + 1 >= puzzle.puzzles.length) {
+                // Last puzzle — save day history immediately so navigating away doesn't allow replaying
+                const validAttempts = newAttempts.slice(0, puzzle.puzzles.length);
+                const finalScore = validAttempts.reduce((sum, a) => sum + a.points, 0);
+                const history = {
+                  totalScore: finalScore,
+                  puzzles: validAttempts.map((a, i) => ({
+                    id: puzzle.puzzles[i].id,
+                    solved: a.solved,
+                    attempts: a.attempts,
+                    points: a.points,
+                    skipped: !a.solved,
+                    wrongGuesses: a.wrongGuesses,
+                  })),
+                };
+                saveDayHistory(date, history);
+                clearProgress(date);
+                const storage = getStorage();
+                setStreak(storage.streak);
+                setTotalScore(storage.totalScore);
+              } else {
+                saveProgress(date, {
+                  currentIndex: safeIndex + 1,
+                  completedCount: safeIndex + 1,
+                  todayScore: newScore,
+                  attempts: newAttempts,
+                });
+              }
             }}
             onComplete={handlePuzzleComplete}
           />
