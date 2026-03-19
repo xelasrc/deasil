@@ -4,6 +4,8 @@ import { useRouter } from "next/navigation";
 import { getStorage } from "@/app/lib/storage";
 import { getToday } from "@/app/lib/date";
 
+import NavButton from "@/app/components/NavButton";
+
 function getDaysInMonth(year: number, month: number) {
   return new Date(year, month + 1, 0).getDate();
 }
@@ -56,13 +58,9 @@ export default function ArchivePage() {
           <h1 className="text-6xl md:text-8xl leading-none" style={{ fontFamily: 'var(--font-syne)', color: 'var(--color-bright)' }}>
             Archive
           </h1>
-          <button
-            onClick={() => router.push("/")}
-            className="text-xs uppercase tracking-widest underline mb-1 md:mb-2"
-            style={{ color: 'var(--color-muted)', fontFamily: 'var(--font-mono)' }}
-          >
+          <NavButton onClick={() => router.push("/")} direction="left">
             ← Home
-          </button>
+          </NavButton>
         </div>
         <p className="text-xs uppercase tracking-widest mt-2" style={{ color: 'var(--color-muted)', fontFamily: 'var(--font-mono)' }}>
           All past puzzles

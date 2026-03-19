@@ -3,9 +3,11 @@ import { useState, useEffect } from "react";
 import { useParams, useRouter, useSearchParams } from "next/navigation";
 import { DailyPuzzle } from "@/app/types/puzzle";
 import { getStorage, saveDayHistory, getTodayHistory, saveProgress, getProgress, clearProgress } from "@/app/lib/storage";
+
 import PuzzleCard from "@/app/components/PuzzleCard";
 import ProgressBar from "@/app/components/ProgressBar";
 import ScoreBoard from "@/app/components/ScoreBoard";
+import NavButton from "@/app/components/NavButton";
 
 export default function PlayPage() {
   const params = useParams();
@@ -128,13 +130,12 @@ export default function PlayPage() {
           >
             Deasil
           </h1>
-          <button
+          <NavButton
             onClick={() => router.push(from === "archive" ? "/archive" : "/")}
-            className="text-xs uppercase tracking-widest underline mb-1 md:mb-2"
-            style={{ color: 'var(--color-muted)', fontFamily: 'var(--font-mono)' }}
+            direction="left"
           >
             ← {from === "archive" ? "Archive" : "Home"}
-          </button>
+          </NavButton>
         </div>
         <p className="text-xs uppercase tracking-widest mt-2" style={{ color: 'var(--color-muted)', fontFamily: 'var(--font-mono)' }}>
           Daily News Puzzle — {date}
