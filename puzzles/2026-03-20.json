@@ -1,0 +1,216 @@
+{
+  "date": "2026-03-20",
+  "puzzles": [
+    {
+      "id": 1,
+      "answer": "Federal Reserve",
+      "acceptedAnswers": [
+        "Federal Reserve",
+        "The Fed",
+        "Fed"
+      ],
+      "clues": [
+        "Central banking system",
+        "Monetary policy",
+        "Interest rate decisions",
+        "Jerome Powell",
+        "Washington D.C. institution",
+        "Quantitative easing"
+      ],
+      "summary": "The Federal Reserve is holding a meeting today with Chair Jerome Powell set to speak, impacting global markets and economic outlook.",
+      "sourceUrl": "https://www.wsj.com/livecoverage/fed-interest-rate-decision-inflation-03-18-2026",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://images.wsj.net/im-921880/social"
+    },
+    {
+      "id": 2,
+      "answer": "Spider-Man",
+      "acceptedAnswers": [
+        "Spider-Man",
+        "Spiderman"
+      ],
+      "clues": [
+        "Marvel Comics superhero",
+        "Web-slinging vigilante",
+        "Tom Holland film franchise",
+        "Peter Parker alter ego",
+        "Queens, New York",
+        "Sony Pictures collaboration"
+      ],
+      "summary": "The first trailer for 'Spider-Man: Brand New Day' starring Tom Holland has dropped, featuring Bruce Banner and The Punisher.",
+      "sourceUrl": "https://variety.com/2026/film/news/spider-man-brand-new-day-trailer-tom-holland-punisher-1236580283/",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://variety.com/wp-content/uploads/2026/03/spidey.jpg?w=1000&h=563&crop=1"
+    },
+    {
+      "id": 3,
+      "answer": "Starlink",
+      "acceptedAnswers": [
+        "Starlink",
+        "SpaceX Starlink"
+      ],
+      "clues": [
+        "Satellite internet constellation",
+        "Low Earth orbit network",
+        "Elon Musk venture",
+        "Falcon 9 payload",
+        "Broadband connectivity",
+        "Thousands of small satellites"
+      ],
+      "summary": "SpaceX has launched its 10,000th active Starlink satellite into low Earth orbit, marking a major milestone for the satellite internet service.",
+      "sourceUrl": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-10-000th-active-starlink-satellite-into-low-earth-orbit",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://cdn.mos.cms.futurecdn.net/5Xav25mJyiY3dZuv4u7Krh-1920-80.jpg"
+    },
+    {
+      "id": 4,
+      "answer": "Zendaya",
+      "acceptedAnswers": [
+        "Zendaya"
+      ],
+      "clues": [
+        "Actress and singer",
+        "Euphoria star",
+        "Fashion icon",
+        "Dune franchise cast member",
+        "Former Disney Channel performer",
+        "Met Gala regular"
+      ],
+      "summary": "Zendaya made headlines by wearing the same dress from the 2015 Oscars to the premiere of her new film 'The Drama.'",
+      "sourceUrl": "https://variety.com/2026/film/news/zendaya-the-drama-premiere-dress-2015-oscars-1236691925/",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://variety.com/wp-content/uploads/2026/03/MixCollage-17-Mar-2026-07-50-PM-4944.jpg?crop=0px%2C1px%2C1200px%2C675px&resize=1000%2C563"
+    },
+    {
+      "id": 5,
+      "answer": "Bob Iger",
+      "acceptedAnswers": [
+        "Bob Iger",
+        "Robert Iger"
+      ],
+      "clues": [
+        "Media executive",
+        "Disney CEO",
+        "Acquired Pixar and Marvel",
+        "Entertainment industry leader",
+        "Returned from retirement",
+        "Josh D'Amaro successor"
+      ],
+      "summary": "Bob Iger's legacy as Disney CEO is being assessed as he steps aside, with Josh D'Amaro taking over leadership of the company.",
+      "sourceUrl": "https://variety.com/2026/film/news/disney-ceo-bob-iger-steps-down-legacy-1236690124/",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://variety.com/wp-content/uploads/2026/03/Disney-Bob-Iger.jpg?w=1000&h=563&crop=1"
+    },
+    {
+      "id": 6,
+      "answer": "Nvidia",
+      "acceptedAnswers": [
+        "Nvidia",
+        "NVIDIA"
+      ],
+      "clues": [
+        "GPU manufacturer",
+        "Jensen Huang founded company",
+        "AI chip leader",
+        "GeForce graphics cards",
+        "Santa Clara headquarters",
+        "DLSS technology developer"
+      ],
+      "summary": "Nvidia CEO Jensen Huang has defended the company's DLSS 5 upscaling technology against critics who say it undermines creative expression in games.",
+      "sourceUrl": "https://www.gamesindustry.biz/nvidia-ceo-says-critics-are-completely-wrong-about-dlss-5-technology",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://assetsio.gnwcdn.com/nvidia-dlss_2m7KplY.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+    },
+    {
+      "id": 7,
+      "answer": "Macy's",
+      "acceptedAnswers": [
+        "Macy's",
+        "Macys"
+      ],
+      "clues": [
+        "Department store chain",
+        "Thanksgiving Day Parade sponsor",
+        "Herald Square flagship",
+        "American retail institution",
+        "NYSE listed retailer",
+        "Store revamp strategy"
+      ],
+      "summary": "Macy's posted solid fourth-quarter results but expects sales to fall this year as it continues revamping some stores while closing others.",
+      "sourceUrl": "https://www.cnbc.com/2026/03/18/macys-m-q4-2025-earnings-.html",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://image.cnbcfm.com/api/v1/image/108116827-1742215759442-gettyimages-2193929644-retailstoremacystoclosearound66storesnationwide0026.jpeg?v=1773762358&w=1920&h=1080"
+    },
+    {
+      "id": 8,
+      "answer": "James Webb Space Telescope",
+      "acceptedAnswers": [
+        "James Webb Space Telescope",
+        "Webb Telescope",
+        "JWST",
+        "Webb"
+      ],
+      "clues": [
+        "NASA infrared observatory",
+        "Lagrange point L2 orbit",
+        "Successor to Hubble",
+        "Gold-coated mirror segments",
+        "Deep field imaging",
+        "Launched December 2021"
+      ],
+      "summary": "The Webb telescope has captured images of hundreds of mysterious 'little red dots' that could reshape scientists' understanding of the early universe.",
+      "sourceUrl": "https://www.cnn.com/2026/03/17/science/little-red-dots-webb-telescope-photos",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://media.cnn.com/api/v1/images/stellar/prod/anna-degraaff-blackhole-star-v8c-4k.jpg?c=16x9&q=w_800,c_fill"
+    },
+    {
+      "id": 9,
+      "answer": "Ken Paxton",
+      "acceptedAnswers": [
+        "Ken Paxton"
+      ],
+      "clues": [
+        "Texas politician",
+        "Republican officeholder",
+        "Former state attorney general",
+        "Senate primary candidate",
+        "Impeachment trial survivor",
+        "Mar-a-Lago ad campaign"
+      ],
+      "summary": "Ken Paxton is running for a Texas Senate seat, competing with John Cornyn while seeking Donald Trump's endorsement in a high-profile primary.",
+      "sourceUrl": "https://www.washingtonpost.com/politics/2026/03/18/cornyn-trump-paxton-endorsement-texas/",
+      "difficulty": "hard",
+      "region": "us",
+      "imageUrl": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/65PTSRQBP4K6TT4WG67KENTCKM_size-normalized.jpg&w=1440"
+    },
+    {
+      "id": 10,
+      "answer": "TSA",
+      "acceptedAnswers": [
+        "TSA",
+        "Transportation Security Administration"
+      ],
+      "clues": [
+        "Airport screening agency",
+        "Government shutdown affected",
+        "Post-9/11 creation",
+        "DHS department",
+        "Checkpoint operations",
+        "Air travel security"
+      ],
+      "summary": "TSA workers are going without full pay during a partial government shutdown, leading to longer security lines at major airports across the country.",
+      "sourceUrl": "https://www.cnn.com/us/airport-tsa-wait-time-live-updates-vis",
+      "difficulty": "medium",
+      "region": "us",
+      "imageUrl": "https://media.cnn.com/api/v1/images/stellar/prod/20260317-tsa-wait-times-card-exlargetease.png?c=16x9&q=w_800,c_fill"
+    }
+  ]
+}
