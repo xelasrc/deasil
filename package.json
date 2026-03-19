@@ -7,11 +7,13 @@
     "build": "next build",
     "start": "next start",
     "lint": "eslint",
-    "generate": "tsx scripts/generate-puzzle.ts"
+    "generate": "tsx scripts/generate-puzzle.ts",
+    "test": "vitest"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.79.0",
     "dotenv": "^17.3.1",
+    "fastest-levenshtein": "^1.0.16",
     "next": "16.1.7",
     "react": "19.2.3",
     "react-dom": "19.2.3",
@@ -25,6 +27,7 @@
     "eslint": "^9",
     "eslint-config-next": "16.1.7",
     "tailwindcss": "^4",
-    "typescript": "^5"
+    "typescript": "^5",
+    "vitest": "^4.1.0"
   }
 }
