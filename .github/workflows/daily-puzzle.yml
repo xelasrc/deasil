@@ -2,7 +2,7 @@ name: Generate Daily Puzzle
 
 on:
   schedule:
-    - cron: "0 11 * * *" # midnight NZDT (UTC+13)
+    - cron: "0 9 * * *"  # Generates tomorrow's puzzle
   workflow_dispatch:
 
 permissions:

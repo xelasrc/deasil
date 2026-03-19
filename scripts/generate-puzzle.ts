@@ -86,11 +86,12 @@ ${headlines}
 
 Your task:
 1. Pick 10 diverse, interesting, globally relevant topics from these headlines. Mix people, places, events, companies, and trends. Prefer topics that a global English-speaking audience would know.
-2. For each topic, generate 6-8 category-style clue tags (like Wikipedia categories).
-3. Remove any clue tag that contains a word from the answer — no giveaways.
-4. Clues should be broad enough to be challenging but fair.
-5. Write a 1-2 sentence summary explaining why this topic is in the news right now.
-6. For sourceUrl, use the article ID (e.g. "article_3") from the headlines list that is most relevant to the topic.
+2. Answers must be proper nouns - names of people, places, organisations, events, or things. NEVER use a date (e.g. "January 6") as an answer — instead use the event name (e.g. "Capitol riot" or "January 6 Capitol Attack").
+3. For each topic, generate 6-10 category-style clue tags (like Wikipedia categories).
+4. Remove any clue tag that contains a word from the answer — no giveaways.
+5. Clues should be broad enough to be challenging but fair.
+6. Write a 1-3 sentence summary explaining why this topic is in the news right now.
+7. For sourceUrl, use the article ID (e.g. "article_3") from the headlines list that is most relevant to the topic.
 
 Return ONLY a valid JSON object in this exact format, no markdown, no explanation:
 {
@@ -119,7 +120,6 @@ Return ONLY a valid JSON object in this exact format, no markdown, no explanatio
   const clean = text.replace(/```json|```/g, "").trim();
   const result = JSON.parse(clean);
 
-  // Replace article_N references with real URLs and images
   result.puzzles = result.puzzles.map((p: { sourceUrl: string }) => ({
     ...p,
     imageUrl: imageMap[p.sourceUrl] ?? "",
@@ -171,6 +171,9 @@ async function main() {
   const nztOffset = 13 * 60;
   const now = new Date();
   const nzt = new Date(now.getTime() + nztOffset * 60 * 1000);
+
+  // Generate for tomorrow's NZT date so puzzle is ready before midnight
+  nzt.setDate(nzt.getDate() + 1);
   const date = nzt.toISOString().split("T")[0];
 
   const outputPath = path.join(process.cwd(), "puzzles", `${date}.json`);
