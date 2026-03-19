@@ -163,6 +163,19 @@ export default function PlayPage() {
             puzzle={puzzle.puzzles[currentIndex]}
             puzzleNumber={currentIndex + 1}
             totalPuzzles={puzzle.puzzles.length}
+            onAttempt={(currentWrongGuesses) => {
+              saveProgress(date, {
+                currentIndex,
+                completedCount,
+                todayScore,
+                attempts: [...attempts, {
+                  points: 0,
+                  attempts: currentWrongGuesses.length,
+                  solved: false,
+                  wrongGuesses: currentWrongGuesses,
+                }],
+              });
+            }}
             onDone={(points, numAttempts, solved, wrongGuesses) => {
               const newCompletedCount = completedCount + 1;
               const newScore = todayScore + points;

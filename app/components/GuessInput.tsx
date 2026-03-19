@@ -27,7 +27,7 @@ export default function GuessInput({ onGuess, onSkip, disabled, attemptsLeft }: 
           onKeyDown={(e) => e.key === "Enter" && handleSubmit()}
           disabled={disabled}
           placeholder="Your guess..."
-          className="flex-1 px-3 md:px-4 py-2 md:py-3 text-xs md:text-sm uppercase tracking-widest border-2 border-r-0 focus:outline-none disabled:opacity-50"
+          className="flex-1 px-3 md:px-4 py-2 md:py-3 text-base border-2 border-r-0 focus:outline-none disabled:opacity-50"
           style={{
             borderColor: 'var(--color-border)',
             backgroundColor: 'var(--color-bg)',
@@ -38,7 +38,7 @@ export default function GuessInput({ onGuess, onSkip, disabled, attemptsLeft }: 
         <button
           onClick={handleSubmit}
           disabled={disabled || !value.trim()}
-          className="px-3 md:px-6 py-2 md:py-3 text-xs md:text-sm font-bold uppercase tracking-widest border-2 transition-all disabled:opacity-40"
+          className="px-4 md:px-6 py-2 md:py-3 text-xs md:text-sm font-bold uppercase tracking-widest border-2 transition-all disabled:opacity-40 shrink-0"
           style={{
             borderColor: 'var(--color-border)',
             backgroundColor: 'var(--color-accent)',

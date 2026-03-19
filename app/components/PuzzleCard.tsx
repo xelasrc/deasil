@@ -12,14 +12,17 @@ type Props = {
   totalPuzzles: number;
   onDone: (points: number, attempts: number, solved: boolean, wrongGuesses: string[]) => void;
   onComplete: (points: number, attempts: number, solved: boolean, wrongGuesses: string[]) => void;
+  onAttempt: (wrongGuesses: string[]) => void;
 };
 
-export default function PuzzleCard({ puzzle, puzzleNumber, totalPuzzles, onDone, onComplete }: Props) {
+export default function PuzzleCard({ puzzle, puzzleNumber, totalPuzzles, onDone, onComplete, onAttempt }: Props) {
   const [attempts, setAttempts] = useState(0);
   const [done, setDone] = useState(false);
   const [solved, setSolved] = useState(false);
   const [points, setPoints] = useState(0);
   const [wrongGuesses, setWrongGuesses] = useState<string[]>([]);
+  const [shaking, setShaking] = useState(false);
+  const [revealAnimation, setRevealAnimation] = useState<"green" | "red" | null>(null);
   const MAX_ATTEMPTS = 3;
 
   function handleGuess(guess: string) {
@@ -32,13 +35,20 @@ export default function PuzzleCard({ puzzle, puzzleNumber, totalPuzzles, onDone,
       setPoints(earnedPoints);
       setSolved(true);
       setDone(true);
+      setRevealAnimation("green");
       onDone(earnedPoints, newAttempts, true, wrongGuesses);
     } else {
       const newWrongGuesses = [...wrongGuesses, guess];
       setWrongGuesses(newWrongGuesses);
+
       if (newAttempts >= MAX_ATTEMPTS) {
         setDone(true);
+        setRevealAnimation("red");
         onDone(0, newAttempts, false, newWrongGuesses);
+      } else {
+        setShaking(true);
+        setTimeout(() => setShaking(false), 400);
+        onAttempt(newWrongGuesses);
       }
     }
   }
@@ -46,14 +56,33 @@ export default function PuzzleCard({ puzzle, puzzleNumber, totalPuzzles, onDone,
   function handleSkip() {
     setAttempts(MAX_ATTEMPTS);
     setDone(true);
+    setRevealAnimation("red");
     onDone(0, MAX_ATTEMPTS, false, wrongGuesses);
   }
 
   return (
     <div
-      className="border-2 p-4 md:p-6"
-      style={{ borderColor: 'var(--color-border)', backgroundColor: 'var(--color-bg2)' }}
+      className={`border-2 p-4 md:p-6 ${shaking ? 'animate-shake' : ''}`}
+      style={{
+        borderColor: shaking ? 'var(--color-error)' : 'var(--color-border)',
+        backgroundColor: 'var(--color-bg2)',
+        position: 'relative',
+      }}
+      onAnimationEnd={() => setRevealAnimation(null)}
     >
+      {/* Green flash overlay */}
+      {revealAnimation === 'green' && (
+        <div
+          className="animate-flash-green-bg"
+          style={{
+            position: 'absolute',
+            inset: 0,
+            pointerEvents: 'none',
+            zIndex: 10,
+          }}
+        />
+      )}
+
       {/* Header row */}
       <div className="flex justify-between items-center mb-4">
         <span
