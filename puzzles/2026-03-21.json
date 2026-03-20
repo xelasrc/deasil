@@ -1,0 +1,214 @@
+{
+  "date": "2026-03-21",
+  "puzzles": [
+    {
+      "id": 1,
+      "answer": "Federal Reserve",
+      "acceptedAnswers": [
+        "Federal Reserve",
+        "The Fed",
+        "Fed"
+      ],
+      "clues": [
+        "Central banking system",
+        "Monetary policy",
+        "Interest rate decisions",
+        "Washington D.C. institution",
+        "Jerome Powell leadership",
+        "Dual mandate"
+      ],
+      "summary": "The Federal Reserve kept interest rates unchanged at its March 2026 meeting and forecasts one rate cut later in the year.",
+      "sourceUrl": "https://finance.yahoo.com/news/live/fed-meeting-live-updates-federal-reserve-holds-rates-steady-forecasts-1-rate-cut-in-2026-180216872.html",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://s.yimg.com/ny/api/res/1.2/_SWkHLD60c9kJ.Us4xZFrw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2026-03/a91d8e00-22fe-11f1-9d7b-ad467e4ad2dd"
+    },
+    {
+      "id": 2,
+      "answer": "Tim Cook",
+      "acceptedAnswers": [
+        "Tim Cook"
+      ],
+      "clues": [
+        "CEO of a tech giant",
+        "Succeeded Steve Jobs",
+        "Auburn University alumnus",
+        "Duke MBA graduate",
+        "Supply chain expert",
+        "Cupertino executive"
+      ],
+      "summary": "Apple CEO Tim Cook discussed the future of the iPhone in an interview at New York's Grand Central Terminal, saying there's still much more the device can do.",
+      "sourceUrl": "https://www.macrumors.com/2026/03/18/tim-cook-comments-on-iphone-future/",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://images.macrumors.com/t/ifxwRcZgwvurs4DL1GejlAlvKQA=/1600x/article-new/2025/09/iPhone-17-Pro-Colors.jpg"
+    },
+    {
+      "id": 3,
+      "answer": "Artemis",
+      "acceptedAnswers": [
+        "Artemis",
+        "Artemis 2",
+        "Artemis II"
+      ],
+      "clues": [
+        "Moon exploration program",
+        "Space Launch System",
+        "Orion spacecraft",
+        "Named after a Greek goddess",
+        "Successor to Apollo",
+        "Lunar orbit mission"
+      ],
+      "summary": "NASA is rolling its moon rocket back to the launch pad on March 20, still aiming for an April 1 liftoff for the crewed lunar flyby mission.",
+      "sourceUrl": "https://www.space.com/space-exploration/artemis/nasa-will-roll-artemis-2-moon-rocket-back-to-the-launch-pad-on-march-20",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://cdn.mos.cms.futurecdn.net/75tEx5XMobTa55Kk8vEgGA-1920-80.jpg"
+    },
+    {
+      "id": 4,
+      "answer": "Micron",
+      "acceptedAnswers": [
+        "Micron",
+        "Micron Technology"
+      ],
+      "clues": [
+        "Semiconductor manufacturer",
+        "DRAM and NAND producer",
+        "Boise, Idaho headquarters",
+        "NASDAQ listed company",
+        "Memory chip maker",
+        "AI hardware supplier"
+      ],
+      "summary": "Micron Technology crushed its Q2 earnings estimates and issued blockbuster Q3 guidance, driven by surging demand for AI memory chips.",
+      "sourceUrl": "https://seekingalpha.com/article/4883880-micron-just-smashed-estimates-buy-the-dip",
+      "difficulty": "hard",
+      "region": "global",
+      "imageUrl": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2159879527/image_2159879527.jpg?io=getty-c-w1536"
+    },
+    {
+      "id": 5,
+      "answer": "Dolores Huerta",
+      "acceptedAnswers": [
+        "Dolores Huerta"
+      ],
+      "clues": [
+        "Labor rights activist",
+        "United Farm Workers co-founder",
+        "Presidential Medal of Freedom recipient",
+        "Sí, se puede slogan",
+        "California agricultural organizing",
+        "Chicano movement figure"
+      ],
+      "summary": "Dolores Huerta has spoken out about allegations against César Chávez, saying she stayed silent to protect the farmworker labor movement.",
+      "sourceUrl": "https://www.axios.com/2026/03/18/cesar-chavez-sexual-abuse-allegations-dolores-huerta",
+      "difficulty": "hard",
+      "region": "north-america",
+      "imageUrl": "https://images.axios.com/dusFN1ZADXwjgzSZRzko_AzTEcw=/0x439:8256x5083/1366x768/2026/03/18/1773851608393.jpg"
+    },
+    {
+      "id": 6,
+      "answer": "Cannes Film Festival",
+      "acceptedAnswers": [
+        "Cannes Film Festival",
+        "Cannes"
+      ],
+      "clues": [
+        "Palme d'Or",
+        "French Riviera event",
+        "Annual cinema showcase",
+        "Croisette promenade",
+        "International jury",
+        "May cultural gathering"
+      ],
+      "summary": "Buzz is building for the 79th edition of the prestigious film festival, with titles from directors like Almodóvar, Joel Coen, and Lars von Trier generating excitement.",
+      "sourceUrl": "http://www.hollywoodreporter.com/movies/movie-features/cannes-2026-anticipated-films-1236534320/",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://www.hollywoodreporter.com/wp-content/uploads/2026/03/cannes-collage-H-2026.jpg?w=1296&h=730&crop=1"
+    },
+    {
+      "id": 7,
+      "answer": "Spotify",
+      "acceptedAnswers": [
+        "Spotify"
+      ],
+      "clues": [
+        "Swedish tech company",
+        "Music streaming platform",
+        "Daniel Ek co-founded",
+        "Premium subscription model",
+        "Freemium service",
+        "Green logo"
+      ],
+      "summary": "A Spotify error caused paying Premium subscribers to hear advertisements, though the issue has since been fixed.",
+      "sourceUrl": "http://9to5google.com/2026/03/18/spotify-ads-premium-error/",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/03/spotify-logo-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+    },
+    {
+      "id": 8,
+      "answer": "Zillow",
+      "acceptedAnswers": [
+        "Zillow"
+      ],
+      "clues": [
+        "Real estate marketplace",
+        "Online property listings",
+        "Zestimate home values",
+        "Seattle-based company",
+        "Housing market platform",
+        "Home search website"
+      ],
+      "summary": "Property brokerage Compass dropped its lawsuit against the online real estate giant, ending a legal dispute over how home listings are marketed online.",
+      "sourceUrl": "https://www.cnn.com/2026/03/18/business/compass-zillow-lawsuit-listing-ban",
+      "difficulty": "medium",
+      "region": "north-america",
+      "imageUrl": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1177090275.jpg?c=16x9&q=w_800,c_fill"
+    },
+    {
+      "id": 9,
+      "answer": "Meghan Markle",
+      "acceptedAnswers": [
+        "Meghan Markle",
+        "Meghan",
+        "Duchess of Sussex"
+      ],
+      "clues": [
+        "Former actress on Suits",
+        "British royal family member",
+        "Duchess title holder",
+        "Montecito resident",
+        "Archewell Foundation co-founder",
+        "Hollywood streaming deals"
+      ],
+      "summary": "Reports reveal that Meghan and Prince Harry's partnership with Netflix has been fraught with difficulties and keeps getting smaller in scope.",
+      "sourceUrl": "https://variety.com/2026/film/news/meghan-markle-harry-netflix-partnership-struggling-1236690802/",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://variety.com/wp-content/uploads/2026/03/Meghan-and-Harry-REVISION.jpg?crop=0px%2C742px%2C3075px%2C1727px&resize=1000%2C563"
+    },
+    {
+      "id": 10,
+      "answer": "Markwayne Mullin",
+      "acceptedAnswers": [
+        "Markwayne Mullin",
+        "Mullin"
+      ],
+      "clues": [
+        "Oklahoma politician",
+        "Former U.S. Senator",
+        "Cherokee Nation citizen",
+        "Plumbing company owner",
+        "Mixed martial arts enthusiast",
+        "Cabinet nominee"
+      ],
+      "summary": "Senator Mullin's confirmation hearing before the Senate Homeland Security Committee turned unexpectedly contentious and humorous, raising questions about his nomination's outcome.",
+      "sourceUrl": "https://slate.com/news-and-politics/2026/03/markwayne-mullin-secret-mission-rand-paul-john-fetterman.html",
+      "difficulty": "hard",
+      "region": "north-america",
+      "imageUrl": "https://compote.slate.com/images/d5f05010-51e6-45d6-b7e1-6604eaab2c2f.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560"
+    }
+  ]
+}
