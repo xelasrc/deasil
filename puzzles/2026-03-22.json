@@ -1,0 +1,215 @@
+{
+  "date": "2026-03-22",
+  "puzzles": [
+    {
+      "id": 1,
+      "answer": "Project Hail Mary",
+      "acceptedAnswers": [
+        "Project Hail Mary",
+        "Hail Mary"
+      ],
+      "clues": [
+        "Science fiction",
+        "Andy Weir novel adaptation",
+        "Astronaut protagonist",
+        "Box office hit 2026",
+        "Ryan Gosling starring role",
+        "Space survival story"
+      ],
+      "summary": "The film adaptation of Andy Weir's sci-fi novel blasted off to over $11 million in previews, making it the best preview opening of 2026 so far and a strong start for a non-franchise movie.",
+      "sourceUrl": "http://deadline.com/2026/03/box-office-project-hail-mary-ready-or-not-2-1236761181/",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://deadline.com/wp-content/uploads/2026/03/MCDPRHA_MG008.jpg?w=1024"
+    },
+    {
+      "id": 2,
+      "answer": "Wegovy",
+      "acceptedAnswers": [
+        "Wegovy"
+      ],
+      "clues": [
+        "Novo Nordisk product",
+        "Semaglutide brand",
+        "GLP-1 receptor agonist",
+        "FDA-approved injectable",
+        "Weight management medication",
+        "Blockbuster pharmaceutical"
+      ],
+      "summary": "The FDA approved a new higher-dose version of the blockbuster obesity drug that may help users lose more weight and keep it off, expanding treatment options for obesity management.",
+      "sourceUrl": "https://www.sciencealert.com/fda-approves-new-high-dose-wegovy-in-us-for-boosted-weight-loss",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://www.sciencealert.com/images/2026/03/person-holds-injector.jpg"
+    },
+    {
+      "id": 3,
+      "answer": "Artemis",
+      "acceptedAnswers": [
+        "Artemis",
+        "Artemis 2",
+        "Artemis II"
+      ],
+      "clues": [
+        "NASA lunar program",
+        "Space Launch System",
+        "Orion spacecraft",
+        "Moon exploration mission",
+        "Crewed spaceflight program",
+        "Kennedy Space Center rollout"
+      ],
+      "summary": "NASA is rolling out the Artemis 2 moon rocket ahead of its planned April 1 launch, with the 4-mile trek from the Vehicle Assembly Building to the launch pad taking up to 12 hours.",
+      "sourceUrl": "https://www.space.com/space-exploration/artemis/watch-nasa-roll-out-artemis-2-moon-rocket-tonight-ahead-of-april-1-launch",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://cdn.mos.cms.futurecdn.net/YyjM33WKW7nZjhiGiozANN-1920-80.jpg"
+    },
+    {
+      "id": 4,
+      "answer": "Eid ul-Fitr",
+      "acceptedAnswers": [
+        "Eid ul-Fitr",
+        "Eid al-Fitr",
+        "Eid"
+      ],
+      "clues": [
+        "Islamic holiday",
+        "End of Ramadan celebration",
+        "Festival of Breaking the Fast",
+        "Lunar calendar observance",
+        "Global Muslim celebration",
+        "Follows month of fasting"
+      ],
+      "summary": "Muslims around the world are celebrating this major Islamic holiday marking the end of Ramadan's 29-30 days of dawn-to-dusk fasting, with messages and greetings being widely shared.",
+      "sourceUrl": "https://timesofindia.indiatimes.com/etimes/trending/75-happy-eid-ul-fitr-messages-greetings-wishes-greetings-card-whatsapp-and-instagram-status-and-quotes-for-a-joyous-eid-on-2026/articleshow/129651803.cms",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://static.toiimg.com/thumb/msid-129651804,width-1280,height-720,imgsize-60080,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg"
+    },
+    {
+      "id": 5,
+      "answer": "James Comey",
+      "acceptedAnswers": [
+        "James Comey",
+        "Comey"
+      ],
+      "clues": [
+        "Former FBI Director",
+        "Fired in 2017",
+        "Author of 'A Higher Loyalty'",
+        "Investigated Hillary Clinton emails",
+        "Law enforcement official",
+        "Subpoenaed by grand jury"
+      ],
+      "summary": "The former FBI director has been subpoenaed in an alleged 'grand conspiracy' investigation against Donald Trump, which Comey and other targets have called political persecution.",
+      "sourceUrl": "https://www.axios.com/2026/03/19/comey-subpoena-conspiracy-trump",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://images.axios.com/x8Cf7iHl88XHngW8DO3MBiN_zmU=/0x0:3042x1711/1366x768/2026/03/19/1773945814292.jpg"
+    },
+    {
+      "id": 6,
+      "answer": "Nintendo Switch 2",
+      "acceptedAnswers": [
+        "Nintendo Switch 2",
+        "Switch 2"
+      ],
+      "clues": [
+        "Japanese gaming console",
+        "Hybrid handheld device",
+        "Successor to 2017 hardware",
+        "Joy-Con controllers",
+        "Backward compatible system",
+        "Boost Mode feature"
+      ],
+      "summary": "The newly released Nintendo Switch 2 is making headlines for its Handheld Boost Mode, which breathes new life into older games despite its impact on battery life.",
+      "sourceUrl": "https://kotaku.com/switch-2-handheld-boost-mode-battery-life-xenoblade-2000680392",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://kotaku.com/app/uploads/2026/03/switch-2s-1200x675.jpg"
+    },
+    {
+      "id": 7,
+      "answer": "Cesar Chavez",
+      "acceptedAnswers": [
+        "Cesar Chavez"
+      ],
+      "clues": [
+        "American labor leader",
+        "United Farm Workers co-founder",
+        "Civil rights activist",
+        "California grape boycott organizer",
+        "Latino icon",
+        "Dolores Huerta's former colleague"
+      ],
+      "summary": "Dolores Huerta is speaking on camera for the first time about allegations of abuse against the iconic labor leader, describing decades of private pain.",
+      "sourceUrl": "https://abc7.com/post/cesar-chavez-abuse-allegations-dolores-huerta-speaks-abc-news-camera-first-time-sharing/18737078/",
+      "difficulty": "hard",
+      "region": "north-america",
+      "imageUrl": "https://cdn.abcotvs.com/dip/images/18737279_dolores-huerta-clean-TN-img.jpg?w=1600"
+    },
+    {
+      "id": 8,
+      "answer": "Perseverance",
+      "acceptedAnswers": [
+        "Perseverance",
+        "Perseverance rover"
+      ],
+      "clues": [
+        "NASA robotic explorer",
+        "Launched in 2020",
+        "Jezero Crater mission",
+        "Red planet surface vehicle",
+        "Ground-penetrating radar equipped",
+        "Sample collection rover"
+      ],
+      "summary": "NASA's Mars rover discovered an ancient river delta buried more than 35 meters beneath Jezero Crater using ground-penetrating radar, boosting the search for past life on Mars.",
+      "sourceUrl": "https://phys.org/news/2026-03-discovery-delta-mars-boost-life.html",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://scx2.b-cdn.net/gfx/news/hires/2026/the-discovery-of-a-bur.jpg"
+    },
+    {
+      "id": 9,
+      "answer": "Firefox",
+      "acceptedAnswers": [
+        "Firefox",
+        "Mozilla Firefox"
+      ],
+      "clues": [
+        "Open-source web browser",
+        "Mozilla product",
+        "Gecko rendering engine",
+        "Privacy-focused software",
+        "Free VPN integration",
+        "Split-screen tab feature"
+      ],
+      "summary": "Mozilla announced that the next version of its web browser will include a free built-in VPN service and a new split-screen tab mode, expanding its privacy-focused features.",
+      "sourceUrl": "https://www.cnet.com/tech/services-and-software/firefoxs-free-built-in-browser-vpn/",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://www.cnet.com/a/img/resize/54634549615eccfe93d75868b49c0905837f7854/hub/2026/03/19/21acb708-f680-42d5-91ae-3be73d1746de/distilled-featurelaunch-vpn-02-1024x576.jpg?auto=webp&fit=crop&height=675&width=1200"
+    },
+    {
+      "id": 10,
+      "answer": "VCU",
+      "acceptedAnswers": [
+        "VCU",
+        "Virginia Commonwealth University"
+      ],
+      "clues": [
+        "Richmond university",
+        "NCAA basketball program",
+        "Atlantic 10 Conference member",
+        "Rams mascot",
+        "2011 Final Four team",
+        "Tournament upset winner"
+      ],
+      "summary": "Virginia Commonwealth University pulled off a major upset by defeating North Carolina in the first round of the 2026 NCAA Tournament, stunning the college basketball world.",
+      "sourceUrl": "https://www.on3.com/teams/north-carolina-tar-heels/news/hubert-davis-reacts-to-uncs-ncaa-tournament-loss-to-vcu/",
+      "difficulty": "hard",
+      "region": "north-america",
+      "imageUrl": "https://on3static.com/uploads/dev/assets/cms/2026/03/19204803/IMG_3187.jpg"
+    }
+  ]
+}
