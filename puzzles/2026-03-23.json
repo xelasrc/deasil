@@ -1,0 +1,214 @@
+{
+  "date": "2026-03-23",
+  "puzzles": [
+    {
+      "id": 1,
+      "answer": "Gustavo Petro",
+      "acceptedAnswers": [
+        "Gustavo Petro",
+        "Petro"
+      ],
+      "clues": [
+        "Latin American head of state",
+        "Former guerrilla member",
+        "Left-wing politician",
+        "Drug Enforcement Administration target",
+        "South American leader under investigation",
+        "Bogotá"
+      ],
+      "summary": "Colombian President Gustavo Petro has been designated a 'priority target' by the U.S. Drug Enforcement Administration as federal prosecutors in New York probe his alleged ties to drug traffickers.",
+      "sourceUrl": "https://apnews.com/article/us-investigation-petro-colombian-president-95886306b7c3107df584e154726a8737",
+      "difficulty": "hard",
+      "region": "global",
+      "imageUrl": "https://dims.apnews.com/dims4/default/8f652c0/2147483647/strip/true/crop/7224x4814+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Faf%2F48%2F98209606d9cbf975ebb68db4292f%2F36b7ce12ff8e4d9fb225e73e7949acfe"
+    },
+    {
+      "id": 2,
+      "answer": "Elon Musk",
+      "acceptedAnswers": [
+        "Elon Musk",
+        "Musk"
+      ],
+      "clues": [
+        "Tech billionaire",
+        "SpaceX founder",
+        "Social media platform owner",
+        "Tesla CEO",
+        "California jury verdict",
+        "Investor lawsuit defendant"
+      ],
+      "summary": "A California jury found that Elon Musk misled Twitter investors with tweets after his bid to buy the platform, casting doubts about bots and spam.",
+      "sourceUrl": "https://www.theverge.com/tech/898511/elon-musk-twitter-lawsuit",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24090215/STK171_VRG_Illo_1_Normand_ElonMusk_001.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+    },
+    {
+      "id": 3,
+      "answer": "Hubble Space Telescope",
+      "acceptedAnswers": [
+        "Hubble Space Telescope",
+        "Hubble"
+      ],
+      "clues": [
+        "Launched in 1990",
+        "Low Earth orbit observatory",
+        "NASA and ESA collaboration",
+        "Named after an astronomer",
+        "Iconic deep field images",
+        "Serviced by Space Shuttle missions"
+      ],
+      "summary": "The Hubble Space Telescope accidentally witnessed comet C/2025 K1 (ATLAS) breaking apart, capturing what scientists called a rare and special event.",
+      "sourceUrl": "https://www.space.com/astronomy/comets/hubble-space-telescope-accidentally-witnesses-comet-c-2025-k1-atlas-breaking-apart",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://cdn.mos.cms.futurecdn.net/7sbeDhjuUE5wezCHMH7vsd-1920-80.jpg"
+    },
+    {
+      "id": 4,
+      "answer": "Project Hail Mary",
+      "acceptedAnswers": [
+        "Project Hail Mary",
+        "Hail Mary"
+      ],
+      "clues": [
+        "Science fiction novel adaptation",
+        "Andy Weir bestseller",
+        "Ryan Gosling starring role",
+        "Interstellar voyage narrative",
+        "Alien friendship story",
+        "Puppetry in filmmaking"
+      ],
+      "summary": "The film adaptation of Andy Weir's novel is generating buzz as details emerge about how puppeteer James Ortiz brought the alien character Rocky to life alongside Ryan Gosling.",
+      "sourceUrl": "https://variety.com/2026/film/news/project-hail-mary-rocky-puppeteer-alien-1236694834/",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://variety.com/wp-content/uploads/2026/03/Screen-Shot-2026-03-20-at-4.46.08-PM.png?w=1000&h=563&crop=1"
+    },
+    {
+      "id": 5,
+      "answer": "Oahu",
+      "acceptedAnswers": [
+        "Oahu",
+        "O'ahu"
+      ],
+      "clues": [
+        "Pacific island",
+        "Home to Honolulu",
+        "Pearl Harbor location",
+        "Third-largest Hawaiian island",
+        "Waikiki Beach",
+        "Most populated island in its state"
+      ],
+      "summary": "Major storms have caused severe flooding on Oahu, with the Wahiawa Dam at risk of imminent failure and people being swept into the water.",
+      "sourceUrl": "https://www.sfchronicle.com/weather/article/oahu-hawaii-flash-flooding-danger-22087625.php",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://s.hdnux.com/photos/01/65/44/04/30818598/3/rawImage.jpg"
+    },
+    {
+      "id": 6,
+      "answer": "NATO",
+      "acceptedAnswers": [
+        "NATO",
+        "North Atlantic Treaty Organization"
+      ],
+      "clues": [
+        "Military alliance founded in 1949",
+        "Headquartered in Brussels",
+        "Article 5 collective defense",
+        "31+ member nations",
+        "Cold War era organization",
+        "Transatlantic security pact"
+      ],
+      "summary": "President Trump blasted NATO allies over the Strait of Hormuz crisis, calling the alliance a 'paper tiger' without U.S. involvement.",
+      "sourceUrl": "https://www.politico.eu/article/donald-trump-nato-allies-cowards-hormuz-tensions/",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/03/20/GettyImages-2266314484-scaled.jpg"
+    },
+    {
+      "id": 7,
+      "answer": "Windows 11",
+      "acceptedAnswers": [
+        "Windows 11"
+      ],
+      "clues": [
+        "Desktop operating system",
+        "Released in October 2021",
+        "Successor to a widely used OS",
+        "Taskbar redesign controversy",
+        "Copilot integration",
+        "Redmond software product"
+      ],
+      "summary": "Microsoft is reportedly planning changes to make its latest desktop OS less bloated, including reducing Copilot integration, improving search, and adding more taskbar customization.",
+      "sourceUrl": "https://gizmodo.com/microsoft-is-finally-ready-to-make-windows-11-less-terrible-after-bloating-it-with-ai-crap-2000736302",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://gizmodo.com/app/uploads/2025/11/framework-laptop-16-review-03-1200x675.jpg"
+    },
+    {
+      "id": 8,
+      "answer": "Vulcan",
+      "acceptedAnswers": [
+        "Vulcan",
+        "Vulcan Centaur"
+      ],
+      "clues": [
+        "United Launch Alliance rocket",
+        "Heavy-lift launch vehicle",
+        "Successor to Atlas V and Delta IV",
+        "Solid rocket booster powered",
+        "U.S. national security space missions",
+        "Currently grounded spacecraft"
+      ],
+      "summary": "ULA's Vulcan launch vehicle remains grounded after a solid rocket booster anomaly, leaving the U.S. military unable to get a needed satellite into orbit.",
+      "sourceUrl": "https://arstechnica.com/space/2026/03/spacex-swipes-yet-another-military-contract-from-united-launch-alliance/",
+      "difficulty": "hard",
+      "region": "global",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GoeN_-iX0AA5uaR-1152x648.jpg"
+    },
+    {
+      "id": 9,
+      "answer": "Measles",
+      "acceptedAnswers": [
+        "Measles"
+      ],
+      "clues": [
+        "Highly contagious viral disease",
+        "MMR vaccine preventable",
+        "Characterized by red rash",
+        "Paramyxovirus family",
+        "Koplik's spots symptom",
+        "Airborne pathogen"
+      ],
+      "summary": "A measles outbreak in a Michigan county is spreading 'like wildfire,' with officials linking cases to spring break travel.",
+      "sourceUrl": "https://www.fox2detroit.com/news/measles-outbreak-michigan-county-cases-spread-like-wildfire",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://images.foxtv.com/static.fox2detroit.com/www.fox2detroit.com/content/uploads/2019/10/1200/630/Measles20germs20pic_1546020282274.png_6564173_ver1.0.jpg?ve=1&tl=1"
+    },
+    {
+      "id": 10,
+      "answer": "The Bachelor",
+      "acceptedAnswers": [
+        "The Bachelor",
+        "Bachelor",
+        "The Bachelorette"
+      ],
+      "clues": [
+        "ABC reality TV franchise",
+        "Rose ceremony",
+        "Dating competition show",
+        "Chris Harrison former host",
+        "Final rose decision",
+        "Reality television romance"
+      ],
+      "summary": "Former lead Rachel Lindsay declared the franchise effectively over amid a scandal involving the latest Bachelorette season, which has been pulled from the air.",
+      "sourceUrl": "http://www.hollywoodreporter.com/tv/tv-news/rachel-lindsay-bachelorette-taylor-frankie-paul-franchise-over-1236543053/",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://www.hollywoodreporter.com/wp-content/uploads/2026/03/Rachel-Lindsay-and-Taylor-Frankie-Paul-Split-Getty-H-2026.jpg?w=1296&h=730&crop=1"
+    }
+  ]
+}
