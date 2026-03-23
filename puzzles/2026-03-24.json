@@ -1,0 +1,213 @@
+{
+  "date": "2026-03-24",
+  "puzzles": [
+    {
+      "id": 1,
+      "answer": "Robert Mueller",
+      "acceptedAnswers": [
+        "Robert Mueller",
+        "Mueller",
+        "Bob Mueller"
+      ],
+      "clues": [
+        "Former FBI Director",
+        "Special Counsel investigation",
+        "Russia probe",
+        "Department of Justice",
+        "Law enforcement career",
+        "Vietnam War veteran"
+      ],
+      "summary": "Robert Mueller, the former FBI director who served as special counsel investigating Russian interference in the 2016 election and possible ties to Trump's campaign, has died at age 81.",
+      "sourceUrl": "https://www.axios.com/2026/03/21/robert-mueller-dead",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://images.axios.com/oBsNvPOf1fx2vicySjB7ounfcUI=/0x26:3000x1713/1366x768/2026/03/21/1774115366929.jpeg"
+    },
+    {
+      "id": 2,
+      "answer": "Cuba",
+      "acceptedAnswers": [
+        "Cuba"
+      ],
+      "clues": [
+        "Caribbean island nation",
+        "Communist government",
+        "Power grid collapse",
+        "Oil blockade",
+        "Havana is its capital",
+        "Former Spanish colony"
+      ],
+      "summary": "Cuba's power grid has collapsed for the third time this month, leaving the entire island without electricity as the country struggles with decaying infrastructure and a U.S.-imposed oil blockade.",
+      "sourceUrl": "https://apnews.com/article/cuba-second-blackout-cf3905bbb8f9663c022fe1c80a5c32b8",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://dims.apnews.com/dims4/default/7edca96/2147483647/strip/true/crop/5616x3742+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fad%2Fde%2Fbcf88823f199c6330a869e3b57ec%2F8cbd0ecb6447461eb245e3fd2d1dc23e"
+    },
+    {
+      "id": 3,
+      "answer": "BTS",
+      "acceptedAnswers": [
+        "BTS",
+        "Bangtan Sonyeondan",
+        "Bangtan Boys"
+      ],
+      "clues": [
+        "K-pop supergroup",
+        "Seven members",
+        "South Korean music act",
+        "ARMY fandom",
+        "HYBE entertainment label",
+        "Mandatory military service hiatus"
+      ],
+      "summary": "K-pop sensation BTS held a massive free comeback concert in Seoul after a four-year hiatus, drawing tens of thousands of fans to celebrate their return.",
+      "sourceUrl": "https://www.pbs.org/newshour/world/k-pop-sensation-bts-returns-with-a-free-comeback-concert-in-seoul-after-a-4-year-hiatus",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://d3i6fh83elv35t.cloudfront.net/static/2026/03/2026-03-21T140741Z_1777584283_RC219KARYWEH_RTRMADP_3_MUSIC-BTS-CONCERT-1024x682.jpg"
+    },
+    {
+      "id": 4,
+      "answer": "Elon Musk",
+      "acceptedAnswers": [
+        "Elon Musk",
+        "Musk"
+      ],
+      "clues": [
+        "CEO of Tesla",
+        "SpaceX founder",
+        "Social media platform owner",
+        "South African-born billionaire",
+        "Securities fraud liability",
+        "Tech entrepreneur"
+      ],
+      "summary": "A California jury found Elon Musk liable for misleading Twitter shareholders during his $44 billion acquisition of the social media platform.",
+      "sourceUrl": "http://deadline.com/2026/03/elon-musk-found-liable-misleading-twitter-shareholders-1236762349/",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://deadline.com/wp-content/uploads/2026/02/GettyImages-2217852298-e1774122889906.jpg?w=1024"
+    },
+    {
+      "id": 5,
+      "answer": "Paris",
+      "acceptedAnswers": [
+        "Paris"
+      ],
+      "clues": [
+        "City of Light",
+        "French capital",
+        "Seine River metropolis",
+        "Municipal elections",
+        "25 years of socialist governance",
+        "Île-de-France region"
+      ],
+      "summary": "After 25 years of socialist rule, Paris faces its most uncertain municipal election in decades, with the political future of the French capital up for grabs.",
+      "sourceUrl": "https://www.cnn.com/2026/03/22/europe/paris-mayoral-elections-intl",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://media.cnn.com/api/v1/images/stellar/prod/2026-03-06t155601z-1155363190-rc21zjau3flj-rtrmadp-3-france-election-paris.JPG?c=16x9&q=w_800,c_fill"
+    },
+    {
+      "id": 6,
+      "answer": "Hubble Space Telescope",
+      "acceptedAnswers": [
+        "Hubble Space Telescope",
+        "Hubble",
+        "HST"
+      ],
+      "clues": [
+        "NASA orbital observatory",
+        "Launched in 1990",
+        "Low Earth orbit",
+        "Optical and ultraviolet astronomy",
+        "Named after an American astronomer",
+        "Serviced by shuttle missions"
+      ],
+      "summary": "The Hubble Space Telescope accidentally captured images of comet C/2025 K1 (ATLAS) breaking apart, providing scientists with a rare and spectacular observation.",
+      "sourceUrl": "https://www.space.com/astronomy/comets/hubble-space-telescope-accidentally-witnesses-comet-c-2025-k1-atlas-breaking-apart",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://cdn.mos.cms.futurecdn.net/7sbeDhjuUE5wezCHMH7vsd-1920-80.jpg"
+    },
+    {
+      "id": 7,
+      "answer": "Hawaii",
+      "acceptedAnswers": [
+        "Hawaii"
+      ],
+      "clues": [
+        "Pacific island U.S. state",
+        "Oahu flooding",
+        "Worst deluge in 20 years",
+        "Aloha State",
+        "Archipelago of volcanic islands",
+        "50th state admitted to the Union"
+      ],
+      "summary": "Hawaii has suffered its worst flooding in more than 20 years as heavy rains fell on already saturated soil, with officials warning more rain is expected.",
+      "sourceUrl": "https://apnews.com/article/hawaii-flooding-heavy-rain-oahu-north-shore-e4b4f3642491b3e5de4a5ad7b82e9f39",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://dims.apnews.com/dims4/default/c19bd3c/2147483647/strip/true/crop/1999x1332+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F22%2Fce%2F8a97f80e84ec2d361a1394b7db03%2F31a41870b4664c06aa4c06cdd4bca437"
+    },
+    {
+      "id": 8,
+      "answer": "Amanda Peet",
+      "acceptedAnswers": [
+        "Amanda Peet"
+      ],
+      "clues": [
+        "American actress",
+        "Breast cancer diagnosis",
+        "The New Yorker essay",
+        "The Whole Nine Yards star",
+        "Television and film performer",
+        "Columbia University graduate"
+      ],
+      "summary": "Actress Amanda Peet revealed her breast cancer diagnosis in a moving essay for The New Yorker, sharing her experience navigating it while both her parents were in hospice.",
+      "sourceUrl": "http://www.hollywoodreporter.com/tv/tv-news/amanda-peet-breast-cancer-diagnosis-1236543724/",
+      "difficulty": "hard",
+      "region": "global",
+      "imageUrl": "https://www.hollywoodreporter.com/wp-content/uploads/2026/03/GettyImages-2259854293-e1774141481252.jpg?w=1440&h=810&crop=1"
+    },
+    {
+      "id": 9,
+      "answer": "Measles",
+      "acceptedAnswers": [
+        "Measles"
+      ],
+      "clues": [
+        "Highly contagious viral disease",
+        "MMR vaccine preventable",
+        "Characterized by red rash",
+        "Koplik spots symptom",
+        "Paramyxovirus family",
+        "Airborne transmission"
+      ],
+      "summary": "Washtenaw County in Michigan has reported a fourth suspected case of measles, adding to growing concerns about outbreaks amid declining vaccination rates and rising anti-science sentiment.",
+      "sourceUrl": "https://www.clickondetroit.com/news/local/2026/03/21/washtenaw-county-reports-fourth-suspect-measles-case-lists-exposure-locations/",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/OT5CCL5NSFD6HIZAW23RJ4BEPQ.jpg?_a=DATAg1fkZAA0"
+    },
+    {
+      "id": 10,
+      "answer": "Nicholas Brendon",
+      "acceptedAnswers": [
+        "Nicholas Brendon",
+        "Nick Brendon"
+      ],
+      "clues": [
+        "Xander Harris actor",
+        "Television sidekick role",
+        "Joss Whedon series cast member",
+        "1990s supernatural drama star",
+        "Twin brother Nicky",
+        "Died at age 54"
+      ],
+      "summary": "Actor Nicholas Brendon, best known for playing the loveable underdog Xander Harris on the hit series Buffy the Vampire Slayer, has died at age 54.",
+      "sourceUrl": "https://apnews.com/article/nicholas-brendon-buffy-vampire-slayer-obit-ccda54d8385010587f7fb5eef7c52b82",
+      "difficulty": "hard",
+      "region": "global",
+      "imageUrl": "https://dims.apnews.com/dims4/default/295c329/2147483647/strip/true/crop/675x450+12+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F29%2F4e3c1cc7446089a9101a7bdff4c8%2Fdefaultshareimage-copy.png"
+    }
+  ]
+}
