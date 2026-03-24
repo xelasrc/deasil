@@ -1,0 +1,214 @@
+{
+  "date": "2026-03-25",
+  "puzzles": [
+    {
+      "id": 1,
+      "answer": "Goldman Sachs",
+      "acceptedAnswers": [
+        "Goldman Sachs",
+        "Goldman"
+      ],
+      "clues": [
+        "Investment bank",
+        "Wall Street",
+        "Financial services",
+        "New York City headquarters",
+        "Fortune 500 company",
+        "Commodity price forecasting"
+      ],
+      "summary": "Goldman Sachs raised its oil price forecasts significantly amid the Strait of Hormuz crisis, warning of a potential historic supply disruption.",
+      "sourceUrl": "https://oilprice.com/Latest-Energy-News/World-News/Goldman-Boosts-Oil-Price-Forecast-by-8-for-Brent-and-7-for-WTI.html",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-03-23_tpf1btovkq.jpg"
+    },
+    {
+      "id": 2,
+      "answer": "Air Canada",
+      "acceptedAnswers": [
+        "Air Canada"
+      ],
+      "clues": [
+        "Flag carrier airline",
+        "Star Alliance member",
+        "Maple leaf logo",
+        "North American aviation",
+        "Headquartered in Montreal",
+        "Founded in 1937"
+      ],
+      "summary": "An Air Canada jet operated by Jazz Aviation collided with a ground vehicle at a New York airport, forcing the airport to close and flights to be diverted.",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/3/23/air-canada-jet-collides-with-ground-vehicle-at-new-york-airport",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/03/AFP__20260323__A4CC87M__v1__HighRes__GroundStopIssuedAtNewYorkSLaguardiaAirportUsAut-1-1-1774253128.jpg?resize=1920%2C1440"
+    },
+    {
+      "id": 3,
+      "answer": "Chappell Roan",
+      "acceptedAnswers": [
+        "Chappell Roan"
+      ],
+      "clues": [
+        "Pop music",
+        "American singer-songwriter",
+        "Good Luck, Babe!",
+        "Midwest Princess Tour",
+        "Rise to fame in 2024",
+        "Born Kayleigh Rose Amstutz"
+      ],
+      "summary": "Pop singer Chappell Roan was publicly criticized by former soccer player Jorginho over an 'upsetting situation,' prompting her to respond that she 'does not hate children.'",
+      "sourceUrl": "https://www.espn.com/soccer/story/_/id/48278760/jorginho-slams-singer-chappell-roan-upsetting-situation",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0322%2Fr1632221_1296x729_16%2D9.jpg"
+    },
+    {
+      "id": 4,
+      "answer": "Resident Evil",
+      "acceptedAnswers": [
+        "Resident Evil",
+        "Biohazard"
+      ],
+      "clues": [
+        "Survival horror franchise",
+        "Capcom",
+        "Raccoon City",
+        "Umbrella Corporation",
+        "T-virus",
+        "Video game series since 1996"
+      ],
+      "summary": "Capcom is celebrating the franchise's 30th anniversary, with executive producer Jun Takeuchi promising more wonderful experiences are on the way.",
+      "sourceUrl": "https://www.eurogamer.net/capcom-celebrates-resident-evils-30th-anniversary-by-promising-even-more-wonderful-experiences-are-coming-but-doesnt-confirm-when",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://assetsio.gnwcdn.com/Resident-Evil.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+    },
+    {
+      "id": 5,
+      "answer": "Strait of Hormuz",
+      "acceptedAnswers": [
+        "Strait of Hormuz",
+        "Hormuz Strait"
+      ],
+      "clues": [
+        "Narrow waterway",
+        "Persian Gulf chokepoint",
+        "Oil tanker route",
+        "Between Oman and a theocratic state",
+        "Strategic shipping lane",
+        "Middle Eastern geopolitics"
+      ],
+      "summary": "A crisis at this critical oil shipping chokepoint is threatening a historic supply disruption, prompting Goldman Sachs to significantly raise its oil price forecasts.",
+      "sourceUrl": "https://oilprice.com/Latest-Energy-News/World-News/Goldman-Boosts-Oil-Price-Forecast-by-8-for-Brent-and-7-for-WTI.html",
+      "difficulty": "hard",
+      "region": "global",
+      "imageUrl": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-03-23_tpf1btovkq.jpg"
+    },
+    {
+      "id": 6,
+      "answer": "St. John's",
+      "acceptedAnswers": [
+        "St. John's",
+        "St Johns",
+        "Saint John's",
+        "St. John's Red Storm"
+      ],
+      "clues": [
+        "Big East Conference",
+        "Queens, New York",
+        "Red Storm mascot",
+        "NCAA basketball",
+        "Catholic university",
+        "Founded by Vincentian priests"
+      ],
+      "summary": "St. John's was involved in a dramatic ending to their NCAA Tournament game against Kansas, with Charles Barkley reacting strongly to the controversial final play.",
+      "sourceUrl": "https://www.nj.com/sports/2026/03/charles-barkley-reacts-to-final-play-of-st-johns-kansas-game-that-cannot-happen.html",
+      "difficulty": "medium",
+      "region": "us",
+      "imageUrl": "https://www.nj.com/resizer/v2/24X4WDHGQ5BQ3NZELD7MH2DOXI.jpg?auth=34907269451ca1d615884eed91af090f56de76ae921ed7b30a69614d214d95af&width=1280&smart=true&quality=90"
+    },
+    {
+      "id": 7,
+      "answer": "Charles Barkley",
+      "acceptedAnswers": [
+        "Charles Barkley",
+        "Barkley"
+      ],
+      "clues": [
+        "NBA Hall of Famer",
+        "Inside the NBA analyst",
+        "Phoenix Suns legend",
+        "Auburn University alumni",
+        "Round Mound of Rebound",
+        "TNT television personality"
+      ],
+      "summary": "The legendary basketball commentator reacted strongly to the controversial final play of the St. John's-Kansas NCAA Tournament game, saying 'That cannot happen.'",
+      "sourceUrl": "https://www.nj.com/sports/2026/03/charles-barkley-reacts-to-final-play-of-st-johns-kansas-game-that-cannot-happen.html",
+      "difficulty": "easy",
+      "region": "us",
+      "imageUrl": "https://www.nj.com/resizer/v2/24X4WDHGQ5BQ3NZELD7MH2DOXI.jpg?auth=34907269451ca1d615884eed91af090f56de76ae921ed7b30a69614d214d95af&width=1280&smart=true&quality=90"
+    },
+    {
+      "id": 8,
+      "answer": "SpaceX",
+      "acceptedAnswers": [
+        "SpaceX"
+      ],
+      "clues": [
+        "Hawthorne, California",
+        "Private aerospace manufacturer",
+        "Falcon 9 rocket",
+        "Dragon spacecraft",
+        "Orbital satellite constellation",
+        "FCC filings"
+      ],
+      "summary": "SpaceX has filed plans with the FCC for up to one million satellites designed to function as orbital data centers, alarming astronomers who say it would be debilitating for research.",
+      "sourceUrl": "http://futurism.com/space/spacex-one-million-orbital-data-centers-astronomy",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://futurism.com/wp-content/uploads/2026/03/spacex-one-million-orbital-data-centers-astronomy.jpg?quality=85&w=1200"
+    },
+    {
+      "id": 9,
+      "answer": "Alzheimer's disease",
+      "acceptedAnswers": [
+        "Alzheimer's disease",
+        "Alzheimers",
+        "Alzheimer's"
+      ],
+      "clues": [
+        "Neurodegenerative condition",
+        "Cognitive decline",
+        "Dementia",
+        "Memory loss",
+        "Named after a German psychiatrist",
+        "Progressive brain disorder"
+      ],
+      "summary": "Scientists have identified speech traits that can foreshadow cognitive decline, potentially offering early diagnostic clues for the condition before other symptoms appear.",
+      "sourceUrl": "https://www.sciencealert.com/scientists-identified-a-speech-trait-that-foreshadows-cognitive-decline",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://www.sciencealert.com/images/2025/11/Silhouette-of-senior-couple-talking-close-to-faces.jpg"
+    },
+    {
+      "id": 10,
+      "answer": "Savannah Guthrie",
+      "acceptedAnswers": [
+        "Savannah Guthrie"
+      ],
+      "clues": [
+        "Television journalist",
+        "Today Show co-host",
+        "NBC News anchor",
+        "Georgetown Law graduate",
+        "Morning news program",
+        "Arizona native"
+      ],
+      "summary": "The Today Show co-host has renewed public pleas for residents of Tucson, Arizona to come forward with any information about the disappearance of her mother, Nancy.",
+      "sourceUrl": "https://www.cbsnews.com/news/savannah-guthrie-nancy-guthrie-disappearance-new-plea/",
+      "difficulty": "medium",
+      "region": "us",
+      "imageUrl": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/02/12/7ce250cf-e9fe-4aea-bdaf-3e460a68f5f7/thumbnail/1200x630/fc8de29f6f745c3c7541fd964f3228ff/gettyimages-1137745424.jpg"
+    }
+  ]
+}
