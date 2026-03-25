@@ -1,0 +1,215 @@
+{
+  "date": "2026-03-26",
+  "puzzles": [
+    {
+      "id": 1,
+      "answer": "Estée Lauder",
+      "acceptedAnswers": [
+        "Estée Lauder",
+        "Estee Lauder",
+        "Estée Lauder Companies"
+      ],
+      "clues": [
+        "Cosmetics conglomerate",
+        "New York City headquarters",
+        "NYSE-listed beauty firm",
+        "Clinique parent company",
+        "Founded in 1946",
+        "Skincare and fragrance portfolio"
+      ],
+      "summary": "Estée Lauder is reportedly in talks to acquire Spanish beauty company Puig, which owns brands like Carolina Herrera and Charlotte Tilbury, in a deal that would create a global beauty giant.",
+      "sourceUrl": "https://www.wsj.com/business/deals/estee-lauder-in-talks-to-acquire-spains-puig-to-create-global-beauty-giant-28c376d3",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://images.wsj.net/im-68104441/social"
+    },
+    {
+      "id": 2,
+      "answer": "Bill Cosby",
+      "acceptedAnswers": [
+        "Bill Cosby",
+        "Cosby"
+      ],
+      "clues": [
+        "Stand-up comedy pioneer",
+        "Temple University honorary degrees revoked",
+        "The Huxtable patriarch",
+        "Jello pudding spokesperson",
+        "Fat Albert creator",
+        "Criminal conviction overturned on appeal"
+      ],
+      "summary": "A California civil jury found Bill Cosby liable for drugging and sexually assaulting a woman in 1972, awarding her nearly $60 million in damages including $40 million in punitive damages.",
+      "sourceUrl": "https://apnews.com/article/bill-cosby-verdict-sexual-assault-motsinger-83b384df93fd9bf862b553b19b5aa4f9",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://dims.apnews.com/dims4/default/b913011/2147483647/strip/true/crop/3321x2213+0+52/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fd8%2F12%2Fa6ecae59da7b831d84892087ba0b%2F9d7ec455aa434cef97ad69e1afbb3ad1"
+    },
+    {
+      "id": 3,
+      "answer": "Hannah Montana",
+      "acceptedAnswers": [
+        "Hannah Montana"
+      ],
+      "clues": [
+        "Disney Channel sitcom",
+        "Pop star double life premise",
+        "Best of Both Worlds theme song",
+        "Malibu setting",
+        "Launched a teen idol's career",
+        "Wig-wearing alter ego"
+      ],
+      "summary": "The Hannah Montana 20th Anniversary Special premiered in Los Angeles, with stars including Miley Cyrus and JoJo Siwa walking the red carpet to celebrate the iconic Disney show.",
+      "sourceUrl": "https://pagesix.com/2026/03/23/photos/hannah-montana-20th-anniversary-special-la-premiere-red-carpet-miley-cyrus-jojo-siwa-and-more/",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://pagesix.com/wp-content/uploads/sites/3/2026/03/hannah-copy.jpg?quality=90&strip=all&w=1200"
+    },
+    {
+      "id": 4,
+      "answer": "Crab Nebula",
+      "acceptedAnswers": [
+        "Crab Nebula",
+        "M1",
+        "Messier 1"
+      ],
+      "clues": [
+        "Supernova remnant",
+        "Located in Taurus constellation",
+        "Observed by Chinese astronomers in 1054 AD",
+        "Contains a pulsar at its center",
+        "Messier catalog object",
+        "Charles Messier's first entry"
+      ],
+      "summary": "NASA's Hubble Space Telescope has revisited the Crab Nebula, revealing in unprecedented detail how the supernova remnant has expanded and evolved over the past 25 years of observations.",
+      "sourceUrl": "https://science.nasa.gov/missions/hubble/nasas-hubble-revisits-crab-nebula-to-track-25-years-of-expansion/",
+      "difficulty": "hard",
+      "region": "global",
+      "imageUrl": "https://assets.science.nasa.gov/content/dam/science/missions/hubble/releases/2026/03/STScI-01KJQWS2TX2REXHGQ32X7EJ7V1.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg"
+    },
+    {
+      "id": 5,
+      "answer": "Moana",
+      "acceptedAnswers": [
+        "Moana",
+        "Moana live-action"
+      ],
+      "clues": [
+        "Polynesian wayfinding adventure",
+        "Disney theatrical adaptation",
+        "Dwayne Johnson voice role turned screen role",
+        "Ocean-themed animated original",
+        "Demigod and island heroine duo",
+        "Lin-Manuel Miranda songwriter credits"
+      ],
+      "summary": "A new trailer has dropped for the live-action Moana film, featuring Dwayne Johnson reprising his role as the demigod Maui alongside newcomer Catherine Lagaʻaia as the titular wayfinder.",
+      "sourceUrl": "http://www.hollywoodreporter.com/movies/movie-news/moana-trailer-dwayne-johnson-live-action-maui-hair-1236545426/",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://www.hollywoodreporter.com/wp-content/uploads/2026/03/MNA-TP2-0087943.jpg?crop=611px%2C0px%2C2873px%2C1609px&resize=1440%2C810"
+    },
+    {
+      "id": 6,
+      "answer": "Tom Izzo",
+      "acceptedAnswers": [
+        "Tom Izzo",
+        "Izzo"
+      ],
+      "clues": [
+        "Michigan State head coach",
+        "Big Ten basketball legend",
+        "NCAA Tournament fixture",
+        "Spartans sideline leader",
+        "Basketball Hall of Fame inductee",
+        "East Lansing institution"
+      ],
+      "summary": "Tom Izzo commented on the Big Ten's dominant performance in the 2026 NCAA Tournament, with six conference teams reaching the Sweet 16, just one shy of the all-time record.",
+      "sourceUrl": "https://www.mlive.com/spartans/basketball/2026/03/tom-izzo-says-big-ten-flexing-its-muscles-by-packing-sweet-16.html",
+      "difficulty": "hard",
+      "region": "us",
+      "imageUrl": "https://www.mlive.com/resizer/v2/ZJQYBVAYJRG2DPYDXHGBQVEVII.jpg?auth=f620d5c8a1e3342cc2eb9cd29fd4301449ad6cb4ba3b8d109b748196aeb5add5&width=1280&smart=true&quality=90"
+    },
+    {
+      "id": 7,
+      "answer": "FCC",
+      "acceptedAnswers": [
+        "FCC",
+        "Federal Communications Commission"
+      ],
+      "clues": [
+        "U.S. telecommunications regulator",
+        "Oversees broadcast licensing",
+        "Spectrum auction authority",
+        "Net neutrality debates",
+        "Washington D.C. independent agency",
+        "Established by Communications Act of 1934"
+      ],
+      "summary": "The FCC has ordered a ban on imports of new models of foreign-produced consumer wireless routers, citing national security concerns identified by an interagency panel.",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-03-23/fcc-bans-all-foreign-made-routers-citing-security-risks",
+      "difficulty": "medium",
+      "region": "us",
+      "imageUrl": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iwtk9P2yBfuQ/v1/1200x800.jpg"
+    },
+    {
+      "id": 8,
+      "answer": "West Bank",
+      "acceptedAnswers": [
+        "West Bank"
+      ],
+      "clues": [
+        "Palestinian territory",
+        "Jordan River border region",
+        "Occupied since 1967",
+        "Ramallah administrative center",
+        "Israeli settlement controversy",
+        "Oslo Accords subject"
+      ],
+      "summary": "Violence has surged across the West Bank during what should have been Eid celebrations, with settler attacks and land seizures marking a difficult week for Palestinians.",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/3/24/amid-muted-eid-celebrations-violence-surges-across-the-west-bank",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/03/afp_69c196895e67-1774294665.jpg?resize=1920%2C1440"
+    },
+    {
+      "id": 9,
+      "answer": "Intel",
+      "acceptedAnswers": [
+        "Intel",
+        "Intel Corporation"
+      ],
+      "clues": [
+        "Santa Clara semiconductor giant",
+        "x86 architecture developer",
+        "Moore's Law originator company",
+        "Blue logo chipmaker",
+        "Competes with AMD",
+        "Core processor brand owner"
+      ],
+      "summary": "Intel's unannounced Core Ultra 9 290K Plus processor has appeared in Geekbench benchmarks, showing a significant 17% performance improvement over the current-generation 285K chip.",
+      "sourceUrl": "https://wccftech.com/intel-core-ultra-9-290k-plus-scores-3747-points-in-single-thread-at-geekbench/",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://cdn.wccftech.com/wp-content/uploads/2025/12/Intel-Core-Ultra-9-290K-Plus-1920x1077.jpg"
+    },
+    {
+      "id": 10,
+      "answer": "ICE",
+      "acceptedAnswers": [
+        "ICE",
+        "Immigration and Customs Enforcement"
+      ],
+      "clues": [
+        "Department of Homeland Security agency",
+        "U.S. deportation authority",
+        "Established after 9/11",
+        "Enforcement and Removal Operations division",
+        "Detention center operator",
+        "Created in 2003 reorganization"
+      ],
+      "summary": "The Trump administration has deployed ICE agents to airports in Illinois, New York, Texas, and New Jersey, escalating a political fight over immigration enforcement and government shutdown threats.",
+      "sourceUrl": "https://www.politico.com/news/2026/03/23/trump-ice-agents-airports-tsa-shutdown-00840105",
+      "difficulty": "medium",
+      "region": "us",
+      "imageUrl": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F2d%2F2a%2F1820da294ae1bfb2e2e1e87eede8%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2267541370"
+    }
+  ]
+}
