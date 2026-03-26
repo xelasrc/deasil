@@ -1,0 +1,211 @@
+{
+  "date": "2026-03-27",
+  "puzzles": [
+    {
+      "id": 1,
+      "answer": "Sora",
+      "acceptedAnswers": [
+        "Sora",
+        "OpenAI Sora"
+      ],
+      "clues": [
+        "Artificial intelligence",
+        "Video generation",
+        "Deepfake concerns",
+        "Text-to-video",
+        "Generative model",
+        "Discontinued technology product"
+      ],
+      "summary": "OpenAI announced it is shutting down Sora, its AI-powered video generation app that had gone viral but also raised significant deepfake concerns.",
+      "sourceUrl": "https://www.npr.org/2026/03/25/g-s1-115055/openai-pulls-the-plug-on-sora-the-viral-ai-video-app-that-sparked-deepfake-concerns",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5000x2813+0+260/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F55%2F28%2Fe92163c54d9fb64d5e26d8ae6d68%2Fap26055723640362.jpg"
+    },
+    {
+      "id": 2,
+      "answer": "Meta",
+      "acceptedAnswers": [
+        "Meta",
+        "Meta Platforms"
+      ],
+      "clues": [
+        "Silicon Valley technology company",
+        "Social media conglomerate",
+        "Stock options for executives",
+        "Artificial intelligence investments",
+        "Workforce reductions",
+        "Formerly known by a different name"
+      ],
+      "summary": "Meta is in the news for upcoming layoffs and for offering top executives stock options for the first time since its 2012 IPO as it ramps up AI spending.",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-03-25/meta-offers-top-execs-stock-options-for-first-time-since-ipo",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ii7wm7hL2Y6Q/v1/1200x797.jpg"
+    },
+    {
+      "id": 3,
+      "answer": "Tuberculosis",
+      "acceptedAnswers": [
+        "Tuberculosis",
+        "TB"
+      ],
+      "clues": [
+        "Infectious disease",
+        "Bacterial infection",
+        "Pulmonary condition",
+        "WHO global health priority",
+        "Mycobacterium",
+        "Robert Koch discovery"
+      ],
+      "summary": "On World TB Day, the WHO recommended new diagnostic tools to fight tuberculosis, which remains the world's deadliest infectious disease and is rising in the US.",
+      "sourceUrl": "https://www.who.int/news/item/24-03-2026-who-recommends-new-diagnostic-tools-to-help-end-tb",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://cdn.who.int/media/images/default-source/topics/diseases-and-conditions/tuberculosis/molecular-lab-testing.tmb-1200v.jpg?sfvrsn=f2d649d2_1"
+    },
+    {
+      "id": 4,
+      "answer": "Hannah Montana",
+      "acceptedAnswers": [
+        "Hannah Montana"
+      ],
+      "clues": [
+        "Disney Channel original series",
+        "Pop star double life",
+        "Miley Cyrus breakout role",
+        "Teen sitcom",
+        "20th anniversary celebration",
+        "Streaming special"
+      ],
+      "summary": "The 20th anniversary of Hannah Montana was celebrated with a Disney+ special, though not all original cast members returned, with Emily Osment addressing her absence.",
+      "sourceUrl": "http://deadline.com/2026/03/emily-osment-missing-hannah-montana-anniversary-special-1236765002/",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://deadline.com/wp-content/uploads/2026/03/emily-osment-hannah-montana.jpg?w=1024"
+    },
+    {
+      "id": 5,
+      "answer": "Lord of the Rings",
+      "acceptedAnswers": [
+        "Lord of the Rings",
+        "The Lord of the Rings",
+        "LOTR"
+      ],
+      "clues": [
+        "J.R.R. Tolkien adaptation",
+        "Middle-earth fantasy",
+        "Academy Award-winning franchise",
+        "Epic high fantasy",
+        "New Zealand filming locations",
+        "Hobbits and wizards"
+      ],
+      "summary": "Stephen Colbert and his son are developing a brand new film set in the Lord of the Rings universe at Warner Bros.",
+      "sourceUrl": "https://variety.com/2026/film/news/lord-of-the-rings-movie-stephen-colbert-warner-bros-1236698684/",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://variety.com/wp-content/uploads/2025/11/P102T5F9.jpg?crop=0px%2C129px%2C2000px%2C1125px&resize=1000%2C563"
+    },
+    {
+      "id": 6,
+      "answer": "Epic Games",
+      "acceptedAnswers": [
+        "Epic Games"
+      ],
+      "clues": [
+        "Video game developer and publisher",
+        "Unreal Engine creator",
+        "Tim Sweeney-led company",
+        "Battle royale phenomenon",
+        "Digital storefront operator",
+        "North Carolina headquarters"
+      ],
+      "summary": "Epic Games announced it will lay off 1,000 employees and cut $500 million in costs due to declining engagement with Fortnite.",
+      "sourceUrl": "https://variety.com/2026/gaming/news/epic-games-layoff-1000-fortnite-downturn-500-million-1236697837/",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://variety.com/wp-content/uploads/2025/05/Epic-Games-Fortnite-e1746054880582.webp?w=1000&h=563&crop=1"
+    },
+    {
+      "id": 7,
+      "answer": "Siri",
+      "acceptedAnswers": [
+        "Siri",
+        "Apple Siri"
+      ],
+      "clues": [
+        "Virtual assistant",
+        "Voice-activated technology",
+        "iOS integrated feature",
+        "Natural language processing",
+        "Standalone app plans",
+        "Cupertino company product"
+      ],
+      "summary": "Apple is planning a major AI overhaul of its voice assistant, including testing a standalone app and a new 'Ask' button feature for iOS 27.",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-03-24/ios-27-features-apple-ai-reboot-with-siri-app-new-interface-ask-siri-button",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i3sR8ajUNCIc/v0/1200x800.jpg"
+    },
+    {
+      "id": 8,
+      "answer": "Hubert Davis",
+      "acceptedAnswers": [
+        "Hubert Davis"
+      ],
+      "clues": [
+        "College basketball coach",
+        "Former NBA player",
+        "Tar Heels program leader",
+        "North Carolina athletics",
+        "Fired after five seasons",
+        "ACC conference"
+      ],
+      "summary": "UNC fired head basketball coach Hubert Davis after five seasons, prompting speculation about who will lead the Tar Heels program next season.",
+      "sourceUrl": "https://www.wral.com/sports/unc-fires-hubert-davis-possible-replacement-candidates-march-2026/",
+      "difficulty": "hard",
+      "region": "us",
+      "imageUrl": "https://wwwcache.wralsportsfan.com/asset/colleges/unc/2026/03/24/22340144/WRAL_Media_Youtube_Thumbnail_Template_v1-WHATS-NEXT-DMID1-6afjbwt0y-640x360.jpg?w=1200&h=630&height=630"
+    },
+    {
+      "id": 9,
+      "answer": "Mar-a-Lago",
+      "acceptedAnswers": [
+        "Mar-a-Lago"
+      ],
+      "clues": [
+        "Palm Beach estate",
+        "Florida landmark",
+        "Presidential residence",
+        "Historic property",
+        "Political district location",
+        "Luxury resort club"
+      ],
+      "summary": "A Democrat won a surprising victory in the Florida state house district that contains the famous Palm Beach estate, flipping a seat that went Republican by 19 points in 2024.",
+      "sourceUrl": "https://www.bbc.com/news/articles/c9qd7wyln2jo",
+      "difficulty": "medium",
+      "region": "us",
+      "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/7003/live/f1067cf0-27ee-11f1-9321-33bc3b2b38dc.png"
+    },
+    {
+      "id": 10,
+      "answer": "Stephen Colbert",
+      "acceptedAnswers": [
+        "Stephen Colbert"
+      ],
+      "clues": [
+        "Late night television host",
+        "CBS personality",
+        "Political satirist",
+        "Tolkien superfan",
+        "Emmy Award winner",
+        "Former Comedy Central star"
+      ],
+      "summary": "Stephen Colbert and his son are developing a new Lord of the Rings film at Warner Bros., drawing on Colbert's well-known passion for Tolkien's works.",
+      "sourceUrl": "https://variety.com/2026/film/news/lord-of-the-rings-movie-stephen-colbert-warner-bros-1236698684/",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://variety.com/wp-content/uploads/2025/11/P102T5F9.jpg?crop=0px%2C129px%2C2000px%2C1125px&resize=1000%2C563"
+    }
+  ]
+}
