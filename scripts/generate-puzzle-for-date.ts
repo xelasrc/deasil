@@ -168,19 +168,54 @@ async function generatePuzzleWithRetry(
 }
 
 async function main() {
-  const nztOffset = 13 * 60;
-  const now = new Date();
-  const nzt = new Date(now.getTime() + nztOffset * 60 * 1000);
+  // Parse command-line arguments
+  const args = process.argv.slice(2);
+  
+  if (args.length === 0 || args.includes("--help") || args.includes("-h")) {
+    console.log(`
+Usage: ts-node generate-puzzle-for-date.ts [DATE] [OPTIONS]
 
-  // Generate for tomorrow's NZT date so puzzle is ready before midnight
-  nzt.setDate(nzt.getDate() + 1);
-  const date = nzt.toISOString().split("T")[0];
+Arguments:
+  DATE              Date in YYYY-MM-DD format (required)
 
+Options:
+  --overwrite, -o   Overwrite existing puzzle file if it exists
+  --help, -h        Show this help message
+
+Examples:
+  ts-node generate-puzzle-for-date.ts 2026-04-01
+  ts-node generate-puzzle-for-date.ts 2026-04-01 --overwrite
+`);
+    process.exit(0);
+  }
+
+  const dateArg = args[0];
+  const overwrite = args.includes("--overwrite") || args.includes("-o");
+
+  // Validate date format
+  const dateRegex = /^\d{4}-\d{2}-\d{2}$/;
+  if (!dateRegex.test(dateArg)) {
+    console.error("Invalid date format. Please use YYYY-MM-DD format.");
+    process.exit(1);
+  }
+
+  // Validate that the date is actually valid
+  const testDate = new Date(dateArg);
+  if (isNaN(testDate.getTime())) {
+    console.error("Invalid date. Please provide a valid date.");
+    process.exit(1);
+  }
+
+  const date = dateArg;
   const outputPath = path.join(process.cwd(), "puzzles", `${date}.json`);
 
-  if (fs.existsSync(outputPath)) {
-    console.log(`Puzzle for ${date} already exists, skipping.`);
-    return;
+  if (fs.existsSync(outputPath) && !overwrite) {
+    console.log(`Puzzle for ${date} already exists. Use --overwrite to replace it.`);
+    process.exit(1);
+  }
+
+  if (fs.existsSync(outputPath) && overwrite) {
+    console.log(`Overwriting existing puzzle for ${date}...`);
   }
 
   console.log(`Fetching news for ${date}...`);

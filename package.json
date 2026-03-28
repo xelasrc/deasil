@@ -8,6 +8,7 @@
     "start": "next start",
     "lint": "eslint",
     "generate": "tsx scripts/generate-puzzle.ts",
+    "generate:date": "tsx scripts/generate-puzzle-for-date.ts",
     "test": "vitest"
   },
   "dependencies": {
