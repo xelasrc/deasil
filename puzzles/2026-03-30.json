@@ -1,0 +1,219 @@
+{
+  "date": "2026-03-30",
+  "puzzles": [
+    {
+      "id": 1,
+      "answer": "Saturn",
+      "acceptedAnswers": [
+        "Saturn"
+      ],
+      "clues": [
+        "Ringed planet",
+        "Gas giant",
+        "Sixth from the Sun",
+        "Titan's parent body",
+        "Cassini mission target",
+        "Second-largest planet"
+      ],
+      "summary": "The James Webb Space Telescope has solved a decades-long mystery about why Saturn appears to change its spin speed depending on how it is measured, a longstanding puzzle in planetary science.",
+      "sourceUrl": "https://phys.org/news/2026-03-jwst-decades-mystery-saturn.html",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://scx2.b-cdn.net/gfx/news/hires/2026/scientists-solve-decad.jpg"
+    },
+    {
+      "id": 2,
+      "answer": "UConn",
+      "acceptedAnswers": [
+        "UConn",
+        "University of Connecticut",
+        "Connecticut Huskies"
+      ],
+      "clues": [
+        "Huskies",
+        "NCAA basketball powerhouse",
+        "Big East member",
+        "Storrs campus",
+        "Multiple national championships",
+        "Dan Hurley coaching"
+      ],
+      "summary": "UConn survived a comeback attempt by Michigan State to advance in the 2026 NCAA Tournament, as the Elite Eight round approaches.",
+      "sourceUrl": "https://www.cbssports.com/college-basketball/news/march-madness-2026-sweet-16-live-updates-scores-bracket-friday/live/",
+      "difficulty": "medium",
+      "region": "us",
+      "imageUrl": "https://sportshub.cbsistatic.com/i/r/2026/03/28/b4ad0267-2ff3-47f5-be65-e2fe34fd97b9/thumbnail/1200x675/4934fd709ca1c5aff6f70e74fa62dd38/gettyimages-2268192048-1.jpg"
+    },
+    {
+      "id": 3,
+      "answer": "Bank of America",
+      "acceptedAnswers": [
+        "Bank of America",
+        "BofA"
+      ],
+      "clues": [
+        "Major U.S. financial institution",
+        "Charlotte-based corporation",
+        "Consumer banking giant",
+        "Merrill Lynch parent company",
+        "NYSE-listed lender",
+        "One of the Big Four banks"
+      ],
+      "summary": "Bank of America reached a $72.5 million settlement with victims of Jeffrey Epstein, following similar settlements by JPMorgan Chase and Deutsche Bank in previous years.",
+      "sourceUrl": "https://www.cnbc.com/2026/03/27/jeffrey-epstein-bank-of-america-lawsuit-settle.html",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://image.cnbcfm.com/api/v1/image/108251237-1768235009704-gettyimages-2240459473-BOFA_EARNS.jpeg?v=1774665565&w=1920&h=1080"
+    },
+    {
+      "id": 4,
+      "answer": "Cholesterol",
+      "acceptedAnswers": [
+        "Cholesterol",
+        "LDL Cholesterol"
+      ],
+      "clues": [
+        "Lipid found in blood",
+        "HDL and LDL categories",
+        "Statin medication target",
+        "Heart disease risk factor",
+        "Measured in lipid panel",
+        "Waxy substance in cell membranes"
+      ],
+      "summary": "New 2026 cholesterol guidelines have been released, updating LDL targets, screening age recommendations, and introducing Lp(a) testing to better protect heart health.",
+      "sourceUrl": "https://www.womansworld.com/wellness/heart-health/new-cholesterol-guidelines-are-here-see-the-biggest-changes#article",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://www.womansworld.com/wp-content/uploads/2026/03/cholesterol-guidelines.jpg?quality=86&strip=all"
+    },
+    {
+      "id": 5,
+      "answer": "Tennessee",
+      "acceptedAnswers": [
+        "Tennessee",
+        "Tennessee Volunteers",
+        "Tennessee Vols"
+      ],
+      "clues": [
+        "Volunteers",
+        "SEC member school",
+        "Knoxville-based university",
+        "Rocky Top anthem",
+        "Orange and white colors",
+        "Neyland Stadium home team"
+      ],
+      "summary": "The Tennessee Volunteers defeated Iowa State to advance to the Elite Eight in the 2026 NCAA Men's Basketball Tournament.",
+      "sourceUrl": "https://www.on3.com/teams/tennessee-volunteers/news/tennessee-basketball-game-time-tv-iowa-state-sweet-16/",
+      "difficulty": "medium",
+      "region": "us",
+      "imageUrl": "https://on3static.com/uploads/dev/assets/cms/2026/03/25152249/USATSI_28566834-1.jpeg"
+    },
+    {
+      "id": 6,
+      "answer": "Jeffrey Epstein",
+      "acceptedAnswers": [
+        "Jeffrey Epstein",
+        "Epstein"
+      ],
+      "clues": [
+        "Convicted sex offender",
+        "Financier",
+        "Metropolitan Correctional Center death",
+        "Little St. James Island owner",
+        "Ghislaine Maxwell associate",
+        "High-profile trafficking case"
+      ],
+      "summary": "Epstein's victims are set to receive $72.5 million from a Bank of America settlement related to the financier's crimes, continuing the legal fallout years after his death.",
+      "sourceUrl": "https://www.cnbc.com/2026/03/27/jeffrey-epstein-bank-of-america-lawsuit-settle.html",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://image.cnbcfm.com/api/v1/image/108251237-1768235009704-gettyimages-2240459473-BOFA_EARNS.jpeg?v=1774665565&w=1920&h=1080"
+    },
+    {
+      "id": 7,
+      "answer": "Colorectal cancer",
+      "acceptedAnswers": [
+        "Colorectal cancer",
+        "Colon cancer"
+      ],
+      "clues": [
+        "Gastrointestinal malignancy",
+        "Colonoscopy screening target",
+        "Rising rates in young adults",
+        "Third most common cancer worldwide",
+        "Polyp-related disease",
+        "Digestive system oncology"
+      ],
+      "summary": "A 33-year-old mother's stage 4 diagnosis highlights the alarming spike in colorectal cancer among people under 50, even as rates decline in older generations.",
+      "sourceUrl": "https://thehill.com/policy/healthcare/5800270-colorectal-cancer-diagnoses-young-people-reflection-brooke-pangrazio/",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2024/05/AP21137749924327-e1716581252695.jpg?w=1280"
+    },
+    {
+      "id": 8,
+      "answer": "COVID",
+      "acceptedAnswers": [
+        "COVID",
+        "COVID-19",
+        "SARS-CoV-2",
+        "Coronavirus"
+      ],
+      "clues": [
+        "Pandemic pathogen",
+        "Omicron variant lineage",
+        "Wastewater surveillance target",
+        "mRNA vaccine development trigger",
+        "Respiratory illness",
+        "2020 global health crisis"
+      ],
+      "summary": "A highly mutated new COVID strain nicknamed the 'cicada' variant has been detected in Massachusetts wastewater, deriving from a lineage that first emerged in late 2021-2022.",
+      "sourceUrl": "https://www.boston.com/news/health/2026/03/27/highly-mutated-covid-strain-massachusetts-wastewater/",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://bdc2020.o0bc.com/wp-content/uploads/2025/05/covid-bg_AFLNR5F3ZFGATNEWRS5W4SW3FE-6825fb6558fa6-768x432.jpg"
+    },
+    {
+      "id": 9,
+      "answer": "Duggar family",
+      "acceptedAnswers": [
+        "Duggar family",
+        "Duggars",
+        "Kendra Duggar"
+      ],
+      "clues": [
+        "19 Kids and Counting",
+        "Reality TV family",
+        "Arkansas-based clan",
+        "TLC show cancellation",
+        "Conservative Christian household",
+        "Josh scandal connection"
+      ],
+      "summary": "Kendra and Joseph Duggar have been arrested on charges of endangering the welfare of minors and false imprisonment, with Kendra ordered not to contact her alleged victims.",
+      "sourceUrl": "https://parade.com/news/kendra-duggar-ordered-not-to-contact-her-alleged-victims-after-arrest",
+      "difficulty": "medium",
+      "region": "us",
+      "imageUrl": "https://s.yimg.com/ny/api/res/1.2/IBZVMH504mEypJuiyGznpg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/parade_250/3ea2001643a2acbcb0da7195b337a6f3"
+    },
+    {
+      "id": 10,
+      "answer": "No Kings",
+      "acceptedAnswers": [
+        "No Kings",
+        "No Kings protests"
+      ],
+      "clues": [
+        "Anti-authoritarian slogan",
+        "2026 mass demonstrations",
+        "Nationwide U.S. rallies",
+        "Protest movement",
+        "Over 3,100 registered events",
+        "All 50 states participation"
+      ],
+      "summary": "Massive 'No Kings' protests took place across the United States on March 28, 2026, with organizers predicting they could be among the largest demonstrations in U.S. history, opposing President Trump's policies.",
+      "sourceUrl": "https://apnews.com/article/no-kings-protests-minnesota-trump-springsteen-2fab6b3a64e5275bcf111e8dd6d2e075",
+      "difficulty": "hard",
+      "region": "us",
+      "imageUrl": "https://dims.apnews.com/dims4/default/3a50bd4/2147483647/strip/true/crop/4800x3198+0+2/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fb0%2F31%2F91989f3c416684f27b162b9dbf6b%2Fe054c6aaf7dd4ae49d2cd2cff9cd8cb9"
+    }
+  ]
+}
