@@ -1,0 +1,216 @@
+{
+  "date": "2026-03-31",
+  "puzzles": [
+    {
+      "id": 1,
+      "answer": "Israel Adesanya",
+      "acceptedAnswers": [
+        "Israel Adesanya",
+        "Adesanya"
+      ],
+      "clues": [
+        "Mixed Martial Arts",
+        "UFC Middleweight Division",
+        "Nigerian-New Zealander",
+        "Former Two-Time Champion",
+        "City Kickboxing",
+        "The Last Stylebender"
+      ],
+      "summary": "Former two-time UFC middleweight champion Israel Adesanya was knocked out by Joe Pyfer at UFC Fight Night in Seattle, marking his fourth consecutive loss.",
+      "sourceUrl": "https://www.aljazeera.com/sports/2026/3/29/israel-adesanya-knocked-out-by-joe-pyfer-at-ufc-fight-night-in-seattle",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/03/2026-03-29T030319Z_828443841_MT1USATODAY28614199_RTRMADP_3_MMA-UFC-FIGHT-NIGHT-SEATTLE-ADESANYA-VS-PYFER-1774761796.jpg?resize=1920%2C1440"
+    },
+    {
+      "id": 2,
+      "answer": "KitKat",
+      "acceptedAnswers": [
+        "KitKat",
+        "Kit Kat"
+      ],
+      "clues": [
+        "Confectionery Brand",
+        "Nestlé Product",
+        "Wafer-based Snack",
+        "\"Have a Break\" Slogan",
+        "Red Packaging",
+        "Global Chocolate Bar"
+      ],
+      "summary": "Nestlé reported that thieves stole 12 tons of KitKat chocolate bars, prompting the company to joke that someone took their famous slogan too literally.",
+      "sourceUrl": "https://www.dw.com/en/nestle-praises-thieves-exceptional-taste-after-12-tons-of-kitkat-bars-stolen/a-76579815",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://static.dw.com/image/76579585_6.jpg"
+    },
+    {
+      "id": 3,
+      "answer": "Sydney Sweeney",
+      "acceptedAnswers": [
+        "Sydney Sweeney"
+      ],
+      "clues": [
+        "American Actress",
+        "Euphoria Cast Member",
+        "The White Lotus",
+        "Born in Spokane, Washington",
+        "Hollywood Rising Star",
+        "Immaculate Horror Film"
+      ],
+      "summary": "Actress Sydney Sweeney is in the news after Vertigo star Kim Novak publicly stated that Sweeney is 'totally wrong' to portray her in an upcoming biopic called Scandalous.",
+      "sourceUrl": "https://ew.com/kim-novak-says-sydney-sweeney-totally-wrong-to-play-her-in-biopic-11936678",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://ew.com/thmb/Bm7WCDGcHx47xaSmljNEkDlu_j4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Kim-Novak-Sydney-Sweeney-032826-aa33d0a3a38a40129c44aba80160add9.jpg"
+    },
+    {
+      "id": 4,
+      "answer": "Birthright citizenship",
+      "acceptedAnswers": [
+        "Birthright citizenship",
+        "Birthright Citizenship"
+      ],
+      "clues": [
+        "14th Amendment",
+        "Jus Soli",
+        "Constitutional Law",
+        "Immigration Policy Debate",
+        "Elk v. Wilkins",
+        "Citizenship Clause"
+      ],
+      "summary": "The Trump administration is citing an 1884 Supreme Court case involving a Native American man to defend its efforts to limit automatic citizenship for people born on U.S. soil.",
+      "sourceUrl": "https://www.nbcnews.com/politics/supreme-court/trump-birthright-citizenship-supreme-court-native-american-rcna263223",
+      "difficulty": "hard",
+      "region": "us",
+      "imageUrl": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-03/260327-scotus-birthright-jg-40371d.jpg"
+    },
+    {
+      "id": 5,
+      "answer": "Cleveland Guardians",
+      "acceptedAnswers": [
+        "Cleveland Guardians",
+        "Guardians"
+      ],
+      "clues": [
+        "American League Central",
+        "Progressive Field",
+        "Formerly Named After an Indigenous Term",
+        "Ohio-Based MLB Team",
+        "2024 AL Pennant Winners",
+        "Founded in 1901"
+      ],
+      "summary": "Guardians rookie Chase DeLauter became the second player in MLB history to hit four home runs in his first three career games, lifting Cleveland to a 6-5 win over Seattle.",
+      "sourceUrl": "https://www.espn.com/mlb/story/_/id/48337103/delauter-hits-4th-home-run-3rd-career-game-guardians-win",
+      "difficulty": "medium",
+      "region": "us",
+      "imageUrl": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0329%2Fr1635457_1296x729_16%2D9.jpg"
+    },
+    {
+      "id": 6,
+      "answer": "COVID-19",
+      "acceptedAnswers": [
+        "COVID-19",
+        "Covid",
+        "COVID",
+        "Coronavirus"
+      ],
+      "clues": [
+        "Pandemic Pathogen",
+        "SARS-CoV-2",
+        "Respiratory Illness",
+        "BA Sublineage Variants",
+        "Global Health Emergency",
+        "mRNA Vaccine Target"
+      ],
+      "summary": "A new COVID-19 variant nicknamed 'cicada' (officially BA.3.2) has resurfaced in the U.S. after first appearing in 2024 and going dormant, drawing renewed public health attention.",
+      "sourceUrl": "https://www.pbs.org/newshour/health/what-we-know-about-the-new-cicada-covid-19-variant",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://d3i6fh83elv35t.cloudfront.net/static/2026/03/2025-09-12T014835Z_883678602_RC2YPGA22YRJ_RTRMADP_3_USA-VACCINES-1024x683.jpg"
+    },
+    {
+      "id": 7,
+      "answer": "Pokémon",
+      "acceptedAnswers": [
+        "Pokémon",
+        "Pokemon"
+      ],
+      "clues": [
+        "Japanese Media Franchise",
+        "Trading Card Game",
+        "Nintendo Affiliated",
+        "Pocket Monsters",
+        "Game Freak Developer",
+        "Mega Evolution Mechanic"
+      ],
+      "summary": "The Pokémon Trading Card Game released its new Mega Evolution—Perfect Order expansion, bringing updated gameplay mechanics and new cards to the popular collectible card game.",
+      "sourceUrl": "https://www.pokemon.com/us/pokemon-news/the-pokemon-tcg-mega-evolution-perfect-order-expansion-is-available-now",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://www.pokemon.com/static-assets/content-assets/cms2/img/trading-card-game/_tiles/me/me03/launch/me03-launch-169-en.png"
+    },
+    {
+      "id": 8,
+      "answer": "Illinois",
+      "acceptedAnswers": [
+        "Illinois",
+        "Illinois Fighting Illini"
+      ],
+      "clues": [
+        "Big Ten Conference",
+        "Champaign-Urbana Campus",
+        "Prairie State",
+        "NCAA Tournament Contender",
+        "Orange and Blue Colors",
+        "Midwest University"
+      ],
+      "summary": "No. 3 seed Illinois defeated Iowa in the Elite Eight of the 2026 NCAA Tournament, ending Iowa's historic run under head coach Ben McCollum.",
+      "sourceUrl": "https://247sports.com/college/iowa/article/everything-ben-mccollum-bennett-stirtz-cam-manyawu-said-following-iowas-elite-eight-loss-to-illinois-279491613/",
+      "difficulty": "medium",
+      "region": "us",
+      "imageUrl": "https://s3media.247sports.com/Uploads/Assets/835/681/13681835.jpg?width=1200&height=628&crop=1.91:1&fit=cover"
+    },
+    {
+      "id": 9,
+      "answer": "Colorectal cancer",
+      "acceptedAnswers": [
+        "Colorectal cancer",
+        "Colon cancer"
+      ],
+      "clues": [
+        "Gastrointestinal Oncology",
+        "Rising Rates in Young Adults",
+        "Colonoscopy Screening",
+        "Bowel Disease",
+        "Digestive System Malignancy",
+        "Stage IV Diagnosis"
+      ],
+      "summary": "A 26-year-old hockey player shared his Stage IV colorectal cancer diagnosis, highlighting the alarming rise in cases among young adults.",
+      "sourceUrl": "https://www.cbsnews.com/news/colorectal-cancer-cleveland-clinic-young-diagnosis/",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/03/19/10b61d1e-85fe-4751-b474-880f58bd2232/thumbnail/1200x630/7b16d0b4b865a445cc48b38a4f9efd6c/screenshot-2026-03-19-at-3-13-07-pm.png"
+    },
+    {
+      "id": 10,
+      "answer": "Nestlé",
+      "acceptedAnswers": [
+        "Nestlé",
+        "Nestle"
+      ],
+      "clues": [
+        "Swiss Multinational",
+        "World's Largest Food Company",
+        "Vevey Headquarters",
+        "Consumer Packaged Goods",
+        "Nescafé Producer",
+        "Founded in 1866"
+      ],
+      "summary": "Nestlé made headlines after reporting that thieves stole 12 tons of its famous chocolate bars, with the company responding with a humorous statement about its iconic slogan.",
+      "sourceUrl": "https://www.dw.com/en/nestle-praises-thieves-exceptional-taste-after-12-tons-of-kitkat-bars-stolen/a-76579815",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://static.dw.com/image/76579585_6.jpg"
+    }
+  ]
+}
