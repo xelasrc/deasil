@@ -1,0 +1,213 @@
+{
+  "date": "2026-04-02",
+  "puzzles": [
+    {
+      "id": 1,
+      "answer": "Joni Mitchell",
+      "acceptedAnswers": [
+        "Joni Mitchell",
+        "Joni"
+      ],
+      "clues": [
+        "Canadian singer-songwriter",
+        "Folk music legend",
+        "Lifetime achievement honoree",
+        "Big Yellow Taxi performer",
+        "Blue album artist",
+        "Both Sides Now vocalist"
+      ],
+      "summary": "Joni Mitchell made headlines after praising Canadian Prime Minister Mark Carney as a 'blessing' during the Juno Awards, where she received a lifetime achievement award.",
+      "sourceUrl": "http://www.hollywoodreporter.com/music/music-news/joni-mitchell-juno-awards-2026-1236551413/",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://www.hollywoodreporter.com/wp-content/uploads/2026/03/GettyImages-2268997263-1.jpg?w=1296&h=730&crop=1"
+    },
+    {
+      "id": 2,
+      "answer": "Sophie Turner",
+      "acceptedAnswers": [
+        "Sophie Turner"
+      ],
+      "clues": [
+        "British actress",
+        "Game of Thrones cast member",
+        "Sansa Stark portrayer",
+        "Former Joe Jonas spouse",
+        "Amazon MGM series lead",
+        "Action franchise star"
+      ],
+      "summary": "Sophie Turner was injured during filming of the Amazon MGM Studios series Tomb Raider, causing production to pause.",
+      "sourceUrl": "http://deadline.com/2026/03/tomb-raider-sophie-turner-injured-series-shut-down-1236768756/",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://deadline.com/wp-content/uploads/2026/01/Lara-Croft.jpg?w=1024"
+    },
+    {
+      "id": 3,
+      "answer": "Apple",
+      "acceptedAnswers": [
+        "Apple",
+        "Apple Inc"
+      ],
+      "clues": [
+        "Cupertino tech giant",
+        "iPhone manufacturer",
+        "Founded in a garage in 1976",
+        "Tim Cook-led company",
+        "Golden anniversary celebration",
+        "Mac and iPad creator"
+      ],
+      "summary": "Apple is celebrating its 50th anniversary with surprise performances and events around the world, culminating in a finale event.",
+      "sourceUrl": "https://www.macrumors.com/2026/03/29/apples-50th-anniversary-finale-revealed/",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://images.macrumors.com/t/UlnEP1nDPXHioi-MK1vVZQsIF1k=/1920x/article-new/2026/03/Apple-Park-Rainbow-1.jpg"
+    },
+    {
+      "id": 4,
+      "answer": "PUBG",
+      "acceptedAnswers": [
+        "PUBG",
+        "PlayerUnknown's Battlegrounds"
+      ],
+      "clues": [
+        "Battle royale pioneer",
+        "Krafton-published game",
+        "Erangel map shooter",
+        "South Korean video game franchise",
+        "Chicken dinner meme origin",
+        "Top-down spin-off failure"
+      ],
+      "summary": "A PUBG spin-off, a top-down tactical shooter, shut down after barely two months, never making it out of early access.",
+      "sourceUrl": "https://kotaku.com/pubg-blindspot-shut-down-closing-2000682865",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://kotaku.com/app/uploads/2026/03/1920x1080-1200x675.jpg"
+    },
+    {
+      "id": 5,
+      "answer": "Japanese yen",
+      "acceptedAnswers": [
+        "Japanese yen",
+        "Yen",
+        "JPY"
+      ],
+      "clues": [
+        "East Asian currency",
+        "Third most traded forex pair",
+        "Bank of Tokyo denomination",
+        "Subject of government intervention threats",
+        "Currency symbolized by ¥",
+        "Weakened significantly post-2022"
+      ],
+      "summary": "The yen strengthened after Japan's top currency official warned that 'decisive action' by the government might soon be necessary to stabilize the currency.",
+      "sourceUrl": "https://www.ft.com/content/afe09b9e-b951-42e2-a8fc-c7863c3338df?syn-25a6b1a6\\\\u003d1",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F687f4ef0-7ba1-4011-99a8-fab39b1a35eb.jpg?source=next-barrier-page"
+    },
+    {
+      "id": 6,
+      "answer": "Tomb Raider",
+      "acceptedAnswers": [
+        "Tomb Raider",
+        "Lara Croft"
+      ],
+      "clues": [
+        "Iconic video game franchise",
+        "Archaeologist adventure series",
+        "Crystal Dynamics property",
+        "Angelina Jolie film adaptation",
+        "Square Enix reboot trilogy",
+        "Amazon streaming adaptation"
+      ],
+      "summary": "The Amazon MGM Studios Tomb Raider series paused production after its lead star Sophie Turner was injured during filming.",
+      "sourceUrl": "http://deadline.com/2026/03/tomb-raider-sophie-turner-injured-series-shut-down-1236768756/",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://deadline.com/wp-content/uploads/2026/01/Lara-Croft.jpg?w=1024"
+    },
+    {
+      "id": 7,
+      "answer": "Mark Carney",
+      "acceptedAnswers": [
+        "Mark Carney"
+      ],
+      "clues": [
+        "Former Bank of England governor",
+        "Canadian Liberal Party leader",
+        "Former Goldman alumnus",
+        "Ex-central banker turned politician",
+        "Ottawa head of government",
+        "Praised by folk legend at music awards"
+      ],
+      "summary": "Canadian Prime Minister Mark Carney was called a 'blessing' by Joni Mitchell at the Juno Awards, highlighting his political leadership.",
+      "sourceUrl": "http://www.hollywoodreporter.com/music/music-news/joni-mitchell-juno-awards-2026-1236551413/",
+      "difficulty": "hard",
+      "region": "global",
+      "imageUrl": "https://www.hollywoodreporter.com/wp-content/uploads/2026/03/GettyImages-2268997263-1.jpg?w=1296&h=730&crop=1"
+    },
+    {
+      "id": 8,
+      "answer": "Protein",
+      "acceptedAnswers": [
+        "Protein"
+      ],
+      "clues": [
+        "Essential macronutrient",
+        "Amino acid polymer",
+        "Dietary building block",
+        "Muscle repair compound",
+        "Subject of updated U.S. dietary guidelines",
+        "Found abundantly in meat and legumes"
+      ],
+      "summary": "New U.S. Dietary Guidelines recommend higher levels of protein intake, prompting discussion about how to personalize optimal consumption.",
+      "sourceUrl": "https://www.npr.org/2026/03/30/nx-s1-5750384/protein-intake-grams-food-how-much",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2121x1193+0+110/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4c%2F4b%2F8c5d73d941fe943b964f7c1a5e45%2Fgettyimages-637229370.jpg"
+    },
+    {
+      "id": 9,
+      "answer": "NFL",
+      "acceptedAnswers": [
+        "NFL",
+        "National Football League"
+      ],
+      "clues": [
+        "American gridiron professional league",
+        "Super Bowl organizer",
+        "Roger Goodell-led organization",
+        "32-team sports association",
+        "Referees union dispute subject",
+        "Largest U.S. sports broadcasting property"
+      ],
+      "summary": "The NFL Referees Association accused the league of spreading 'false and misleading' information, firing back at recent NFL leaks about officiating matters.",
+      "sourceUrl": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-referees-association-accuses-nfl-of-spreading-false-and-misleading-information",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://nbcsports.brightspotcdn.com/dims4/default/03c91f3/2147483647/strip/true/crop/5232x2943+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fe9%2Fa0%2Fb54b62a54d3eb7992cd229076c41%2Fhttps-api-imagn.com%2Frest%2Fdownload%2FimageID%3D25062326"
+    },
+    {
+      "id": 10,
+      "answer": "Juno Awards",
+      "acceptedAnswers": [
+        "Juno Awards",
+        "Junos"
+      ],
+      "clues": [
+        "Annual Canadian music ceremony",
+        "Named after a Roman goddess",
+        "Lifetime achievement presented here",
+        "Equivalent of the Grammys north of the border",
+        "Celebrates recording artists from the Great White North",
+        "Hosted by CARAS organization"
+      ],
+      "summary": "The Juno Awards ceremony made news when Joni Mitchell used her lifetime achievement acceptance speech to praise Canadian PM Mark Carney and comment on U.S. politics.",
+      "sourceUrl": "http://www.hollywoodreporter.com/music/music-news/joni-mitchell-juno-awards-2026-1236551413/",
+      "difficulty": "hard",
+      "region": "global",
+      "imageUrl": "https://www.hollywoodreporter.com/wp-content/uploads/2026/03/GettyImages-2268997263-1.jpg?w=1296&h=730&crop=1"
+    }
+  ]
+}
