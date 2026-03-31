@@ -1,0 +1,212 @@
+{
+  "date": "2026-04-01",
+  "puzzles": [
+    {
+      "id": 1,
+      "answer": "Dow Jones",
+      "acceptedAnswers": [
+        "Dow Jones",
+        "Dow Jones Industrial Average",
+        "DJIA",
+        "The Dow"
+      ],
+      "clues": [
+        "Stock market index",
+        "Wall Street benchmark",
+        "30 blue-chip companies",
+        "Correction territory",
+        "Charles and Edward founders",
+        "Financial barometer since 1896"
+      ],
+      "summary": "The Dow Jones Industrial Average sank into correction territory on Friday, joining the Nasdaq in a significant market downturn ahead of a holiday-shortened trading week.",
+      "sourceUrl": "https://www.cnbc.com/2026/03/29/stock-market-today-live-updates.html",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://image.cnbcfm.com/api/v1/image/108282848-1774449065459-gettyimages-2268295148-mms23900_hp4oyc4i.jpeg?v=1774449148&w=1920&h=1080"
+    },
+    {
+      "id": 2,
+      "answer": "Britney Spears",
+      "acceptedAnswers": [
+        "Britney Spears",
+        "Britney"
+      ],
+      "clues": [
+        "Pop princess",
+        "Conservatorship battle",
+        "Mickey Mouse Club alumna",
+        "...Baby One More Time singer",
+        "Las Vegas residency performer",
+        "Louisiana-born entertainer"
+      ],
+      "summary": "Britney Spears has been posting wholesome family content on Instagram, spending time with her sons on a yacht following her recent DUI arrest.",
+      "sourceUrl": "https://www.tmz.com/2026/03/29/britney-spears-with-sons-on-yacht-after-dui-arrest/",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://imagez.tmz.com/image/91/16by9/2026/03/29/91c0338e053349e6923894693a763a57_xl.png"
+    },
+    {
+      "id": 3,
+      "answer": "Blue Bloods",
+      "acceptedAnswers": [
+        "Blue Bloods"
+      ],
+      "clues": [
+        "CBS police drama",
+        "Reagan family series",
+        "Tom Selleck starring role",
+        "New York City setting",
+        "Sunday dinner scenes",
+        "Law enforcement family saga"
+      ],
+      "summary": "Alex Duong, a stand-up comedian and actor who appeared on the CBS drama Blue Bloods, has died at age 42 in a Los Angeles hospital.",
+      "sourceUrl": "https://variety.com/2026/tv/news/alex-duong-dead-stand-up-blue-bloods-1236702311/",
+      "difficulty": "medium",
+      "region": "north-america",
+      "imageUrl": "https://variety.com/wp-content/uploads/2026/03/GettyImages-1309536757.jpg?crop=0px%2C136px%2C6048px%2C3402px&resize=1000%2C563"
+    },
+    {
+      "id": 4,
+      "answer": "Bluesky",
+      "acceptedAnswers": [
+        "Bluesky",
+        "BlueSky Social"
+      ],
+      "clues": [
+        "Decentralized social network",
+        "AT Protocol platform",
+        "Twitter alternative",
+        "Jack Dorsey initial backing",
+        "Microblogging service",
+        "Jay Graber co-founded"
+      ],
+      "summary": "Bluesky has launched a new AI-focused app, with former CEO Jay Graber still actively involved in the platform's development despite stepping down from the CEO role.",
+      "sourceUrl": "https://gizmodo.com/bluesky-has-a-new-app-and-its-all-about-ai-2000739514",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://gizmodo.com/app/uploads/2026/03/jay-graber-1200x675.jpg"
+    },
+    {
+      "id": 5,
+      "answer": "Apple",
+      "acceptedAnswers": [
+        "Apple",
+        "Apple Inc"
+      ],
+      "clues": [
+        "Cupertino tech giant",
+        "Founded in a garage in 1976",
+        "iPhone maker",
+        "Tim Cook leads this company",
+        "Golden anniversary celebrations",
+        "Pivoting AI strategy to services"
+      ],
+      "summary": "Apple is celebrating its 50th anniversary with surprise performances and events worldwide, while also making a major strategic pivot in its AI approach toward an App Store and search-like platform model.",
+      "sourceUrl": "https://www.macrumors.com/2026/03/29/apples-50th-anniversary-finale-revealed/",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://images.macrumors.com/t/UlnEP1nDPXHioi-MK1vVZQsIF1k=/1920x/article-new/2026/03/Apple-Park-Rainbow-1.jpg"
+    },
+    {
+      "id": 6,
+      "answer": "Alexa Grasso",
+      "acceptedAnswers": [
+        "Alexa Grasso"
+      ],
+      "clues": [
+        "Mexican mixed martial artist",
+        "UFC flyweight competitor",
+        "Guadalajara native",
+        "Knockout-submission specialist",
+        "Dana White praised her finish",
+        "Seattle octagon victory"
+      ],
+      "summary": "Alexa Grasso delivered what Dana White called 'one of the greatest finishes in sports history' with a brutal KO-submission win over Maycee Barber at UFC Seattle.",
+      "sourceUrl": "https://www.mmamania.com/ufc-results/432321/dana-white-reacts-to-alexa-grassos-insane-finish-at-ufc-seattle-one-of-the-greatest-in-sports-history",
+      "difficulty": "hard",
+      "region": "global",
+      "imageUrl": "https://platform.mmamania.com/wp-content/uploads/sites/110/2026/03/gettyimages-2268851619.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+    },
+    {
+      "id": 7,
+      "answer": "NASA",
+      "acceptedAnswers": [
+        "NASA"
+      ],
+      "clues": [
+        "Space agency headquartered in Washington D.C.",
+        "Artemis program operator",
+        "Nuclear rocket announcement",
+        "Houston mission control",
+        "Founded in 1958",
+        "International Space Station partner"
+      ],
+      "summary": "NASA announced plans for a nuclear rocket as part of the latest science news roundup, marking a significant step forward in advanced space propulsion technology.",
+      "sourceUrl": "https://www.livescience.com/science-news-this-week-nasa-announces-nuclear-rocket-space-reproduction-proves-difficult-and-why-weed-gives-you-the-munchies",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://cdn.mos.cms.futurecdn.net/uT2Nv6bV8h3P4LoRxJMmbA-1600-80.jpg"
+    },
+    {
+      "id": 8,
+      "answer": "Mary Beth Hurt",
+      "acceptedAnswers": [
+        "Mary Beth Hurt"
+      ],
+      "clues": [
+        "Iowa-born actress",
+        "Three Tony nominations",
+        "Woody Allen film performer",
+        "Broadway veteran with 15 appearances",
+        "Crimes of the Heart originator",
+        "The World According to Garp cast member"
+      ],
+      "summary": "Mary Beth Hurt, the acclaimed stage and screen actress known for roles in Interiors, The World According to Garp, and Crimes of the Heart, has died at age 79.",
+      "sourceUrl": "http://www.hollywoodreporter.com/movies/movie-news/mary-beth-hurt-dead-world-according-to-garp-interiors-1236551313/",
+      "difficulty": "hard",
+      "region": "north-america",
+      "imageUrl": "https://www.hollywoodreporter.com/wp-content/uploads/2025/10/Mary-Beth-Hurt-Obit-Template-Headshot-Getty-H-2025.jpg?w=1296&h=730&crop=1"
+    },
+    {
+      "id": 9,
+      "answer": "Nasdaq",
+      "acceptedAnswers": [
+        "Nasdaq",
+        "NASDAQ"
+      ],
+      "clues": [
+        "Technology-heavy stock index",
+        "Electronic exchange founded in 1971",
+        "Times Square market site",
+        "Composite index benchmark",
+        "First electronic stock market",
+        "Entered correction before the DJIA"
+      ],
+      "summary": "The Nasdaq entered correction territory before the Dow Jones Industrial Average followed suit, as stock markets experienced significant declines ahead of a holiday-shortened trading week.",
+      "sourceUrl": "https://www.cnbc.com/2026/03/29/stock-market-today-live-updates.html",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://image.cnbcfm.com/api/v1/image/108282848-1774449065459-gettyimages-2268295148-mms23900_hp4oyc4i.jpeg?v=1774449148&w=1920&h=1080"
+    },
+    {
+      "id": 10,
+      "answer": "Dana White",
+      "acceptedAnswers": [
+        "Dana White"
+      ],
+      "clues": [
+        "UFC president",
+        "Combat sports promoter",
+        "Las Vegas-based executive",
+        "Reality TV host of The Ultimate Fighter",
+        "Boxing crossover promoter",
+        "MMA business mogul"
+      ],
+      "summary": "Dana White reacted to Alexa Grasso's finish at UFC Seattle, calling it 'one of the greatest in sports history' after her spectacular knockout-submission victory.",
+      "sourceUrl": "https://www.mmamania.com/ufc-results/432321/dana-white-reacts-to-alexa-grassos-insane-finish-at-ufc-seattle-one-of-the-greatest-in-sports-history",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://platform.mmamania.com/wp-content/uploads/sites/110/2026/03/gettyimages-2268851619.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+    }
+  ]
+}
