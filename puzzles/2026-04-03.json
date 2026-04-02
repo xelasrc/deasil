@@ -1,0 +1,218 @@
+{
+  "date": "2026-04-03",
+  "puzzles": [
+    {
+      "id": 1,
+      "answer": "Tiger Woods",
+      "acceptedAnswers": [
+        "Tiger Woods",
+        "Woods"
+      ],
+      "clues": [
+        "Professional golfer",
+        "PGA Tour record holder",
+        "Stanford alumnus",
+        "Nike endorsement deal",
+        "15-time major champion",
+        "Red shirt on Sundays"
+      ],
+      "summary": "Tiger Woods pleaded not guilty to DUI charges following a vehicle crash in Florida and announced he is stepping away from golf to seek treatment. He will miss the Masters for the second consecutive year.",
+      "sourceUrl": "https://www.npr.org/2026/04/01/g-s1-116015/tiger-woods-seek-treatment",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2117x1191+0+110/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F77%2F17%2Ff57077ba47bd920ba07fcb383942%2Fap26086762245259.jpg"
+    },
+    {
+      "id": 2,
+      "answer": "Crimea",
+      "acceptedAnswers": [
+        "Crimea"
+      ],
+      "clues": [
+        "Black Sea peninsula",
+        "Annexed territory",
+        "Sevastopol naval base",
+        "Disputed region since 2014",
+        "Kerch Strait bridge connection",
+        "Former Ukrainian territory"
+      ],
+      "summary": "A Russian military plane crashed in Crimea, killing 29 people including six crew members and 23 passengers, according to Russia's Defense Ministry.",
+      "sourceUrl": "https://apnews.com/article/russia-crimea-plane-crash-3f45321e150f091583b8ba6c71c09586",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://dims.apnews.com/dims4/default/4228092/2147483647/strip/true/crop/4862x3240+319+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fb1%2F3a%2F890d12a2ee536178d0ce424614d7%2Fa99ad780e8dd448caff23191da2c2a02"
+    },
+    {
+      "id": 3,
+      "answer": "S&P 500",
+      "acceptedAnswers": [
+        "S&P 500",
+        "S&P500",
+        "Standard and Poor's 500"
+      ],
+      "clues": [
+        "Stock market index",
+        "Wall Street benchmark",
+        "Tracks large-cap U.S. equities",
+        "Includes 500 leading companies",
+        "Managed by a credit rating agency",
+        "Key indicator for retirement portfolios"
+      ],
+      "summary": "S&P 500 futures rose after major averages posted their best session since May, concluding a losing month and quarter for major stock indexes.",
+      "sourceUrl": "https://www.cnbc.com/2026/03/31/stock-market-today-live-updates.html",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://image.cnbcfm.com/api/v1/image/108285681-1774989682862-gettyimages-2269282844-l4030973_m0wwgeov.jpeg?v=1774989765&w=1920&h=1080"
+    },
+    {
+      "id": 4,
+      "answer": "Megan Thee Stallion",
+      "acceptedAnswers": [
+        "Megan Thee Stallion",
+        "Megan Pete"
+      ],
+      "clues": [
+        "Houston-born rapper",
+        "Grammy Award winner",
+        "Hot Girl Summer",
+        "'Savage' hit single",
+        "Tory Lanez trial",
+        "Broadway debut performer"
+      ],
+      "summary": "Megan Thee Stallion was hospitalized in New York after falling ill during a performance of 'Moulin Rouge! The Musical' and was forced to exit mid-show.",
+      "sourceUrl": "https://variety.com/2026/music/news/megan-thee-stallion-hospitalized-moulin-rouge-broadway-1236704169/",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://variety.com/wp-content/uploads/2026/03/GettyImages-2268222373.jpg?crop=0px%2C34px%2C2672px%2C1503px&resize=1000%2C563"
+    },
+    {
+      "id": 5,
+      "answer": "Oracle",
+      "acceptedAnswers": [
+        "Oracle",
+        "Oracle Corporation"
+      ],
+      "clues": [
+        "Enterprise software company",
+        "Larry Ellison founded",
+        "Cloud infrastructure provider",
+        "Database management pioneer",
+        "Headquartered in Austin, Texas",
+        "Java programming language owner"
+      ],
+      "summary": "Oracle conducted significant layoffs, leading to numerous heartbreaking posts from affected workers sharing their experiences on LinkedIn.",
+      "sourceUrl": "https://www.forbes.com/sites/johnbbrandon/2026/03/31/oracle-layoffs-lead-to-heartbreaking-posts-on-linkedin/",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://imageio.forbes.com/specials-images/imageserve/69cc5d3e34981e3fefcb07ed/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+    },
+    {
+      "id": 6,
+      "answer": "The Masters",
+      "acceptedAnswers": [
+        "The Masters",
+        "Masters Tournament",
+        "Augusta National"
+      ],
+      "clues": [
+        "Green jacket tradition",
+        "Annual April golf event",
+        "Amen Corner",
+        "Georgia sporting tradition",
+        "Azalea-lined fairways",
+        "Invitation-only major championship"
+      ],
+      "summary": "Tiger Woods announced he will miss this prestigious golf tournament for the second consecutive year after pleading not guilty to DUI and seeking treatment.",
+      "sourceUrl": "https://www.npr.org/2026/04/01/g-s1-116015/tiger-woods-seek-treatment",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2117x1191+0+110/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F77%2F17%2Ff57077ba47bd920ba07fcb383942%2Fap26086762245259.jpg"
+    },
+    {
+      "id": 7,
+      "answer": "Endangered Species Act",
+      "acceptedAnswers": [
+        "Endangered Species Act",
+        "ESA"
+      ],
+      "clues": [
+        "1973 U.S. federal legislation",
+        "Wildlife conservation law",
+        "Signed by Richard Nixon",
+        "Habitat protection mandate",
+        "Critical habitat designation",
+        "Prevents extinction of flora and fauna"
+      ],
+      "summary": "A Vox report highlights how the Trump administration is exploiting a loophole in this landmark conservation law to sidestep protections for whale species in the Gulf of Mexico.",
+      "sourceUrl": "https://www.vox.com/climate/484406/god-squad-gulf-mexico-rices-whales-endangered-species",
+      "difficulty": "hard",
+      "region": "north-america",
+      "imageUrl": "https://platform.vox.com/wp-content/uploads/sites/2/2026/03/AP26089487946992.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200"
+    },
+    {
+      "id": 8,
+      "answer": "NFL Draft",
+      "acceptedAnswers": [
+        "NFL Draft",
+        "2026 NFL Draft"
+      ],
+      "clues": [
+        "Annual player selection event",
+        "Held in spring",
+        "First-round picks",
+        "Scouting combine precedes it",
+        "Professional football talent pipeline",
+        "Mock projections by analysts"
+      ],
+      "summary": "NFL analyst Lance Zierlein released his third mock draft for 2026, projecting linebacker Sonny Styles to the Cowboys at No. 12 and featuring two trade scenarios.",
+      "sourceUrl": "https://www.nfl.com/news/lance-zierlein-2026-nfl-mock-draft-3-0-cowboys-hit-the-jackpot-at-no-12-plus-two-trades",
+      "difficulty": "easy",
+      "region": "north-america",
+      "imageUrl": "https://static.www.nfl.com/image/upload/t_editorial_landscape_12_desktop/league/d2saxiiqcujcegfdoszw"
+    },
+    {
+      "id": 9,
+      "answer": "Mail-in voting",
+      "acceptedAnswers": [
+        "Mail-in voting",
+        "Mail-in ballots",
+        "Absentee voting"
+      ],
+      "clues": [
+        "Election participation method",
+        "Postal service dependent",
+        "Expanded during pandemic",
+        "Constitutional authority debate",
+        "Ballot drop boxes",
+        "Remote democratic participation"
+      ],
+      "summary": "President Trump issued an executive order attempting to limit mail ballots and use federal data to compile voter eligibility lists, moves that experts say exceed his constitutional authority.",
+      "sourceUrl": "https://www.washingtonpost.com/politics/2026/03/31/trump-mail-voting-executive-order/",
+      "difficulty": "medium",
+      "region": "north-america",
+      "imageUrl": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/N5TFMKJPQT7TT5K6QTNJ7VFAWM_size-normalized.jpg&w=1440"
+    },
+    {
+      "id": 10,
+      "answer": "McDonald's All American Game",
+      "acceptedAnswers": [
+        "McDonald's All American Game",
+        "McDonald's All American Games",
+        "McDonald's All-American"
+      ],
+      "clues": [
+        "High school basketball showcase",
+        "Fast food brand sponsorship",
+        "Top prep prospects",
+        "Annual all-star exhibition",
+        "Held in Glendale, Arizona in 2026",
+        "Boys and girls divisions"
+      ],
+      "summary": "The 2026 McDonald's All American Games took place at Desert Diamond Arena in Glendale, Arizona, featuring 24 of the top high school basketball prospects in the country.",
+      "sourceUrl": "https://www.on3.com/rivals/news/2026-mcdonalds-all-american-games-live-updates/",
+      "difficulty": "hard",
+      "region": "north-america",
+      "imageUrl": "https://on3static.com/uploads/dev/assets/cms/2026/03/31150950/Artboard-1-20.png"
+    }
+  ]
+}
