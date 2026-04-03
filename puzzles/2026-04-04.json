@@ -1,0 +1,212 @@
+{
+  "date": "2026-04-04",
+  "puzzles": [
+    {
+      "id": 1,
+      "answer": "Ted Bundy",
+      "acceptedAnswers": [
+        "Ted Bundy",
+        "Bundy"
+      ],
+      "clues": [
+        "Serial killer",
+        "1970s crime spree",
+        "Executed in Florida",
+        "Law student criminal",
+        "Pacific Northwest murders",
+        "DNA forensic breakthrough"
+      ],
+      "summary": "DNA evidence has linked prolific serial killer Ted Bundy to a previously unidentified victim, more than three decades after his execution in 1989.",
+      "sourceUrl": "https://www.kiro7.com/news/local/case-closed-dna-evidence-links-serial-killer-ted-bundy-new-victim/DJBDGPPI45AR7HN6MRIZ57WNBA/",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://cmg-cmg-tv-10090-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FMJFUPU2WINHKPLOVD6B4U32DVQ.jpg?auth=8f0d6b3141a1f4bfb39f77673c45cc7160554e02f6a69fec2ddae749230d7156&width=1200&height=630&smart=true"
+    },
+    {
+      "id": 2,
+      "answer": "Jon Ossoff",
+      "acceptedAnswers": [
+        "Jon Ossoff",
+        "Ossoff"
+      ],
+      "clues": [
+        "Georgia politician",
+        "U.S. Senate Democrat",
+        "Won 2021 runoff election",
+        "Former documentary filmmaker",
+        "Youngest member of upper chamber when elected",
+        "Peach State representative"
+      ],
+      "summary": "Georgia's GOP Senate primary is engulfed in infighting, with Republicans worried their blame game could make it harder to unseat Democratic Senator Jon Ossoff.",
+      "sourceUrl": "https://www.politico.com/news/2026/04/02/georgia-senate-ossoff-trump-republicans-00854884",
+      "difficulty": "hard",
+      "region": "us",
+      "imageUrl": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fca%2F29%2F506e68fa428ebc4ae92bb121783e%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2064217743"
+    },
+    {
+      "id": 3,
+      "answer": "Indonesia",
+      "acceptedAnswers": [
+        "Indonesia"
+      ],
+      "clues": [
+        "Southeast Asian archipelago",
+        "Over 17,000 islands",
+        "Population exceeding 280 million",
+        "Ring of Fire nation",
+        "Capital city recently relocated",
+        "Largest Muslim-majority country"
+      ],
+      "summary": "A powerful 7.4 magnitude earthquake struck Indonesia's Molucca Sea, killing at least one person and triggering a small tsunami.",
+      "sourceUrl": "https://www.cbsnews.com/news/indonesia-molucca-sea-earthquake-tsunami/",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/04/02/7b2f652e-16fe-4751-87d3-ff6b4a9d50a9/thumbnail/1200x630/b57e4e3ccf1c123a901ff4652241e680/screenshot-2026-04-01-at-8-05-33-pm.png"
+    },
+    {
+      "id": 4,
+      "answer": "Tiger Woods",
+      "acceptedAnswers": [
+        "Tiger Woods",
+        "Woods"
+      ],
+      "clues": [
+        "Professional golfer",
+        "15 major championships",
+        "Masters Tournament legend",
+        "Nike endorsement icon",
+        "Stanford University athlete",
+        "Comeback at Augusta 2019"
+      ],
+      "summary": "Tiger Woods reportedly made an insulting remark to his girlfriend Vanessa Trump following his recent arrest, making headlines worldwide.",
+      "sourceUrl": "https://thespun.com/golf/tiger-woods-made-insulting-remark-to-vanessa-trump-following-arrest",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://s.yimg.com/os/en/the_spun_articles_751/7e7317ce3ba868468b4d1fd4d04b8d79"
+    },
+    {
+      "id": 5,
+      "answer": "Puka Nacua",
+      "acceptedAnswers": [
+        "Puka Nacua",
+        "Nacua"
+      ],
+      "clues": [
+        "NFL wide receiver",
+        "Los Angeles football player",
+        "BYU alumni",
+        "Samoan heritage athlete",
+        "Rookie reception record holder",
+        "Rams star"
+      ],
+      "summary": "Los Angeles Rams wide receiver Puka Nacua has checked into rehab after a woman filed a lawsuit alleging he made an antisemitic statement and bit her on the shoulder.",
+      "sourceUrl": "https://www.espn.com/nfl/story/_/id/48373078/los-angeles-rams-wide-receiver-puka-nacua-rehab-attorney-says",
+      "difficulty": "hard",
+      "region": "us",
+      "imageUrl": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0402%2Fr1637404_1296x729_16%2D9.jpg"
+    },
+    {
+      "id": 6,
+      "answer": "CDC",
+      "acceptedAnswers": [
+        "CDC",
+        "Centers for Disease Control and Prevention"
+      ],
+      "clues": [
+        "Atlanta-based federal agency",
+        "Disease surveillance organization",
+        "Public health authority",
+        "Infectious disease tracking",
+        "Laboratory testing network",
+        "Epidemiology headquarters"
+      ],
+      "summary": "The CDC has paused diagnostic testing for rabies, monkeypox, and over two dozen other infectious diseases during an internal evaluation amid government downsizing.",
+      "sourceUrl": "https://apnews.com/article/cdc-testing-pause-90cad1748a35d3cd68234f37d70036d1",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://dims.apnews.com/dims4/default/1028ec2/2147483647/strip/true/crop/2806x1870+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fab%2F5f%2Fb7f40597f1a7a5293beb65b6545a%2F1ba7e1f52470464d82f419bdac14363f"
+    },
+    {
+      "id": 7,
+      "answer": "Jessica Simpson",
+      "acceptedAnswers": [
+        "Jessica Simpson"
+      ],
+      "clues": [
+        "Pop singer turned entrepreneur",
+        "Fashion brand mogul",
+        "Reality TV pioneer",
+        "Former Newlyweds star",
+        "Texas-born vocalist",
+        "Proactiv spokesperson"
+      ],
+      "summary": "Jessica Simpson appeared on The Masked Singer Season 14 finale, helping reveal the identities of the final contestants and the season winner.",
+      "sourceUrl": "https://variety.com/2026/tv/news/the-masked-singer-season-14-finale-winner-ashlee-simpson-1236704931/",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://variety.com/wp-content/uploads/2026/04/MS-S14_EP1413-Reveal-MB_00937_f-e1775083460600.jpg?w=1000&h=563&crop=1"
+    },
+    {
+      "id": 8,
+      "answer": "Vitamin D",
+      "acceptedAnswers": [
+        "Vitamin D"
+      ],
+      "clues": [
+        "Sunshine nutrient",
+        "Bone health supplement",
+        "Fat-soluble compound",
+        "Calcium absorption aid",
+        "Produced through UV exposure",
+        "Linked to immune function"
+      ],
+      "summary": "New research suggests that adequate Vitamin D levels in midlife may significantly lower the risk of developing dementia years later.",
+      "sourceUrl": "https://scitechdaily.com/?p=515546",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://scitechdaily.com/images/Hand-Holding-Omega-3-Vitamin-Supplement-Capsule.jpg"
+    },
+    {
+      "id": 9,
+      "answer": "The Masked Singer",
+      "acceptedAnswers": [
+        "The Masked Singer",
+        "Masked Singer"
+      ],
+      "clues": [
+        "Fox television competition",
+        "Costume performance show",
+        "Celebrity guessing game",
+        "Panel of judges format",
+        "South Korean franchise origin",
+        "Identity reveal entertainment"
+      ],
+      "summary": "The Masked Singer Season 14 finale aired, revealing the identities of Galaxy Girl, Pugcasso, Cat Witch, and Crane, with Jessica Simpson as a guest.",
+      "sourceUrl": "https://variety.com/2026/tv/news/the-masked-singer-season-14-finale-winner-ashlee-simpson-1236704931/",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://variety.com/wp-content/uploads/2026/04/MS-S14_EP1413-Reveal-MB_00937_f-e1775083460600.jpg?w=1000&h=563&crop=1"
+    },
+    {
+      "id": 10,
+      "answer": "Bravo",
+      "acceptedAnswers": [
+        "Bravo",
+        "Bravo TV"
+      ],
+      "clues": [
+        "NBCUniversal cable network",
+        "Reality television powerhouse",
+        "Home of Housewives franchise",
+        "Andy Cohen's network",
+        "Top Chef broadcaster",
+        "Slice of life programming"
+      ],
+      "summary": "Bravo is facing back-to-back shakeups as The Real Housewives of Miami was paused and a scandal involving Summer House's Amanda Batula and West Wilson rocks the network's fanbase.",
+      "sourceUrl": "http://deadline.com/2026/03/summer-house-amanda-batula-west-wilson-bombshell-bravo-1236770425/",
+      "difficulty": "medium",
+      "region": "us",
+      "imageUrl": "https://deadline.com/wp-content/uploads/2026/03/amanda-batula-westling-wilson-summer-house.jpg?w=1024"
+    }
+  ]
+}
