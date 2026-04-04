@@ -1,0 +1,211 @@
+{
+  "date": "2026-04-05",
+  "puzzles": [
+    {
+      "id": 1,
+      "answer": "Min Aung Hlaing",
+      "acceptedAnswers": [
+        "Min Aung Hlaing"
+      ],
+      "clues": [
+        "Military leader",
+        "Southeast Asian politics",
+        "Coup d'état",
+        "Tatmadaw",
+        "Presidency",
+        "Parliamentary election"
+      ],
+      "summary": "Myanmar's coup leader Min Aung Hlaing has been elected president by the pro-military parliament, winning 429 out of 584 votes cast by MPs.",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/4/3/myanmars-coup-leader-elected-president-by-pro-military-parliament",
+      "difficulty": "hard",
+      "region": "global",
+      "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/04/reuters_69cf5a0c-1775196684.jpg?resize=1920%2C1351"
+    },
+    {
+      "id": 2,
+      "answer": "Blake Lively",
+      "acceptedAnswers": [
+        "Blake Lively"
+      ],
+      "clues": [
+        "Hollywood actress",
+        "Sexual harassment lawsuit",
+        "Federal court case",
+        "Retaliation claims",
+        "Gossip Girl alumna",
+        "Film industry controversy"
+      ],
+      "summary": "A federal judge dismissed Blake Lively's sexual harassment claims against Justin Baldoni related to the film 'It Ends With Us,' but her retaliation claims remain intact.",
+      "sourceUrl": "https://www.wral.com/news/ap/ad7a2-actor-blake-livelys-sexual-harassment-claims-against-actor-justin-baldoni-are-tossed-out/",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://images.wral.com/0d82c8f4-278e-59be-92e1-11f48fe536d7?w=1200&h=630"
+    },
+    {
+      "id": 3,
+      "answer": "Hailee Steinfeld",
+      "acceptedAnswers": [
+        "Hailee Steinfeld"
+      ],
+      "clues": [
+        "Oscar-nominated actress",
+        "New mother",
+        "NFL quarterback spouse",
+        "True Grit breakout star",
+        "Marvel Cinematic Universe",
+        "Sinners cast member"
+      ],
+      "summary": "Actress Hailee Steinfeld and her husband, Buffalo Bills quarterback Josh Allen, announced the birth of their first child, a baby girl.",
+      "sourceUrl": "http://www.hollywoodreporter.com/lifestyle/lifestyle-news/hailee-steinfeld-welcomes-first-child-josh-allen-1236554889/",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://www.hollywoodreporter.com/wp-content/uploads/2025/12/GettyImages-2197472643-H-2025.jpg?w=1296&h=730&crop=1"
+    },
+    {
+      "id": 4,
+      "answer": "CDC",
+      "acceptedAnswers": [
+        "CDC",
+        "Centers for Disease Control and Prevention"
+      ],
+      "clues": [
+        "Public health agency",
+        "Atlanta headquarters",
+        "Infectious disease monitoring",
+        "U.S. federal government",
+        "Epidemiology",
+        "Laboratory diagnostics"
+      ],
+      "summary": "The CDC has paused its diagnostic laboratory testing for rabies, monkeypox, and several other infectious diseases, raising public health concerns.",
+      "sourceUrl": "https://www.nbcnewyork.com/news/national-international/cdc-pauses-testing-rabies-monkeypox/6484894/",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://media.nbcnewyork.com/2026/04/CDC-Panel-Reverses-Call-To-Give-All-Newborns-Hepat-2249518443-Getty.jpg?quality=85&strip=all&resize=1200%2C675"
+    },
+    {
+      "id": 5,
+      "answer": "Paramount",
+      "acceptedAnswers": [
+        "Paramount",
+        "Paramount Global"
+      ],
+      "clues": [
+        "Hollywood studio",
+        "Media conglomerate",
+        "Corporate investigation",
+        "Entertainment industry",
+        "Jeff Shell controversy",
+        "Loose lips allegations"
+      ],
+      "summary": "Paramount executive Jeff Shell's future is uncertain as a law firm investigates allegations of corporate indiscretion at the entertainment giant.",
+      "sourceUrl": "http://deadline.com/2026/04/jeff-shell-exit-talks-paramount-president-1236772662/",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://deadline.com/wp-content/uploads/2026/03/Jeff-Shells.jpg?w=1024"
+    },
+    {
+      "id": 6,
+      "answer": "Pink Moon",
+      "acceptedAnswers": [
+        "Pink Moon",
+        "Full Pink Moon"
+      ],
+      "clues": [
+        "April lunar event",
+        "Nighttime astronomy",
+        "Springtime phenomenon",
+        "Named after wildflowers",
+        "Full illumination phase",
+        "Celestial spectacle"
+      ],
+      "summary": "The April 2026 full moon, known as the 'Pink Moon,' dazzled skywatchers around the world with stunning nighttime displays.",
+      "sourceUrl": "https://www.space.com/stargazing/april-full-moon-2026-spectacular-photos-pink-moon",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://cdn.mos.cms.futurecdn.net/gUycbvatgVufKyBvbLQpAR-1920-80.jpg"
+    },
+    {
+      "id": 7,
+      "answer": "Josh Allen",
+      "acceptedAnswers": [
+        "Josh Allen"
+      ],
+      "clues": [
+        "Buffalo Bills star",
+        "Pro quarterback",
+        "Wyoming alumni",
+        "AFC East athlete",
+        "New father",
+        "Married to an actress"
+      ],
+      "summary": "Buffalo Bills quarterback Josh Allen and actress Hailee Steinfeld announced the birth of their first child, a baby girl.",
+      "sourceUrl": "http://www.hollywoodreporter.com/lifestyle/lifestyle-news/hailee-steinfeld-welcomes-first-child-josh-allen-1236554889/",
+      "difficulty": "medium",
+      "region": "north-america",
+      "imageUrl": "https://www.hollywoodreporter.com/wp-content/uploads/2025/12/GettyImages-2197472643-H-2025.jpg?w=1296&h=730&crop=1"
+    },
+    {
+      "id": 8,
+      "answer": "Iowa State",
+      "acceptedAnswers": [
+        "Iowa State",
+        "Iowa State Cyclones",
+        "Iowa State University"
+      ],
+      "clues": [
+        "Big 12 Conference",
+        "Cyclones athletics",
+        "Ames campus",
+        "Women's basketball program",
+        "Transfer portal news",
+        "Midwestern university"
+      ],
+      "summary": "Star player Audi Crooks has entered the women's basketball transfer portal after three seasons with the Cyclones, marking a major roster change.",
+      "sourceUrl": "https://www.usatoday.com/picture-gallery/sports/ncaab/2026/04/02/audi-crooks-enters-transfer-portal-iowa-state/89442842007/",
+      "difficulty": "medium",
+      "region": "north-america",
+      "imageUrl": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/04/02/USAT/89443128007-usatsi-27789388.jpg?crop=1763,992,x0,y92&width=1763&height=992&format=pjpg&auto=webp"
+    },
+    {
+      "id": 9,
+      "answer": "Google",
+      "acceptedAnswers": [
+        "Google"
+      ],
+      "clues": [
+        "Tech giant",
+        "Alphabet subsidiary",
+        "Mountain View headquarters",
+        "Artificial intelligence research",
+        "Open-source software",
+        "Search engine pioneer"
+      ],
+      "summary": "Google has launched Gemma 4, a new open-source AI model that is both open-weight and open-source, expanding access to powerful language models.",
+      "sourceUrl": "https://mashable.com/article/google-releases-gemma-4-open-ai-model-now-open-source-how-to-try-it",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/00Izl0v2KEWmNh4bZvozfNd/hero-image.fill.size_1200x675.v1775165829.jpg"
+    },
+    {
+      "id": 10,
+      "answer": "Myanmar",
+      "acceptedAnswers": [
+        "Myanmar",
+        "Burma"
+      ],
+      "clues": [
+        "Southeast Asian nation",
+        "Former British colony",
+        "Naypyidaw capital",
+        "Military junta governance",
+        "Rohingya crisis",
+        "ASEAN member state"
+      ],
+      "summary": "Myanmar's military coup leader has been formally elected president by the country's pro-military parliament, consolidating his grip on power.",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/4/3/myanmars-coup-leader-elected-president-by-pro-military-parliament",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/04/reuters_69cf5a0c-1775196684.jpg?resize=1920%2C1351"
+    }
+  ]
+}
