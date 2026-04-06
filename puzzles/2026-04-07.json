@@ -1,0 +1,216 @@
+{
+  "date": "2026-04-07",
+  "puzzles": [
+    {
+      "id": 1,
+      "answer": "Jack Black",
+      "acceptedAnswers": [
+        "Jack Black",
+        "JackBlack"
+      ],
+      "clues": [
+        "American actor",
+        "Comedy films",
+        "Tenacious D",
+        "School of Rock",
+        "Kung Fu Panda voice",
+        "Saturday Night Live host"
+      ],
+      "summary": "Jack Black hosted Saturday Night Live, joined in his monologue by Tina Fey, Jonah Hill, and Melissa McCarthy, making it a star-studded occasion.",
+      "sourceUrl": "http://www.hollywoodreporter.com/tv/tv-news/jack-black-tina-fey-jonah-hill-snl-monologue-1236556031/",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://www.hollywoodreporter.com/wp-content/uploads/2026/04/1.jpg?w=1296&h=730&crop=1"
+    },
+    {
+      "id": 2,
+      "answer": "Cambrian explosion",
+      "acceptedAnswers": [
+        "Cambrian explosion",
+        "Cambrian Explosion"
+      ],
+      "clues": [
+        "Paleontology",
+        "Evolutionary biology",
+        "Fossil record event",
+        "Rapid diversification of life",
+        "Approximately 541 million years ago",
+        "Phyla emergence"
+      ],
+      "summary": "New research suggests complex life forms, including Dune-like sandworms, emerged millions of years before this pivotal event in evolutionary history.",
+      "sourceUrl": "https://www.livescience.com/animals/extinct-species/fossil-site-in-china-reveals-bevy-of-complex-creatures-lived-prior-to-the-cambrian-explosion-including-a-dune-like-sandworm",
+      "difficulty": "hard",
+      "region": "global",
+      "imageUrl": "https://cdn.mos.cms.futurecdn.net/Q52qsnVMtgydVfJc6V2Z9F-1920-80.jpg"
+    },
+    {
+      "id": 3,
+      "answer": "Super Mario",
+      "acceptedAnswers": [
+        "Super Mario",
+        "Mario",
+        "Super Mario Galaxy"
+      ],
+      "clues": [
+        "Nintendo franchise",
+        "Video game character",
+        "Animated film series",
+        "Italian plumber",
+        "Mushroom Kingdom",
+        "Illumination Entertainment"
+      ],
+      "summary": "The Super Mario Galaxy Movie earned $48 million on its opening Friday, making it the biggest one-day haul of 2026 despite receiving poor critical reviews.",
+      "sourceUrl": "https://www.forbes.com/sites/conormurray/2026/04/04/super-mario-galaxy-movie-makes-48-million-on-friday-en-route-to-strong-opening-weekend/",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://imageio.forbes.com/specials-images/imageserve/69d142491e3532769a3dfc03/0x0.jpg?format=jpg&crop=1970,1108,x0,y137,safe&height=900&width=1600&fit=bounds"
+    },
+    {
+      "id": 4,
+      "answer": "LinkedIn",
+      "acceptedAnswers": [
+        "LinkedIn"
+      ],
+      "clues": [
+        "Professional networking",
+        "Microsoft subsidiary",
+        "Job search platform",
+        "Social media for careers",
+        "Founded in 2002",
+        "Browser extension scanning controversy"
+      ],
+      "summary": "An investigation revealed that LinkedIn's hidden JavaScript code secretly scans users' browsers for installed extensions without consent or disclosure in its privacy policy.",
+      "sourceUrl": "https://cybersecuritynews.com/linkedin-code-collects-data/",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "http://cybersecuritynews.com/wp-content/uploads/2026/04/LinkedIn-Code-Collects-Data.webp"
+    },
+    {
+      "id": 5,
+      "answer": "Pam Bondi",
+      "acceptedAnswers": [
+        "Pam Bondi",
+        "Pamela Bondi"
+      ],
+      "clues": [
+        "Former Florida Attorney General",
+        "Republican politician",
+        "U.S. Department of Justice",
+        "Trump administration appointee",
+        "Legal career",
+        "Portrait controversy"
+      ],
+      "summary": "Pam Bondi's portrait was found in the trash shortly after being fired by President Trump as attorney general, a notable detail given she had previously removed her predecessor's portrait.",
+      "sourceUrl": "https://www.al.com/news/2026/04/pam-bondis-portrait-found-in-trash-hours-after-trump-fired-her-as-attorney-general.html",
+      "difficulty": "medium",
+      "region": "us",
+      "imageUrl": "https://www.al.com/resizer/v2/HKT5PUUGPFBJZO3A5M5RSXFLJQ.jpg?auth=deb6f4975f1be3c9ddac33870a65fe61949260b45c0e56b10c8e39d7f4613426&width=1280&smart=true&quality=90"
+    },
+    {
+      "id": 6,
+      "answer": "Kanye West",
+      "acceptedAnswers": [
+        "Kanye West",
+        "Ye",
+        "Kanye"
+      ],
+      "clues": [
+        "Hip-hop artist",
+        "Yeezy fashion brand",
+        "Record producer",
+        "Grammy Award winner",
+        "Controversial public figure",
+        "Chicago-born musician"
+      ],
+      "summary": "Kanye West continues to receive industry support despite ongoing controversies, with critics noting how quickly his past actions are absorbed and monetized.",
+      "sourceUrl": "https://consequence.net/2026/04/kanye-west-apology-redemption/",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://consequence.net/wp-content/uploads/2026/04/Kanye-West.jpeg"
+    },
+    {
+      "id": 7,
+      "answer": "Atlas V",
+      "acceptedAnswers": [
+        "Atlas V",
+        "Atlas 5"
+      ],
+      "clues": [
+        "Expendable launch vehicle",
+        "United Launch Alliance",
+        "Cape Canaveral launches",
+        "Rocket family since 2002",
+        "Centaur upper stage",
+        "Heaviest payload record"
+      ],
+      "summary": "The Atlas V rocket launched its heaviest-ever payload on the LA-05 mission, marking a significant milestone for the venerable launch vehicle.",
+      "sourceUrl": "https://www.space.com/space-exploration/launches-spacecraft/ula-atlas-v-amazon-leo-5-internet-satellite-launch",
+      "difficulty": "hard",
+      "region": "global",
+      "imageUrl": "https://cdn.mos.cms.futurecdn.net/EM7FGtYvmK7kssByyMHchF-2000-80.jpg"
+    },
+    {
+      "id": 8,
+      "answer": "Easter",
+      "acceptedAnswers": [
+        "Easter",
+        "Easter Sunday"
+      ],
+      "clues": [
+        "Christian holiday",
+        "Spring celebration",
+        "Resurrection observance",
+        "Egg hunts",
+        "Sunday religious service",
+        "Grocery store closures"
+      ],
+      "summary": "Easter 2026 is approaching, prompting guides about which stores will be open or closed for the holiday, as families prepare for celebrations and feasts.",
+      "sourceUrl": "https://www.khou.com/article/news/local/grocery-stores-restaurants-open-easter-2026-houston/285-7777d2a6-3df8-4ceb-bbed-e48f0a86f08b",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://media.khou.com/assets/KHOU/images/ca2d1cfb-781d-431a-86ba-4fa3294dc86e/20251119T124857/ca2d1cfb-781d-431a-86ba-4fa3294dc86e_1140x641.jpg"
+    },
+    {
+      "id": 9,
+      "answer": "Longevity",
+      "acceptedAnswers": [
+        "Longevity",
+        "Human longevity"
+      ],
+      "clues": [
+        "Lifespan research",
+        "Genetics and environment",
+        "Aging science",
+        "Centenarian studies",
+        "Public health topic",
+        "Nature versus nurture debate"
+      ],
+      "summary": "A new study resets the longevity discussion by showing genetics and environment play roughly equal roles in determining how long we live, challenging previous research focused on those born in the late 1800s.",
+      "sourceUrl": "https://www.washingtonpost.com/health/2026/04/05/lifespan-longevity-genetics/",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/Z6AV5KWMQ5EFFPEHKDF7VIQRDE.jpg&w=1440"
+    },
+    {
+      "id": 10,
+      "answer": "SNL",
+      "acceptedAnswers": [
+        "SNL",
+        "Saturday Night Live"
+      ],
+      "clues": [
+        "NBC sketch comedy",
+        "Studio 8H",
+        "Weekend Update segment",
+        "Live from New York",
+        "Lorne Michaels creation",
+        "Celebrity hosts weekly"
+      ],
+      "summary": "Saturday Night Live featured Jack Black as host with a star-studded monologue including Tina Fey, Jonah Hill, and Melissa McCarthy, along with musical guest Jack White.",
+      "sourceUrl": "http://www.hollywoodreporter.com/tv/tv-news/jack-black-tina-fey-jonah-hill-snl-monologue-1236556031/",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://www.hollywoodreporter.com/wp-content/uploads/2026/04/1.jpg?w=1296&h=730&crop=1"
+    }
+  ]
+}
