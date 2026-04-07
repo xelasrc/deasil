@@ -1,0 +1,218 @@
+{
+  "date": "2026-04-08",
+  "puzzles": [
+    {
+      "id": 1,
+      "answer": "UCLA",
+      "acceptedAnswers": [
+        "UCLA",
+        "University of California Los Angeles"
+      ],
+      "clues": [
+        "Pac-12 alumni",
+        "Bruins mascot",
+        "Westwood campus",
+        "NCAA Division I athletics",
+        "John Wooden legacy",
+        "Los Angeles university"
+      ],
+      "summary": "UCLA won its first-ever NCAA women's basketball national championship, defeating South Carolina in a dominant performance after falling short in the Final Four the previous season.",
+      "sourceUrl": "https://www.npr.org/2026/04/05/nx-s1-5774557/ucla-ncaa-womens-basketball-champions",
+      "difficulty": "easy",
+      "region": "north-america",
+      "imageUrl": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8008x4505+0+826/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9d%2F17%2F6b6f2b5748ac96553c1666d21aa0%2Fap26095794316003.jpg"
+    },
+    {
+      "id": 2,
+      "answer": "Real Madrid",
+      "acceptedAnswers": [
+        "Real Madrid",
+        "Real Madrid CF"
+      ],
+      "clues": [
+        "Santiago Bernabéu",
+        "La Liga powerhouse",
+        "Los Blancos",
+        "Record Champions League titles",
+        "Spanish football club",
+        "Florentino Pérez presidency"
+      ],
+      "summary": "Real Madrid is set to face Bayern Munich in an upcoming Champions League match, with English referee Michael Oliver appointed to officiate the high-profile fixture.",
+      "sourceUrl": "https://www.bavarianfootballworks.com/bayern-munich-champions-league/185527/english-referee-michael-oliver-appointed-real-madrid-vs-bayern-munich-champions-league-what-stats-say",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://platform.bavarianfootballworks.com/wp-content/uploads/sites/24/2026/04/gettyimages-2269848491.jpg?quality=90&strip=all&crop=0%2C10.748992045214%2C100%2C78.502015909571&w=1200"
+    },
+    {
+      "id": 3,
+      "answer": "Jon Jones",
+      "acceptedAnswers": [
+        "Jon Jones",
+        "Jonathan Jones"
+      ],
+      "clues": [
+        "UFC heavyweight champion",
+        "Mixed martial arts",
+        "Bones nickname",
+        "Light heavyweight record holder",
+        "Controversial MMA career",
+        "Jackson-Wink MMA Academy"
+      ],
+      "summary": "UFC legend Jon Jones was caught on video in a heated road rage confrontation, adding to his long history of off-octagon controversies.",
+      "sourceUrl": "https://nypost.com/2026/04/05/sports/video-ufc-legend-jon-jones-in-heated-road-rage-confrontation/",
+      "difficulty": "medium",
+      "region": "north-america",
+      "imageUrl": "https://nypost.com/wp-content/uploads/sites/2/2026/04/newspress-collage-wv9180p6z-1775410975586.jpg?quality=75&strip=all&1775396634&w=1200"
+    },
+    {
+      "id": 4,
+      "answer": "Bennu",
+      "acceptedAnswers": [
+        "Bennu",
+        "Asteroid Bennu",
+        "101955 Bennu"
+      ],
+      "clues": [
+        "Near-Earth object",
+        "OSIRIS-REx target",
+        "Carbonaceous asteroid",
+        "Sample return mission subject",
+        "Named after Egyptian mythology",
+        "Potentially hazardous object"
+      ],
+      "summary": "Scientists have completed one of the deepest analyses of a sample from asteroid Bennu, revealing new details about how water and organic material interacted during the early solar system's formation.",
+      "sourceUrl": "https://phys.org/news/2026-04-bennu-sample-reveals-newly-asteroid.html",
+      "difficulty": "hard",
+      "region": "global",
+      "imageUrl": "https://scx2.b-cdn.net/gfx/news/hires/2026/bennu-sample-reveals-h.jpg"
+    },
+    {
+      "id": 5,
+      "answer": "Gray whale",
+      "acceptedAnswers": [
+        "Gray whale",
+        "Grey whale"
+      ],
+      "clues": [
+        "Baleen species",
+        "Pacific Ocean migration",
+        "Eschrichtius robustus",
+        "Marine mammal",
+        "Baja California breeding grounds",
+        "Annual migration of thousands of miles"
+      ],
+      "summary": "A juvenile gray whale that had swum 20 miles up Washington state's Willapa River was found dead, with researchers suspecting hunger drove it to seek new feeding grounds.",
+      "sourceUrl": "https://apnews.com/article/gray-whale-dies-washington-river-ba070a4060f2f48f0e4533cc14b944b2",
+      "difficulty": "medium",
+      "region": "north-america",
+      "imageUrl": "https://dims.apnews.com/dims4/default/1702eee/2147483647/strip/true/crop/5191x3459+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff9%2F2b%2Fb942db6706bc509ec43c77d2cdca%2F87a992ab32694a87962b0405b540e916"
+    },
+    {
+      "id": 6,
+      "answer": "Dakota Johnson",
+      "acceptedAnswers": [
+        "Dakota Johnson"
+      ],
+      "clues": [
+        "Fifty Shades franchise star",
+        "Hollywood family dynasty",
+        "Daughter of Don and Melanie",
+        "Suspiria remake cast member",
+        "Madame Web lead",
+        "American actress born in Texas"
+      ],
+      "summary": "Dakota Johnson's new relationship with musician Role Model has drawn attention after her mother Melanie Griffith publicly expressed support, calling the romance 'fabulous.'",
+      "sourceUrl": "https://www.eonline.com/news/1430572/melanie-griffith-on-dakota-johnson-role-model-romance?cmpid=sn-syndicate-aolfeed-us-",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://s.yimg.com/os/en/e__181/c5ce1ff3a46a6a6c7328487fe0a34235"
+    },
+    {
+      "id": 7,
+      "answer": "PEPFAR",
+      "acceptedAnswers": [
+        "PEPFAR",
+        "President's Emergency Plan for AIDS Relief"
+      ],
+      "clues": [
+        "Global health initiative",
+        "George W. Bush legacy program",
+        "HIV/AIDS treatment funding",
+        "Foreign aid program",
+        "Antiretroviral therapy access",
+        "Bipartisan U.S. public health effort"
+      ],
+      "summary": "The Trump administration has been slow to distribute congressionally appropriated funds for global HIV/AIDS work, disrupting programs that have saved millions of lives worldwide.",
+      "sourceUrl": "https://www.npr.org/2026/04/04/nx-s1-5763938/hiv-aids-pepfar-funding-delays-may-shut-down-lifesaving-aid",
+      "difficulty": "hard",
+      "region": "global",
+      "imageUrl": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3911x2200+0+223/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa2%2F56%2F052fc37d4a7694ed998d6e9ebee1%2Fcaspian-portrait2-brighter-0148.jpg"
+    },
+    {
+      "id": 8,
+      "answer": "High-speed rail",
+      "acceptedAnswers": [
+        "High-speed rail",
+        "High speed rail",
+        "HSR"
+      ],
+      "clues": [
+        "Shinkansen technology",
+        "TGV network",
+        "Infrastructure investment",
+        "Alternative to air travel",
+        "200+ mph passenger service",
+        "Transportation policy debate"
+      ],
+      "summary": "A CBS News report examines why the United States has failed to develop high-speed passenger rail systems that are common in countries like Japan, France, and China, citing ballooning costs and delays.",
+      "sourceUrl": "https://www.cbsnews.com/news/why-high-speed-rail-not-tracked-in-us-60-minutes-transcript/",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/04/05/eb3233e7-f202-47b1-ab75-d54fc8395960/thumbnail/1200x630/2462c7f816d3eb5d3b9ec370e14c9169/high-speed-rail-video-wertheim.jpg"
+    },
+    {
+      "id": 9,
+      "answer": "Private credit",
+      "acceptedAnswers": [
+        "Private credit",
+        "Private debt"
+      ],
+      "clues": [
+        "Shadow banking",
+        "Non-bank lending",
+        "Alternative asset class",
+        "Direct lending market",
+        "Financial risk concerns",
+        "Institutional investment trend"
+      ],
+      "summary": "Economist Paul Krugman has raised alarms about the growing private credit market, drawing comparisons to conditions that preceded the 2008 financial crisis and warning of systemic risk.",
+      "sourceUrl": "https://paulkrugman.substack.com/p/private-credit-and-the-new-world",
+      "difficulty": "hard",
+      "region": "global",
+      "imageUrl": "https://substackcdn.com/image/fetch/$s_!MD2i!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faca68c07-a085-4f0f-ad31-8f3cafaeedf8_1429x1429.jpeg"
+    },
+    {
+      "id": 10,
+      "answer": "Bayern Munich",
+      "acceptedAnswers": [
+        "Bayern Munich",
+        "FC Bayern Munich",
+        "FC Bayern München",
+        "Bayern München"
+      ],
+      "clues": [
+        "Allianz Arena",
+        "Bundesliga record champions",
+        "Bavarian football club",
+        "Mia san mia motto",
+        "German football powerhouse",
+        "Champions League perennial contender"
+      ],
+      "summary": "Bayern Munich is preparing for a Champions League clash against Real Madrid, with English referee Michael Oliver—a familiar face to the Bavarian club—appointed to officiate the match.",
+      "sourceUrl": "https://www.bavarianfootballworks.com/bayern-munich-champions-league/185527/english-referee-michael-oliver-appointed-real-madrid-vs-bayern-munich-champions-league-what-stats-say",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://platform.bavarianfootballworks.com/wp-content/uploads/sites/24/2026/04/gettyimages-2269848491.jpg?quality=90&strip=all&crop=0%2C10.748992045214%2C100%2C78.502015909571&w=1200"
+    }
+  ]
+}
