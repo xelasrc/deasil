@@ -1,0 +1,217 @@
+{
+  "date": "2026-04-09",
+  "puzzles": [
+    {
+      "id": 1,
+      "answer": "Vietnam",
+      "acceptedAnswers": [
+        "Vietnam",
+        "Viet Nam"
+      ],
+      "clues": [
+        "Southeast Asian country",
+        "Socialist republic",
+        "Hanoi is the capital",
+        "Pho originated here",
+        "Former French Indochina",
+        "Mekong Delta region"
+      ],
+      "summary": "Vietnam's Communist Party leader To Lam has been unanimously elected as president, consolidating power over both party and state in a move that echoes China's political structure.",
+      "sourceUrl": "https://apnews.com/article/vietnam-china-economy-to-lam-president-9e2e66ff044145f3411617e422424b78",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://dims.apnews.com/dims4/default/310b2d5/2147483647/strip/true/crop/4720x3145+0+93/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F09%2Fc0%2F7b9635894590cbb187e85041382c%2Febce13f8179842d1baaccc517d93dc17"
+    },
+    {
+      "id": 2,
+      "answer": "To Lam",
+      "acceptedAnswers": [
+        "To Lam",
+        "Tô Lâm"
+      ],
+      "clues": [
+        "Southeast Asian political leader",
+        "Former Minister of Public Security",
+        "Communist Party General Secretary",
+        "Consolidated dual leadership roles",
+        "Rose through security apparatus",
+        "Elected head of state in 2026"
+      ],
+      "summary": "To Lam has been elected president of Vietnam while already serving as Communist Party chief, consolidating unprecedented power in a single leader.",
+      "sourceUrl": "https://apnews.com/article/vietnam-china-economy-to-lam-president-9e2e66ff044145f3411617e422424b78",
+      "difficulty": "hard",
+      "region": "global",
+      "imageUrl": "https://dims.apnews.com/dims4/default/310b2d5/2147483647/strip/true/crop/4720x3145+0+93/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F09%2Fc0%2F7b9635894590cbb187e85041382c%2Febce13f8179842d1baaccc517d93dc17"
+    },
+    {
+      "id": 3,
+      "answer": "Taiwan",
+      "acceptedAnswers": [
+        "Taiwan",
+        "Republic of China"
+      ],
+      "clues": [
+        "East Asian island democracy",
+        "Semiconductor manufacturing hub",
+        "Strait separates it from mainland",
+        "Taipei is the capital",
+        "Cross-strait relations",
+        "Home of TSMC"
+      ],
+      "summary": "Taiwan's opposition leader has traveled to China in what she describes as a 'journey for peace,' amid over 75 years of tensions between the two sides.",
+      "sourceUrl": "https://www.politico.com/news/2026/04/07/taiwan-opposition-leader-heads-to-china-in-what-she-calls-a-journey-for-peace-00861280",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F7f%2F82%2Fcd91290e4ff59607586e8cdce439%2Ftaiwan-china-92669.jpg"
+    },
+    {
+      "id": 4,
+      "answer": "RSV",
+      "acceptedAnswers": [
+        "RSV",
+        "Respiratory syncytial virus"
+      ],
+      "clues": [
+        "Common childhood illness",
+        "Causes bronchiolitis in infants",
+        "Seasonal viral infection",
+        "Immunization available for newborns",
+        "Affects the lower airways",
+        "Nirsevimab is a preventive treatment"
+      ],
+      "summary": "RSV is spreading later into the spring than usual in 2026, prompting most U.S. states to extend the immunization window for eligible infants and toddlers.",
+      "sourceUrl": "https://www.cnn.com/2026/04/06/health/rsv-immunization-extended-april",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://media.cnn.com/api/v1/images/stellar/prod/ap25346701613438a.JPG?c=16x9&q=w_800,c_fill"
+    },
+    {
+      "id": 5,
+      "answer": "North Carolina",
+      "acceptedAnswers": [
+        "North Carolina",
+        "UNC",
+        "University of North Carolina"
+      ],
+      "clues": [
+        "Tar Heel State university",
+        "ACC basketball powerhouse",
+        "Chapel Hill campus",
+        "Dean Smith coaching legacy",
+        "Six national championships in men's basketball",
+        "Michael Jordan's alma mater"
+      ],
+      "summary": "Iowa coach Ben McCollum reportedly turned down the opportunity to interview for the head coaching position at North Carolina, one of college basketball's most prestigious programs.",
+      "sourceUrl": "https://247sports.com/college/iowa/article/iowa-basketball-ben-mccollum-turned-down-opportunity-to-interview-for-north-carolina-job-280549083/",
+      "difficulty": "medium",
+      "region": "us",
+      "imageUrl": "https://s3media.247sports.com/Uploads/Assets/647/675/13675647.jpg?width=1200&height=628&crop=1.91:1&fit=cover"
+    },
+    {
+      "id": 6,
+      "answer": "Juno Beach",
+      "acceptedAnswers": [
+        "Juno Beach"
+      ],
+      "clues": [
+        "South Florida coastal town",
+        "Palm Beach County location",
+        "Atlantic Ocean shoreline",
+        "Named shares with a D-Day landing site",
+        "Popular vacation destination",
+        "Known for sea turtle nesting"
+      ],
+      "summary": "A beloved coach and father from Maine tragically drowned while saving his children from rip currents at this South Florida beach during a family vacation.",
+      "sourceUrl": "https://abc7.com/post/ryan-jennings-beloved-coach-father-maine-drowns-saving-children-rip-current-off-juno-beach-florida/18849726/",
+      "difficulty": "hard",
+      "region": "us",
+      "imageUrl": "https://cdn.abcotvs.com/dip/images/18849739_040626-wls-cnn-rip-current-pkg-vid.jpg?w=1600"
+    },
+    {
+      "id": 7,
+      "answer": "Communist Party of China",
+      "acceptedAnswers": [
+        "Communist Party of China",
+        "CPC",
+        "Chinese Communist Party",
+        "CCP"
+      ],
+      "clues": [
+        "World's largest political organization",
+        "Founded in 1921",
+        "Governs the most populous nation",
+        "One-party state ruling body",
+        "Politburo Standing Committee",
+        "Xi Jinping leads this organization"
+      ],
+      "summary": "Vietnam's consolidation of party and state leadership under one person is being compared to the power structure of China's ruling party, drawing renewed attention to the model.",
+      "sourceUrl": "https://apnews.com/article/vietnam-china-economy-to-lam-president-9e2e66ff044145f3411617e422424b78",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://dims.apnews.com/dims4/default/310b2d5/2147483647/strip/true/crop/4720x3145+0+93/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F09%2Fc0%2F7b9635894590cbb187e85041382c%2Febce13f8179842d1baaccc517d93dc17"
+    },
+    {
+      "id": 8,
+      "answer": "Rip current",
+      "acceptedAnswers": [
+        "Rip current",
+        "Rip currents",
+        "Riptide"
+      ],
+      "clues": [
+        "Coastal ocean hazard",
+        "Narrow channel of fast-moving water",
+        "Flows away from shore",
+        "Leading cause of beach drownings",
+        "Swimmers advised to swim parallel to escape",
+        "Often mistaken for undertow"
+      ],
+      "summary": "A Maine father died heroically saving his children from this dangerous ocean phenomenon while vacationing at a Florida beach, highlighting ongoing water safety concerns.",
+      "sourceUrl": "https://abc7.com/post/ryan-jennings-beloved-coach-father-maine-drowns-saving-children-rip-current-off-juno-beach-florida/18849726/",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://cdn.abcotvs.com/dip/images/18849739_040626-wls-cnn-rip-current-pkg-vid.jpg?w=1600"
+    },
+    {
+      "id": 9,
+      "answer": "Ben McCollum",
+      "acceptedAnswers": [
+        "Ben McCollum"
+      ],
+      "clues": [
+        "College basketball head coach",
+        "Hawkeyes program leader",
+        "Iowa City-based mentor",
+        "Turned down a prestigious coaching interview",
+        "Multiple national titles at previous level",
+        "Former NAIA coaching legend"
+      ],
+      "summary": "Iowa basketball coach Ben McCollum made headlines by turning down the opportunity to interview for the prestigious North Carolina head coaching job, affirming his commitment to Iowa.",
+      "sourceUrl": "https://247sports.com/college/iowa/article/iowa-basketball-ben-mccollum-turned-down-opportunity-to-interview-for-north-carolina-job-280549083/",
+      "difficulty": "hard",
+      "region": "us",
+      "imageUrl": "https://s3media.247sports.com/Uploads/Assets/647/675/13675647.jpg?width=1200&height=628&crop=1.91:1&fit=cover"
+    },
+    {
+      "id": 10,
+      "answer": "Hanoi",
+      "acceptedAnswers": [
+        "Hanoi",
+        "Ha Noi"
+      ],
+      "clues": [
+        "Southeast Asian capital city",
+        "Located on the Red River",
+        "Ho Chi Minh Mausoleum site",
+        "One Pillar Pagoda landmark",
+        "Old Quarter historic district",
+        "French colonial architecture"
+      ],
+      "summary": "As Vietnam's seat of government, Hanoi is in the spotlight after the country's National Assembly unanimously elected the Communist Party chief as president, consolidating power.",
+      "sourceUrl": "https://apnews.com/article/vietnam-china-economy-to-lam-president-9e2e66ff044145f3411617e422424b78",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://dims.apnews.com/dims4/default/310b2d5/2147483647/strip/true/crop/4720x3145+0+93/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F09%2Fc0%2F7b9635894590cbb187e85041382c%2Febce13f8179842d1baaccc517d93dc17"
+    }
+  ]
+}
