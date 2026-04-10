@@ -1,0 +1,212 @@
+{
+  "date": "2026-04-11",
+  "puzzles": [
+    {
+      "id": 1,
+      "answer": "Bill Ackman",
+      "acceptedAnswers": [
+        "Bill Ackman",
+        "William Ackman"
+      ],
+      "clues": [
+        "Hedge fund manager",
+        "Pershing Square Capital Management",
+        "Activist investor",
+        "Harvard controversy",
+        "Wall Street billionaire",
+        "Pandemic-era windfall trades"
+      ],
+      "summary": "Bill Ackman is reportedly in talks to launch a new fund that bets on investor complacency, echoing the doomsday trades that earned Pershing Square big returns during the COVID-19 pandemic.",
+      "sourceUrl": "https://www.ft.com/content/70ddffb8-7fdc-437f-a0c5-d11737fd7561?syn-25a6b1a6\\\\u003d1",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F7c787242-b64f-4a74-ab68-f97cc930f1ba.jpg?source=next-barrier-page"
+    },
+    {
+      "id": 2,
+      "answer": "Anne Hathaway",
+      "acceptedAnswers": [
+        "Anne Hathaway"
+      ],
+      "clues": [
+        "Academy Award winner",
+        "Les Misérables star",
+        "The Princess Diaries",
+        "Catwoman portrayal",
+        "Interstellar cast member",
+        "Oscar-winning actress"
+      ],
+      "summary": "Fans spotted an editing error in The Devil Wears Prada 2 trailer where a real-life fan in a New York taxi photobombed Anne Hathaway's scene, going viral online.",
+      "sourceUrl": "https://www.eonline.com/news/1429608/devil-wears-prada-2-trailer-editing-error-with-anne-hathaway",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://akns-images.eonline.com/eol_images/Entire_Site/20250820/e4f4c642-06c2-423c-9c88-ab55b1a8bf99_1755729339.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top"
+    },
+    {
+      "id": 3,
+      "answer": "Cade Cunningham",
+      "acceptedAnswers": [
+        "Cade Cunningham"
+      ],
+      "clues": [
+        "NBA point guard",
+        "2021 first overall draft pick",
+        "Oklahoma State standout",
+        "Detroit franchise player",
+        "Collapsed lung recovery",
+        "Double-double specialist"
+      ],
+      "summary": "Cade Cunningham made an impressive return from a collapsed lung, recording a double-double with 13 points and 10 assists as the Pistons routed the Bucks.",
+      "sourceUrl": "https://www.espn.com/nba/story/_/id/48434381/cade-cunningham-double-double-return-pistons-rout-bucks",
+      "difficulty": "hard",
+      "region": "north-america",
+      "imageUrl": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0409%2Fr1640747_1296x729_16%2D9.jpg"
+    },
+    {
+      "id": 4,
+      "answer": "Gilgo Beach",
+      "acceptedAnswers": [
+        "Gilgo Beach"
+      ],
+      "clues": [
+        "Long Island location",
+        "Serial murder investigation",
+        "Suffolk County crime scene",
+        "New York barrier island",
+        "Bodies discovered along Ocean Parkway",
+        "Rex Heuermann case"
+      ],
+      "summary": "Gilgo Beach suspect Rex Heuermann pleaded guilty and admitted to killing eight women over three decades in one of the most notorious serial murder cases in U.S. history.",
+      "sourceUrl": "https://www.washingtonpost.com/nation/2026/04/08/gilgo-beach-guilty-eight-killings/",
+      "difficulty": "medium",
+      "region": "north-america",
+      "imageUrl": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/WQNA2EMMCIUWYU3YLKSMXXRRFY.jpg&w=1440"
+    },
+    {
+      "id": 5,
+      "answer": "Bitcoin",
+      "acceptedAnswers": [
+        "Bitcoin",
+        "BTC"
+      ],
+      "clues": [
+        "Decentralized digital currency",
+        "Satoshi Nakamoto creation",
+        "Blockchain technology pioneer",
+        "Proof-of-work cryptocurrency",
+        "Limited supply of 21 million",
+        "2009 genesis block"
+      ],
+      "summary": "British cryptographer Adam Back has denied a New York Times report claiming he is Satoshi Nakamoto, the mysterious creator of Bitcoin, reigniting debate about the cryptocurrency's origins.",
+      "sourceUrl": "https://techcrunch.com/2026/04/08/british-cryptographer-adam-back-denies-nyt-report-that-he-is-bitcoin-creator-satoshi-nakamoto/",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2023/04/GettyImages-1088376802-e1682686681720.jpg?resize=1200,675"
+    },
+    {
+      "id": 6,
+      "answer": "Matthew Perry",
+      "acceptedAnswers": [
+        "Matthew Perry"
+      ],
+      "clues": [
+        "Friends sitcom star",
+        "Chandler Bing portrayal",
+        "Canadian-American actor",
+        "The Whole Nine Yards",
+        "Memoir titled 'Friends, Lovers and the Big Terrible Thing'",
+        "Sitcom ensemble cast member"
+      ],
+      "summary": "The so-called 'Ketamine Queen' involved in Matthew Perry's death has been sentenced to 15 years in prison, as legal proceedings related to the actor's passing continue.",
+      "sourceUrl": "https://variety.com/2026/tv/news/ketamine-queen-matthew-perry-sentenced-prison-1236711690/",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://variety.com/wp-content/uploads/2023/11/matthew-perry-2017.jpg?w=999&h=563&crop=1"
+    },
+    {
+      "id": 7,
+      "answer": "North Korea",
+      "acceptedAnswers": [
+        "North Korea",
+        "DPRK"
+      ],
+      "clues": [
+        "Kim dynasty rule",
+        "Pyongyang capital",
+        "Hermit Kingdom",
+        "Korean Demilitarized Zone",
+        "Nuclear weapons program",
+        "38th parallel division"
+      ],
+      "summary": "North Korea launched a second projectile in two days, as Kim Jong Un continues to pursue hard-to-detect missiles that could target the United States and its allies.",
+      "sourceUrl": "https://www.politico.com/news/2026/04/07/north-korea-launches-a-second-projectile-in-2-days-seoul-says-00863252",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F8a%2Ff4%2Fd4873dba4bcb813ebf529c0f9125%2Fnorth-korea-kim-takes-command-analysis-27142.jpg"
+    },
+    {
+      "id": 8,
+      "answer": "Augusta National",
+      "acceptedAnswers": [
+        "Augusta National",
+        "Augusta National Golf Club"
+      ],
+      "clues": [
+        "Green jacket tradition",
+        "Amen Corner",
+        "Georgia golf course",
+        "Magnolia Lane",
+        "Exclusive private club",
+        "Spring major championship venue"
+      ],
+      "summary": "The 2026 Masters tournament is approaching at Augusta National Golf Club, with golf media previewing the top players and storylines to watch at the prestigious event.",
+      "sourceUrl": "https://www.thefriedegg.com/articles/2026-masters-preview-players-storylines",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://cdn.prod.website-files.com/67ab6ef769ff843db623d709/69d5be8fb1576364c51b91ae_masters-preview-SEO.jpg"
+    },
+    {
+      "id": 9,
+      "answer": "Writers Guild of America",
+      "acceptedAnswers": [
+        "Writers Guild of America",
+        "WGA"
+      ],
+      "clues": [
+        "Hollywood labor union",
+        "Screenwriter representation",
+        "2023 strike participants",
+        "Studio contract negotiations",
+        "Entertainment industry collective bargaining",
+        "Health plan provisions"
+      ],
+      "summary": "The Writers Guild of America revealed details of its new tentative agreement with studios and streamers, with the health plan taking precedence as writers held firm on key issues.",
+      "sourceUrl": "http://deadline.com/2026/04/wga-2026-contract-details-studios-1236784944/",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://deadline.com/wp-content/uploads/2026/04/GettyImages-1252539255.jpg?w=1024"
+    },
+    {
+      "id": 10,
+      "answer": "GLP-1",
+      "acceptedAnswers": [
+        "GLP-1",
+        "GLP-1 receptor agonist",
+        "GLP-1 drugs"
+      ],
+      "clues": [
+        "Obesity treatment breakthrough",
+        "Incretin mimetic therapy",
+        "Semaglutide drug class",
+        "Weight loss medication category",
+        "Gastrointestinal side effects",
+        "Diabetes management origin"
+      ],
+      "summary": "A major study of nearly 28,000 people identified genetic variants explaining why obesity drugs work better for some people than others, and which genes raise the risk of gastrointestinal side effects.",
+      "sourceUrl": "https://www.nature.com/articles/d41586-026-01107-5",
+      "difficulty": "hard",
+      "region": "global",
+      "imageUrl": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01107-5/d41586-026-01107-5_52258730.jpg"
+    }
+  ]
+}
