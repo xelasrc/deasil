@@ -1,0 +1,209 @@
+{
+  "date": "2026-04-12",
+  "puzzles": [
+    {
+      "id": 1,
+      "answer": "Frozen Four",
+      "acceptedAnswers": [
+        "Frozen Four",
+        "NCAA Frozen Four"
+      ],
+      "clues": [
+        "College ice hockey",
+        "National championship tournament",
+        "Division I men's competition",
+        "Semifinal and final rounds",
+        "Annual spring sporting event",
+        "Las Vegas host city 2026"
+      ],
+      "summary": "The 2026 Men's Frozen Four college ice hockey tournament is currently underway in Las Vegas, with live coverage of the semifinal and championship games.",
+      "sourceUrl": "https://www.ncaa.com/live-updates/icehockey-men/d1/live-updates-2026-mens-frozen-four-las-vegas",
+      "difficulty": "medium",
+      "region": "north_america",
+      "imageUrl": "https://www.ncaa.com/_flysystem/public-s3/images/2026-04/michigan-denver.jpeg"
+    },
+    {
+      "id": 2,
+      "answer": "Hungary",
+      "acceptedAnswers": [
+        "Hungary"
+      ],
+      "clues": [
+        "Central European nation",
+        "Member of the European Union",
+        "Budapest capital city",
+        "Viktor Orbán's country",
+        "Danube River flows through",
+        "Parliamentary republic"
+      ],
+      "summary": "Hungary is holding national elections, drawing international attention for the complex electoral math and political dynamics at play in this EU member state.",
+      "sourceUrl": "https://www.politico.eu/article/how-watch-hungary-election-like-pro/",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/04/10/GettyImages-1389258928-scaled.jpg"
+    },
+    {
+      "id": 3,
+      "answer": "Malcolm in the Middle",
+      "acceptedAnswers": [
+        "Malcolm in the Middle"
+      ],
+      "clues": [
+        "2000s sitcom",
+        "Bryan Cranston comedy role",
+        "Fox network television show",
+        "Gifted child protagonist",
+        "Frankie Muniz starring vehicle",
+        "Wilkerson family"
+      ],
+      "summary": "Stars of the beloved sitcom reunited to discuss their characters Hal and Lois, revealing that their on-screen relationship endures 20 years after the show's finale.",
+      "sourceUrl": "http://deadline.com/2026/04/malcolm-in-the-middle-bryan-cranston-jane-kaczmarek-good-sex-1236786200/",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://deadline.com/wp-content/uploads/2026/04/176925_0074_V1.jpg?w=1024"
+    },
+    {
+      "id": 4,
+      "answer": "LIV Golf",
+      "acceptedAnswers": [
+        "LIV Golf",
+        "LIV"
+      ],
+      "clues": [
+        "Saudi-backed sports league",
+        "Greg Norman leadership",
+        "Professional tour breakaway",
+        "54-hole format events",
+        "Team-based competition",
+        "PGA Tour rival"
+      ],
+      "summary": "Players from this Saudi-funded golf league had a disastrous opening round at The Masters, with none of their members posting under-par scores on Thursday.",
+      "sourceUrl": "https://www.si.com/golf/masters/good-bad-ugly-masters-disastrous-day-liv-golf-2026",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_80,w_2000,h_1125/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/si/01knt9ysc7stfj85j13m.jpg"
+    },
+    {
+      "id": 5,
+      "answer": "Borderlands",
+      "acceptedAnswers": [
+        "Borderlands"
+      ],
+      "clues": [
+        "Looter shooter franchise",
+        "Gearbox Software creation",
+        "Cel-shaded art style",
+        "Vault hunters",
+        "Pandora setting",
+        "2K Games published"
+      ],
+      "summary": "A surprise mobile version of the popular video game franchise launched unexpectedly, with publisher 2K Games confirming the release was intentional and not an accident.",
+      "sourceUrl": "https://www.forbes.com/sites/paultassi/2026/04/09/2k-says-surprise-borderlands-mobile-game-launch-isnt-an-accident/",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://imageio.forbes.com/specials-images/imageserve/69d7d4ed1fa3aad02abe22f3/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+    },
+    {
+      "id": 6,
+      "answer": "Mediterranean diet",
+      "acceptedAnswers": [
+        "Mediterranean diet"
+      ],
+      "clues": [
+        "Heart-healthy eating pattern",
+        "Olive oil emphasis",
+        "Southern European cuisine inspiration",
+        "Rich in fruits and vegetables",
+        "Whole grains and fish focus",
+        "UNESCO Intangible Cultural Heritage"
+      ],
+      "summary": "A new study suggests that following this specific eating pattern could slow brain aging by 2.5 years, though cheese consumption appears to be a notable exception to the benefits.",
+      "sourceUrl": "https://www.moneytalksnews.com/eating-this-way-may-slow-brain-aging-by-years-but-cheese-is-an-exception-study-finds/",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://www.moneytalksnews.com/workers/images/width=1920,height=1280,fit=crop,gravity=auto/wp-content/uploads/2026/02/13173122/shutterstock_2523317309-scaled.jpg?s=d9e08e61be7ba676d08815cfcf24ee68728d013e93483dd2a9a0d733ae41dd2c"
+    },
+    {
+      "id": 7,
+      "answer": "US Congress",
+      "acceptedAnswers": [
+        "US Congress",
+        "Congress",
+        "United States Congress"
+      ],
+      "clues": [
+        "Capitol Hill legislature",
+        "Bicameral body",
+        "Senate and House of Representatives",
+        "Washington D.C. institution",
+        "Federal lawmaking branch",
+        "Speaker-led lower chamber"
+      ],
+      "summary": "Internal Republican disputes are keeping the legislative body frozen, with Donald Trump largely staying on the sidelines rather than intervening to resolve the intra-party conflicts.",
+      "sourceUrl": "https://www.politico.com/news/2026/04/10/republican-disputes-keeping-congress-frozen-00866504",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fae%2F7c%2F798c53a14c5db9a4ae17ae5fefc9%2Fu-s-congress-21595.jpg"
+    },
+    {
+      "id": 8,
+      "answer": "Bryan Cranston",
+      "acceptedAnswers": [
+        "Bryan Cranston"
+      ],
+      "clues": [
+        "Emmy-winning actor",
+        "Walter White portrayer",
+        "Breaking Bad star",
+        "Tony Award winner",
+        "Hollywood Walk of Fame honoree",
+        "Trumbo lead performer"
+      ],
+      "summary": "Cranston is back in the spotlight as he and his Malcolm in the Middle co-stars discussed the enduring relationship between their beloved sitcom characters Hal and Lois.",
+      "sourceUrl": "http://deadline.com/2026/04/malcolm-in-the-middle-bryan-cranston-jane-kaczmarek-good-sex-1236786200/",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://deadline.com/wp-content/uploads/2026/04/176925_0074_V1.jpg?w=1024"
+    },
+    {
+      "id": 9,
+      "answer": "Las Vegas",
+      "acceptedAnswers": [
+        "Las Vegas"
+      ],
+      "clues": [
+        "Nevada entertainment capital",
+        "The Strip",
+        "Casino resort destination",
+        "Desert metropolis",
+        "Major convention city",
+        "Sports expansion hub"
+      ],
+      "summary": "The city is hosting the 2026 NCAA Men's Frozen Four ice hockey championship, continuing its growing role as a major American sports destination.",
+      "sourceUrl": "https://www.ncaa.com/live-updates/icehockey-men/d1/live-updates-2026-mens-frozen-four-las-vegas",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://www.ncaa.com/_flysystem/public-s3/images/2026-04/michigan-denver.jpeg"
+    },
+    {
+      "id": 10,
+      "answer": "Love on the Spectrum",
+      "acceptedAnswers": [
+        "Love on the Spectrum"
+      ],
+      "clues": [
+        "Reality dating show",
+        "Netflix original series",
+        "Autism-focused programming",
+        "Australian TV origin",
+        "Relationship documentary",
+        "Neurodiversity representation"
+      ],
+      "summary": "Fan-favorite couple Abbey Romeo and David Isaacman from the popular reality series have reportedly split after five years together, ending their relationship over a disagreement.",
+      "sourceUrl": "https://intouchweekly.com/love-on-the-spectrum-couple-abbey-and-david-reportedly-split-after-5-years-together/",
+      "difficulty": "hard",
+      "region": "global",
+      "imageUrl": "https://s.yimg.com/ny/api/res/1.2/.9UNs715q3UftvZmpothMQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/in_touch_weekly_articles_766/d798be0212ba3834e3db5c1ec574e5ca"
+    }
+  ]
+}
