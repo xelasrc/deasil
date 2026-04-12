@@ -1,0 +1,213 @@
+{
+  "date": "2026-04-13",
+  "puzzles": [
+    {
+      "id": 1,
+      "answer": "OpenAI",
+      "acceptedAnswers": [
+        "OpenAI",
+        "Open AI"
+      ],
+      "clues": [
+        "Artificial intelligence company",
+        "San Francisco headquarters",
+        "ChatGPT developer",
+        "Sam Altman leadership",
+        "Nonprofit-to-profit controversy",
+        "Large language models"
+      ],
+      "summary": "OpenAI CEO Sam Altman published a personal blog post responding to a New Yorker investigation and discussing a Molotov cocktail incident, drawing fresh attention to the AI company.",
+      "sourceUrl": "http://www.hollywoodreporter.com/news/general-news/sam-altman-molotov-cocktail-new-yorker-investigation-1236561709/",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://www.hollywoodreporter.com/wp-content/uploads/2026/04/GettyImages-2265992523.jpg?crop=0px%2C288px%2C5466px%2C3059px&resize=1440%2C810"
+    },
+    {
+      "id": 2,
+      "answer": "Sam Altman",
+      "acceptedAnswers": [
+        "Sam Altman",
+        "Samuel Altman"
+      ],
+      "clues": [
+        "Y Combinator former president",
+        "Tech CEO",
+        "AI industry figurehead",
+        "Born in Chicago",
+        "Stanford dropout",
+        "Subject of Ronan Farrow investigation"
+      ],
+      "summary": "Sam Altman confirmed a Molotov cocktail incident at his home and responded publicly to a detailed New Yorker investigation into his leadership and personal history.",
+      "sourceUrl": "http://www.hollywoodreporter.com/news/general-news/sam-altman-molotov-cocktail-new-yorker-investigation-1236561709/",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://www.hollywoodreporter.com/wp-content/uploads/2026/04/GettyImages-2265992523.jpg?crop=0px%2C288px%2C5466px%2C3059px&resize=1440%2C810"
+    },
+    {
+      "id": 3,
+      "answer": "Vineyard Wind",
+      "acceptedAnswers": [
+        "Vineyard Wind"
+      ],
+      "clues": [
+        "Offshore energy project",
+        "Massachusetts coast",
+        "Renewable power generation",
+        "Turbine installation controversy",
+        "GE Renewables partnership dispute",
+        "Atlantic Ocean location"
+      ],
+      "summary": "The developer of a major Massachusetts offshore wind farm filed a lawsuit against GE Renewables to prevent the turbine manufacturer from abandoning the project.",
+      "sourceUrl": "https://apnews.com/article/offshore-wind-energy-climate-vineyard-wind-d4af076fa15263c3e6a4611f3f7b109b",
+      "difficulty": "hard",
+      "region": "us",
+      "imageUrl": "https://dims.apnews.com/dims4/default/4d717b2/2147483647/strip/true/crop/6381x4252+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F70%2F34%2Ff6b471833104ebfcdd233acc773c%2F98bde1dfba384f19a73cbe8c0ab0374d"
+    },
+    {
+      "id": 4,
+      "answer": "Eric Swalwell",
+      "acceptedAnswers": [
+        "Eric Swalwell",
+        "Swalwell"
+      ],
+      "clues": [
+        "U.S. House of Representatives member",
+        "East Bay politician",
+        "California gubernatorial candidate",
+        "Former impeachment manager",
+        "Intelligence Committee member",
+        "San Francisco Chronicle report subject"
+      ],
+      "summary": "California Rep. Eric Swalwell denied sexual assault allegations reported by the San Francisco Chronicle and refused to drop out of the state's gubernatorial race.",
+      "sourceUrl": "https://abc7news.com/post/california-rep-eric-swalwell-asked-resign-sexual-assault-allegations-following-san-francisco-chronicle-report/18868133/",
+      "difficulty": "hard",
+      "region": "us",
+      "imageUrl": "https://cdn.abcotvs.com/dip/images/18868409_AP25260580559423.jpg?w=1600"
+    },
+    {
+      "id": 5,
+      "answer": "Offset",
+      "acceptedAnswers": [
+        "Offset",
+        "Kiari Cephus"
+      ],
+      "clues": [
+        "Hip-hop artist",
+        "Former Migos member",
+        "Atlanta music scene",
+        "Married to Cardi B",
+        "Shot outside Seminole Hard Rock",
+        "Released from hospital"
+      ],
+      "summary": "Rapper Offset was released from the hospital after being shot outside a Florida casino following a fight at the Seminole Hard Rock in Hollywood.",
+      "sourceUrl": "https://apnews.com/article/offset-migos-rapper-hospital-shooting-811c286d36e79aadae90713f1a55f359",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://dims.apnews.com/dims4/default/a152680/2147483647/strip/true/crop/3936x2623+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F11%2Fe8%2Fc686318d84661b669e9672bf7a93%2Fe84ef5abc6e24d10b2b5537113cca77f"
+    },
+    {
+      "id": 6,
+      "answer": "Prince Harry",
+      "acceptedAnswers": [
+        "Prince Harry",
+        "Harry",
+        "Duke of Sussex"
+      ],
+      "clues": [
+        "British royal family member",
+        "Duke of Sussex",
+        "Montecito resident",
+        "Spare memoir author",
+        "Sentebale co-founder",
+        "Diana's younger son"
+      ],
+      "summary": "Prince Harry is being sued for defamation by Sentebale, a charity he co-founded in Africa to honor his late mother Princess Diana, after he stepped down as patron.",
+      "sourceUrl": "https://wtop.com/world/2026/04/britains-prince-harry-sued-for-defamation-by-african-charity-he-co-founded/",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://wtop.com/wp-content/uploads/2025/04/Britain_Royals_46481-scaled.jpg"
+    },
+    {
+      "id": 7,
+      "answer": "Sentebale",
+      "acceptedAnswers": [
+        "Sentebale"
+      ],
+      "clues": [
+        "African charity organization",
+        "Founded in 2006",
+        "Supports children with HIV/AIDS",
+        "Lesotho-based origins",
+        "Named after a forget-me-not flower",
+        "Royal co-founder"
+      ],
+      "summary": "The charity Sentebale, co-founded by Prince Harry in Africa, has filed a defamation lawsuit against him after he departed as patron.",
+      "sourceUrl": "https://wtop.com/world/2026/04/britains-prince-harry-sued-for-defamation-by-african-charity-he-co-founded/",
+      "difficulty": "hard",
+      "region": "global",
+      "imageUrl": "https://wtop.com/wp-content/uploads/2025/04/Britain_Royals_46481-scaled.jpg"
+    },
+    {
+      "id": 8,
+      "answer": "Peru",
+      "acceptedAnswers": [
+        "Peru"
+      ],
+      "clues": [
+        "South American country",
+        "Lima capital city",
+        "Andes mountain range",
+        "Machu Picchu location",
+        "Presidential election Sunday",
+        "Diaspora voting in Utah"
+      ],
+      "summary": "Peru is holding a presidential election, with Peruvians abroad, including in Utah, casting ballots at international polling places.",
+      "sourceUrl": "https://www.ksl.com/article/51481616/peruvians-in-utah-will-count-among-the-voters-weighing-in-sunday-in-perus-presidential-election",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://img.ksl.com/slc/3152/315223/31522351.jpeg?filter=kslv2/responsive_story_lg"
+    },
+    {
+      "id": 9,
+      "answer": "Amazon Kindle",
+      "acceptedAnswers": [
+        "Amazon Kindle",
+        "Kindle"
+      ],
+      "clues": [
+        "E-reader device",
+        "Digital bookstore ecosystem",
+        "E-ink display technology",
+        "Whispersync feature",
+        "BookTok discussions",
+        "Competing with Kobo"
+      ],
+      "summary": "Amazon Kindle users are reportedly experiencing device issues, prompting some BookTok creators to consider switching to Kobo e-readers.",
+      "sourceUrl": "https://mashable.com/article/should-you-switch-to-a-kobo-kindle-discontinuation",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/05Y7C48wphVrUYhZYi2fxGS/hero-image.fill.size_1200x675.v1775845959.png"
+    },
+    {
+      "id": 10,
+      "answer": "Prince of Persia",
+      "acceptedAnswers": [
+        "Prince of Persia",
+        "The Rogue Prince of Persia"
+      ],
+      "clues": [
+        "Video game franchise",
+        "Ubisoft property",
+        "Platformer genre",
+        "Sands of Time legacy",
+        "Roguelite gameplay",
+        "Physical release on Nintendo consoles"
+      ],
+      "summary": "The Rogue Prince of Persia received a physical release on Nintendo Switch 1 and Switch 2, with standard and Immortal editions now available.",
+      "sourceUrl": "https://www.nintendolife.com/news/2026/04/the-rogue-prince-of-persia-physical-release-now-available-on-switch-1-and-2",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://images.nintendolife.com/c6a28b50974d7/large.jpg"
+    }
+  ]
+}
