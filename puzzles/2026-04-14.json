@@ -1,0 +1,214 @@
+{
+  "date": "2026-04-14",
+  "puzzles": [
+    {
+      "id": 1,
+      "answer": "Justin Bieber",
+      "acceptedAnswers": [
+        "Justin Bieber",
+        "Bieber"
+      ],
+      "clues": [
+        "Canadian pop star",
+        "Teen idol turned adult artist",
+        "Grammy Award winner",
+        "Purpose and Changes albums",
+        "Married to Hailey Baldwin",
+        "Discovered on YouTube"
+      ],
+      "summary": "Justin Bieber is trending after TMZ ran a feature comparing his looks over the years, sparking discussion about his appearance and style evolution.",
+      "sourceUrl": "https://www.tmz.com/2026/04/12/justin-bieber-good-genes-or-good-docs/",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://imagez.tmz.com/image/60/16by9/2026/04/07/605bfb48d50a46c88c94b6920fc66ca3_xl.jpg"
+    },
+    {
+      "id": 2,
+      "answer": "UFC",
+      "acceptedAnswers": [
+        "UFC",
+        "Ultimate Fighting Championship"
+      ],
+      "clues": [
+        "Mixed martial arts promotion",
+        "Headquartered in Las Vegas",
+        "Owned by Endeavor Group",
+        "Octagon competition",
+        "Pay-per-view events",
+        "Dana White's organization"
+      ],
+      "summary": "UFC 327 took place in Miami where Carlos Ulberg won the light heavyweight title with a first-round knockout over Jiri Prochazka, with President Trump in attendance.",
+      "sourceUrl": "https://www.aljazeera.com/sports/2026/4/12/ufc-327-ulberg-wins-light-heavyweight-belt-with-knockout-in-front-of-trump",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/04/AFP__20260412__2270933113__v1__HighRes__Ufc327ProchazkaVUlberg-1775972618.jpg?resize=1920%2C1440"
+    },
+    {
+      "id": 3,
+      "answer": "Coachella",
+      "acceptedAnswers": [
+        "Coachella",
+        "Coachella Valley Music and Arts Festival"
+      ],
+      "clues": [
+        "Annual desert music festival",
+        "Held in Indio, California",
+        "Polo Grounds venue",
+        "Multi-stage outdoor event",
+        "Famous for celebrity sightings",
+        "April weekend festival"
+      ],
+      "summary": "The 2026 Coachella festival kicked off with a headlining performance by Sabrina Carpenter and surprise guests, though strong winds forced the cancellation of DJ Anyma's set.",
+      "sourceUrl": "https://www.bbc.com/news/articles/cpwjnvrpn8eo",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/ff8a/live/54b67970-35ba-11f1-abb0-49ba9f510e0d.jpg"
+    },
+    {
+      "id": 4,
+      "answer": "OpenAI",
+      "acceptedAnswers": [
+        "OpenAI"
+      ],
+      "clues": [
+        "Artificial intelligence research lab",
+        "Created ChatGPT",
+        "Sam Altman leads this company",
+        "San Francisco-based tech firm",
+        "GPT model developer",
+        "Microsoft-backed startup"
+      ],
+      "summary": "The alleged firebomber who targeted OpenAI CEO Sam Altman's home reportedly wrote about fears that AI would end humanity, highlighting tensions around AI safety.",
+      "sourceUrl": "https://www.sfchronicle.com/crime/article/sam-altman-openai-daniel-alejandro-moreno-gama-22201211.php",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://s.hdnux.com/photos/01/65/74/56/30919557/5/rawImage.jpg"
+    },
+    {
+      "id": 5,
+      "answer": "NBA",
+      "acceptedAnswers": [
+        "NBA",
+        "National Basketball Association"
+      ],
+      "clues": [
+        "Professional basketball league",
+        "30 teams across North America",
+        "Regular season ends in April",
+        "Features Eastern and Western conferences",
+        "Commissioner Adam Silver",
+        "Playoffs follow 82-game schedule"
+      ],
+      "summary": "The NBA regular season finale featured a 15-game slate on Sunday that determined 10 of the 20 postseason seeds heading into the playoffs.",
+      "sourceUrl": "https://www.nba.com/news/playoffs-scenarios-abound-for-final-sunday-of-nba-season",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://cdn.nba.com/manage/2026/04/GettyImages-2269967502-1-scaled.jpg"
+    },
+    {
+      "id": 6,
+      "answer": "Hubble tension",
+      "acceptedAnswers": [
+        "Hubble tension",
+        "Hubble constant",
+        "Hubble Tension"
+      ],
+      "clues": [
+        "Cosmological measurement discrepancy",
+        "Universe expansion rate puzzle",
+        "Conflict between early and late universe data",
+        "Modern physics unsolved problem",
+        "Related to cosmic distance ladder",
+        "Challenges standard model of cosmology"
+      ],
+      "summary": "Astronomers have produced one of the most precise measurements of the local Universe's expansion rate, yet the result deepens the significant discrepancy known as a major challenge in modern cosmology.",
+      "sourceUrl": "https://noirlab.edu/public/news/noirlab2611/",
+      "difficulty": "hard",
+      "region": "global",
+      "imageUrl": "http://storage.noirlab.edu/media/archives/images/screen/noirlab2611a.jpg"
+    },
+    {
+      "id": 7,
+      "answer": "Sabrina Carpenter",
+      "acceptedAnswers": [
+        "Sabrina Carpenter"
+      ],
+      "clues": [
+        "American pop singer and actress",
+        "Former Disney Channel star",
+        "Girl Meets World cast member",
+        "Espresso hit single",
+        "Short n' Sweet album",
+        "Performed at major 2026 festival"
+      ],
+      "summary": "Sabrina Carpenter headlined the opening night of Coachella 2026, bringing surprise guests to the stage in a highly anticipated performance.",
+      "sourceUrl": "https://www.bbc.com/news/articles/cpwjnvrpn8eo",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/ff8a/live/54b67970-35ba-11f1-abb0-49ba9f510e0d.jpg"
+    },
+    {
+      "id": 8,
+      "answer": "Eric Swalwell",
+      "acceptedAnswers": [
+        "Eric Swalwell",
+        "Swalwell"
+      ],
+      "clues": [
+        "Democratic U.S. Representative",
+        "California politician",
+        "Former presidential candidate",
+        "House Intelligence Committee member",
+        "Gubernatorial contender",
+        "Bay Area congressman"
+      ],
+      "summary": "The Manhattan district attorney is investigating abuse claims against Eric Swalwell, a high-profile Democrat and leading contender in California's governor race, which he has firmly denied.",
+      "sourceUrl": "https://www.bbc.com/news/articles/c7vq0jnn0yro",
+      "difficulty": "hard",
+      "region": "us",
+      "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/5bc1/live/d5efc2d0-35ec-11f1-8447-95c5e97e3482.jpg"
+    },
+    {
+      "id": 9,
+      "answer": "The Dark Knight Rises",
+      "acceptedAnswers": [
+        "The Dark Knight Rises",
+        "Dark Knight Rises"
+      ],
+      "clues": [
+        "2012 superhero film",
+        "Christopher Nolan directed",
+        "Bane as main villain",
+        "Gotham City setting",
+        "Tom Hardy and Christian Bale starred",
+        "Final installment of a trilogy"
+      ],
+      "summary": "Actor John Nolan, who appeared in The Dark Knight Rises and the TV series Person of Interest, has passed away at age 87.",
+      "sourceUrl": "http://deadline.com/2026/04/john-nolan-dies-87-1236858232/",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://deadline.com/wp-content/uploads/2026/04/GettyImages-496198276.jpg?w=1024"
+    },
+    {
+      "id": 10,
+      "answer": "HPV",
+      "acceptedAnswers": [
+        "HPV",
+        "Human papillomavirus"
+      ],
+      "clues": [
+        "Sexually transmitted infection",
+        "Linked to cervical cancer",
+        "Vaccine available since 2006",
+        "Most common STI worldwide",
+        "Can cause genital warts",
+        "Gardasil provides protection"
+      ],
+      "summary": "A Florida woman's story went viral after she was diagnosed with multiple cancers linked to the virus after learning her husband of 30 years had been unfaithful, raising awareness about the infection and vaccination.",
+      "sourceUrl": "https://people.com/woman-diagnosed-with-vulvar-cervical-anal-cancer-after-learning-her-husband-of-30-years-had-cheated-on-her-11943715",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://people.com/thmb/och3ERnpQiSkuFa95E30GU3Dits=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(749x0:751x2)/Eileen-McGill-Fox-1-040926-79c4210c54564334850f010660e983b2.jpg"
+    }
+  ]
+}
