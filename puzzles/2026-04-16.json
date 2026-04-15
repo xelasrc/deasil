@@ -1,0 +1,217 @@
+{
+  "date": "2026-04-16",
+  "puzzles": [
+    {
+      "id": 1,
+      "answer": "Evergrande",
+      "acceptedAnswers": [
+        "Evergrande",
+        "China Evergrande",
+        "China Evergrande Group"
+      ],
+      "clues": [
+        "Real estate conglomerate",
+        "Shenzhen-listed company",
+        "Debt crisis in 2021",
+        "Founded by Hui Ka Yan",
+        "Property sector collapse",
+        "Offshore bond default"
+      ],
+      "summary": "China Evergrande Group's founder has pleaded guilty to fraud and bribery charges in a Chinese court, marking the final chapter in the downfall of the property giant that symbolized China's real estate boom and bust.",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-04-14/china-evergrande-s-billionaire-founder-pleads-guilty-to-fraud",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ifziKi_ly3uA/v0/1200x800.jpg"
+    },
+    {
+      "id": 2,
+      "answer": "Shigella",
+      "acceptedAnswers": [
+        "Shigella",
+        "Shigellosis"
+      ],
+      "clues": [
+        "Bacterial pathogen",
+        "Causes dysentery",
+        "Fecal-oral transmission",
+        "Antibiotic-resistant superbug",
+        "Gram-negative rod",
+        "Gastrointestinal infection"
+      ],
+      "summary": "Health officials are warning that Shigella bacteria are increasingly resistant to all easily available antibiotic treatments, making this diarrhea-causing superbug a growing public health concern.",
+      "sourceUrl": "https://gizmodo.com/a-diarrhea-causing-superbug-is-on-the-rise-health-officials-warn-2000745651",
+      "difficulty": "hard",
+      "region": "global",
+      "imageUrl": "https://gizmodo.com/app/uploads/2026/04/Shigella-bacteria-1200x675.jpg"
+    },
+    {
+      "id": 3,
+      "answer": "Cygnus",
+      "acceptedAnswers": [
+        "Cygnus",
+        "Cygnus spacecraft",
+        "Northrop Grumman Cygnus"
+      ],
+      "clues": [
+        "Automated cargo vehicle",
+        "Named after a constellation",
+        "Resupply missions to the ISS",
+        "Built by a major defense contractor",
+        "Expendable spacecraft",
+        "Launched on Antares or Falcon 9"
+      ],
+      "summary": "Northrop Grumman's Cygnus XL cargo spacecraft, named S.S. Steven R. Nagel, successfully arrived at the International Space Station after robotic capture on April 13, 2026.",
+      "sourceUrl": "https://www.space.com/space-exploration/international-space-station/northrop-grumman-cygnus-cargo-craft-arrives-at-space-station",
+      "difficulty": "hard",
+      "region": "global",
+      "imageUrl": "https://cdn.mos.cms.futurecdn.net/nPVCuhYb5jZ6Hkvu7vCCNY-1920-80.jpg"
+    },
+    {
+      "id": 4,
+      "answer": "HIV",
+      "acceptedAnswers": [
+        "HIV",
+        "Human Immunodeficiency Virus"
+      ],
+      "clues": [
+        "Retrovirus",
+        "Attacks CD4 cells",
+        "Managed with antiretroviral therapy",
+        "Pandemic since the 1980s",
+        "Causes AIDS if untreated",
+        "Transmitted through bodily fluids"
+      ],
+      "summary": "A 63-year-old Norwegian man known as the 'Oslo patient' has achieved rare long-term remission of the virus after receiving a stem cell transplant from his brother, joining a tiny group of people effectively cured.",
+      "sourceUrl": "https://www.sciencealert.com/sibling-stem-cell-transplant-leads-to-rare-hiv-remission-in-oslo-patient",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://www.sciencealert.com/images/2026/04/HIVVirus.jpg"
+    },
+    {
+      "id": 5,
+      "answer": "FACE Act",
+      "acceptedAnswers": [
+        "FACE Act",
+        "Freedom of Access to Clinic Entrances Act"
+      ],
+      "clues": [
+        "Federal legislation from 1994",
+        "Protects reproductive health facilities",
+        "Prohibits obstruction and threats",
+        "Applies to places of worship too",
+        "Enforced by the Department of Justice",
+        "Civil rights statute"
+      ],
+      "summary": "The DOJ has fired at least four prosecutors who were involved in enforcing this federal law during the Biden administration, including a longtime Civil Rights Division attorney who had been placed on leave.",
+      "sourceUrl": "https://www.cbsnews.com/news/doj-fires-4-prosecutors-face-act-biden-administration/",
+      "difficulty": "hard",
+      "region": "us",
+      "imageUrl": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/01/13/a6e87d53-4024-496e-a644-5548e137ccd3/thumbnail/1200x630/9505bc8ded9ff2aabecb9e731a5e8027/ap22026190375374.jpg"
+    },
+    {
+      "id": 6,
+      "answer": "Motorola Razr",
+      "acceptedAnswers": [
+        "Motorola Razr",
+        "Razr",
+        "Razr Fold"
+      ],
+      "clues": [
+        "Iconic flip phone brand revival",
+        "Lenovo subsidiary product",
+        "Foldable smartphone",
+        "Competes with Galaxy Z series",
+        "Originally launched in 2004",
+        "Android device"
+      ],
+      "summary": "Motorola has released its first book-style foldable phone, the Razr Fold, internationally with significant launch discounts, competing directly with Samsung and Google's foldable offerings.",
+      "sourceUrl": "https://www.notebookcheck.net/New-ultra-premium-foldable-released-internationally-with-big-launch-discounts.1272676.0.html",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/razr-fold-fifa-edition-kv.jpg"
+    },
+    {
+      "id": 7,
+      "answer": "Scotland",
+      "acceptedAnswers": [
+        "Scotland"
+      ],
+      "clues": [
+        "Part of the United Kingdom",
+        "Home to Edinburgh and Glasgow",
+        "Highland culture",
+        "Neolithic sites like Skara Brae",
+        "Ancient Celtic heritage",
+        "North of Hadrian's Wall"
+      ],
+      "summary": "DNA analysis of Stone Age skeletons buried in Scottish tombs has revealed networks of family relationships among male relatives, shedding new light on how Neolithic communities organized their burial practices.",
+      "sourceUrl": "https://www.livescience.com/archaeology/stone-age-tombs-in-scotland-reveal-webs-of-descent-among-male-relatives",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://cdn.mos.cms.futurecdn.net/Lq2Scoqf7mKN6YZLowN3iY-1379-80.png"
+    },
+    {
+      "id": 8,
+      "answer": "Drew Sidora",
+      "acceptedAnswers": [
+        "Drew Sidora",
+        "Drew Sidora Jordan"
+      ],
+      "clues": [
+        "Reality television personality",
+        "Actress and singer",
+        "Bravo network cast member",
+        "Appeared in 'Step Up'",
+        "Atlanta-based housewife",
+        "Contentious marital split"
+      ],
+      "summary": "Real Housewives of Atlanta star Drew Sidora's monthly income was revealed in court documents as part of her contentious divorce proceedings.",
+      "sourceUrl": "https://www.tmz.com/2026/04/14/drew-sidora-monthly-income-revealed-in-divorce-battle/",
+      "difficulty": "hard",
+      "region": "us",
+      "imageUrl": "https://imagez.tmz.com/image/7e/16by9/2026/04/13/7e0a5d03b149406081201f1089ec7d50_xl.jpg"
+    },
+    {
+      "id": 9,
+      "answer": "Ramsey County",
+      "acceptedAnswers": [
+        "Ramsey County",
+        "Ramsey County Minnesota"
+      ],
+      "clues": [
+        "Located in the Twin Cities metro",
+        "County seat is Saint Paul",
+        "Named after Alexander Ramsey",
+        "State of 10,000 Lakes",
+        "Upper Midwest jurisdiction",
+        "Home to Minnesota's capital city"
+      ],
+      "summary": "Officials in this Minnesota county have launched a criminal investigation into federal immigration agents' removal of ChongLy Thao, a US citizen, from his home, treating it as a possible kidnapping case.",
+      "sourceUrl": "https://www.cnn.com/2026/04/13/us/chongly-thao-minnesota-investigation-kidnapping",
+      "difficulty": "hard",
+      "region": "us",
+      "imageUrl": "https://media.cnn.com/api/v1/images/stellar/prod/2026-01-18t214722z-1458274641-rc2w3jaj8vj4-rtrmadp-3-usa-trump-minnesota.jpg?c=16x9&q=w_800,c_fill"
+    },
+    {
+      "id": 10,
+      "answer": "Blackmagic Design",
+      "acceptedAnswers": [
+        "Blackmagic Design",
+        "Blackmagic"
+      ],
+      "clues": [
+        "Australian technology company",
+        "DaVinci Resolve creator",
+        "Professional video equipment manufacturer",
+        "ATEM switcher product line",
+        "Cinema camera producer",
+        "Post-production software developer"
+      ],
+      "summary": "The company announced the URSA Cine 12K LF 100G, a new cinema camera with 100G Ethernet capability for high-frame-rate live production output up to 440 fps.",
+      "sourceUrl": "https://www.newsshooter.com/2026/04/13/blackmagic-design-announces-blackmagic-ursa-cine-12k-lf-100g/",
+      "difficulty": "hard",
+      "region": "global",
+      "imageUrl": "https://www.newsshooter.com/wp-content/uploads/2026/04/1-blackmagic-ursa-cine-12k-lf-100g@2x.jpg"
+    }
+  ]
+}
