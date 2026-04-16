@@ -1,0 +1,209 @@
+{
+  "date": "2026-04-17",
+  "puzzles": [
+    {
+      "id": 1,
+      "answer": "Adam Driver",
+      "acceptedAnswers": [
+        "Adam Driver"
+      ],
+      "clues": [
+        "Star Wars sequel trilogy",
+        "Marriage Story",
+        "Former U.S. Marine",
+        "Juilliard graduate",
+        "Kylo Ren portrayer",
+        "Girls HBO series"
+      ],
+      "summary": "Lena Dunham's new memoir 'Famesick' details her tumultuous relationship with Adam Driver, including an incident where he allegedly hurled a chair in her direction during their work on HBO's Girls.",
+      "sourceUrl": "http://www.thecut.com/article/what-does-lena-dunham-say-about-adam-driver-famesick.html",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://pyxis.nymag.com/v1/imgs/b8d/872/8773b55a065f0efdbd1190539e33759b73-lena-dunham-adam-driver.1x.rsocial.w1200.jpg"
+    },
+    {
+      "id": 2,
+      "answer": "Lena Dunham",
+      "acceptedAnswers": [
+        "Lena Dunham"
+      ],
+      "clues": [
+        "Memoir author",
+        "HBO showrunner",
+        "Oberlin College alumna",
+        "Tiny Furniture director",
+        "Feminist voice in media",
+        "Brooklyn-based filmmaker"
+      ],
+      "summary": "Lena Dunham has released her new memoir 'Famesick,' in which she candidly discusses her personal and professional relationships in Hollywood, including her complicated dynamic with Adam Driver.",
+      "sourceUrl": "http://www.thecut.com/article/what-does-lena-dunham-say-about-adam-driver-famesick.html",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://pyxis.nymag.com/v1/imgs/b8d/872/8773b55a065f0efdbd1190539e33759b73-lena-dunham-adam-driver.1x.rsocial.w1200.jpg"
+    },
+    {
+      "id": 3,
+      "answer": "WordPress",
+      "acceptedAnswers": [
+        "WordPress"
+      ],
+      "clues": [
+        "Open-source CMS",
+        "Automattic product",
+        "PHP-based platform",
+        "Blogging software",
+        "Web publishing tool with themes and extensions",
+        "Powers over 40% of websites"
+      ],
+      "summary": "Dozens of WordPress plug-ins were allegedly hijacked after being sold to a new corporate owner, with backdoors planted to push malware to thousands of websites.",
+      "sourceUrl": "https://techcrunch.com/2026/04/14/someone-planted-backdoors-in-dozens-of-wordpress-plugins-used-in-thousands-of-websites/",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2024/09/wordpress-v2.jpg?resize=1200,675"
+    },
+    {
+      "id": 4,
+      "answer": "Shigella",
+      "acceptedAnswers": [
+        "Shigella",
+        "Shigellosis"
+      ],
+      "clues": [
+        "Gram-negative bacterium",
+        "Causes dysentery",
+        "Fecal-oral transmission",
+        "Antibiotic-resistant pathogen",
+        "Gastrointestinal infection",
+        "Named after a Japanese microbiologist"
+      ],
+      "summary": "Health officials are warning that Shigella bacteria are increasingly resistant to all easily available antibiotics, making this diarrhea-causing superbug a growing public health threat.",
+      "sourceUrl": "https://gizmodo.com/a-diarrhea-causing-superbug-is-on-the-rise-health-officials-warn-2000745651",
+      "difficulty": "hard",
+      "region": "global",
+      "imageUrl": "https://gizmodo.com/app/uploads/2026/04/Shigella-bacteria-1200x675.jpg"
+    },
+    {
+      "id": 5,
+      "answer": "Camp Mystic",
+      "acceptedAnswers": [
+        "Camp Mystic"
+      ],
+      "clues": [
+        "Texas Hill Country institution",
+        "Summer youth program",
+        "Guadalupe River location",
+        "Founded in 1920s",
+        "Girls' residential retreat",
+        "Subject of flood disaster testimony"
+      ],
+      "summary": "A Camp Mystic official testified about the deadly July 4 flood that killed 28 people, acknowledging staff should have acted sooner to evacuate despite not seeing flood warnings issued the day before.",
+      "sourceUrl": "http://www.texastribune.org/2026/04/14/texas-camp-mystic-flood-civil-lawsuit-hearing-director-testimony/",
+      "difficulty": "hard",
+      "region": "us",
+      "imageUrl": "https://i0.wp.com/www.texastribune.org/wp-content/uploads/2026/04/camp_mystic_hearing_2_mlc_0204.jpg?fit=2560%2C1707&quality=100&ssl=1&w=1200&h=630"
+    },
+    {
+      "id": 6,
+      "answer": "Malware",
+      "acceptedAnswers": [
+        "Malware"
+      ],
+      "clues": [
+        "Cybersecurity threat",
+        "Trojan horses and worms",
+        "Antivirus target",
+        "Malicious software category",
+        "Can include ransomware",
+        "Digital payload"
+      ],
+      "summary": "A supply chain attack involving dozens of WordPress plugins has been discovered, where backdoors were planted to push malicious software to thousands of websites after the plugins changed ownership.",
+      "sourceUrl": "https://techcrunch.com/2026/04/14/someone-planted-backdoors-in-dozens-of-wordpress-plugins-used-in-thousands-of-websites/",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2024/09/wordpress-v2.jpg?resize=1200,675"
+    },
+    {
+      "id": 7,
+      "answer": "Antibiotic resistance",
+      "acceptedAnswers": [
+        "Antibiotic resistance",
+        "Antimicrobial resistance",
+        "AMR"
+      ],
+      "clues": [
+        "WHO global health priority",
+        "Superbug phenomenon",
+        "Overuse of medication linked to this",
+        "Evolving pathogen threat",
+        "Hospital-acquired infection driver",
+        "MRSA is a famous example"
+      ],
+      "summary": "A new report highlights that Shigella bacteria are increasingly resisting all antibiotics that can easily treat them, underscoring the growing global crisis of antimicrobial resistance.",
+      "sourceUrl": "https://gizmodo.com/a-diarrhea-causing-superbug-is-on-the-rise-health-officials-warn-2000745651",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://gizmodo.com/app/uploads/2026/04/Shigella-bacteria-1200x675.jpg"
+    },
+    {
+      "id": 8,
+      "answer": "Automattic",
+      "acceptedAnswers": [
+        "Automattic"
+      ],
+      "clues": [
+        "Matt Mullenweg's company",
+        "San Francisco tech firm",
+        "Manages WooCommerce",
+        "Tumblr parent company",
+        "Open-source web platform developer",
+        "Fully distributed workforce"
+      ],
+      "summary": "The WordPress ecosystem is in the spotlight after dozens of plugins were hijacked to distribute malware, raising questions about the security of the open-source platform maintained by Automattic.",
+      "sourceUrl": "https://techcrunch.com/2026/04/14/someone-planted-backdoors-in-dozens-of-wordpress-plugins-used-in-thousands-of-websites/",
+      "difficulty": "hard",
+      "region": "global",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2024/09/wordpress-v2.jpg?resize=1200,675"
+    },
+    {
+      "id": 9,
+      "answer": "Guadalupe River",
+      "acceptedAnswers": [
+        "Guadalupe River"
+      ],
+      "clues": [
+        "Texas waterway",
+        "Flows through the Hill Country",
+        "Popular tubing destination",
+        "Empties into San Antonio Bay",
+        "Canyon Lake reservoir",
+        "Flash flood prone region"
+      ],
+      "summary": "Testimony in the Camp Mystic flood disaster case has brought renewed attention to the Guadalupe River area in Texas, where a July 4 flood killed 28 people including campers and counselors.",
+      "sourceUrl": "http://www.texastribune.org/2026/04/14/texas-camp-mystic-flood-civil-lawsuit-hearing-director-testimony/",
+      "difficulty": "hard",
+      "region": "us",
+      "imageUrl": "https://i0.wp.com/www.texastribune.org/wp-content/uploads/2026/04/camp_mystic_hearing_2_mlc_0204.jpg?fit=2560%2C1707&quality=100&ssl=1&w=1200&h=630"
+    },
+    {
+      "id": 10,
+      "answer": "Kylo Ren",
+      "acceptedAnswers": [
+        "Kylo Ren",
+        "Ben Solo"
+      ],
+      "clues": [
+        "Dark side Force user",
+        "Son of Han and Leia",
+        "Supreme Leader of the First Order",
+        "Cross-guard lightsaber wielder",
+        "Sequel trilogy antagonist",
+        "Redeemed in The Rise of Skywalker"
+      ],
+      "summary": "Adam Driver's iconic role as Kylo Ren is back in discussion as Lena Dunham's memoir 'Famesick' reveals details about her early working relationship with Driver before he became a global star.",
+      "sourceUrl": "http://www.thecut.com/article/what-does-lena-dunham-say-about-adam-driver-famesick.html",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://pyxis.nymag.com/v1/imgs/b8d/872/8773b55a065f0efdbd1190539e33759b73-lena-dunham-adam-driver.1x.rsocial.w1200.jpg"
+    }
+  ]
+}
