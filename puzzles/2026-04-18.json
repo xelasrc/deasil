@@ -1,0 +1,210 @@
+{
+  "date": "2026-04-18",
+  "puzzles": [
+    {
+      "id": 1,
+      "answer": "Henry Cavill",
+      "acceptedAnswers": [
+        "Henry Cavill",
+        "Cavill"
+      ],
+      "clues": [
+        "British actor",
+        "Superman portrayal",
+        "The Witcher star",
+        "Jersey-born performer",
+        "Man of Steel lead",
+        "Netflix fantasy series departure"
+      ],
+      "summary": "Amazon MGM Studios revealed the first look at Henry Cavill in the new Highlander film at CinemaCon, generating major buzz about the reboot.",
+      "sourceUrl": "http://deadline.com/2026/04/highlander-henry-cavill-cinemacon-1236862582/",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://deadline.com/wp-content/uploads/2025/09/Henry-Cavill-Highlander.jpg?w=1024"
+    },
+    {
+      "id": 2,
+      "answer": "James Bond",
+      "acceptedAnswers": [
+        "James Bond",
+        "007",
+        "Bond"
+      ],
+      "clues": [
+        "MI6 fictional operative",
+        "Shaken not stirred",
+        "Licensed to kill",
+        "Aston Martin driver",
+        "Ian Fleming creation",
+        "Eon Productions franchise"
+      ],
+      "summary": "Amazon MGM executive Courtenay Valenti provided an update on the search for a new actor to play the iconic spy, saying the studio is taking its time with the casting decision.",
+      "sourceUrl": "https://variety.com/2026/film/news/amazon-james-bond-actor-search-taking-time-1236722826/",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://variety.com/wp-content/uploads/2025/12/MCDSKYF_EC026.jpg?w=1000&h=563&crop=1"
+    },
+    {
+      "id": 3,
+      "answer": "YouTube",
+      "acceptedAnswers": [
+        "YouTube"
+      ],
+      "clues": [
+        "Video sharing platform",
+        "Google subsidiary",
+        "Founded in 2005",
+        "Headquartered in San Bruno",
+        "Home of content creators",
+        "Red and white play button logo"
+      ],
+      "summary": "YouTube announced that all users can now set their Shorts time limit to zero minutes, effectively letting them turn off the short-form video feature entirely.",
+      "sourceUrl": "https://www.theverge.com/streaming/912898/youtube-shorts-feed-limit-zero-minutes",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/youtube-shorts-feed-time-limit.jpg?quality=90&strip=all&crop=0,3.4199101935869,100,93.160179612826"
+    },
+    {
+      "id": 4,
+      "answer": "Oscar Isaac",
+      "acceptedAnswers": [
+        "Oscar Isaac"
+      ],
+      "clues": [
+        "Guatemalan-American actor",
+        "Poe Dameron portrayal",
+        "Star Wars sequel trilogy",
+        "Ex Machina lead",
+        "Juilliard graduate",
+        "Moon Knight star"
+      ],
+      "summary": "Oscar Isaac stars alongside Carey Mulligan in the highly anticipated second season of the Netflix series Beef, with critics praising both performances.",
+      "sourceUrl": "https://www.avclub.com/beef-season-2-review-tv-netflix",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://img.pastemagazine.com/wp-content/avuploads/2026/04/15175131/beef-s2.jpg"
+    },
+    {
+      "id": 5,
+      "answer": "Ronda Rousey",
+      "acceptedAnswers": [
+        "Ronda Rousey",
+        "Rousey"
+      ],
+      "clues": [
+        "Former bantamweight champion",
+        "Olympic judo medalist",
+        "WWE performer",
+        "Mixed martial arts pioneer",
+        "Arm bar specialist",
+        "UFC Hall of Famer"
+      ],
+      "summary": "Ronda Rousey made headlines by publicly criticizing Kayla Harrison and revealing the minimum pay structure for her MVP combat event.",
+      "sourceUrl": "https://www.sherdog.com/news/news/Ronda-Rousey-rips-Kayla-Harrison-reveals-minimum-pay-structure-for-MVP-event-200858",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://www1-cdn.sherdog.com/_images/headers/20260416125853_Screenshot_20260415_at_6_57_56PM.PNG"
+    },
+    {
+      "id": 6,
+      "answer": "Mars",
+      "acceptedAnswers": [
+        "Mars"
+      ],
+      "clues": [
+        "Fourth planet from the Sun",
+        "Red planet",
+        "Olympus Mons location",
+        "Two natural satellites",
+        "Thin carbon dioxide atmosphere",
+        "Gale Crater location"
+      ],
+      "summary": "A new study published in Nature identifies shelf-like topographic features rather than traditional shorelines as better indicators of ancient oceans on the Red Planet.",
+      "sourceUrl": "https://www.nature.com/articles/s41586-026-10381-2",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10381-2/MediaObjects/41586_2026_10381_Fig1_HTML.png"
+    },
+    {
+      "id": 7,
+      "answer": "Geelong",
+      "acceptedAnswers": [
+        "Geelong"
+      ],
+      "clues": [
+        "Victorian city in Australia",
+        "Corio Bay location",
+        "AFL Cats home ground",
+        "Second-largest city in Victoria",
+        "Port Phillip region",
+        "Deakin University campus"
+      ],
+      "summary": "Firefighters are battling a massive blaze burning out of control at the oil refinery in this Australian city, one of only two refineries operating in the country.",
+      "sourceUrl": "https://www.dw.com/en/firefighters-battle-huge-blaze-at-australian-oil-refinery/a-76801562",
+      "difficulty": "hard",
+      "region": "global",
+      "imageUrl": "https://static.dw.com/image/76802433_6.jpg"
+    },
+    {
+      "id": 8,
+      "answer": "Wisconsin",
+      "acceptedAnswers": [
+        "Wisconsin"
+      ],
+      "clues": [
+        "Badger State",
+        "Great Lakes region",
+        "Dairy capital of America",
+        "Madison is the capital",
+        "Midwest US state",
+        "Bordered by Minnesota and Iowa"
+      ],
+      "summary": "Record rainfall caused severe flooding across the state, inundating streets, trapping drivers, and forcing highway closures as the Midwest continues to recover from powerful storms.",
+      "sourceUrl": "https://www.nbcnews.com/weather/storms/floodwaters-inundate-wisconsin-streets-trapping-drivers-midwest-rebuil-rcna332098",
+      "difficulty": "medium",
+      "region": "us",
+      "imageUrl": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-04/260416-Wisconsin-rs-87c6db.jpg"
+    },
+    {
+      "id": 9,
+      "answer": "New Jersey",
+      "acceptedAnswers": [
+        "New Jersey",
+        "NJ"
+      ],
+      "clues": [
+        "Garden State",
+        "Mid-Atlantic US state",
+        "Trenton capital",
+        "Between New York and Pennsylvania",
+        "Shore culture",
+        "Most densely populated US state"
+      ],
+      "summary": "A special congressional election was held in the state's 11th Congressional District to replace former Representative Mikie Sherrill, drawing national attention.",
+      "sourceUrl": "https://www.pbs.org/newshour/politics/live-results-new-jersey-special-congressional-election-to-replace-mikie-sherrill",
+      "difficulty": "medium",
+      "region": "us",
+      "imageUrl": "https://d3i6fh83elv35t.cloudfront.net/static/2026/04/2025-11-04T125051Z_1964323529_RC2OPHAJZXR8_RTRMADP_3_USA-ELECTION-NEW-JERSEY-GOVERNOR-1024x683.jpg"
+    },
+    {
+      "id": 10,
+      "answer": "Highlander",
+      "acceptedAnswers": [
+        "Highlander"
+      ],
+      "clues": [
+        "Immortal swordsman franchise",
+        "There can be only one",
+        "1986 cult classic film",
+        "Connor MacLeod origin story",
+        "Christopher Lambert original star",
+        "Queen soundtrack"
+      ],
+      "summary": "Amazon MGM Studios debuted first-look footage of the Highlander reboot starring Henry Cavill at CinemaCon, reviving the beloved fantasy franchise.",
+      "sourceUrl": "http://deadline.com/2026/04/highlander-henry-cavill-cinemacon-1236862582/",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://deadline.com/wp-content/uploads/2025/09/Henry-Cavill-Highlander.jpg?w=1024"
+    }
+  ]
+}
