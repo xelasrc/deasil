@@ -1,0 +1,218 @@
+{
+  "date": "2026-04-19",
+  "puzzles": [
+    {
+      "id": 1,
+      "answer": "Netflix",
+      "acceptedAnswers": [
+        "Netflix",
+        "NFLX"
+      ],
+      "clues": [
+        "Streaming service",
+        "Los Gatos headquarters",
+        "Reed Hastings co-founded",
+        "Subscription-based entertainment",
+        "Original series producer",
+        "NASDAQ-listed tech company"
+      ],
+      "summary": "Netflix shares dropped 10% after missing Q2 guidance expectations, and co-founder Reed Hastings announced his departure from the company.",
+      "sourceUrl": "https://www.investing.com/news/earnings/netflix-firstquarter-profit-beats-estimates-on-string-subscription-4619126",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://i-invdn-com.investing.com/news/moved_LYNXMPEJ6G09Q_L.jpg"
+    },
+    {
+      "id": 2,
+      "answer": "Stanley Cup",
+      "acceptedAnswers": [
+        "Stanley Cup",
+        "Stanley Cup Playoffs"
+      ],
+      "clues": [
+        "Ice hockey championship trophy",
+        "Lord Frederick donated it",
+        "Awarded since 1893",
+        "NHL postseason prize",
+        "Engraved with winners' names",
+        "Silver chalice on a barrel-shaped base"
+      ],
+      "summary": "The 2026 NHL Stanley Cup Playoffs bracket has been confirmed with all 16 teams set, and matchups, dates, and TV schedules have been announced.",
+      "sourceUrl": "https://bleacherreport.com/articles/25418908-nhl-stanley-cup-playoffs-bracket-2026-dates-matchups-game-times-and-tv-schedule-info",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/2026-04/24ee7faa-7f58-41e4-88bc-77bf35395851.jpg?w=3800&h=2000"
+    },
+    {
+      "id": 3,
+      "answer": "Viktor Orbán",
+      "acceptedAnswers": [
+        "Viktor Orbán",
+        "Viktor Orban",
+        "Orbán"
+      ],
+      "clues": [
+        "Fidesz party leader",
+        "Central European strongman",
+        "Budapest-based politician",
+        "Controversial EU figure",
+        "Former law student at Oxford",
+        "Longest-serving leader in his country"
+      ],
+      "summary": "Viktor Orbán broke his silence after his party suffered a stunning defeat in Hungarian elections, acknowledging that his opponent's message was stronger.",
+      "sourceUrl": "https://www.politico.eu/article/political-era-ended-orban-breaks-silence-hungary-election-defeat/",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/04/16/orban.jpg"
+    },
+    {
+      "id": 4,
+      "answer": "Avengers: Doomsday",
+      "acceptedAnswers": [
+        "Avengers: Doomsday",
+        "Avengers Doomsday"
+      ],
+      "clues": [
+        "Marvel Cinematic Universe film",
+        "Robert Downey Jr. returns as villain",
+        "Russo Brothers directing",
+        "Superhero ensemble sequel",
+        "CinemaCon footage revealed",
+        "Features X-Men crossover"
+      ],
+      "summary": "The first trailer for Avengers: Doomsday debuted at CinemaCon, showing Robert Downey Jr. as Doctor Doom battling Thor and Chris Evans returning as Captain America.",
+      "sourceUrl": "https://variety.com/2026/film/news/avengers-doomsday-trailer-robert-downey-jr-doctor-doom-1236719804/",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://variety.com/wp-content/uploads/2026/04/avengers.png?w=1000&h=563&crop=1"
+    },
+    {
+      "id": 5,
+      "answer": "Lyrid meteor shower",
+      "acceptedAnswers": [
+        "Lyrid meteor shower",
+        "Lyrids",
+        "Lyrid"
+      ],
+      "clues": [
+        "Annual celestial event",
+        "Peaks in late April",
+        "Originates from Comet Thatcher",
+        "Best viewed in predawn hours",
+        "Named after a constellation with a harp",
+        "Shooting stars phenomenon"
+      ],
+      "summary": "The annual Lyrid meteor shower is set to peak next week, with the predawn hours offering the best viewing opportunities for the shooting stars.",
+      "sourceUrl": "https://www.yahoo.com/news/us/article/the-lyrid-meteor-shower-peaks-next-week-when-and-how-to-best-view-the-shooting-stars-203241240.html",
+      "difficulty": "hard",
+      "region": "global",
+      "imageUrl": "https://s.yimg.com/ny/api/res/1.2/IDwZvHgJsAebpNdz8LdtgA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2026-04/b9618fe0-39a2-11f1-8ff7-f4409eb178d0"
+    },
+    {
+      "id": 6,
+      "answer": "DJI",
+      "acceptedAnswers": [
+        "DJI",
+        "DJI Technology"
+      ],
+      "clues": [
+        "Shenzhen-based manufacturer",
+        "Drone industry leader",
+        "Consumer camera technology",
+        "Frank Wang founded it",
+        "Osmo product line",
+        "Aerial photography pioneer"
+      ],
+      "summary": "DJI released the Osmo Pocket 4, featuring a better 1-inch sensor, a new fill light accessory, improved tracking, and remote gesture controls for capturing slow-motion footage.",
+      "sourceUrl": "https://www.theverge.com/tech/912381/dji-osmo-pocket-4-camera-stabilizied-gimbal-4k-slow-motion",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/DJI2.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200"
+    },
+    {
+      "id": 7,
+      "answer": "The Pitt",
+      "acceptedAnswers": [
+        "The Pitt",
+        "Pitt"
+      ],
+      "clues": [
+        "Hospital drama series",
+        "Max streaming original",
+        "Created by R. Scott Gemmill",
+        "Medical setting in Pennsylvania",
+        "Noah Wyle stars",
+        "Real-time storytelling format"
+      ],
+      "summary": "Creator R. Scott Gemmill discussed the Season 2 finale of The Pitt, revealing that the character Dr. Robby still hasn't hit rock bottom.",
+      "sourceUrl": "http://deadline.com/2026/04/the-pitt-r-scott-gemmill-season-2-finale-interview-1236863967/",
+      "difficulty": "hard",
+      "region": "global",
+      "imageUrl": "https://deadline.com/wp-content/uploads/2026/04/shawn-hatosy-noah-wyle_1.jpg?w=1024"
+    },
+    {
+      "id": 8,
+      "answer": "Sperm whale",
+      "acceptedAnswers": [
+        "Sperm whale",
+        "Sperm whales"
+      ],
+      "clues": [
+        "Largest toothed predator",
+        "Moby-Dick species",
+        "Deep-diving marine mammal",
+        "Echolocation clicks",
+        "Ambergris producer",
+        "Physeter macrocephalus"
+      ],
+      "summary": "A new study found that sperm whales communicate using a complex alphabet that includes vowel-like sounds, with linguists hoping to achieve rudimentary communication within five years.",
+      "sourceUrl": "https://gizmodo.com/sperm-whales-speak-with-their-own-unique-alphabet-scientists-found-they-even-have-vowels-2000746968",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://gizmodo.com/app/uploads/2026/04/sperm-whales-swimming-ocean-1200x675.jpeg"
+    },
+    {
+      "id": 9,
+      "answer": "iPhone 17 Pro Max",
+      "acceptedAnswers": [
+        "iPhone 17 Pro Max",
+        "iPhone 17"
+      ],
+      "clues": [
+        "Cupertino flagship device",
+        "A19 chip powered",
+        "Titanium frame smartphone",
+        "iOS operating system",
+        "Latest premium mobile handset",
+        "Camera system with multiple lenses"
+      ],
+      "summary": "Some iPhone 17 Pro Max owners are seeking professional restoration services to fix dents and scuffs on their new devices, similar to how cars get body repairs.",
+      "sourceUrl": "https://wccftech.com/iphone-17-pro-max-being-repaired-similar-to-how-cars-are-restored/",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://cdn.wccftech.com/wp-content/uploads/2026/04/Repairing-an-iPhone-17-Pro-Max-like-repairing-a-car.jpg"
+    },
+    {
+      "id": 10,
+      "answer": "Dark Energy Survey",
+      "acceptedAnswers": [
+        "Dark Energy Survey",
+        "DESI",
+        "Dark Energy Spectroscopic Instrument"
+      ],
+      "clues": [
+        "Cosmological research project",
+        "Maps large-scale structure of universe",
+        "Studies accelerating expansion",
+        "Galaxy redshift catalog",
+        "Astronomical sky survey",
+        "Probes mysterious cosmic force"
+      ],
+      "summary": "A stunning 3D dark energy map showing billions of galaxies was released, becoming a viral photo of the day and advancing our understanding of the universe's expansion.",
+      "sourceUrl": "https://www.space.com/science/3d-dark-energy-map-is-mind-blowing-space-photo-of-the-day-for-april-16-2026",
+      "difficulty": "hard",
+      "region": "global",
+      "imageUrl": "https://cdn.mos.cms.futurecdn.net/pFXZgF4Fp4AVgmrk9yRCL8-1600-80.png"
+    }
+  ]
+}
