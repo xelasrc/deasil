@@ -1,0 +1,216 @@
+{
+  "date": "2026-04-24",
+  "puzzles": [
+    {
+      "id": 1,
+      "answer": "Virginia",
+      "acceptedAnswers": [
+        "Virginia",
+        "VA"
+      ],
+      "clues": [
+        "U.S. state",
+        "Commonwealth",
+        "Old Dominion",
+        "Home of Mount Vernon",
+        "Bordered by the Potomac River",
+        "Site of Jamestown settlement"
+      ],
+      "summary": "Virginia held a special redistricting referendum in 2026, and Republicans are pointing fingers after a gerrymandering loss in the state.",
+      "sourceUrl": "https://www.politico.com/news/2026/04/22/republicans-virginia-redistricting-frustration-00886360",
+      "difficulty": "easy",
+      "region": "us",
+      "imageUrl": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F61%2F6b%2F9bf0614d4ffe8bfdab86960268a2%2Felection-2-26-redistricting-virginia-88177.jpg"
+    },
+    {
+      "id": 2,
+      "answer": "Ten Commandments",
+      "acceptedAnswers": [
+        "Ten Commandments",
+        "The Ten Commandments",
+        "10 Commandments"
+      ],
+      "clues": [
+        "Biblical law",
+        "Mosaic covenant",
+        "Tablets of stone",
+        "Exodus chapter 20",
+        "Decalogue",
+        "Mount Sinai revelation"
+      ],
+      "summary": "A U.S. appeals court ruled that Texas can require public schools to display the Ten Commandments in classrooms, a major victory for religious conservatives.",
+      "sourceUrl": "https://apnews.com/article/texas-ten-commandments-law-public-schools-scotus-43e679cf473e6b98b091d575578824eb",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://dims.apnews.com/dims4/default/268b003/2147483647/strip/true/crop/8013x5339+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F6f%2F3e%2F85cd21363590fdd38bee24990b21%2F747e3a7bb6504aa4b1f2e503f708ab8c"
+    },
+    {
+      "id": 3,
+      "answer": "Southern Poverty Law Center",
+      "acceptedAnswers": [
+        "Southern Poverty Law Center",
+        "SPLC"
+      ],
+      "clues": [
+        "Civil rights organization",
+        "Hate group monitoring",
+        "Founded in Montgomery, Alabama",
+        "Nonprofit legal advocacy",
+        "Extremism watchdog",
+        "Co-founded by Morris Dees"
+      ],
+      "summary": "The DOJ has charged the Southern Poverty Law Center over its use of paid informants to infiltrate extremist groups, prompting the organization to vow it will not be intimidated.",
+      "sourceUrl": "https://www.washingtonpost.com/national-security/2026/04/21/splc-southern-poverty-justice-department-investigation/",
+      "difficulty": "hard",
+      "region": "us",
+      "imageUrl": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/V27JTX5I4EB6DJNVHA2SQRQVXQ.JPG&w=1440"
+    },
+    {
+      "id": 4,
+      "answer": "Kash Patel",
+      "acceptedAnswers": [
+        "Kash Patel",
+        "Kashyap Patel"
+      ],
+      "clues": [
+        "FBI Director",
+        "Former National Security Council staff",
+        "Trump administration appointee",
+        "Indian American government official",
+        "Former federal prosecutor",
+        "Previously served on House Intelligence Committee"
+      ],
+      "summary": "A judge dismissed FBI Director Kash Patel's defamation lawsuit over claims he frequented nightclubs, one day after he sued The Atlantic over alcohol abuse allegations.",
+      "sourceUrl": "https://www.cnbc.com/2026/04/21/kash-patel-fbi-defamation-lawsuit-figliuzzi-dismissed.html",
+      "difficulty": "medium",
+      "region": "us",
+      "imageUrl": "https://image.cnbcfm.com/api/v1/image/108294015-1776698234784-gettyimages-2266832655-CONGRESS_WORLDWIDE_THREATS.jpeg?v=1776698265&w=1920&h=1080"
+    },
+    {
+      "id": 5,
+      "answer": "Denise Richards",
+      "acceptedAnswers": [
+        "Denise Richards"
+      ],
+      "clues": [
+        "Real Housewives of Beverly Hills cast member",
+        "Starship Troopers actress",
+        "Former Bond girl in a 1999 film",
+        "Charlie Sheen's ex-wife",
+        "Wild Things star",
+        "Played Christmas Jones"
+      ],
+      "summary": "Denise Richards shared an emotional tribute to her close friend, actor Patrick Muldoon, who passed away at age 57.",
+      "sourceUrl": "http://www.rollingstone.com/tv-movies/tv-movie-news/denise-richards-patrick-muldoon-death-tribute-1235551654/",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2026/04/Denise-Richards-Shares-Emotional-Tribute-to-Patrick-Muldoon.jpg?w=1600&h=900&crop=1"
+    },
+    {
+      "id": 6,
+      "answer": "Framework",
+      "acceptedAnswers": [
+        "Framework",
+        "Framework Computer"
+      ],
+      "clues": [
+        "Modular laptop manufacturer",
+        "Right to repair advocate",
+        "Founded by former Apple engineer",
+        "Upgradeable notebook design",
+        "OCuLink connectivity",
+        "San Francisco-based hardware startup"
+      ],
+      "summary": "Framework revealed its first external GPU solutions, allowing users to connect its Laptop 16 to external GPUs via OCuLink for desktop-level performance.",
+      "sourceUrl": "https://www.theverge.com/gadgets/915328/framework-oculink-egpu-dev-kit-laptop-16",
+      "difficulty": "hard",
+      "region": "global",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/eGPU_Install_02.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+    },
+    {
+      "id": 7,
+      "answer": "Richard Gadd",
+      "acceptedAnswers": [
+        "Richard Gadd"
+      ],
+      "clues": [
+        "Scottish comedian and writer",
+        "Edinburgh Fringe performer",
+        "Baby Reindeer creator",
+        "Netflix autobiographical series star",
+        "Emmy Award winner",
+        "Standup turned dramatic storyteller"
+      ],
+      "summary": "Richard Gadd, creator of the hit series Baby Reindeer, has returned to TV with his new show 'Half Man,' which has received outstanding reviews.",
+      "sourceUrl": "https://variety.com/2026/tv/reviews/half-man-review-hbo-richard-gadd-1236726475/",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://variety.com/wp-content/uploads/2026/04/Half-Man.jpg?w=1000&h=563&crop=1"
+    },
+    {
+      "id": 8,
+      "answer": "Neanderthals",
+      "acceptedAnswers": [
+        "Neanderthals",
+        "Neanderthal",
+        "Homo neanderthalensis"
+      ],
+      "clues": [
+        "Extinct hominin species",
+        "Inhabited Eurasia during the Pleistocene",
+        "Discovered in Feldhofer Cave in 1856",
+        "Known for Mousterian tool culture",
+        "Interbred with Homo sapiens",
+        "Stajnia Cave fossils"
+      ],
+      "summary": "Scientists reconstructed one of the oldest known Neanderthal communities using mitochondrial DNA from eight fossils found in a Polish cave, dating back about 100,000 years.",
+      "sourceUrl": "https://www.sci.news/genetics/stajnia-neanderthals-14709.html",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://cdn.sci.news/images/2013/12/image_1624f-Neanderthals.jpg"
+    },
+    {
+      "id": 9,
+      "answer": "Fifth Circuit",
+      "acceptedAnswers": [
+        "Fifth Circuit",
+        "5th Circuit",
+        "Fifth Circuit Court of Appeals",
+        "5th Circuit Court of Appeals"
+      ],
+      "clues": [
+        "U.S. federal appellate court",
+        "Covers Louisiana, Mississippi, and a large southern state",
+        "Based in New Orleans",
+        "One of thirteen federal circuits",
+        "Frequently cited in constitutional cases",
+        "Known for conservative rulings in recent years"
+      ],
+      "summary": "The Fifth Circuit Court of Appeals ruled that Texas can require the Ten Commandments to be displayed in public school classrooms, a landmark decision on religion in education.",
+      "sourceUrl": "https://apnews.com/article/texas-ten-commandments-law-public-schools-scotus-43e679cf473e6b98b091d575578824eb",
+      "difficulty": "hard",
+      "region": "us",
+      "imageUrl": "https://dims.apnews.com/dims4/default/268b003/2147483647/strip/true/crop/8013x5339+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F6f%2F3e%2F85cd21363590fdd38bee24990b21%2F747e3a7bb6504aa4b1f2e503f708ab8c"
+    },
+    {
+      "id": 10,
+      "answer": "Hulu",
+      "acceptedAnswers": [
+        "Hulu"
+      ],
+      "clues": [
+        "Disney-owned streaming service",
+        "Originally a joint venture of major networks",
+        "Green logo",
+        "Available primarily in the United States",
+        "Home to The Handmaid's Tale",
+        "Competitor to Peacock and Paramount+"
+      ],
+      "summary": "Hulu confirmed that The Secret Lives of Mormon Wives will resume production after a hiatus caused by controversy surrounding cast member Taylor Frankie Paul.",
+      "sourceUrl": "http://deadline.com/2026/04/the-secret-lives-of-mormon-wives-resume-production-1236867653/",
+      "difficulty": "easy",
+      "region": "us",
+      "imageUrl": "https://deadline.com/wp-content/uploads/2026/02/the-secret-lives-of-mormon-wives-season-4-trailer-hulu.jpg?w=1024"
+    }
+  ]
+}
