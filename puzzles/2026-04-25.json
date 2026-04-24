@@ -1,0 +1,216 @@
+{
+  "date": "2026-04-25",
+  "puzzles": [
+    {
+      "id": 1,
+      "answer": "Tesla",
+      "acceptedAnswers": [
+        "Tesla",
+        "Tesla Inc",
+        "Tesla Motors"
+      ],
+      "clues": [
+        "Electric vehicle manufacturer",
+        "Gigafactory operator",
+        "Autopilot technology",
+        "NASDAQ-listed automaker",
+        "Austin, Texas headquarters",
+        "Supercharger network"
+      ],
+      "summary": "Tesla reported rising quarterly revenue and profit but faces mounting costs as it pivots toward AI and autonomous driving. The company also announced plans to build factories to retrofit millions of older vehicles with updated self-driving hardware.",
+      "sourceUrl": "https://www.axios.com/2026/04/22/tesla-earnings-elon-musk-ai",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://images.axios.com/ZmIChxkh1A3q7MBgWWQHll2OtqM=/0x143:7822x4542/1366x768/2026/04/22/1776888193644.jpeg"
+    },
+    {
+      "id": 2,
+      "answer": "Elon Musk",
+      "acceptedAnswers": [
+        "Elon Musk",
+        "Musk"
+      ],
+      "clues": [
+        "South African-born entrepreneur",
+        "CEO of multiple technology companies",
+        "Starlink satellite internet founder",
+        "Former Twitter/X owner",
+        "Department of Government Efficiency head",
+        "Richest person in the world"
+      ],
+      "summary": "Elon Musk is in the news as Tesla's quarterly earnings reveal the financial strain of his aggressive push into artificial intelligence, raising questions about the company's strategic direction under his leadership.",
+      "sourceUrl": "https://www.axios.com/2026/04/22/tesla-earnings-elon-musk-ai",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://images.axios.com/ZmIChxkh1A3q7MBgWWQHll2OtqM=/0x143:7822x4542/1366x768/2026/04/22/1776888193644.jpeg"
+    },
+    {
+      "id": 3,
+      "answer": "Spirit Airlines",
+      "acceptedAnswers": [
+        "Spirit Airlines",
+        "Spirit"
+      ],
+      "clues": [
+        "Ultra-low-cost carrier",
+        "Fort Lauderdale-based aviation company",
+        "Known for bare-fare pricing model",
+        "Yellow-branded aircraft fleet",
+        "Budget air travel provider",
+        "Previously filed for bankruptcy protection"
+      ],
+      "summary": "The Trump administration is in advanced discussions with Spirit Airlines over a potential government bailout after the president publicly expressed interest in a rescue package for the struggling budget carrier.",
+      "sourceUrl": "https://www.cbsnews.com/news/spirit-airlines-bailout-trump-administration/",
+      "difficulty": "medium",
+      "region": "north-america",
+      "imageUrl": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/09/04/9e08ac3c-dedf-4cdf-9756-f8c6782ca797/thumbnail/1200x630/6acec310167b05846220652946744aff/gettyimages-2199695012.jpg"
+    },
+    {
+      "id": 4,
+      "answer": "Pancreatic cancer",
+      "acceptedAnswers": [
+        "Pancreatic cancer"
+      ],
+      "clues": [
+        "Gastrointestinal malignancy",
+        "Lowest survival rate among major tumor types",
+        "Often diagnosed at advanced stage",
+        "Whipple procedure treatment",
+        "Exocrine gland disease",
+        "mRNA vaccine clinical trials"
+      ],
+      "summary": "Scientists presented breakthrough results at a major cancer conference showing that a personalized mRNA vaccine for this notoriously deadly cancer has kept patients alive six years after treatment, offering hope for a disease with historically very low survival rates.",
+      "sourceUrl": "https://www.sciencealert.com/personalized-vaccine-for-deadliest-major-cancer-keeps-patients-alive-6-years-later",
+      "difficulty": "hard",
+      "region": "global",
+      "imageUrl": "https://www.sciencealert.com/images/2026/04/CancerCellsInGreenAndPurple.jpg"
+    },
+    {
+      "id": 5,
+      "answer": "English Channel",
+      "acceptedAnswers": [
+        "English Channel",
+        "The Channel",
+        "La Manche"
+      ],
+      "clues": [
+        "Body of water between two nations",
+        "Dover Strait location",
+        "Historic swimming challenge route",
+        "Eurotunnel crossing",
+        "Separates continental Europe from Britain",
+        "Busiest shipping lane in the world"
+      ],
+      "summary": "The UK and France have agreed a three-year deal to curb migrant crossings across this body of water, with British payments to France now linked to performance targets for stopping small boat departures.",
+      "sourceUrl": "https://www.dw.com/en/uk-france-agree-3year-deal-to-curb-channel-crossings/a-76903367",
+      "difficulty": "medium",
+      "region": "europe",
+      "imageUrl": "https://static.dw.com/image/76903396_6.jpg"
+    },
+    {
+      "id": 6,
+      "answer": "Dallas Cowboys",
+      "acceptedAnswers": [
+        "Dallas Cowboys",
+        "Cowboys"
+      ],
+      "clues": [
+        "NFC East franchise",
+        "America's Team nickname",
+        "AT&T Stadium tenants",
+        "Five-time Super Bowl champions",
+        "Jerry Jones ownership",
+        "Star logo on helmet"
+      ],
+      "summary": "NFL Draft speculation centers on whether this franchise will select a wide receiver in the first round, as the team deals with the George Pickens franchise tag situation heading into 2026.",
+      "sourceUrl": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/would-the-cowboys-draft-a-wide-receiver-in-the-first-round",
+      "difficulty": "medium",
+      "region": "north-america",
+      "imageUrl": "https://nbcsports.brightspotcdn.com/dims4/default/c135d05/2147483647/strip/true/crop/3654x2055+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fe1%2Fba%2Fe436bdf542c9b0aec23ab8f6a0e9%2Fhttps-api-imagn.com%2Frest%2Fdownload%2FimageID%3D27864254"
+    },
+    {
+      "id": 7,
+      "answer": "Cecilia Payne-Gaposchkin",
+      "acceptedAnswers": [
+        "Cecilia Payne-Gaposchkin",
+        "Cecilia Payne"
+      ],
+      "clues": [
+        "Pioneering astrophysicist",
+        "Harvard Observatory researcher",
+        "British-American scientist",
+        "Discovered stellar composition of hydrogen and helium",
+        "First female department chair at Harvard",
+        "PhD in astronomy from Radcliffe College"
+      ],
+      "summary": "The groundbreaking astrophysicist who discovered that stars are primarily composed of hydrogen and helium has been honored with a blue plaque in the UK, recognizing her as a scientist of exceptional brilliance and determination.",
+      "sourceUrl": "https://www.bbc.com/news/articles/c75k04zplwwo",
+      "difficulty": "hard",
+      "region": "global",
+      "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/f619/live/169b0350-3da2-11f1-b377-d7765ac78768.jpg"
+    },
+    {
+      "id": 8,
+      "answer": "Quantum mechanics",
+      "acceptedAnswers": [
+        "Quantum mechanics",
+        "Quantum physics"
+      ],
+      "clues": [
+        "Subatomic particle behavior theory",
+        "Wave-particle duality",
+        "Schrödinger's cat thought experiment",
+        "Heisenberg uncertainty principle",
+        "Planck constant",
+        "Superposition and entanglement"
+      ],
+      "summary": "A new study claims that classical physics equations can reproduce phenomena traditionally considered uniquely quantum, potentially challenging the long-held distinction between classical and quantum realms of physics.",
+      "sourceUrl": "https://phys.org/news/2026-04-classical-physics-quantum-weirdness.html",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://scx2.b-cdn.net/gfx/news/2026/new-study-bridges-the.jpg"
+    },
+    {
+      "id": 9,
+      "answer": "Gerrymandering",
+      "acceptedAnswers": [
+        "Gerrymandering",
+        "Redistricting"
+      ],
+      "clues": [
+        "Electoral boundary manipulation",
+        "Named after Elbridge Gerry",
+        "Supreme Court subject in Rucho v. Common Cause",
+        "Congressional map drawing practice",
+        "Partisan political strategy",
+        "Census-driven process"
+      ],
+      "summary": "The Trump administration is defending a redistricting push as Republicans face limited gains after a Virginia vote shifted seats toward Democrats, prompting the GOP to turn to Florida and the courts to regain an electoral edge.",
+      "sourceUrl": "https://www.washingtonpost.com/politics/2026/04/22/trump-team-defends-redistricting-push/",
+      "difficulty": "medium",
+      "region": "north-america",
+      "imageUrl": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4ER56A3NN7QQOLODLU2KRWS6G4_size-normalized.jpg&w=1440"
+    },
+    {
+      "id": 10,
+      "answer": "Antihistamine",
+      "acceptedAnswers": [
+        "Antihistamine",
+        "Antihistamines"
+      ],
+      "clues": [
+        "Over-the-counter medication class",
+        "Treats hay fever symptoms",
+        "Blocks H1 receptor activity",
+        "Cetirizine and loratadine category",
+        "Seasonal allergy relief",
+        "Can cause drowsiness in first-generation forms"
+      ],
+      "summary": "As spring allergy season peaks, doctors and pharmacists have shared their recommendations for the most effective over-the-counter allergy medications to combat symptoms like runny noses and watery eyes.",
+      "sourceUrl": "https://www.goodhousekeeping.com/health-products/g70963654/otc-allergy-medications/",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://s.yimg.com/ny/api/res/1.2/NkAFLDA5kS39Hs8HWXNRWA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MDA-/https://media.zenfs.com/en/aol_good_housekeeping_154/cdbb90c77fb4720a756b38fcf7595629"
+    }
+  ]
+}
