@@ -1,0 +1,211 @@
+{
+  "date": "2026-04-26",
+  "puzzles": [
+    {
+      "id": 1,
+      "answer": "DeepSeek",
+      "acceptedAnswers": [
+        "DeepSeek"
+      ],
+      "clues": [
+        "Artificial intelligence startup",
+        "Large language models",
+        "Hangzhou-based company",
+        "Chinese technology sector",
+        "Open-source AI research",
+        "Semiconductor industry rivalry"
+      ],
+      "summary": "DeepSeek has launched its long-awaited V4 AI model, which also marks a milestone for Chinese-made chips powering advanced AI systems.",
+      "sourceUrl": "https://www.wsj.com/tech/ai/chinas-deepseek-launches-long-awaited-ai-model-066a7d6e",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://images.wsj.net/im-77588486/social"
+    },
+    {
+      "id": 2,
+      "answer": "Polymarket",
+      "acceptedAnswers": [
+        "Polymarket"
+      ],
+      "clues": [
+        "Prediction markets",
+        "Cryptocurrency-based platform",
+        "Betting on real-world events",
+        "Blockchain technology",
+        "Event contracts",
+        "Decentralized forecasting"
+      ],
+      "summary": "A U.S. special forces soldier was arrested for allegedly placing insider bets on the platform related to a raid on Venezuelan leader Maduro, marking the first prosecution for insider trading on a prediction market.",
+      "sourceUrl": "https://www.axios.com/2026/04/23/us-soldier-arrested-maduro-bet-polymarket",
+      "difficulty": "hard",
+      "region": "global",
+      "imageUrl": "https://images.axios.com/wUCo0RSE3xxE2AynsuC11ltzw3A=/0x75:3049x1790/1366x768/2026/04/23/1776982170417.jpeg"
+    },
+    {
+      "id": 3,
+      "answer": "Spirit Airlines",
+      "acceptedAnswers": [
+        "Spirit Airlines",
+        "Spirit Aviation"
+      ],
+      "clues": [
+        "Ultra-low-cost carrier",
+        "U.S. aviation industry",
+        "Budget air travel",
+        "Miramar, Florida headquarters",
+        "Yellow aircraft livery",
+        "Bare fare pricing model"
+      ],
+      "summary": "President Trump said the U.S. government is considering purchasing Spirit Airlines, calling it a potentially good investment for the federal government.",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-04-23/trump-says-he-is-thinking-about-the-us-buying-spirit-airlines",
+      "difficulty": "medium",
+      "region": "us",
+      "imageUrl": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/isW.SBTK63RQ/v0/1200x800.jpg"
+    },
+    {
+      "id": 4,
+      "answer": "Rocky Horror Show",
+      "acceptedAnswers": [
+        "Rocky Horror Show",
+        "The Rocky Horror Show",
+        "Rocky Horror"
+      ],
+      "clues": [
+        "Broadway musical revival",
+        "Richard O'Brien creation",
+        "Science fiction parody",
+        "Cult theatrical phenomenon",
+        "Time Warp dance number",
+        "1970s glam rock stage show"
+      ],
+      "summary": "A new Broadway production of the iconic musical has opened, starring Luke Evans, Rachel Dratch, and Juliette Lewis, and is receiving positive reviews.",
+      "sourceUrl": "http://deadline.com/2026/04/rocky-horror-show-broadway-review-1236867882/",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://deadline.com/wp-content/uploads/2026/04/Rocky_Horror_0184r.jpg?w=1024"
+    },
+    {
+      "id": 5,
+      "answer": "Pittsburgh Steelers",
+      "acceptedAnswers": [
+        "Pittsburgh Steelers",
+        "Steelers"
+      ],
+      "clues": [
+        "AFC North division",
+        "Six-time Super Bowl champions",
+        "Black and gold uniforms",
+        "Heinz Field tenants",
+        "Pennsylvania professional football",
+        "Steel Curtain legacy"
+      ],
+      "summary": "The Steelers were outmaneuvered in the 2026 NFL Draft when the Eagles cut ahead to pick wide receiver Makai Lemon before Pittsburgh could select him.",
+      "sourceUrl": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/steelers-thought-they-were-getting-makai-lemon-didnt-realize-eagles-had-cut-the-line",
+      "difficulty": "easy",
+      "region": "us",
+      "imageUrl": "https://nbcsports.brightspotcdn.com/dims4/default/cb15294/2147483647/strip/true/crop/5246x2951+0+274/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F57%2Fa3%2F20dc58e34ab9b4c71b3179bd10d4%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2272852485"
+    },
+    {
+      "id": 6,
+      "answer": "Measles",
+      "acceptedAnswers": [
+        "Measles"
+      ],
+      "clues": [
+        "Highly contagious viral disease",
+        "MMR vaccination target",
+        "Koplik's spots symptom",
+        "Paramyxovirus family",
+        "Childhood immunization schedule",
+        "Airborne respiratory pathogen"
+      ],
+      "summary": "New Jersey health officials are warning of possible measles exposures at Newark Airport after a Hudson County resident was diagnosed following international travel.",
+      "sourceUrl": "https://gothamist.com/news/nj-warns-of-possible-measles-exposures-at-newark-airport",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://api-prod.gothamist.com/images/356599/fill-1200x650|format-webp|webpquality-85/"
+    },
+    {
+      "id": 7,
+      "answer": "Pancreatic cancer",
+      "acceptedAnswers": [
+        "Pancreatic cancer"
+      ],
+      "clues": [
+        "Deadliest major malignancy",
+        "Low survival rate oncology",
+        "Abdominal organ tumor",
+        "Personalized mRNA vaccine trials",
+        "Whipple procedure treatment",
+        "Exocrine gland disease"
+      ],
+      "summary": "Scientists presented six-year survival data for an experimental personalized vaccine targeting one of the deadliest cancers, showing promising long-term results at a major research conference.",
+      "sourceUrl": "https://www.sciencealert.com/personalized-vaccine-for-deadliest-major-cancer-keeps-patients-alive-6-years-later",
+      "difficulty": "hard",
+      "region": "global",
+      "imageUrl": "https://www.sciencealert.com/images/2026/04/CancerCellsInGreenAndPurple.jpg"
+    },
+    {
+      "id": 8,
+      "answer": "Survivor",
+      "acceptedAnswers": [
+        "Survivor"
+      ],
+      "clues": [
+        "CBS reality competition",
+        "Jeff Probst hosted series",
+        "Tribal Council eliminations",
+        "Immunity idol gameplay",
+        "Outwit, Outplay, Outlast",
+        "Remote island challenges"
+      ],
+      "summary": "Contestant Christian Hubicki was eliminated from the show following a controversial twist introduced by Tonight Show host Jimmy Fallon, sparking widespread discussion among fans.",
+      "sourceUrl": "https://www.eonline.com/news/1431266/survivors-christian-hubicki-talks-to-jimmy-fallon-about-elimination",
+      "difficulty": "easy",
+      "region": "us",
+      "imageUrl": "https://akns-images.eonline.com/eol_images/Entire_Site/20260423/7e707346-8382-4298-8ddd-c54049a96625_1776991508.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top"
+    },
+    {
+      "id": 9,
+      "answer": "Ayia Napa",
+      "acceptedAnswers": [
+        "Ayia Napa"
+      ],
+      "clues": [
+        "Mediterranean resort town",
+        "Cypriot coastal destination",
+        "European nightlife hotspot",
+        "Famagusta district municipality",
+        "Island tourism hub",
+        "EU summit venue"
+      ],
+      "summary": "EU leaders gathered in this Cypriot resort town for a summit where they toasted a €90 billion loan deal but quickly faced difficult questions about what comes next.",
+      "sourceUrl": "https://www.politico.eu/article/eu-leaders-summit-toasting-ukraine-loan-morning-after-challenges-defense-budget-iran/",
+      "difficulty": "hard",
+      "region": "global",
+      "imageUrl": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/04/24/GettyImages-2272091059-scaled.jpg"
+    },
+    {
+      "id": 10,
+      "answer": "Comet ATLAS",
+      "acceptedAnswers": [
+        "Comet ATLAS",
+        "3I/ATLAS",
+        "Comet 3I/ATLAS"
+      ],
+      "clues": [
+        "Interstellar visitor",
+        "Hyperbolic orbit trajectory",
+        "Extrasolar origin body",
+        "Third known object from another star",
+        "Icy celestial wanderer",
+        "Asteroid survey discovery"
+      ],
+      "summary": "New research reveals that interstellar comet 3I/ATLAS formed in an environment much colder than our solar system, carrying ancient fossils from a distant star system.",
+      "sourceUrl": "https://www.space.com/astronomy/comets/interstellar-invader-comet-3i-atlas-formed-in-a-world-much-colder-than-the-solar-system",
+      "difficulty": "hard",
+      "region": "global",
+      "imageUrl": "https://cdn.mos.cms.futurecdn.net/yE5qFfGyrcyXBuu63E4rDh-1600-80.png"
+    }
+  ]
+}
