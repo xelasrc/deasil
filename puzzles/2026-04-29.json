@@ -1,0 +1,218 @@
+{
+  "date": "2026-04-29",
+  "puzzles": [
+    {
+      "id": 1,
+      "answer": "London Marathon",
+      "acceptedAnswers": [
+        "London Marathon",
+        "TCS London Marathon"
+      ],
+      "clues": [
+        "Annual road race",
+        "Spring sporting event",
+        "World Major event",
+        "UK capital city race",
+        "26.2 miles",
+        "Elite and amateur runners"
+      ],
+      "summary": "Sabastian Sawe of Kenya became the first person to break the 2-hour marathon barrier at the London Marathon, finishing in 1:59:30 and smashing the world record by 65 seconds.",
+      "sourceUrl": "https://apnews.com/article/marathon-record-sawe-london-under-two-hours-8481a99809f19e0dd2cafca36bd3676a",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://dims.apnews.com/dims4/default/3747bdc/2147483647/strip/true/crop/4050x2699+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F1d%2F01%2F36148005db0a50635251a7f0c371%2F4375b8dc51f24aadb1addefb2608f1ba"
+    },
+    {
+      "id": 2,
+      "answer": "Chernobyl",
+      "acceptedAnswers": [
+        "Chernobyl",
+        "Chernobyl disaster",
+        "Chernobyl nuclear disaster"
+      ],
+      "clues": [
+        "Exclusion zone",
+        "1986 catastrophe",
+        "Soviet-era incident",
+        "Nuclear power plant failure",
+        "Pripyat evacuation",
+        "Radioactive contamination",
+        "Northern Ukraine"
+      ],
+      "summary": "The 40th anniversary of the Chernobyl disaster is being marked with new research into how wildlife has adapted to living in the contaminated exclusion zone around the devastated nuclear power plant.",
+      "sourceUrl": "https://www.bbc.com/future/article/20260424-chernobyl-wildlife-forty-years-on",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://ychef.files.bbci.co.uk/624x351/p0ngd8ng.jpg"
+    },
+    {
+      "id": 3,
+      "answer": "White House Correspondents' Dinner",
+      "acceptedAnswers": [
+        "White House Correspondents' Dinner",
+        "WHCD",
+        "White House Correspondents Dinner"
+      ],
+      "clues": [
+        "Annual Washington D.C. gala",
+        "Press and politics gathering",
+        "Black-tie media event",
+        "Presidential attendance tradition",
+        "Journalism awards ceremony",
+        "Comedy roast tradition"
+      ],
+      "summary": "A shooting incident occurred at the White House Correspondents' Dinner, with shots fired at the Washington hotel hosting the event. President Trump was unhurt and a suspect was taken into custody.",
+      "sourceUrl": "https://www.bbc.com/news/live/c1je28p42ret",
+      "difficulty": "hard",
+      "region": "us",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5762/live/253db800-4110-11f1-ac78-2112837ce2aa.jpg"
+    },
+    {
+      "id": 4,
+      "answer": "Alex Cora",
+      "acceptedAnswers": [
+        "Alex Cora"
+      ],
+      "clues": [
+        "Puerto Rican baseball figure",
+        "Former MLB infielder",
+        "American League East club leader",
+        "Fenway Park dugout occupant",
+        "2018 World Series champion skipper",
+        "Major League manager"
+      ],
+      "summary": "The Boston Red Sox fired manager Alex Cora after an abysmal start to the season, along with several members of his coaching staff. Triple-A manager Chad Tracy will serve as interim.",
+      "sourceUrl": "https://www.bostonglobe.com/2026/04/25/sports/red-sox-fire-alex-cora/",
+      "difficulty": "hard",
+      "region": "us",
+      "imageUrl": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/7KXFW5GTMVS35MUJDE4D6B3AW4.jpg?auth=874d3b7e21110bbc61e62cd9b5ccae8dd96db2f48d47eb64f059cec60177c05e&width=1440"
+    },
+    {
+      "id": 5,
+      "answer": "Northern Ireland",
+      "acceptedAnswers": [
+        "Northern Ireland"
+      ],
+      "clues": [
+        "Part of the United Kingdom",
+        "Belfast is its largest city",
+        "Good Friday Agreement territory",
+        "Stormont Assembly home",
+        "Shares a border with the Republic",
+        "Six counties"
+      ],
+      "summary": "Homes in the town of Dunmurry on the outskirts of Belfast were evacuated after reports of a car bomb explosion near a police station, prompting a major security alert.",
+      "sourceUrl": "https://www.cbsnews.com/news/northern-ireland-car-bomb-explosion-reports-evacuated-homes/",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/04/26/a5e01af4-f4fa-4de7-811b-0968f4d76c45/thumbnail/1200x630/4e66fabcbeea091d0e9b3a1c8a11d326/ap26116300120933.jpg"
+    },
+    {
+      "id": 6,
+      "answer": "International Space Station",
+      "acceptedAnswers": [
+        "International Space Station",
+        "ISS"
+      ],
+      "clues": [
+        "Orbital laboratory",
+        "Low Earth orbit outpost",
+        "Multinational crew habitat",
+        "Visible to the naked eye at night",
+        "Continuous human presence since 2000",
+        "Modular pressurized structure"
+      ],
+      "summary": "Russia launched a cargo mission carrying 3 tons of supplies to the International Space Station, with liftoff occurring on April 25, 2026.",
+      "sourceUrl": "https://www.space.com/space-exploration/launches-spacecraft/progress-95-cargo-ship-launch-soyuz-international-space-station",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://cdn.mos.cms.futurecdn.net/b6S5afBET4A7tYhb8iLZ9a-1880-80.jpg"
+    },
+    {
+      "id": 7,
+      "answer": "Continuous glucose monitor",
+      "acceptedAnswers": [
+        "Continuous glucose monitor",
+        "CGM",
+        "Continuous glucose monitoring"
+      ],
+      "clues": [
+        "Wearable health technology",
+        "Subcutaneous sensor device",
+        "Real-time blood sugar tracking",
+        "Diabetes management tool",
+        "Skin-worn medical patch",
+        "Interstitial fluid measurement"
+      ],
+      "summary": "A Washington Post column by a researcher studying wearable health data argues that continuous glucose monitors can lead to confusion and needless anxiety rather than helping people make better health decisions.",
+      "sourceUrl": "https://www.washingtonpost.com/health/2026/04/26/continuous-glucose-monitors-health-diabetes/",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/OY3SBJKOR4DLEIO5OJYFQYT5MU.jpg&w=1440"
+    },
+    {
+      "id": 8,
+      "answer": "Gaza",
+      "acceptedAnswers": [
+        "Gaza",
+        "Gaza Strip"
+      ],
+      "clues": [
+        "Mediterranean coastal territory",
+        "Khan Younis is a major city",
+        "Palestinian enclave",
+        "Densely populated region",
+        "Middle East conflict zone",
+        "Bordered by Egypt and Israel"
+      ],
+      "summary": "Palestinians held funerals for a pregnant woman and her children killed in Israeli strikes. At least 13 people died in attacks on Friday across Gaza City and Khan Younis.",
+      "sourceUrl": "https://apnews.com/article/israel-gaza-hamas-palestinians-strikes-9dd31e4d67afe9dd946f25b8aa91f6d9",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://dims.apnews.com/dims4/default/61af27a/2147483647/strip/true/crop/6720x4478+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff4%2Fc6%2Ff09574728e57a99669032a93d88c%2F98ae8593667042d1b288f62f5c1e6b4c"
+    },
+    {
+      "id": 9,
+      "answer": "Mosasaur",
+      "acceptedAnswers": [
+        "Mosasaur",
+        "Mosasaurus",
+        "Mosasaurs"
+      ],
+      "clues": [
+        "Extinct marine reptile",
+        "Cretaceous period predator",
+        "Ancient ocean apex predator",
+        "Jurassic World franchise creature",
+        "Related to modern monitor lizards",
+        "Ruled the seas before the K-Pg extinction"
+      ],
+      "summary": "Researchers have revealed the jaws of a 19-meter Cretaceous kraken, a giant ancient predator that shared the seas with mosasaurs, through painstaking layer-by-layer fossil analysis.",
+      "sourceUrl": "https://arstechnica.com/science/2026/04/meet-the-19-meter-cretaceous-kraken-that-swam-with-mosasaurs/",
+      "difficulty": "hard",
+      "region": "global",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/Header-5-scaled-1-1152x648.jpeg"
+    },
+    {
+      "id": 10,
+      "answer": "University of South Florida",
+      "acceptedAnswers": [
+        "University of South Florida",
+        "USF"
+      ],
+      "clues": [
+        "Tampa Bay area institution",
+        "Bulls athletic teams",
+        "Public research university",
+        "Located in Hillsborough County",
+        "AAU member school",
+        "Doctoral degree-granting institution"
+      ],
+      "summary": "Two doctoral students at the University of South Florida, Zamil Limon and Nahida Bristy, were killed, and their roommate has been charged in connection with their deaths.",
+      "sourceUrl": "https://www.cnn.com/2026/04/26/us/university-south-florida-students-missing",
+      "difficulty": "hard",
+      "region": "us",
+      "imageUrl": "https://media.cnn.com/api/v1/images/stellar/prod/20260424-students.jpg?c=16x9&q=w_800,c_fill"
+    }
+  ]
+}
