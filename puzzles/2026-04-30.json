@@ -1,0 +1,214 @@
+{
+  "date": "2026-04-30",
+  "puzzles": [
+    {
+      "id": 1,
+      "answer": "King Charles III",
+      "acceptedAnswers": [
+        "King Charles III",
+        "King Charles",
+        "Charles III"
+      ],
+      "clues": [
+        "British monarchy",
+        "State visit",
+        "Coronation 2023",
+        "Buckingham Palace",
+        "Head of the Commonwealth",
+        "Prince of Wales predecessor"
+      ],
+      "summary": "King Charles III is making his first state visit to the United States as monarch, continuing a long tradition of British royal visits to America.",
+      "sourceUrl": "https://www.cbsnews.com/news/british-royal-visits-us-king-charles-history-photos/",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/04/24/e1aab683-5664-47e9-9928-6574565019fc/thumbnail/1200x630/0eeb5db69aac49084631bd7f1aefd9a6/gettyimages-1233467200.jpg"
+    },
+    {
+      "id": 2,
+      "answer": "Falcon Heavy",
+      "acceptedAnswers": [
+        "Falcon Heavy",
+        "SpaceX Falcon Heavy"
+      ],
+      "clues": [
+        "Reusable rocket",
+        "Cape Canaveral launches",
+        "Side boosters",
+        "Most powerful operational launch vehicle",
+        "Elon's space company",
+        "Triple-core design"
+      ],
+      "summary": "SpaceX is launching its powerful Falcon Heavy rocket for the first time in 18 months, marking only the 12th flight ever for the heavy-lift vehicle.",
+      "sourceUrl": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-heavy-rocket-viasat-3-f3-launch",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://cdn.mos.cms.futurecdn.net/AX8WMXFCRULoURTdX4FrFn-2000-80.jpg"
+    },
+    {
+      "id": 3,
+      "answer": "Manus AI",
+      "acceptedAnswers": [
+        "Manus AI",
+        "Manus"
+      ],
+      "clues": [
+        "Artificial intelligence startup",
+        "Chinese tech acquisition",
+        "Autonomous agent technology",
+        "Beijing regulatory intervention",
+        "Meta acquisition target",
+        "Cross-border talent dispute"
+      ],
+      "summary": "China has moved to reverse a major AI acquisition by Meta involving Manus AI, marking Beijing's most aggressive step to prevent AI talent from leaving for the U.S.",
+      "sourceUrl": "https://www.washingtonpost.com/world/2026/04/27/china-ai-meta-manus/",
+      "difficulty": "hard",
+      "region": "global",
+      "imageUrl": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FRLPQLEON2LJOOM42ZHT4PWKEI_size-normalized.jpg&w=1440"
+    },
+    {
+      "id": 4,
+      "answer": "The Lost Boys",
+      "acceptedAnswers": [
+        "The Lost Boys",
+        "Lost Boys"
+      ],
+      "clues": [
+        "1987 cult film",
+        "Santa Carla setting",
+        "Vampire fiction",
+        "Kiefer Sutherland starred in original",
+        "Broadway musical adaptation",
+        "Teen horror classic"
+      ],
+      "summary": "A Broadway musical adaptation of the iconic 1980s teen vampire film has opened to positive reviews, featuring stunning special effects and original music.",
+      "sourceUrl": "https://variety.com/2026/legit/reviews/lost-boys-broadway-review-musical-teen-vampire-movie-spectacular-effects-1236730779/",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://variety.com/wp-content/uploads/2026/04/Critics-Pick-Theater.jpg?w=1000&h=563&crop=1"
+    },
+    {
+      "id": 5,
+      "answer": "Antarctica",
+      "acceptedAnswers": [
+        "Antarctica"
+      ],
+      "clues": [
+        "Southernmost continent",
+        "Ice sheet research",
+        "Climate change indicator",
+        "Polar region",
+        "Southern Ocean surroundings",
+        "McMurdo Station location"
+      ],
+      "summary": "New research using deep-diving robots has revealed that a sudden and dramatic decline in sea ice that began a decade ago was caused by a violent release of deep, pent-up heat.",
+      "sourceUrl": "https://grist.org/oceans/deep-diving-robots-help-crack-the-mystery-of-antarcticas-vanishing-sea-ice/",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://grist.org/wp-content/uploads/2026/04/GettyImages-453802918.jpeg?quality=75&strip=all"
+    },
+    {
+      "id": 6,
+      "answer": "Zurich Classic",
+      "acceptedAnswers": [
+        "Zurich Classic",
+        "Zurich Classic of New Orleans"
+      ],
+      "clues": [
+        "PGA Tour event",
+        "Team format tournament",
+        "TPC Louisiana",
+        "New Orleans golf",
+        "Two-player partnership",
+        "Annual spring competition"
+      ],
+      "summary": "Brothers Matt and Alex Fitzpatrick captured the Zurich Classic, with the victory earning Alex his first PGA Tour card less than a year after nearly losing his DP World Tour status.",
+      "sourceUrl": "https://www.golfchannel.com/news/fitzpatrick-brothers-zurich-pga-tour-card-alex-matt",
+      "difficulty": "hard",
+      "region": "global",
+      "imageUrl": "https://assets.golfchannel.com/dims4/default/00d0d0f/2147483647/strip/true/crop/3541x1992+0+369/resize/1440x810!/quality/90/?url=https%3A%2F%2Fversant-production-golfchannel.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd8%2F8d%2F3c90257648e3bfc6f5c8959d4e13%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2273282655"
+    },
+    {
+      "id": 7,
+      "answer": "60 Minutes",
+      "acceptedAnswers": [
+        "60 Minutes",
+        "CBS 60 Minutes"
+      ],
+      "clues": [
+        "CBS News program",
+        "Investigative journalism",
+        "Ticking stopwatch logo",
+        "Sunday evening broadcast",
+        "Longest-running primetime show",
+        "Mike Wallace legacy"
+      ],
+      "summary": "President Trump lashed out at a 60 Minutes anchor for reading an alleged gunman's manifesto on air, ending a brief detente between the president and the press.",
+      "sourceUrl": "https://www.politico.com/news/2026/04/26/trump-odonnell-60-minutes-manifesto-00892550",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F0c%2F64%2F7930c38a4b0392a6a7319e152867%2Fwhite-house-79835.jpg"
+    },
+    {
+      "id": 8,
+      "answer": "Lebanon",
+      "acceptedAnswers": [
+        "Lebanon"
+      ],
+      "clues": [
+        "Middle Eastern nation",
+        "Beirut capital",
+        "Cedar tree symbol",
+        "Mediterranean coastline",
+        "Hezbollah stronghold",
+        "Ceasefire negotiations"
+      ],
+      "summary": "Israeli strikes have killed 14 people in Lebanon despite an ongoing ceasefire that was recently extended by three weeks following U.S.-brokered talks.",
+      "sourceUrl": "https://www.bbc.com/news/articles/c4gxgv8j7zlo",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/9d8f/live/2ac4f4a0-4200-11f1-b55d-0f258dce1735.jpg"
+    },
+    {
+      "id": 9,
+      "answer": "Big Bang Theory",
+      "acceptedAnswers": [
+        "Big Bang Theory",
+        "The Big Bang Theory"
+      ],
+      "clues": [
+        "CBS sitcom",
+        "Pasadena setting",
+        "Caltech physicists",
+        "Chuck Lorre production",
+        "Bazinga catchphrase",
+        "12-season comedy series"
+      ],
+      "summary": "A new spinoff series called 'Stuart Fails to Save the Universe' has unveiled its first look at CCXP Mexico City, continuing the franchise on HBO Max.",
+      "sourceUrl": "http://www.hollywoodreporter.com/tv/tv-news/stuart-fails-to-save-the-universe-big-bang-theory-images-1236577626/",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://www.hollywoodreporter.com/wp-content/uploads/2026/04/SFTSU-John-Ross-Bowie-Lauren-Lapkus-Kevin-Sussman-Brian-Posehn-credit-Colin-Remas-Brown-HBO-Max75.jpg?w=1296&h=730&crop=1"
+    },
+    {
+      "id": 10,
+      "answer": "International Space Station",
+      "acceptedAnswers": [
+        "International Space Station",
+        "ISS"
+      ],
+      "clues": [
+        "Low Earth orbit laboratory",
+        "Multinational collaboration",
+        "Microgravity research",
+        "Visible from ground at night",
+        "Continuous habitation since 2000",
+        "Orbital outpost"
+      ],
+      "summary": "Russia successfully launched 3 tons of cargo to the International Space Station from Kazakhstan, with the resupply mission lifting off on April 25.",
+      "sourceUrl": "https://www.space.com/space-exploration/launches-spacecraft/progress-95-cargo-ship-launch-soyuz-international-space-station",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://cdn.mos.cms.futurecdn.net/b6S5afBET4A7tYhb8iLZ9a-1880-80.jpg"
+    }
+  ]
+}
