@@ -1,0 +1,224 @@
+{
+  "date": "2026-05-01",
+  "puzzles": [
+    {
+      "id": 1,
+      "answer": "Mali",
+      "acceptedAnswers": [
+        "Mali",
+        "Republic of Mali"
+      ],
+      "clues": [
+        "West African country",
+        "Sahel region",
+        "Bamako is the capital",
+        "Military junta government",
+        "Landlocked nation",
+        "Former French colony",
+        "Tuareg rebellion history"
+      ],
+      "summary": "Mali's military leaders face scrutiny after a shock rebel offensive brought security failures into question, undermining the junta's justification for holding power.",
+      "sourceUrl": "https://www.bbc.com/news/articles/cy818zdv831o",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/17b8/live/6ccd6b30-4312-11f1-bd52-e755d604ece4.jpg"
+    },
+    {
+      "id": 2,
+      "answer": "King Charles",
+      "acceptedAnswers": [
+        "King Charles",
+        "Charles III",
+        "King Charles III"
+      ],
+      "clues": [
+        "British monarch",
+        "House of Windsor",
+        "Succeeded Elizabeth II",
+        "Prince of Wales formerly",
+        "Buckingham Palace resident",
+        "Head of the Commonwealth",
+        "Coronation in 2023"
+      ],
+      "summary": "King Charles addressed the U.S. Congress during a royal visit, urging checks on executive power while highlighting democratic norms, Ukraine, and Western unity.",
+      "sourceUrl": "https://www.washingtonpost.com/politics/2026/04/28/trump-king-charles-white-house-visit/",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/CY5RGKXT6BBNCY4JFOAYU4NXSQ.jpg&w=1440"
+    },
+    {
+      "id": 3,
+      "answer": "James Comey",
+      "acceptedAnswers": [
+        "James Comey",
+        "Comey"
+      ],
+      "clues": [
+        "Former FBI Director",
+        "Fired in 2017",
+        "Russia investigation figure",
+        "Testified before Congress",
+        "Law enforcement leader",
+        "A Higher Loyalty author",
+        "Bureau served under two presidents"
+      ],
+      "summary": "Former FBI Director James Comey has been indicted again, this time in connection with an '86 47' photo, after a previous case against him for lying to Congress fell apart.",
+      "sourceUrl": "https://www.axios.com/2026/04/28/trump-doj-indicts-james-comey",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://images.axios.com/hjNbBVypJXkpeZmQzuSTeyIo7Ag=/0x103:6000x3478/1366x768/2026/04/28/1777399701223.jpeg"
+    },
+    {
+      "id": 4,
+      "answer": "OPEC",
+      "acceptedAnswers": [
+        "OPEC",
+        "Organization of the Petroleum Exporting Countries"
+      ],
+      "clues": [
+        "Oil cartel",
+        "Founded in Baghdad in 1960",
+        "Vienna headquarters",
+        "Petroleum production quotas",
+        "Energy market influence",
+        "Includes Saudi Arabia and Iraq",
+        "Global crude supply management"
+      ],
+      "summary": "The UAE's exit from OPEC has complicated the global oil supply outlook, sending European stocks lower as investors reassess energy markets.",
+      "sourceUrl": "https://www.cnbc.com/2026/04/29/european-stocks-to-fall-as-opec-exit-complicates-oil-supply-outlook.html",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://image.cnbcfm.com/api/v1/image/107159631-1669902984466-gettyimages-1242552302-AUSTRIA_AL-GHAIS.jpeg?v=1725549098&w=1920&h=1080"
+    },
+    {
+      "id": 5,
+      "answer": "Meta",
+      "acceptedAnswers": [
+        "Meta",
+        "Meta Platforms"
+      ],
+      "clues": [
+        "Social media conglomerate",
+        "Mark Zuckerberg's company",
+        "Owns Instagram and WhatsApp",
+        "Menlo Park headquarters",
+        "Virtual reality investments",
+        "Formerly named after a social network",
+        "Artificial intelligence developer"
+      ],
+      "summary": "China's Mao-era regulator, the National Development Reform Commission, is in a standoff with Meta over AI, as Beijing intensifies enforcement on foreign tech companies.",
+      "sourceUrl": "https://www.ft.com/content/a71a1ecf-a238-4827-800b-ee486f07d409",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fdf7e633c-5e77-49c2-8cc4-cfcf81e98f77.jpg?source=next-barrier-page"
+    },
+    {
+      "id": 6,
+      "answer": "Taylor Swift",
+      "acceptedAnswers": [
+        "Taylor Swift"
+      ],
+      "clues": [
+        "Grammy-winning singer-songwriter",
+        "Eras Tour performer",
+        "Country-to-pop crossover artist",
+        "Nashville roots",
+        "Midnights album creator",
+        "Concert in Vienna targeted",
+        "Billionaire musician"
+      ],
+      "summary": "An Austrian man has pleaded guilty to an ISIL-planned attack targeting a Taylor Swift concert in Vienna, admitting to conspiring in other attack plans as well.",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/4/28/austrian-pleads-guilty-to-isil-planned-attack-on-taylor-swift-concert",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/04/getty_69f0eb54c0-1777396564.jpg?resize=1920%2C1440"
+    },
+    {
+      "id": 7,
+      "answer": "Rabies",
+      "acceptedAnswers": [
+        "Rabies"
+      ],
+      "clues": [
+        "Viral zoonotic disease",
+        "Transmitted through animal bites",
+        "Nearly 100% fatal without treatment",
+        "Post-exposure prophylaxis needed",
+        "Affects the central nervous system",
+        "Bats are common carriers",
+        "Louis Pasteur developed early vaccine"
+      ],
+      "summary": "Public health officials in southern Utah issued a warning after a bat tested positive for rabies, urging residents to avoid contact with wild animals.",
+      "sourceUrl": "https://www.ksl.com/article/51490198/public-warned-after-bat-tests-positive-for-rabies-in-southern-utah",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://img.ksl.com/slc/2992/299267/29926702.jpg?filter=kslv2/responsive_story_lg"
+    },
+    {
+      "id": 8,
+      "answer": "Mpox",
+      "acceptedAnswers": [
+        "Mpox",
+        "Monkeypox"
+      ],
+      "clues": [
+        "Viral disease formerly known by another name",
+        "WHO-declared health emergency",
+        "Orthopoxvirus family",
+        "Clade I and II variants",
+        "Detected in wastewater monitoring",
+        "Originated in Central Africa",
+        "Smallpox-related pathogen"
+      ],
+      "summary": "Hawaii's Department of Health reported that clade I mpox was detected in a wastewater sample from Oahu, raising public health concerns.",
+      "sourceUrl": "https://www.staradvertiser.com/2026/04/27/breaking-news/doh-mpox-detected-in-wastewater-sample-from-pearl-harbor/",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://www.staradvertiser.com/wp-content/uploads/2026/04/web1_CTY-STATE-LAB-FILE0094-1.jpg"
+    },
+    {
+      "id": 9,
+      "answer": "Milky Way",
+      "acceptedAnswers": [
+        "Milky Way",
+        "Milky Way Galaxy"
+      ],
+      "clues": [
+        "Barred spiral galaxy",
+        "Home to our solar system",
+        "Sagittarius A* at its center",
+        "Contains hundreds of billions of stars",
+        "Galactic archaeology subject",
+        "Part of the Local Group",
+        "Andromeda collision predicted"
+      ],
+      "summary": "Astronomers discovered that star formation shuts down about 40,000 light-years from the Milky Way's core, raising new questions about the galaxy's star-forming disk.",
+      "sourceUrl": "https://www.space.com/astronomy/stars/starbirth-shuts-down-40-000-light-years-from-the-milky-ways-core-and-astronomers-dont-know-why",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://cdn.mos.cms.futurecdn.net/Fzc9DxhUzqz8zi54YDqYve-1920-80.jpg"
+    },
+    {
+      "id": 10,
+      "answer": "FCC",
+      "acceptedAnswers": [
+        "FCC",
+        "Federal Communications Commission"
+      ],
+      "clues": [
+        "U.S. broadcasting regulator",
+        "Oversees radio and television licenses",
+        "Independent government agency",
+        "Telecommunications oversight",
+        "Washington D.C. based",
+        "Created by the 1934 Act",
+        "Spectrum allocation authority"
+      ],
+      "summary": "The FCC ordered Disney's ABC to seek early broadcast license renewals for its TV stations amid backlash over Jimmy Kimmel's joke about Melania Trump.",
+      "sourceUrl": "https://www.npr.org/2026/04/28/nx-s1-5802997/fcc-abc-license-renewal-melania-trump-jimmy-kimmel",
+      "difficulty": "medium",
+      "region": "us",
+      "imageUrl": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6847x3849+347+114/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2a%2Fee%2F38589a3a4ea79d7e6bf4e39c84cc%2Fgettyimages-2272595362.jpg"
+    }
+  ]
+}
