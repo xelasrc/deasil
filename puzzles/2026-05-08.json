@@ -1,0 +1,210 @@
+{
+  "date": "2026-05-08",
+  "puzzles": [
+    {
+      "id": 1,
+      "answer": "Reddit",
+      "acceptedAnswers": [
+        "Reddit"
+      ],
+      "clues": [
+        "Social media platform",
+        "Online forum aggregator",
+        "Subreddits",
+        "Upvote and downvote system",
+        "Founded by Steve Huffman and Alexis Ohanian",
+        "IPO in 2024"
+      ],
+      "summary": "Reddit has been blocking mobile website visitors in an aggressive push to force users to download its native app, frustrating many users who prefer browser access.",
+      "sourceUrl": "https://arstechnica.com/information-technology/2026/05/why-reddit-blocked-my-daily-visit-to-its-mobile-website/",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2194614711-1152x648.jpg"
+    },
+    {
+      "id": 2,
+      "answer": "Met Gala",
+      "acceptedAnswers": [
+        "Met Gala",
+        "Met Ball"
+      ],
+      "clues": [
+        "Annual fundraising event",
+        "Costume Institute benefit",
+        "Fashion's biggest night",
+        "New York City event",
+        "Anna Wintour hosts",
+        "Metropolitan Museum of Art"
+      ],
+      "summary": "The 2026 Met Gala drew headlines as Beyoncé debuted a striking rhinestone skeleton gown, while Taraji P. Henson publicly criticized celebrities for attending the Jeff Bezos-backed event.",
+      "sourceUrl": "https://www.vogue.com/article/beyonce-2026-met-gala",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://assets.vogue.com/photos/69f93ae8a2cf30490a8e3edf/16:9/w_1280,c_limit/2274545615"
+    },
+    {
+      "id": 3,
+      "answer": "Hantavirus",
+      "acceptedAnswers": [
+        "Hantavirus"
+      ],
+      "clues": [
+        "Zoonotic pathogen",
+        "Rodent-borne disease",
+        "Causes pulmonary syndrome",
+        "RNA virus family Bunyavirales",
+        "Severe respiratory illness",
+        "WHO disease monitoring"
+      ],
+      "summary": "The World Health Organization reported a cluster of hantavirus cases linked to cruise ship travel, with seven passengers affected including two laboratory-confirmed cases as of early May 2026.",
+      "sourceUrl": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON599",
+      "difficulty": "hard",
+      "region": "global",
+      "imageUrl": ""
+    },
+    {
+      "id": 4,
+      "answer": "Anthony Edwards",
+      "acceptedAnswers": [
+        "Anthony Edwards",
+        "Ant Edwards"
+      ],
+      "clues": [
+        "NBA shooting guard",
+        "Minnesota Timberwolves star",
+        "First overall pick in 2020 draft",
+        "Nicknamed 'Ant-Man'",
+        "Georgia native",
+        "Western Conference playoff competitor"
+      ],
+      "summary": "Anthony Edwards came off the bench to spark the Minnesota Timberwolves to a dramatic 104-102 Game 1 road victory over the San Antonio Spurs in the NBA playoffs.",
+      "sourceUrl": "https://www.nbcsports.com/nba/news/spark-from-anthony-edwards-off-bench-helps-timberwolves-steal-game-1-on-road-from-spurs-104-102",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://s.yimg.com/ny/api/res/1.2/k_iezn.07IH6ty93eAgBbA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU7Y2Y9d2VicA--/https://media.zenfs.com/en/nbcsports.com/f2b9b1d3f641d7025b29195a30b42e02"
+    },
+    {
+      "id": 5,
+      "answer": "HSBC",
+      "acceptedAnswers": [
+        "HSBC",
+        "HSBC Holdings"
+      ],
+      "clues": [
+        "Multinational banking corporation",
+        "Headquartered in London",
+        "Originally founded in Hong Kong",
+        "One of the world's largest financial institutions",
+        "Listed on the London Stock Exchange",
+        "Major Asia-Pacific operations"
+      ],
+      "summary": "HSBC reported quarterly profits that missed analyst estimates, weighed down by unexpected charges related to a UK mortgage lender collapse and Middle East economic risks.",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-05/hsbc-profit-misses-on-charges-related-to-the-uk-middle-east",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ik6au9eoE1Oc/v1/1200x800.jpg"
+    },
+    {
+      "id": 6,
+      "answer": "Alberta",
+      "acceptedAnswers": [
+        "Alberta"
+      ],
+      "clues": [
+        "Canadian province",
+        "Oil sands region",
+        "Capital city Edmonton",
+        "Rocky Mountain foothills",
+        "Calgary Stampede host",
+        "Western Canadian separatism"
+      ],
+      "summary": "Alberta separatists have submitted a formal petition for an independence referendum, raising questions about whether residents of the Canadian province will vote on seceding from Canada.",
+      "sourceUrl": "https://www.bbc.com/news/articles/cx21kdz7wygo",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/a7bf/live/369244f0-485d-11f1-b55d-0f258dce1735.png"
+    },
+    {
+      "id": 7,
+      "answer": "Smith College",
+      "acceptedAnswers": [
+        "Smith College"
+      ],
+      "clues": [
+        "Private liberal arts institution",
+        "Women's college in Massachusetts",
+        "Northampton campus",
+        "Seven Sisters member",
+        "Founded in 1871",
+        "Notable alumnae include Gloria Steinem and Julia Child"
+      ],
+      "summary": "The U.S. Education Department has opened a probe into Smith College over its policy of admitting transgender women, as part of the Trump administration's broader effort to limit transgender rights.",
+      "sourceUrl": "https://www.politico.com/news/2026/05/05/education-department-opens-probe-into-smith-college-for-admitting-trans-women-00906140",
+      "difficulty": "hard",
+      "region": "us",
+      "imageUrl": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fda%2F6e%2F5d523e66490ea7534abe1d2d3bad%2Ftrump-97031.jpg"
+    },
+    {
+      "id": 8,
+      "answer": "Tarik Skubal",
+      "acceptedAnswers": [
+        "Tarik Skubal"
+      ],
+      "clues": [
+        "MLB pitcher",
+        "Detroit Tigers ace",
+        "2024 AL Cy Young Award winner",
+        "Left-handed starter",
+        "Cal Poly San Luis Obispo alumnus",
+        "Elbow injury concerns"
+      ],
+      "summary": "Detroit Tigers star pitcher Tarik Skubal is set to undergo elbow surgery, dealing a major blow to the team's rotation and fantasy baseball managers alike.",
+      "sourceUrl": "https://www.nbcsports.com/fantasy/baseball/news/tarik-skubal-to-undergo-elbow-surgery-injury-details-fallout-for-tigers-and-fantasy-managers",
+      "difficulty": "hard",
+      "region": "us",
+      "imageUrl": "https://nbcsports.brightspotcdn.com/dims4/default/da295dd/2147483647/strip/true/crop/3520x1980+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F7d%2F24%2F2cd3715f4f3bbecf3ac5d9ce248d%2Fhttps-api-imagn.com%2Frest%2Fdownload%2FimageID%3D28878368"
+    },
+    {
+      "id": 9,
+      "answer": "Beyoncé",
+      "acceptedAnswers": [
+        "Beyoncé",
+        "Beyonce"
+      ],
+      "clues": [
+        "Grammy-winning recording artist",
+        "Houston-born performer",
+        "Destiny's Child alumna",
+        "Renaissance world tour",
+        "Country music crossover album",
+        "Married to Jay-Z"
+      ],
+      "summary": "Beyoncé made waves at the 2026 Met Gala with a dramatic rhinestone-embellished skeleton gown, declaring that her Cowboy Carter era is officially over.",
+      "sourceUrl": "https://www.vogue.com/article/beyonce-2026-met-gala",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://assets.vogue.com/photos/69f93ae8a2cf30490a8e3edf/16:9/w_1280,c_limit/2274545615"
+    },
+    {
+      "id": 10,
+      "answer": "Microplastics",
+      "acceptedAnswers": [
+        "Microplastics",
+        "Microplastic"
+      ],
+      "clues": [
+        "Environmental pollutant",
+        "Found in oceans and drinking water",
+        "Atmospheric particulate matter",
+        "Smaller than 5 millimeters",
+        "Polymer fragments",
+        "Radiative forcing contributor"
+      ],
+      "summary": "A new study published in Nature found that airborne microplastic and nanoplastic particles can exceed the warming impact of black carbon in some regions, revealing a previously underestimated contributor to climate change.",
+      "sourceUrl": "https://www.nature.com/articles/s41558-026-02620-1",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41558-026-02620-1/MediaObjects/41558_2026_2620_Fig1_HTML.png"
+    }
+  ]
+}
