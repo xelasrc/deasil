@@ -1,0 +1,213 @@
+{
+  "date": "2026-05-13",
+  "puzzles": [
+    {
+      "id": 1,
+      "answer": "Carolina Hurricanes",
+      "acceptedAnswers": [
+        "Carolina Hurricanes",
+        "Hurricanes",
+        "Canes"
+      ],
+      "clues": [
+        "NHL Eastern Conference",
+        "Raleigh-based franchise",
+        "Ice hockey team",
+        "PNC Arena",
+        "Stanley Cup contenders",
+        "Eight consecutive playoff wins"
+      ],
+      "summary": "The Carolina Hurricanes swept the Philadelphia Flyers in overtime, advancing to the Eastern Conference Finals and becoming the first team in 41 years to start the playoffs 8-0.",
+      "sourceUrl": "https://www.nhl.com/hurricanes/news/recap-canes-sweep-flyers-in-ot-advance-to-ecf",
+      "difficulty": "medium",
+      "region": "north_america",
+      "imageUrl": "https://media.d3.nhle.com/image/private/t_ratio16_9-size50/v1778380747/prd/bljbxej5angbm2cdgel6.jpg"
+    },
+    {
+      "id": 2,
+      "answer": "Keir Starmer",
+      "acceptedAnswers": [
+        "Keir Starmer",
+        "Starmer"
+      ],
+      "clues": [
+        "British Labour politician",
+        "Former Director of Public Prosecutions",
+        "Knighted for services to law",
+        "Leader of the Opposition before 2024",
+        "Prime Minister of the United Kingdom",
+        "Succeeded Rishi Sunak"
+      ],
+      "summary": "UK Prime Minister Keir Starmer faces calls to resign after Labour suffered disastrous results in local and regional elections, forcing him to pledge to revive the party.",
+      "sourceUrl": "https://www.cbsnews.com/news/uk-prime-minister-keir-starmer-election-results-resign/",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/05/09/f5bcec8b-a116-4181-a665-874b109661db/thumbnail/1200x630/fc71485bfb104b4e89902dbba29911f3/gettyimages-2274156493.jpg"
+    },
+    {
+      "id": 3,
+      "answer": "GameStop",
+      "acceptedAnswers": [
+        "GameStop"
+      ],
+      "clues": [
+        "Meme stock phenomenon",
+        "Video game retailer",
+        "NYSE-listed company",
+        "Reddit-fueled short squeeze of 2021",
+        "Ryan Cohen led",
+        "Brick-and-mortar chain pivoting to e-commerce"
+      ],
+      "summary": "GameStop CEO Ryan Cohen admitted he 'isn't passionate' about the company while making a bid to acquire eBay, raising questions about the future direction of the iconic game retailer.",
+      "sourceUrl": "https://kotaku.com/ryan-cohen-says-he-isnt-passionate-about-gamestop-as-he-makes-desperate-bid-for-ebay-2000694578",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://kotaku.com/app/uploads/2026/05/ryancohen-1200x670.jpg"
+    },
+    {
+      "id": 4,
+      "answer": "Spencer Pratt",
+      "acceptedAnswers": [
+        "Spencer Pratt"
+      ],
+      "clues": [
+        "Reality television personality",
+        "The Hills cast member",
+        "Heidi Montag's husband",
+        "Lost home in Los Angeles wildfires",
+        "Mayoral candidate",
+        "Celebrity turned political hopeful"
+      ],
+      "summary": "Former reality TV star Spencer Pratt is running for mayor of Los Angeles and recently opened up about his campaign and debate performance in an interview with CBS News.",
+      "sourceUrl": "https://www.cbsnews.com/news/spencer-pratt-full-interview-los-angeles-mayoral-race/",
+      "difficulty": "medium",
+      "region": "north_america",
+      "imageUrl": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/05/07/82b3b5b3-7365-4c1b-98f8-108121bb1246/thumbnail/1200x630/c590d57fc9c9354c17a137bea28e906d/cbsn-fusion-spencer-pratt-trades-jabs-at-la-mayoral-debate-thumbnail.jpg"
+    },
+    {
+      "id": 5,
+      "answer": "Kristin Smart",
+      "acceptedAnswers": [
+        "Kristin Smart"
+      ],
+      "clues": [
+        "Cal Poly San Luis Obispo student",
+        "1996 missing person case",
+        "Paul Flores convicted",
+        "Cold case that captivated California",
+        "Your Own Backyard podcast subject",
+        "Disappeared after a campus party"
+      ],
+      "summary": "Three decades after Kristin Smart's 1996 disappearance from Cal Poly, key questions remain unanswered, including the whereabouts of her remains.",
+      "sourceUrl": "https://www.cnn.com/2026/05/10/us/kristin-smart-case-key-questions",
+      "difficulty": "hard",
+      "region": "north_america",
+      "imageUrl": "https://media.cnn.com/api/v1/images/stellar/prod/still-93029911-12562-403-still.jpg?c=16x9&q=w_800,c_fill"
+    },
+    {
+      "id": 6,
+      "answer": "Craig Venter",
+      "acceptedAnswers": [
+        "Craig Venter",
+        "J. Craig Venter"
+      ],
+      "clues": [
+        "Human Genome Project rival",
+        "Celera Genomics founder",
+        "Synthetic biology pioneer",
+        "Created first synthetic organism",
+        "American biologist and geneticist",
+        "'Bad boy of genomics'"
+      ],
+      "summary": "Craig Venter, the pioneering biologist who raced to decode the human genome and created the first synthetic life form, has died at age 79.",
+      "sourceUrl": "https://www.thetimes.com/uk/obituaries/article/craig-venter-death-obituary-biologist-decode-human-genome-gk3xg5bcs",
+      "difficulty": "hard",
+      "region": "global",
+      "imageUrl": "https://www.thetimes.com/imageserver/image/4ec6289e-d46a-4467-8dd4-1decc3268676.jpg?strip=all&format=webp&crop=1825px%2C1026px%2C102px%2C22px&resize=1200"
+    },
+    {
+      "id": 7,
+      "answer": "Norovirus",
+      "acceptedAnswers": [
+        "Norovirus"
+      ],
+      "clues": [
+        "Highly contagious gastrointestinal illness",
+        "Common on cruise ships",
+        "Sometimes called stomach flu",
+        "Causes vomiting and diarrhea",
+        "Winter vomiting bug",
+        "Caliciviridae family pathogen"
+      ],
+      "summary": "A norovirus outbreak has been reported on a Princess cruise ship departing Fort Lauderdale, the second such incident on the cruise line within two months.",
+      "sourceUrl": "https://www.cbsnews.com/miami/news/caribbean-princess-cruise-ship-norovirus-5-9-2026/",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/12/18/83af1d7a-5f19-44b5-a5ab-dfbf57abd21a/thumbnail/1200x630/94e05b35dbe4ebcd70a1b06260a87bd7/cbsn-fusion-highly-contagious-norovirus-spreading-across-the-us-ahead-of-holidays-thumbnail.jpg"
+    },
+    {
+      "id": 8,
+      "answer": "Oklahoma City Thunder",
+      "acceptedAnswers": [
+        "Oklahoma City Thunder",
+        "OKC Thunder",
+        "Thunder"
+      ],
+      "clues": [
+        "NBA Western Conference team",
+        "Formerly the Seattle SuperSonics",
+        "Paycom Center",
+        "Shai Gilgeous-Alexander's team",
+        "2024 top seed in the West",
+        "Relocated franchise in 2008"
+      ],
+      "summary": "The Oklahoma City Thunder defeated the Los Angeles Lakers in Game 3 of their playoff series, with the Lakers crumbling despite another solid start.",
+      "sourceUrl": "https://www.silverscreenandroll.com/lakers-analysis/116894/3-takeaways-lakers-thunder-austin-reaves-lebron-james-jj-redick-nba-playoffs-game-3",
+      "difficulty": "medium",
+      "region": "north_america",
+      "imageUrl": "https://platform.silverscreenandroll.com/wp-content/uploads/sites/144/2026/05/gettyimages-2274855222.jpg?quality=90&strip=all&crop=0%2C10.727700076304%2C100%2C78.544599847392&w=1200"
+    },
+    {
+      "id": 9,
+      "answer": "eBay",
+      "acceptedAnswers": [
+        "eBay"
+      ],
+      "clues": [
+        "Online auction marketplace",
+        "Founded by Pierre Omidyar",
+        "San Jose-based tech company",
+        "Acquired PayPal in 2002",
+        "NASDAQ-listed e-commerce giant",
+        "Peer-to-peer selling platform"
+      ],
+      "summary": "GameStop CEO Ryan Cohen is making a desperate bid to acquire eBay, leveraging his emotional investment in the company after failing to convince eBay leadership through other approaches.",
+      "sourceUrl": "https://kotaku.com/ryan-cohen-says-he-isnt-passionate-about-gamestop-as-he-makes-desperate-bid-for-ebay-2000694578",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://kotaku.com/app/uploads/2026/05/ryancohen-1200x670.jpg"
+    },
+    {
+      "id": 10,
+      "answer": "Alzheimer's disease",
+      "acceptedAnswers": [
+        "Alzheimer's disease",
+        "Alzheimer's",
+        "Alzheimers"
+      ],
+      "clues": [
+        "Progressive neurodegenerative condition",
+        "Most common form of dementia",
+        "Named after a German psychiatrist",
+        "Characterized by amyloid plaques",
+        "Memory loss and cognitive decline",
+        "Affects millions worldwide"
+      ],
+      "summary": "New research suggests that eating eggs at least five times a week may be associated with a lower risk of this neurodegenerative disease, though experts urge caution about the findings.",
+      "sourceUrl": "https://www.medicalnewstoday.com/articles/eating-eggs-5-times-a-week-linked-to-lower-alzheimers-risk",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://media.post.rvohealth.io/wp-content/uploads/sites/3/2026/05/eggs-Alzheimers-GettyImages-1849911640-Facebook.jpg"
+    }
+  ]
+}
