@@ -1,0 +1,214 @@
+{
+  "date": "2026-05-15",
+  "puzzles": [
+    {
+      "id": 1,
+      "answer": "Victor Wembanyama",
+      "acceptedAnswers": [
+        "Victor Wembanyama",
+        "Wembanyama",
+        "Wemby"
+      ],
+      "clues": [
+        "French athlete",
+        "San Antonio Spurs",
+        "NBA draft first overall pick",
+        "Center position",
+        "Tallest active player in league",
+        "Former Metropolitans 92 star"
+      ],
+      "summary": "ESPN analysts Brian Windhorst and Tim MacMahon accused Victor Wembanyama of staging a viral moment after his ejection following a Flagrant 2 foul, sparking debate about the incident's authenticity.",
+      "sourceUrl": "https://awfulannouncing.com/nba/brian-windhorst-tim-macmahon-victor-wembanyama-viral-ejection.html",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://cdn1.thecomeback.com/wp-content/uploads/sites/94/2026/05/Wem.jpg"
+    },
+    {
+      "id": 2,
+      "answer": "SpaceX",
+      "acceptedAnswers": [
+        "SpaceX",
+        "Space X"
+      ],
+      "clues": [
+        "Hawthorne, California headquarters",
+        "Falcon 9 rocket manufacturer",
+        "Founded by a billionaire entrepreneur",
+        "Private spaceflight company",
+        "Starlink satellite operator",
+        "Government launch contracts"
+      ],
+      "summary": "SpaceX launched secret U.S. spy satellites (NROL-172 mission) to orbit from California, continuing its role as a primary launch provider for national security payloads.",
+      "sourceUrl": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-rocket-launch-nrol-172-spy-satellite-mission",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://cdn.mos.cms.futurecdn.net/rB8oHJcoLDnmBGw4i4w7Yk-2560-80.jpg"
+    },
+    {
+      "id": 3,
+      "answer": "Bong Joon-ho",
+      "acceptedAnswers": [
+        "Bong Joon-ho",
+        "Bong Joon Ho"
+      ],
+      "clues": [
+        "South Korean filmmaker",
+        "Parasite director",
+        "Academy Award winner",
+        "Snowpiercer creator",
+        "Okja director",
+        "The Host filmmaker"
+      ],
+      "summary": "Bong Joon-ho's upcoming animated film 'Ally' has announced its voice cast, including Bradley Cooper, Ayo Adebiri, Dave Bautista, and Werner Herzog.",
+      "sourceUrl": "http://deadline.com/2026/05/bong-joon-ho-ally-voice-ayo-adebiri-bradley-cooper-herzog-1236898754/",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://deadline.com/wp-content/uploads/2026/05/MixCollage-12-May-2026-01-25-AM-9997.jpg?w=1024"
+    },
+    {
+      "id": 4,
+      "answer": "Lincoln Memorial",
+      "acceptedAnswers": [
+        "Lincoln Memorial",
+        "Lincoln Memorial Reflecting Pool"
+      ],
+      "clues": [
+        "National Mall landmark",
+        "Washington, D.C. monument",
+        "Neoclassical architecture",
+        "Site of famous 1963 speech",
+        "Dedicated in 1922",
+        "Features a seated statue of a president"
+      ],
+      "summary": "A nonprofit organization is suing the federal government to halt President Trump's plans to paint the Reflecting Pool at this iconic monument blue, arguing it would damage the historic cultural landscape.",
+      "sourceUrl": "https://www.npr.org/2026/05/11/g-s1-121548/a-nonprofit-has-sued-the-federal-government-over-its-plans-to-paint-the-lincoln-memorial-reflecting-pool-blue",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5785x3254+0+603/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc4%2F94%2F19fbc6074b558c98a89efc0aa13f%2Fap23160503578901.jpg"
+    },
+    {
+      "id": 5,
+      "answer": "PCOS",
+      "acceptedAnswers": [
+        "PCOS",
+        "Polycystic ovary syndrome",
+        "Polycystic ovarian syndrome"
+      ],
+      "clues": [
+        "Endocrine disorder",
+        "Affects reproductive health",
+        "Hormonal imbalance condition",
+        "Common cause of infertility",
+        "Insulin resistance association",
+        "Affects approximately 10% of women"
+      ],
+      "summary": "Polycystic ovary syndrome has been officially given a new name after a years-long effort by medical experts who argued the old name was inaccurate and did not properly reflect the nature of the condition.",
+      "sourceUrl": "https://www.livescience.com/health/reproductive-health/the-name-was-inaccurate-pcos-gets-a-new-name-after-years-long-effort",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://cdn.mos.cms.futurecdn.net/wRm6EgzPpP6LdH8o2ESai6-1920-80.jpg"
+    },
+    {
+      "id": 6,
+      "answer": "Hayden Panettiere",
+      "acceptedAnswers": [
+        "Hayden Panettiere"
+      ],
+      "clues": [
+        "Former child actress",
+        "Heroes television series star",
+        "Nashville cast member",
+        "Scream franchise actress",
+        "Remember the Titans performer",
+        "Tennessee-set drama singer role"
+      ],
+      "summary": "Hayden Panettiere revealed she was told to get in bed with a famous naked male actor when she was just 18 years old, describing how she hid to avoid the situation in a new interview.",
+      "sourceUrl": "https://variety.com/2026/tv/news/hayden-panettiere-naked-actor-sex-1236745535/",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://variety.com/wp-content/uploads/2026/05/P115SK10-e1778567884355.jpg?w=1000&h=563&crop=1"
+    },
+    {
+      "id": 7,
+      "answer": "Google",
+      "acceptedAnswers": [
+        "Google"
+      ],
+      "clues": [
+        "Alphabet subsidiary",
+        "Mountain View tech giant",
+        "Search engine pioneer",
+        "Android developer",
+        "Threat Analysis Group publisher",
+        "DeepMind parent company"
+      ],
+      "summary": "Google has warned that AI-assisted hacking is already a reality, with researchers finding the first known case of cybercriminals using AI to exploit a zero-day software vulnerability.",
+      "sourceUrl": "https://www.axios.com/2026/05/12/ai-hacking-found-google-report",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://images.axios.com/zBV0HyQvQGaOuRhecwJ3xbcMFWw=/0x0:1280x720/1366x768/2026/05/10/1778389302474.jpg"
+    },
+    {
+      "id": 8,
+      "answer": "American Idol",
+      "acceptedAnswers": [
+        "American Idol"
+      ],
+      "clues": [
+        "Television singing competition",
+        "ABC reality show",
+        "Previously aired on Fox",
+        "Simon Cowell was original judge",
+        "Ryan Seacrest hosted for years",
+        "Kelly Clarkson won first season"
+      ],
+      "summary": "The season 24 finale of the long-running singing competition aired, crowning a new winner from the final three contestants: Hannah Harper, Jordan McCullough, and Keyla Richardson.",
+      "sourceUrl": "https://abc7.com/post/who-won-american-idol-2026-season-24-hannah-harper-jordan-mccullough-keyla-richardson-finale-winner-crowned/19084292/",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://cdn.abcotvs.com/dip/images/19084352_051126-kabc-american-idol-finale-tn-img.jpg?w=1600"
+    },
+    {
+      "id": 9,
+      "answer": "Cambridge",
+      "acceptedAnswers": [
+        "Cambridge",
+        "Cambridge Massachusetts"
+      ],
+      "clues": [
+        "Massachusetts city",
+        "Home to Harvard University",
+        "MIT location",
+        "Charles River community",
+        "Middlesex County seat",
+        "Boston metropolitan area"
+      ],
+      "summary": "A gunman fired randomly in Cambridge, Massachusetts, wounding two drivers before being shot by a state trooper and a civilian, in a shocking public shooting incident.",
+      "sourceUrl": "https://www.bostonglobe.com/2026/05/11/metro/cambridge-memorial-drive-shooting-suspect/",
+      "difficulty": "hard",
+      "region": "us",
+      "imageUrl": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/L7MRMZXMBZEL7BHSSKSTLB5YLQ.JPG?auth=ea3b1dc63f8b12b9bd40ca0864cc6798f8189087d829c29a042bd5e8c524ee89&width=1440"
+    },
+    {
+      "id": 10,
+      "answer": "Redistricting",
+      "acceptedAnswers": [
+        "Redistricting",
+        "Gerrymandering"
+      ],
+      "clues": [
+        "Electoral map drawing",
+        "Congressional boundary changes",
+        "Census-driven process",
+        "Partisan mapmaking",
+        "State legislature power",
+        "Voting district reconfiguration"
+      ],
+      "summary": "Democrats are pivoting to a new political messaging strategy as Republicans carve up Black congressional districts, with Democrats unable to respond to the GOP's mapmaking gains before the November midterm elections.",
+      "sourceUrl": "https://www.politico.com/news/2026/05/12/republicans-redistricting-democrats-black-hispanic-districts-midterm-message-00915565",
+      "difficulty": "hard",
+      "region": "us",
+      "imageUrl": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F1b%2F30%2Fb258e22b4abd90abba00621d9763%2Fap26119776646396.jpg"
+    }
+  ]
+}
