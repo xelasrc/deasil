@@ -1,0 +1,212 @@
+{
+  "date": "2026-05-17",
+  "puzzles": [
+    {
+      "id": 1,
+      "answer": "Wes Streeting",
+      "acceptedAnswers": [
+        "Wes Streeting"
+      ],
+      "clues": [
+        "British politician",
+        "Labour Party member",
+        "Health policy",
+        "Cabinet resignation",
+        "Member of Parliament",
+        "Ilford North constituency"
+      ],
+      "summary": "Wes Streeting announced his resignation as UK Health Secretary, publishing his full resignation letter.",
+      "sourceUrl": "https://www.bbc.com/news/articles/ce8p7p83vdzo",
+      "difficulty": "hard",
+      "region": "global",
+      "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/1f28/live/86ccd8a0-4f91-11f1-89a3-d1f559421220.png"
+    },
+    {
+      "id": 2,
+      "answer": "PGA Championship",
+      "acceptedAnswers": [
+        "PGA Championship"
+      ],
+      "clues": [
+        "Major golf tournament",
+        "Wanamaker Trophy",
+        "Professional Golfers' Association",
+        "Annual sporting event",
+        "Aronimink Golf Club",
+        "One of four majors"
+      ],
+      "summary": "The 108th edition of this major golf tournament is about to tee off at Aronimink Golf Club in Newton Square, Pennsylvania.",
+      "sourceUrl": "https://www.pgachampionship.com/news-media/articles/2026-pga-championship-best-bets-at-aronimink",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://pgachampionship.brightspotcdn.com/dims4/default/7e3e0aa/2147483647/strip/true/crop/4000x2100+0+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Fgolf-brightspot.s3.us-east-1.amazonaws.com%2Fpga%2Ffa%2Fc8%2F49b664f34be28f63f049782351fe%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2276060849"
+    },
+    {
+      "id": 3,
+      "answer": "FIFA World Cup",
+      "acceptedAnswers": [
+        "FIFA World Cup",
+        "2026 FIFA World Cup",
+        "World Cup"
+      ],
+      "clues": [
+        "International football competition",
+        "Halftime entertainment",
+        "Global sporting event",
+        "Held every four years",
+        "National teams",
+        "Most-watched sporting event"
+      ],
+      "summary": "Madonna, Shakira, and BTS have been announced as co-headliners for the first-ever halftime show at the tournament's final.",
+      "sourceUrl": "https://variety.com/2026/music/news/madonna-shakira-bts-fifa-world-cup-final-halftime-show-1236748242/",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://variety.com/wp-content/uploads/2026/04/GettyImages-2238147089.jpg?crop=0px%2C40px%2C2154px%2C1212px&resize=1000%2C563"
+    },
+    {
+      "id": 4,
+      "answer": "Shakira",
+      "acceptedAnswers": [
+        "Shakira"
+      ],
+      "clues": [
+        "Colombian singer",
+        "Latin pop star",
+        "Hips Don't Lie performer",
+        "Grammy Award winner",
+        "Barranquilla native",
+        "Super Bowl halftime veteran"
+      ],
+      "summary": "The Colombian superstar is set to co-headline the FIFA World Cup Final halftime show alongside Madonna and BTS.",
+      "sourceUrl": "https://variety.com/2026/music/news/madonna-shakira-bts-fifa-world-cup-final-halftime-show-1236748242/",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://variety.com/wp-content/uploads/2026/04/GettyImages-2238147089.jpg?crop=0px%2C40px%2C2154px%2C1212px&resize=1000%2C563"
+    },
+    {
+      "id": 5,
+      "answer": "Trinity test",
+      "acceptedAnswers": [
+        "Trinity test",
+        "Trinity nuclear test",
+        "Trinity"
+      ],
+      "clues": [
+        "Manhattan Project",
+        "1945 New Mexico",
+        "First atomic detonation",
+        "J. Robert Oppenheimer",
+        "Alamogordo",
+        "Trinitite glass formation"
+      ],
+      "summary": "Eighty years after the first nuclear detonation, scientists have identified a new molecule-trapping crystal formed in the blast's extreme conditions.",
+      "sourceUrl": "https://phys.org/news/2026-05-years-trinity-nuclear-scientists-molecule.html",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://scx2.b-cdn.net/gfx/news/2026/80-years-after-the-tri.jpg"
+    },
+    {
+      "id": 6,
+      "answer": "Jessica Simpson",
+      "acceptedAnswers": [
+        "Jessica Simpson"
+      ],
+      "clues": [
+        "Pop singer and actress",
+        "Reality TV star",
+        "Fashion brand founder",
+        "Newlyweds MTV show",
+        "Texas-born entertainer",
+        "Celebrity memoir author"
+      ],
+      "summary": "Nick Lachey opened up about a recent in-flight encounter with his ex-wife, 20 years after their high-profile divorce.",
+      "sourceUrl": "https://www.justjared.com/2026/05/14/nick-lachey-details-recent-flight-run-in-with-ex-wife-jessica-simpson-20-years-after-their-divorce/",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://www.justjared.com/wp-content/uploads/2026/05/nick-lachey-run-in-with-jessica-simpson.jpg"
+    },
+    {
+      "id": 7,
+      "answer": "Xi Jinping",
+      "acceptedAnswers": [
+        "Xi Jinping"
+      ],
+      "clues": [
+        "Chinese head of state",
+        "General Secretary of the Communist Party",
+        "Beijing summit participant",
+        "Taiwan Strait tensions",
+        "Trade negotiations",
+        "Most powerful leader in Asia"
+      ],
+      "summary": "China's president took a tough stance on Taiwan during a Beijing meeting with President Trump aimed at stabilizing US-China trade relations.",
+      "sourceUrl": "https://www.cbsnews.com/news/trump-xi-jinping-meeting-china-beijing-trade-tariffs-taiwan-iran/",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/05/14/ba4927ea-292a-4957-80c4-d6c1bd8dea5b/thumbnail/1200x630/502449bdfe998655b6f27344200183c8/gettyimages-2275560543.jpg"
+    },
+    {
+      "id": 8,
+      "answer": "Apple",
+      "acceptedAnswers": [
+        "Apple",
+        "Apple Inc."
+      ],
+      "clues": [
+        "Cupertino tech giant",
+        "Smartphone manufacturer",
+        "Tim Cook's company",
+        "iOS developer",
+        "Consumer electronics leader",
+        "Curved display innovation"
+      ],
+      "summary": "Apple is outperforming the US smartphone market with strong iPhone 17 sales and is reportedly planning a new curved-edge display for a 20th-anniversary model.",
+      "sourceUrl": "https://9to5mac.com/2026/05/13/apple-counters-us-smartphone-decline-as-iphone-sales-grow-report/",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/04/iphone-17-pro-silver-camera-angle.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+    },
+    {
+      "id": 9,
+      "answer": "NBA Draft Combine",
+      "acceptedAnswers": [
+        "NBA Draft Combine",
+        "NBA Combine"
+      ],
+      "clues": [
+        "Basketball prospect evaluation",
+        "Athletic measurements",
+        "Scrimmage sessions",
+        "Pre-selection event",
+        "Chicago annual gathering",
+        "Front office scouting"
+      ],
+      "summary": "The 2026 NBA Draft Combine wrapped up its scrimmage sessions, with prospects looking to improve their draft stock through measurements and athletic testing.",
+      "sourceUrl": "https://bleacherreport.com/articles/25427014-winners-and-losers-2026-nba-combine-measurements-and-scrimmages",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/getty_images/2026-05/2275192880_large_cropped.jpg?w=3800&h=2000"
+    },
+    {
+      "id": 10,
+      "answer": "BTS",
+      "acceptedAnswers": [
+        "BTS",
+        "Bangtan Sonyeondan"
+      ],
+      "clues": [
+        "K-pop group",
+        "South Korean boy band",
+        "ARMY fanbase",
+        "HYBE entertainment act",
+        "Dynamite hit single",
+        "Seven-member musical act"
+      ],
+      "summary": "The K-pop supergroup is set to co-headline the FIFA World Cup Final halftime show alongside Madonna and Shakira.",
+      "sourceUrl": "https://variety.com/2026/music/news/madonna-shakira-bts-fifa-world-cup-final-halftime-show-1236748242/",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://variety.com/wp-content/uploads/2026/04/GettyImages-2238147089.jpg?crop=0px%2C40px%2C2154px%2C1212px&resize=1000%2C563"
+    }
+  ]
+}
