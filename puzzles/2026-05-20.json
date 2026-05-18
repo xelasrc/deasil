@@ -1,0 +1,213 @@
+{
+  "date": "2026-05-20",
+  "puzzles": [
+    {
+      "id": 1,
+      "answer": "Eurovision",
+      "acceptedAnswers": [
+        "Eurovision",
+        "Eurovision Song Contest"
+      ],
+      "clues": [
+        "Annual music competition",
+        "International broadcasting event",
+        "European Broadcasting Union",
+        "National selection rounds",
+        "Televoting and jury scores",
+        "Hosted in previous year's winning country"
+      ],
+      "summary": "Bulgaria won the Eurovision Song Contest for the first time, with performer Dara's anthem 'Bangaranga' besting 24 other nations at the 70th edition of the competition.",
+      "sourceUrl": "https://www.npr.org/2026/05/16/nx-s1-5824393/eurovision-winner-dara-bangaranga-bulgaria-vienna-austria",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2812x1582+0+157/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7b%2Feb%2F27811bae4dee9e4308bee44b8606%2Fgettyimages-2275960091.jpg"
+    },
+    {
+      "id": 2,
+      "answer": "Conor McGregor",
+      "acceptedAnswers": [
+        "Conor McGregor",
+        "McGregor"
+      ],
+      "clues": [
+        "Irish mixed martial artist",
+        "Former two-division champion",
+        "Notorious nickname",
+        "Whiskey brand entrepreneur",
+        "Fought Floyd Mayweather in boxing",
+        "UFC pay-per-view record holder"
+      ],
+      "summary": "MMA superstar Conor McGregor announced his return to the octagon for the first time since 2021, set to face Max Holloway on July 11 in Las Vegas.",
+      "sourceUrl": "https://www.nbcnews.com/sports/mixed-martial-arts/ufc-star-conor-mcgregor-returning-cage-first-time-5-years-july-rcna345523",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-05/260516-conor-mcgregor-rc-1058p-ea2fb9.jpg"
+    },
+    {
+      "id": 3,
+      "answer": "Uyghurs",
+      "acceptedAnswers": [
+        "Uyghurs",
+        "Uyghur",
+        "Uighurs"
+      ],
+      "clues": [
+        "Turkic ethnic group",
+        "Xinjiang region",
+        "Central Asian heritage",
+        "Muslim minority population",
+        "Detention camp controversy",
+        "Silk Road cultural history"
+      ],
+      "summary": "NPR reported on thousands of Uyghur foreign fighters who became key combatants against Syria's Assad regime, revealing for the first time why they fled China for Syria.",
+      "sourceUrl": "https://www.npr.org/2026/05/17/g-s1-113270/uyghurs-china-syria-war-fighters-rebels-bashar-al-assad",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x3375+0+313/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F8c%2Fe9%2F716bc5484e58844267d8c853f3c4%2Fcopy-of-r0000347.JPG"
+    },
+    {
+      "id": 4,
+      "answer": "Nicolás Maduro",
+      "acceptedAnswers": [
+        "Nicolás Maduro",
+        "Nicolas Maduro",
+        "Maduro"
+      ],
+      "clues": [
+        "Venezuelan head of state",
+        "Successor to Hugo Chávez",
+        "Disputed 2018 election winner",
+        "Former bus driver",
+        "Bolivarian Revolution leader",
+        "Subject of international sanctions"
+      ],
+      "summary": "Venezuela's government deported a close ally of Maduro to face criminal proceedings in the United States, less than three years after the individual was pardoned by President Biden in a prisoner swap.",
+      "sourceUrl": "https://apnews.com/article/venezuela-us-maduro-ally-057c22fe6e9b7022388eaeea2f1ecb52",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://dims.apnews.com/dims4/default/7f09fe5/2147483647/strip/true/crop/5508x3670+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F32%2Ffe%2Fe9a61118d7bb784c38e429f7491c%2Fba3d0f1735234cd6b5c16a3d186d67bb"
+    },
+    {
+      "id": 5,
+      "answer": "White House",
+      "acceptedAnswers": [
+        "White House",
+        "The White House"
+      ],
+      "clues": [
+        "1600 Pennsylvania Avenue",
+        "Executive Mansion",
+        "Oval Office location",
+        "Rose Garden landmark",
+        "West Wing setting",
+        "Presidential residence since 1800"
+      ],
+      "summary": "The Senate parliamentarian ruled that a $1 billion proposal to fund security additions for the presidential campus, including a new ballroom, fails to meet procedural rules, dealing a blow to Republican plans.",
+      "sourceUrl": "https://apnews.com/article/white-house-ballroom-funding-senate-parliamentarian-republicans-042dc61b41d1163e08ee095e7ffb2e48",
+      "difficulty": "easy",
+      "region": "us",
+      "imageUrl": "https://dims.apnews.com/dims4/default/f66f87d/2147483647/strip/true/crop/5744x3827+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F56%2F8c%2F6983b8e17793614701b9c334312e%2Ffbd0a22192404b1094f57aad36788811"
+    },
+    {
+      "id": 6,
+      "answer": "Bulgaria",
+      "acceptedAnswers": [
+        "Bulgaria"
+      ],
+      "clues": [
+        "Balkan nation",
+        "Capital city Sofia",
+        "Black Sea coastline",
+        "Rose oil producer",
+        "Cyrillic alphabet origin",
+        "EU member since 2007"
+      ],
+      "summary": "Bulgaria secured its first-ever Eurovision Song Contest victory with performer Dara's catchy anthem 'Bangaranga' at the 70th edition of the competition.",
+      "sourceUrl": "https://www.npr.org/2026/05/16/nx-s1-5824393/eurovision-winner-dara-bangaranga-bulgaria-vienna-austria",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2812x1582+0+157/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7b%2Feb%2F27811bae4dee9e4308bee44b8606%2Fgettyimages-2275960091.jpg"
+    },
+    {
+      "id": 7,
+      "answer": "Max Holloway",
+      "acceptedAnswers": [
+        "Max Holloway",
+        "Holloway"
+      ],
+      "clues": [
+        "Hawaiian-born fighter",
+        "Former featherweight champion",
+        "BMF title holder",
+        "Known for striking volume",
+        "Nicknamed Blessed",
+        "Mixed martial arts competitor"
+      ],
+      "summary": "Max Holloway is set to face Conor McGregor on July 11 in Las Vegas, marking McGregor's return to the octagon after a five-year absence.",
+      "sourceUrl": "https://www.nbcnews.com/sports/mixed-martial-arts/ufc-star-conor-mcgregor-returning-cage-first-time-5-years-july-rcna345523",
+      "difficulty": "hard",
+      "region": "global",
+      "imageUrl": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-05/260516-conor-mcgregor-rc-1058p-ea2fb9.jpg"
+    },
+    {
+      "id": 8,
+      "answer": "Syria",
+      "acceptedAnswers": [
+        "Syria"
+      ],
+      "clues": [
+        "Levantine nation",
+        "Damascus capital city",
+        "Civil war since 2011",
+        "Ancient Mesopotamian heritage",
+        "Mediterranean coastline",
+        "Aleppo historic trade center"
+      ],
+      "summary": "NPR reported on Uyghur foreign fighters who helped topple the Assad regime in Syria, raising concerns from China about their citizens' involvement in the conflict.",
+      "sourceUrl": "https://www.npr.org/2026/05/17/g-s1-113270/uyghurs-china-syria-war-fighters-rebels-bashar-al-assad",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x3375+0+313/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F8c%2Fe9%2F716bc5484e58844267d8c853f3c4%2Fcopy-of-r0000347.JPG"
+    },
+    {
+      "id": 9,
+      "answer": "Venezuela",
+      "acceptedAnswers": [
+        "Venezuela"
+      ],
+      "clues": [
+        "South American republic",
+        "Caracas capital",
+        "World's largest proven oil reserves",
+        "Angel Falls location",
+        "Bolivarian Republic",
+        "Lake Maracaibo nation"
+      ],
+      "summary": "Venezuela announced the deportation of a close Maduro ally to face criminal proceedings in the United States, connected to a prior prisoner swap deal with the Biden administration.",
+      "sourceUrl": "https://apnews.com/article/venezuela-us-maduro-ally-057c22fe6e9b7022388eaeea2f1ecb52",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://dims.apnews.com/dims4/default/7f09fe5/2147483647/strip/true/crop/5508x3670+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F32%2Ffe%2Fe9a61118d7bb784c38e429f7491c%2Fba3d0f1735234cd6b5c16a3d186d67bb"
+    },
+    {
+      "id": 10,
+      "answer": "Thailand",
+      "acceptedAnswers": [
+        "Thailand"
+      ],
+      "clues": [
+        "Southeast Asian kingdom",
+        "Bangkok capital",
+        "Former Siam",
+        "Buddhist majority nation",
+        "Gulf coastline destination",
+        "Mekong River border region"
+      ],
+      "summary": "Scientists unearthed remains of a massive 90-foot dinosaur in Thailand, estimated to have weighed as much as four elephants, with the full excavation still ongoing.",
+      "sourceUrl": "https://dailygalaxy.com/2026/05/90-foot-giant-dinosaur-found-in-thailand/",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://dailygalaxy.com/wp-content/uploads/2026/05/Scientists-Dig-Up-A-90-foot-Giant-Dinosaur-In-Thailand-That-Could-Crush-Four-Elephants-scaled.jpg"
+    }
+  ]
+}
