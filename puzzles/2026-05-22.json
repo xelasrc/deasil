@@ -1,0 +1,212 @@
+{
+  "date": "2026-05-22",
+  "puzzles": [
+    {
+      "id": 1,
+      "answer": "Ketamine",
+      "acceptedAnswers": [
+        "Ketamine"
+      ],
+      "clues": [
+        "Dissociative anesthetic",
+        "Schedule III controlled substance",
+        "NMDA receptor antagonist",
+        "Club drug",
+        "Veterinary medicine",
+        "Depression treatment breakthrough"
+      ],
+      "summary": "A new study found that a single infusion of this drug followed by low-dose buprenorphine significantly reduced suicidal ideation in adults with major depressive disorder, potentially reshaping treatment for suicide risk.",
+      "sourceUrl": "https://www.washingtonpost.com/health/2026/05/19/surprising-drug-combo-could-reshape-suicide-treatment/",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/FLKTR6X5IUI6ZM45OEYJC2ABJM.jpg&w=1440"
+    },
+    {
+      "id": 2,
+      "answer": "He-Man",
+      "acceptedAnswers": [
+        "He-Man",
+        "Masters of the Universe"
+      ],
+      "clues": [
+        "Eternia",
+        "Prince Adam",
+        "Castle Grayskull",
+        "1980s toy line",
+        "Skeletor's nemesis",
+        "Power of Grayskull",
+        "Mattel franchise"
+      ],
+      "summary": "The live-action 'Masters of the Universe' film starring Nicholas Galitzine and Idris Elba is generating buzz with first reactions ahead of its June 5 release.",
+      "sourceUrl": "https://gizmodo.com/masters-of-the-universe-movie-live-action-first-reactions-2000760230",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://gizmodo.com/app/uploads/2026/05/Masters-of-the-Universe-castle-battlecat-1200x675.jpg"
+    },
+    {
+      "id": 3,
+      "answer": "Sebastian Stan",
+      "acceptedAnswers": [
+        "Sebastian Stan"
+      ],
+      "clues": [
+        "Romanian-American actor",
+        "Winter Soldier portrayer",
+        "Marvel Cinematic Universe",
+        "Born in Constanța",
+        "A Different Man star",
+        "Bucky Barnes"
+      ],
+      "summary": "The actor made headlines at Cannes by publicly criticizing Donald Trump and saying America is 'in a really, really bad place' during a press conference.",
+      "sourceUrl": "https://variety.com/2026/film/festivals/sebastian-stan-slams-donald-trump-america-in-bad-place-cannes-1236753405/",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://variety.com/wp-content/uploads/2026/05/sebastian-e1779185434164.jpg?w=1000&h=563&crop=1"
+    },
+    {
+      "id": 4,
+      "answer": "Mango",
+      "acceptedAnswers": [
+        "Mango"
+      ],
+      "clues": [
+        "Spanish fashion retailer",
+        "Founded in Barcelona",
+        "Fast fashion brand",
+        "Isak Andic founded it",
+        "High street clothing chain",
+        "Headquartered in Catalonia"
+      ],
+      "summary": "The fashion chain's founder Isak Andic died during a hiking trip, and now his son Jonathan has been detained in connection with the mountain death.",
+      "sourceUrl": "https://www.ft.com/content/17b2b6a3-a7f2-40b4-8c16-9161045fedb4?syn-25a6b1a6\\\\u003d1",
+      "difficulty": "hard",
+      "region": "global",
+      "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff96ae092-f42a-4b4b-a03a-98329bac8c44.jpg?source=next-barrier-page"
+    },
+    {
+      "id": 5,
+      "answer": "Thomas Massie",
+      "acceptedAnswers": [
+        "Thomas Massie",
+        "Massie"
+      ],
+      "clues": [
+        "Kentucky congressman",
+        "Republican libertarian",
+        "MIT graduate",
+        "Voted against party leadership",
+        "Rural district representative",
+        "Known for opposing spending bills"
+      ],
+      "summary": "The Kentucky congressman is facing a Trump-backed primary challenge in what's seen as a major test of Trump's influence over the Republican Party.",
+      "sourceUrl": "https://www.axios.com/2026/05/19/thomas-massie-trump-republican-primary",
+      "difficulty": "hard",
+      "region": "us",
+      "imageUrl": "https://images.axios.com/uSSJtLpM8pbLfLLkIbznZfC96pk=/0x84:3000x1771/1366x768/2026/05/18/1779122914232.jpeg"
+    },
+    {
+      "id": 6,
+      "answer": "Aaron Rodgers",
+      "acceptedAnswers": [
+        "Aaron Rodgers"
+      ],
+      "clues": [
+        "Four-time NFL MVP",
+        "Former Green Bay quarterback",
+        "Super Bowl XLV champion",
+        "Cal Berkeley alumnus",
+        "22nd professional season",
+        "Oldest active NFL quarterback"
+      ],
+      "summary": "The 42-year-old quarterback returned to Pittsburgh for organized team activities ahead of his 22nd NFL season, with Steelers teammates expressing excitement about his return.",
+      "sourceUrl": "https://www.nfl.com/news/steelers-teammates-ecstatic-to-welcome-qb-aaron-rodgers-back-to-pittsburgh",
+      "difficulty": "easy",
+      "region": "us",
+      "imageUrl": "https://static.www.nfl.com/image/upload/t_editorial_landscape_12_desktop/league/s7dolvbltnzn3i6ob1f7"
+    },
+    {
+      "id": 7,
+      "answer": "LIRR",
+      "acceptedAnswers": [
+        "LIRR",
+        "Long Island Rail Road",
+        "Long Island Railroad"
+      ],
+      "clues": [
+        "Oldest US commuter railroad",
+        "MTA subsidiary",
+        "Serves Nassau and Suffolk counties",
+        "Penn Station terminus",
+        "Busiest commuter rail in North America",
+        "New York metropolitan transit"
+      ],
+      "summary": "A strike by the commuter railroad caused chaotic commutes before the MTA reached a tentative deal with unions, though service disruptions continued into Tuesday morning.",
+      "sourceUrl": "https://gothamist.com/news/lirr-service-to-remain-suspended-tuesday-morning-as-strike-drags-on",
+      "difficulty": "medium",
+      "region": "us",
+      "imageUrl": "https://api-prod.gothamist.com/images/357106/fill-1200x650|format-webp|webpquality-85/"
+    },
+    {
+      "id": 8,
+      "answer": "Simi Valley",
+      "acceptedAnswers": [
+        "Simi Valley"
+      ],
+      "clues": [
+        "Ventura County city",
+        "Ronald Reagan Presidential Library location",
+        "Southern California suburb",
+        "Santa Susana Mountains nearby",
+        "Rodney King trial venue",
+        "Los Angeles metropolitan area"
+      ],
+      "summary": "A fast-moving brush fire dubbed the Sandy Fire broke out in this Southern California city, scorching over 836 acres and forcing residents to evacuate their homes.",
+      "sourceUrl": "https://abc7.com/live-updates/sandy-fire-simi-valley-several-structures-burned-184-acres-scorched/19125501/",
+      "difficulty": "medium",
+      "region": "us",
+      "imageUrl": "https://cdn.abcotvs.com/dip/images/19127889_051826-kabc-sandy-fire-live-blog-tn-pm-img.jpg?w=1600"
+    },
+    {
+      "id": 9,
+      "answer": "Nancy Pelosi",
+      "acceptedAnswers": [
+        "Nancy Pelosi",
+        "Pelosi"
+      ],
+      "clues": [
+        "Speaker Emerita",
+        "San Francisco representative",
+        "First female House Speaker",
+        "Democratic Party leader",
+        "Served over three decades in Congress",
+        "Italian-American politician from Baltimore"
+      ],
+      "summary": "The former House Speaker endorsed Connie Chan to succeed her in San Francisco's congressional race, calling Chan the leader best prepared to carry forward the fight for the city.",
+      "sourceUrl": "https://www.sfchronicle.com/politics/joegarofoli/article/nancy-pelosi-connie-chan-endorsement-22265327.php",
+      "difficulty": "easy",
+      "region": "us",
+      "imageUrl": "https://s.hdnux.com/photos/01/66/23/76/31014800/10/rawImage.jpg"
+    },
+    {
+      "id": 10,
+      "answer": "Vega C",
+      "acceptedAnswers": [
+        "Vega C",
+        "Vega-C"
+      ],
+      "clues": [
+        "European launch vehicle",
+        "Arianespace rocket",
+        "ESA small-lift launcher",
+        "Solid-fuel booster stages",
+        "Kourou launch site",
+        "Italian aerospace heritage"
+      ],
+      "summary": "The European rocket successfully launched the SMILE space weather satellite, a joint European-Chinese mission to study interactions between the solar wind and Earth's magnetosphere.",
+      "sourceUrl": "https://www.space.com/space-exploration/launches-spacecraft/european-chinese-space-weather-mission-smile-launch",
+      "difficulty": "hard",
+      "region": "global",
+      "imageUrl": "https://cdn.mos.cms.futurecdn.net/mVsskqFLu2652jg4eGW6FU-1884-80.jpg"
+    }
+  ]
+}
