@@ -1,0 +1,214 @@
+{
+  "date": "2026-05-23",
+  "puzzles": [
+    {
+      "id": 1,
+      "answer": "Harry Styles",
+      "acceptedAnswers": [
+        "Harry Styles",
+        "Harry Edward Styles"
+      ],
+      "clues": [
+        "British pop star",
+        "Former One Direction member",
+        "Watermelon Sugar singer",
+        "Vogue cover model",
+        "Fine Line album artist",
+        "Coachella headliner"
+      ],
+      "summary": "Harry Styles' team has responded to fan complaints about obstructed sightlines at his 'Together, Together' tour, which recently kicked off.",
+      "sourceUrl": "http://www.billboard.com/music/music-news/harry-styles-together-together-tour-sightline-complaints-1236252425/",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://www.billboard.com/wp-content/uploads/2026/03/P104EOAB-e1774012729739.jpg?w=1024"
+    },
+    {
+      "id": 2,
+      "answer": "Stellantis",
+      "acceptedAnswers": [
+        "Stellantis"
+      ],
+      "clues": [
+        "Multinational automotive manufacturer",
+        "Formed from PSA and FCA merger",
+        "Parent of Jeep and Ram brands",
+        "Headquartered in Amsterdam",
+        "Chrysler parent company",
+        "Owner of Peugeot and Citroën"
+      ],
+      "summary": "CEO Antonio Filosa is preparing to unveil his turnaround plan for the automaker, whose stock has dropped nearly 30% since he took the helm.",
+      "sourceUrl": "https://www.cnbc.com/2026/05/20/stellantis-stock-stla-capital-markets-day-antonio-filosa.html",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://image.cnbcfm.com/api/v1/image/108236700-17648675632025-12-04t160441z_1876970717_rc2o3iaf0cbg_rtrmadp_0_autos-stellantis-filosa.jpeg?v=1768424783&w=1920&h=1080"
+    },
+    {
+      "id": 3,
+      "answer": "Ketamine",
+      "acceptedAnswers": [
+        "Ketamine"
+      ],
+      "clues": [
+        "Dissociative anesthetic",
+        "Schedule III controlled substance",
+        "Used in veterinary medicine",
+        "NMDA receptor antagonist",
+        "Club drug known as Special K",
+        "Emerging psychiatric treatment"
+      ],
+      "summary": "A new study found that a single infusion of this drug followed by low-dose buprenorphine significantly sustained reductions in suicidal ideation in adults with major depressive disorder.",
+      "sourceUrl": "https://www.washingtonpost.com/health/2026/05/19/surprising-drug-combo-could-reshape-suicide-treatment/",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/FLKTR6X5IUI6ZM45OEYJC2ABJM.jpg&w=1440"
+    },
+    {
+      "id": 4,
+      "answer": "San Diego",
+      "acceptedAnswers": [
+        "San Diego"
+      ],
+      "clues": [
+        "Southern California coastal city",
+        "Home to the famous Zoo",
+        "Major U.S. naval base location",
+        "Gaslamp Quarter neighborhood",
+        "Border city near Tijuana",
+        "Comic-Con host city"
+      ],
+      "summary": "The FBI revealed that the shooters in a recent mosque attack in this city met online and left behind writings expressing hate.",
+      "sourceUrl": "https://www.pbs.org/newshour/nation/what-to-know-about-the-deadly-attack-by-teen-gunmen-on-a-san-diego-mosque",
+      "difficulty": "easy",
+      "region": "north-america",
+      "imageUrl": "https://d3i6fh83elv35t.cloudfront.net/static/2026/05/2026-05-19T181037Z_1456628485_RC2ICLA8IOF9_RTRMADP_3_CALIFORNIA-SHOOTING-1024x683.jpg"
+    },
+    {
+      "id": 5,
+      "answer": "Sea anemone",
+      "acceptedAnswers": [
+        "Sea anemone",
+        "Sea anemones",
+        "Anemone"
+      ],
+      "clues": [
+        "Marine invertebrate",
+        "Cnidarian order Actiniaria",
+        "Clownfish symbiont",
+        "Polyp body form",
+        "Coral relative",
+        "Tentacled ocean floor dweller"
+      ],
+      "summary": "Scientists discovered that brainless sea anemones build their bodies using a developmental technique previously thought to be exclusive to bilaterians like humans, potentially revealing a blueprint of the human body.",
+      "sourceUrl": "https://www.popularmechanics.com/science/animals/a71337415/sea-anemone-bilaterian-found-in-ocean/",
+      "difficulty": "hard",
+      "region": "global",
+      "imageUrl": "https://s.yimg.com/ny/api/res/1.2/04FCLnC0qP8o2ylvXhZgag--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/popular_mechanics_642/692268fac53bfeb9f52018029dc8c7d1"
+    },
+    {
+      "id": 6,
+      "answer": "Xbox Game Pass",
+      "acceptedAnswers": [
+        "Xbox Game Pass",
+        "Game Pass"
+      ],
+      "clues": [
+        "Subscription gaming service",
+        "Microsoft product",
+        "Multiple tier structure",
+        "Cloud gaming option included",
+        "Day-one releases for first-party titles",
+        "Competitor to PlayStation Plus"
+      ],
+      "summary": "Five new games became available across multiple tiers of the service on May 20, giving subscribers a batch of fresh titles to play.",
+      "sourceUrl": "https://www.purexbox.com/news/2026/05/five-games-are-available-today-across-multiple-tiers-of-xbox-game-pass-may-20",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://images.purexbox.com/b879938b34d3e/large.jpg"
+    },
+    {
+      "id": 7,
+      "answer": "Panic disorder",
+      "acceptedAnswers": [
+        "Panic disorder",
+        "Panic attacks"
+      ],
+      "clues": [
+        "Anxiety spectrum condition",
+        "DSM-5 psychiatric diagnosis",
+        "Characterized by sudden episodes of fear",
+        "May involve agoraphobia",
+        "Treated with CBT and SSRIs",
+        "Involves fight-or-flight response"
+      ],
+      "summary": "A new study found that 30-second bursts of exercise may help reduce episodes associated with this condition, offering hope for a novel therapeutic approach.",
+      "sourceUrl": "https://www.washingtonpost.com/wellness/2026/05/20/how-brief-bursts-intense-exercise-may-help-reduce-panic-attacks/",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VYYFSXFYK3XYQTG572Q23DCBFY_size-normalized.jpg&w=1440"
+    },
+    {
+      "id": 8,
+      "answer": "FBI",
+      "acceptedAnswers": [
+        "FBI",
+        "Federal Bureau of Investigation"
+      ],
+      "clues": [
+        "U.S. domestic intelligence agency",
+        "Headquartered in Washington, D.C.",
+        "Part of the Department of Justice",
+        "Founded in 1908",
+        "Investigates terrorism and civil rights violations",
+        "Known for its Ten Most Wanted list"
+      ],
+      "summary": "The agency held a news conference revealing that the San Diego mosque shooters met online and left writings expressing hateful views.",
+      "sourceUrl": "https://www.pbs.org/newshour/nation/what-to-know-about-the-deadly-attack-by-teen-gunmen-on-a-san-diego-mosque",
+      "difficulty": "easy",
+      "region": "north-america",
+      "imageUrl": "https://d3i6fh83elv35t.cloudfront.net/static/2026/05/2026-05-19T181037Z_1456628485_RC2ICLA8IOF9_RTRMADP_3_CALIFORNIA-SHOOTING-1024x683.jpg"
+    },
+    {
+      "id": 9,
+      "answer": "Republican Party",
+      "acceptedAnswers": [
+        "Republican Party",
+        "GOP",
+        "Republicans"
+      ],
+      "clues": [
+        "Grand Old abbreviation",
+        "Elephant mascot symbol",
+        "Founded in 1854",
+        "Abraham Lincoln's political home",
+        "Red-state association",
+        "U.S. right-of-center major party"
+      ],
+      "summary": "Trump continues to flex dominance over the party by winning more primary endorsements while eliminating political rivals within its ranks ahead of the midterms.",
+      "sourceUrl": "https://www.nbcnews.com/politics/2026-election/trump-primary-election-race-influence-gop-massie-cassidy-paxton-rcna346007",
+      "difficulty": "easy",
+      "region": "north-america",
+      "imageUrl": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-05/260519-trump-kentucky-vsb-1952-b31cf8.jpg"
+    },
+    {
+      "id": 10,
+      "answer": "Newcastle University",
+      "acceptedAnswers": [
+        "Newcastle University",
+        "University of Newcastle"
+      ],
+      "clues": [
+        "Russell Group member",
+        "Located in North East England",
+        "Founded in 1834 as a medical school",
+        "Tyne river city campus",
+        "Known for engineering and medicine",
+        "Close to Hadrian's Wall country"
+      ],
+      "summary": "A lecturer at this university co-authored a study debunking a core chemistry concept widely taught in classrooms around the world.",
+      "sourceUrl": "https://phys.org/news/2026-05-debunking-core-chemistry-concept-taught.html",
+      "difficulty": "hard",
+      "region": "europe",
+      "imageUrl": "https://scx2.b-cdn.net/gfx/news/2026/debunking-a-core-chemi.jpg"
+    }
+  ]
+}
