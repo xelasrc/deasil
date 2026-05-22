@@ -1,0 +1,214 @@
+{
+  "date": "2026-05-24",
+  "puzzles": [
+    {
+      "id": 1,
+      "answer": "Christchurch",
+      "acceptedAnswers": [
+        "Christchurch",
+        "Christchurch massacre",
+        "Christchurch attack"
+      ],
+      "clues": [
+        "New Zealand",
+        "2019 mass shooting",
+        "Mosque attacks",
+        "Far-right extremism",
+        "Copycat inspiration",
+        "Brenton Tarrant"
+      ],
+      "summary": "The Christchurch massacre is back in the news as teens who attacked the Islamic Center of San Diego cited the 2019 New Zealand mosque shootings as inspiration for their violence.",
+      "sourceUrl": "https://www.seattletimes.com/nation-world/nation/the-teens-who-attacked-the-islamic-center-of-san-diego-were-latest-to-cite-prior-atrocities/",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://images.seattletimes.com/wp-content/uploads/2026/05/05202026_islamic_center-tzr_tzr_212840.jpg?d=1200x630"
+    },
+    {
+      "id": 2,
+      "answer": "Jack Smith",
+      "acceptedAnswers": [
+        "Jack Smith"
+      ],
+      "clues": [
+        "Special counsel",
+        "Federal prosecutor",
+        "Classified documents case",
+        "Trump investigations",
+        "Department of Justice appointment",
+        "Sealed report"
+      ],
+      "summary": "A prosecutor has been charged with stealing Jack Smith's sealed report on the Trump classified-documents case by emailing it to her personal account disguised as a recipe.",
+      "sourceUrl": "https://www.washingtonpost.com/national-security/2026/05/20/prosecutor-charged-with-stealing-jack-smiths-sealed-report-trump-classified-documents-case/",
+      "difficulty": "medium",
+      "region": "north-america",
+      "imageUrl": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/PF5ELOCIK7MCLH6FGONYV2UAJA.JPG&w=1440"
+    },
+    {
+      "id": 3,
+      "answer": "The Boys",
+      "acceptedAnswers": [
+        "The Boys"
+      ],
+      "clues": [
+        "Amazon Prime Video",
+        "Superhero satire",
+        "Eric Kripke creation",
+        "Garth Ennis comic adaptation",
+        "Homelander",
+        "Series finale"
+      ],
+      "summary": "The hit superhero satire series is wrapping up with its series finale, with creator Eric Kripke and the cast celebrating the conclusion at an event in Los Angeles.",
+      "sourceUrl": "http://www.hollywoodreporter.com/tv/tv-news/the-boys-creator-stars-series-finale-1236602403/",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://www.hollywoodreporter.com/wp-content/uploads/2026/05/GettyImages-2277205832.jpg?crop=0px%2C532px%2C5000px%2C2798px&resize=1440%2C810"
+    },
+    {
+      "id": 4,
+      "answer": "Power of Siberia 2",
+      "acceptedAnswers": [
+        "Power of Siberia 2",
+        "Power of Siberia"
+      ],
+      "clues": [
+        "Natural gas pipeline",
+        "Russia-China energy deal",
+        "Trans-Mongolian route",
+        "Gazprom project",
+        "Arctic resource extraction",
+        "Geopolitical energy supply"
+      ],
+      "summary": "The Power of Siberia 2 pipeline is in the spotlight as Putin's visit to China raises questions about new Russia-China energy agreements and their impact on global markets and US relations.",
+      "sourceUrl": "https://www.bloomberg.com/sessions/2026-05-20/live-q-amp-a-what-putin-s-china-visit-means-for-beijing-s-ties-with-russia-and-the-us",
+      "difficulty": "hard",
+      "region": "global",
+      "imageUrl": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ihv4blw7qclQ/v0/1200x800.png"
+    },
+    {
+      "id": 5,
+      "answer": "College Football Playoff",
+      "acceptedAnswers": [
+        "College Football Playoff",
+        "CFP"
+      ],
+      "clues": [
+        "NCAA Division I postseason",
+        "Expanded bracket debate",
+        "Big Ten Conference",
+        "24-team proposal",
+        "Bowl games",
+        "National championship tournament"
+      ],
+      "summary": "Big Ten executives, including Washington, have coalesced around a plan to expand the College Football Playoff to 24 teams, sparking debate about the ideal postseason format.",
+      "sourceUrl": "https://www.seattletimes.com/sports/washington-huskies-football/https-www-mercurynews-com-2026-05-20-college-football-playoff-24-team-expansion-washington/",
+      "difficulty": "medium",
+      "region": "north-america",
+      "imageUrl": "https://images.seattletimes.com/wp-content/uploads/2026/05/05202026_tzr_tzr_115003.jpg?d=1200x630"
+    },
+    {
+      "id": 6,
+      "answer": "PlayStation",
+      "acceptedAnswers": [
+        "PlayStation",
+        "Sony PlayStation"
+      ],
+      "clues": [
+        "Sony gaming division",
+        "Days of Play promotion",
+        "Console manufacturer",
+        "PS5",
+        "DualSense controller",
+        "Annual summer sale event"
+      ],
+      "summary": "PlayStation's massive annual Days of Play sales event is set to begin next week, though leakers report there will be no PS5 console discounts this year.",
+      "sourceUrl": "https://www.pushsquare.com/news/2026/05/playstations-huge-days-of-play-sales-begin-next-week-reportedly-no-ps5-console-discounts",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://images.pushsquare.com/48b7127e89079/large.jpg"
+    },
+    {
+      "id": 7,
+      "answer": "Magnetosphere",
+      "acceptedAnswers": [
+        "Magnetosphere",
+        "Earth's magnetosphere"
+      ],
+      "clues": [
+        "Planetary magnetic field",
+        "Solar wind deflection",
+        "Van Allen radiation belts",
+        "Protective invisible shield",
+        "Space weather interaction",
+        "Geomagnetic phenomena"
+      ],
+      "summary": "A joint European-Chinese spacecraft has launched to photograph Earth's magnetosphere — the invisible magnetic shield that protects the planet from the solar wind — for the first time.",
+      "sourceUrl": "https://spacedaily.com/sd-a-european-chinese-spacecraft-just-launched-to-photograph-something-nobody-has-ever-actually-seen-the-invisible-shield-that-keeps-the-solar-wind-from-sterilizing-earth/",
+      "difficulty": "hard",
+      "region": "global",
+      "imageUrl": "https://spacedaily.com/wp-content/uploads/2026/05/a-european-chinese-spacecraft-just-launc.jpg"
+    },
+    {
+      "id": 8,
+      "answer": "Sea level rise",
+      "acceptedAnswers": [
+        "Sea level rise",
+        "Sea-level rise"
+      ],
+      "clues": [
+        "Climate change consequence",
+        "Thermal expansion of oceans",
+        "Glacial melt contribution",
+        "Coastal flooding threat",
+        "Accelerating since 1960",
+        "Global warming indicator"
+      ],
+      "summary": "New scientific research has improved understanding of sea level rise and confirmed that it has been accelerating since 1960 due to human-induced climate change.",
+      "sourceUrl": "https://phys.org/news/2026-05-scientists-knowledge-sea.html",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://scx2.b-cdn.net/gfx/news/2026/scientists-improve-kno-1.jpg"
+    },
+    {
+      "id": 9,
+      "answer": "Exoskeleton",
+      "acceptedAnswers": [
+        "Exoskeleton",
+        "Hypershell"
+      ],
+      "clues": [
+        "Wearable robotics",
+        "Powered mobility assist",
+        "Hiking technology",
+        "Biomechanical augmentation",
+        "Consumer electronics innovation",
+        "Assistive walking device"
+      ],
+      "summary": "The Hypershell exoskeleton is making news with its slimmer and faster new design, part of the growing trend of consumer hiking exoskeletons entering the mainstream market.",
+      "sourceUrl": "https://gizmodo.com/the-hypershell-exoskeleton-is-slimmer-faster-and-still-not-built-for-your-bad-knees-2000761299",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://gizmodo.com/app/uploads/2026/05/Hypershell-Exoskeleton-New-Hiking-1200x675.jpg"
+    },
+    {
+      "id": 10,
+      "answer": "Vladimir Putin",
+      "acceptedAnswers": [
+        "Vladimir Putin",
+        "Putin"
+      ],
+      "clues": [
+        "Kremlin leader",
+        "Former KGB officer",
+        "Russian president",
+        "Beijing diplomatic visit",
+        "Invasion of neighboring nation",
+        "Authoritarian strongman"
+      ],
+      "summary": "Vladimir Putin's recent visit to China is raising questions about the deepening Russia-China relationship, energy agreements, and the implications for US foreign policy.",
+      "sourceUrl": "https://www.bloomberg.com/sessions/2026-05-20/live-q-amp-a-what-putin-s-china-visit-means-for-beijing-s-ties-with-russia-and-the-us",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ihv4blw7qclQ/v0/1200x800.png"
+    }
+  ]
+}
