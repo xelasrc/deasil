@@ -1,0 +1,212 @@
+{
+  "date": "2026-05-29",
+  "puzzles": [
+    {
+      "id": 1,
+      "answer": "Sonny Rollins",
+      "acceptedAnswers": [
+        "Sonny Rollins",
+        "Theodore Walter Rollins"
+      ],
+      "clues": [
+        "Tenor saxophonist",
+        "Jazz legend",
+        "Saxophone Colossus album",
+        "Bebop and hard bop pioneer",
+        "Practiced on Williamsburg Bridge",
+        "Died at age 95"
+      ],
+      "summary": "Jazz legend Sonny Rollins, widely regarded as one of the greatest tenor saxophonists in history, has died at the age of 95 after a six-decade career.",
+      "sourceUrl": "https://www.washingtonpost.com/obituaries/2026/05/26/sonny-rollins-saxophone-colossus-jazz-dies-95/",
+      "difficulty": "hard",
+      "region": "global",
+      "imageUrl": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/L2AVMYQBDNGY5P7FNHV43CKGLI.jpg&w=1440"
+    },
+    {
+      "id": 2,
+      "answer": "Ken Paxton",
+      "acceptedAnswers": [
+        "Ken Paxton",
+        "Kenneth Paxton"
+      ],
+      "clues": [
+        "Texas politician",
+        "Former state attorney general",
+        "Impeachment trial in 2023",
+        "Republican primary challenger",
+        "Securities fraud indictment",
+        "Runoff election candidate"
+      ],
+      "summary": "Ken Paxton is challenging incumbent John Cornyn in a heated Texas Republican primary runoff for the U.S. Senate, a race that has divided the party.",
+      "sourceUrl": "http://www.texastribune.org/2026/05/26/texas-primary-runoff-may-26-races-to-watch/",
+      "difficulty": "hard",
+      "region": "north_america",
+      "imageUrl": "https://i0.wp.com/www.texastribune.org/wp-content/uploads/2026/05/What-to-Expect-02-SOCIAL.jpg?fit=1200%2C675&quality=100&ssl=1&w=1200&h=630"
+    },
+    {
+      "id": 3,
+      "answer": "Iran",
+      "acceptedAnswers": [
+        "Iran",
+        "Islamic Republic of Iran"
+      ],
+      "clues": [
+        "Middle Eastern nation",
+        "Persian Gulf coast",
+        "Supreme Leader as head of state",
+        "Nuclear program controversies",
+        "Capital is Tehran",
+        "Ancient Persian Empire homeland"
+      ],
+      "summary": "The U.S. has renewed military strikes on southern Iran citing threats to American troops, while Iran's Supreme Leader has declared a new regional order amid ongoing conflict and negotiations.",
+      "sourceUrl": "https://www.washingtonpost.com/world/2026/05/26/us-renews-strikes-iran-citing-threats-posed-american-troops/",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/G67MVEYMMIIQSCKJPES4JJRWRE.JPG&w=1440"
+    },
+    {
+      "id": 4,
+      "answer": "Blue Moon",
+      "acceptedAnswers": [
+        "Blue Moon"
+      ],
+      "clues": [
+        "Rare lunar event",
+        "Not actually a color change",
+        "Occurs roughly every 2-3 years",
+        "Second full phase in a calendar month",
+        "Visible after sunset",
+        "Celestial phenomenon"
+      ],
+      "summary": "A rare Blue Moon will be visible rising after sunset this week, offering a notable celestial highlight for skywatchers across North America and the northern hemisphere.",
+      "sourceUrl": "https://www.forbes.com/sites/jamiecartereurope/2026/05/25/see-a-rare-blue-moon-rise-after-sunset-this-week/",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://imageio.forbes.com/specials-images/imageserve/5f917fe11a5e68f4b2302bcf/0x0.jpg?format=jpg&crop=7784,4377,x243,y3,safe&height=900&width=1600&fit=bounds"
+    },
+    {
+      "id": 5,
+      "answer": "Philippines",
+      "acceptedAnswers": [
+        "Philippines",
+        "The Philippines"
+      ],
+      "clues": [
+        "Southeast Asian archipelago",
+        "Over 7,000 islands",
+        "Capital is Manila",
+        "Typhoon-prone nation",
+        "Former Spanish and American colony",
+        "Pacific Ring of Fire location"
+      ],
+      "summary": "The Philippines has ended rescue efforts for 16 people still missing after a building collapse in the city of Angeles near Manila that killed at least four.",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/5/26/philippines-ends-rescue-efforts-for-16-missing-after-building-collapse",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/05/afp_6a1543d1bae5-1779778513.jpg?resize=1920%2C1440"
+    },
+    {
+      "id": 6,
+      "answer": "Sennheiser",
+      "acceptedAnswers": [
+        "Sennheiser"
+      ],
+      "clues": [
+        "German audio company",
+        "Founded in 1945",
+        "Known for premium headphones",
+        "Hanover-based manufacturer",
+        "Professional microphone maker",
+        "Momentum product line"
+      ],
+      "summary": "Sennheiser has unveiled its Momentum 5 wireless headphones, featuring upgraded active noise cancellation, lossless Bluetooth audio, and a user-replaceable battery after nearly four years since the last model.",
+      "sourceUrl": "https://www.theverge.com/tech/936127/sennheiser-momentum-5-wireless-headphones-anc-lossless-bluetooth",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/sennheiser1.jpg?quality=90&strip=all&crop=0%2C10.740836125969%2C100%2C78.518327748063&w=1200"
+    },
+    {
+      "id": 7,
+      "answer": "John Cornyn",
+      "acceptedAnswers": [
+        "John Cornyn"
+      ],
+      "clues": [
+        "U.S. Senator from Texas",
+        "Republican incumbent",
+        "Former state attorney general",
+        "Senate Judiciary Committee member",
+        "Facing a primary runoff challenge",
+        "Senior senator from the Lone Star State"
+      ],
+      "summary": "Senator John Cornyn is fighting to fend off challenger Ken Paxton in a contentious Texas Republican primary runoff that has divided the party.",
+      "sourceUrl": "https://www.politico.com/news/2026/05/26/cornyn-paxton-texas-senate-gop-fears-00935464",
+      "difficulty": "hard",
+      "region": "north_america",
+      "imageUrl": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F77%2F1f%2F8ea653574285a3c898ce85cdb54e%2Felection-2-26-texas-86563.jpg"
+    },
+    {
+      "id": 8,
+      "answer": "American Music Awards",
+      "acceptedAnswers": [
+        "American Music Awards",
+        "AMAs"
+      ],
+      "clues": [
+        "Annual ceremony since 1974",
+        "Fan-voted categories",
+        "Held in Las Vegas in 2026",
+        "Celebrates the best in recorded music",
+        "Red carpet event",
+        "Pop culture staple"
+      ],
+      "summary": "The 2026 American Music Awards are being held in Las Vegas, drawing an all-star lineup of performers and celebrities to celebrate the year's best music.",
+      "sourceUrl": "https://deadline.com/gallery/american-music-awards-2026-red-carpet-photos/",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://deadline.com/wp-content/uploads/2026/05/2026-american-music-awards-red-carpet-photos.jpg?w=1024"
+    },
+    {
+      "id": 9,
+      "answer": "Intel",
+      "acceptedAnswers": [
+        "Intel",
+        "Intel Corporation"
+      ],
+      "clues": [
+        "Santa Clara semiconductor company",
+        "x86 architecture pioneer",
+        "Founded by Gordon Moore and Robert Noyce",
+        "Blue logo chip maker",
+        "Competes with AMD",
+        "Nova Lake processor series"
+      ],
+      "summary": "Intel's upcoming Nova Lake Edge processor has been leaked, reportedly featuring an 8 E-core and 12 Xe graphics core design aimed at edge computing applications.",
+      "sourceUrl": "https://videocardz.com/newz/intel-nova-lake-edge-reportedly-planned-with-8-e-cores-and-12-xe-graphics-cores",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://cdn.videocardz.com/1/2026/05/NOVA-LAKE-EDGE-XE3P-GRAPHICS-HERO-1.jpg"
+    },
+    {
+      "id": 10,
+      "answer": "Jacob Misiorowski",
+      "acceptedAnswers": [
+        "Jacob Misiorowski",
+        "The Miz"
+      ],
+      "clues": [
+        "MLB pitcher",
+        "Record-breaking fastball velocity",
+        "Young flamethrower",
+        "Milwaukee Brewers prospect",
+        "Nicknamed 'The Miz'",
+        "Dominant on the mound in 2026"
+      ],
+      "summary": "Pitcher Jacob Misiorowski is making headlines by shattering MLB records with his otherworldly fastball velocity, establishing himself as one of baseball's most dominant arms.",
+      "sourceUrl": "https://www.si.com/mlb/brewers/jacob-misiorowski-torching-mlb-records-otherworldly-fastball",
+      "difficulty": "hard",
+      "region": "north_america",
+      "imageUrl": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_78,w_4148,h_2333/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/ImagnImages/production/si/01ksgjgtkete1gc49s0x.jpg"
+    }
+  ]
+}
