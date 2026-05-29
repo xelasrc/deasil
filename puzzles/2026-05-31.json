@@ -1,0 +1,213 @@
+{
+  "date": "2026-05-31",
+  "puzzles": [
+    {
+      "id": 1,
+      "answer": "Caesars Entertainment",
+      "acceptedAnswers": [
+        "Caesars Entertainment",
+        "Caesars",
+        "Caesars Palace"
+      ],
+      "clues": [
+        "Las Vegas Strip",
+        "Casino and hospitality conglomerate",
+        "Named after a Roman ruler",
+        "Harrah's parent company",
+        "Sports betting operator",
+        "Publicly traded gaming company"
+      ],
+      "summary": "Caesars Entertainment has agreed to be acquired by Fertitta Entertainment in a massive $5.7 billion all-cash deal, creating a huge US entertainment empire.",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-28/caesars-entertainment-agrees-to-5-7-billion-fertitta-takeover",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iiegL2X7EyE0/v0/1200x800.jpg"
+    },
+    {
+      "id": 2,
+      "answer": "Temu",
+      "acceptedAnswers": [
+        "Temu"
+      ],
+      "clues": [
+        "E-commerce platform",
+        "PDD Holdings subsidiary",
+        "Budget shopping app",
+        "Marketplace rivaling Shein",
+        "Chinese technology company",
+        "Known for aggressive social media advertising"
+      ],
+      "summary": "EU regulators have fined Chinese online retailer Temu $232 million for failing to protect consumers from illegal and dangerous products sold on its platform.",
+      "sourceUrl": "https://apnews.com/article/temu-european-union-brussels-ecommerce-digital-07f53e968da89562e3f032abfa626fa4",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://dims.apnews.com/dims4/default/bb5162a/2147483647/strip/true/crop/5055x3368+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fad%2Fbb%2F97cc8684bcbc0b30d6ffc8e583b7%2F7f698bc55a5a4a369a1ccca87bd8f13a"
+    },
+    {
+      "id": 3,
+      "answer": "Steven Spielberg",
+      "acceptedAnswers": [
+        "Steven Spielberg",
+        "Spielberg"
+      ],
+      "clues": [
+        "Academy Award-winning director",
+        "Amblin Entertainment founder",
+        "Schindler's List filmmaker",
+        "Jaws and E.T. creator",
+        "DreamWorks co-founder",
+        "Hollywood legend born in Cincinnati"
+      ],
+      "summary": "Steven Spielberg's new film 'Disclosure Day' is receiving early praise from audiences and critics, with particular acclaim for the director's work and Emily Blunt's starring performance.",
+      "sourceUrl": "https://variety.com/2026/film/news/disclosure-day-first-reactions-spielberg-emily-blunt-praise-1236760402/",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://variety.com/wp-content/uploads/2026/05/MCDDIDA_UV003.jpg?crop=0px%2C23px%2C2997px%2C1688px&resize=1000%2C563"
+    },
+    {
+      "id": 4,
+      "answer": "Ferrari",
+      "acceptedAnswers": [
+        "Ferrari"
+      ],
+      "clues": [
+        "Prancing Horse logo",
+        "Maranello-based automaker",
+        "Italian luxury brand",
+        "Formula One constructor",
+        "Founded by Enzo",
+        "Iconic supercar manufacturer"
+      ],
+      "summary": "Ferrari has revealed reactions from its F1 drivers Charles Leclerc and Lewis Hamilton to the Luce, the company's first-ever electric vehicle, marking a major shift for the legendary automaker.",
+      "sourceUrl": "https://www.motor1.com/news/797130/lewis-hamilton-charles-leclerc-ferrari-luce/",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://cdn.motor1.com/images/mgl/eo7e7P/s1/charles-leclerc-lewis-hamilton-and-the-ferrari-luce.jpg"
+    },
+    {
+      "id": 5,
+      "answer": "Gaza",
+      "acceptedAnswers": [
+        "Gaza",
+        "Gaza Strip"
+      ],
+      "clues": [
+        "Palestinian territory",
+        "Mediterranean coastal enclave",
+        "Bordering Egypt's Sinai",
+        "Densely populated region",
+        "Middle Eastern conflict zone",
+        "Strip of land in the Levant"
+      ],
+      "summary": "Plans for an international stabilization force promised for Gaza have stalled, with none of the five countries that pledged troops delivering significant contributions three months after the announcement.",
+      "sourceUrl": "https://apnews.com/article/israel-hamas-gaza-trump-indonesia-stabilization-force-a5e1d4a894746104c1335b6962c0ab69",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://dims.apnews.com/dims4/default/adbd2f8/2147483647/strip/true/crop/4297x2863+648+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff3%2F77%2F99c14b11c52c5ed4c4caeeb5fdc7%2Fc601a4a0b85e4f3d81cbfd9e0040ae10"
+    },
+    {
+      "id": 6,
+      "answer": "Emily Blunt",
+      "acceptedAnswers": [
+        "Emily Blunt"
+      ],
+      "clues": [
+        "British actress",
+        "Married to John Krasinski",
+        "A Quiet Place star",
+        "The Devil Wears Prada performer",
+        "Starred in Sicario",
+        "Mary Poppins Returns lead"
+      ],
+      "summary": "Emily Blunt is earning widespread praise for her starring performance in Steven Spielberg's new film 'Disclosure Day,' with early reactions highlighting her work as a standout.",
+      "sourceUrl": "https://variety.com/2026/film/news/disclosure-day-first-reactions-spielberg-emily-blunt-praise-1236760402/",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://variety.com/wp-content/uploads/2026/05/MCDDIDA_UV003.jpg?crop=0px%2C23px%2C2997px%2C1688px&resize=1000%2C563"
+    },
+    {
+      "id": 7,
+      "answer": "SEC",
+      "acceptedAnswers": [
+        "SEC",
+        "Southeastern Conference"
+      ],
+      "clues": [
+        "Power Five member",
+        "U.S. college athletics league",
+        "Headquartered in Birmingham, Alabama",
+        "Home to Alabama and Georgia football",
+        "Greg Sankey serves as commissioner",
+        "Dominant force in American collegiate sports"
+      ],
+      "summary": "Georgia head football coach Kirby Smart has suggested the SEC could potentially leave the NCAA, amid growing tension and chaos in the governance of college athletics.",
+      "sourceUrl": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kirby-smart-suggests-sec-could-leave-the-ncaa",
+      "difficulty": "medium",
+      "region": "us",
+      "imageUrl": "https://nbcsports.brightspotcdn.com/dims4/default/4432e3a/2147483647/strip/true/crop/3600x2025+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F6b%2F02%2F0fab32c945deb0a6e764340f13c9%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2271392629"
+    },
+    {
+      "id": 8,
+      "answer": "Vertu",
+      "acceptedAnswers": [
+        "Vertu"
+      ],
+      "clues": [
+        "Luxury mobile phone brand",
+        "Originally a Nokia subsidiary",
+        "Known for concierge services",
+        "Ultra-premium handset maker",
+        "British heritage technology brand",
+        "Phones with sapphire crystal screens"
+      ],
+      "summary": "Vertu has unveiled a new AI-powered foldable phone starting at $6,880, targeting CEOs with enterprise AI-agent workflows and ultra-premium luxury finishes.",
+      "sourceUrl": "https://techcrunch.com/2026/05/28/vertu-wants-ceos-to-run-companies-from-an-ai-foldable-starting-at-6880/",
+      "difficulty": "hard",
+      "region": "global",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/05/vertu-alphafold-foldable.jpg?resize=1200,800"
+    },
+    {
+      "id": 9,
+      "answer": "Mail-in voting",
+      "acceptedAnswers": [
+        "Mail-in voting",
+        "Mail in voting",
+        "Absentee voting",
+        "Vote by mail"
+      ],
+      "clues": [
+        "Postal ballot system",
+        "Remote participation in elections",
+        "Expanded during the pandemic",
+        "Subject of partisan debate in the U.S.",
+        "Alternative to in-person polling",
+        "Uses official paper ballots sent to homes"
+      ],
+      "summary": "A federal judge in Washington, D.C. has declined to temporarily block President Trump's executive order calling for restrictions on mail-in voting, though another judge may still rule on the matter.",
+      "sourceUrl": "https://www.npr.org/2026/05/28/nx-s1-5797889/trump-mail-in-voting-order",
+      "difficulty": "medium",
+      "region": "us",
+      "imageUrl": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x3375+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fec%2Fcd%2F002fdf5e42059e0cc970496cfdac%2Fap26090784092005.jpg"
+    },
+    {
+      "id": 10,
+      "answer": "Chris Brown",
+      "acceptedAnswers": [
+        "Chris Brown"
+      ],
+      "clues": [
+        "R&B and pop singer",
+        "Grammy Award winner",
+        "Known for 'Run It!' debut single",
+        "Controversial music industry figure",
+        "Collaborated with Drake and Lil Wayne",
+        "American entertainer and dancer"
+      ],
+      "summary": "Chris Brown is back in the news after his security head testified in a deposition that he paid nearly $40,000 to Brown's ex-housekeeper following a dog attack at the singer's home.",
+      "sourceUrl": "https://www.tmz.com/2026/05/28/chris-brown-security-paid-ex-housekeeper-almost-40-thousand/",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://imagez.tmz.com/image/64/16by9/2026/05/27/6494fda0119b4662875bee04e26be711_xl.jpg"
+    }
+  ]
+}
