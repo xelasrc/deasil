@@ -1,0 +1,209 @@
+{
+  "date": "2026-06-01",
+  "puzzles": [
+    {
+      "id": 1,
+      "answer": "Kennedy Center",
+      "acceptedAnswers": [
+        "Kennedy Center",
+        "John F. Kennedy Center for the Performing Arts"
+      ],
+      "clues": [
+        "Performing arts venue",
+        "Washington D.C. landmark",
+        "National cultural institution",
+        "Congressional naming authority",
+        "Honors ceremony host",
+        "Potomac River location"
+      ],
+      "summary": "A judge ruled that Trump's name must be removed from the Kennedy Center, affirming that only Congress has the authority to rename the institution.",
+      "sourceUrl": "https://www.axios.com/2026/05/29/trump-kennedy-center-name-removed-closure",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://images.axios.com/J99fhRUWGW99GaPIxZDmuwisDgk=/0x592:5683x3789/1366x768/2026/05/29/1780081546297.jpg"
+    },
+    {
+      "id": 2,
+      "answer": "Walter Reed",
+      "acceptedAnswers": [
+        "Walter Reed",
+        "Walter Reed National Military Medical Center"
+      ],
+      "clues": [
+        "Military medical facility",
+        "Bethesda, Maryland",
+        "Presidential health exams",
+        "Named after an Army physician",
+        "Yellow fever research legacy",
+        "Department of Defense hospital"
+      ],
+      "summary": "Trump's physician released a health report after the president underwent a medical exam at Walter Reed National Military Medical Center, declaring him fully fit to serve.",
+      "sourceUrl": "https://apnews.com/article/trump-health-checkup-fitness-doctors-a883ebfd180c5bc232587f44449f782a",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://dims.apnews.com/dims4/default/3fb6b1b/2147483647/strip/true/crop/1788x1191+0+2/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F33%2F6c%2F6d6e73e9b6eda9935163cca29418%2F4ad51a01ecd14c83b139bf55bf926078"
+    },
+    {
+      "id": 3,
+      "answer": "Bill Maher",
+      "acceptedAnswers": [
+        "Bill Maher"
+      ],
+      "clues": [
+        "Late-night television host",
+        "Political commentator",
+        "HBO personality",
+        "Stand-up comedian",
+        "Politically Incorrect creator",
+        "Real Time host"
+      ],
+      "summary": "Bill Maher mocked Trump's Freedom 250 Concert Series after multiple artists dropped out, joking that the lineup shows Trump is 'concerned for the unemployed.'",
+      "sourceUrl": "http://www.hollywoodreporter.com/tv/tv-news/bill-maher-trump-freedom-250-concert-lineup-concerned-unemployed-1236609316/",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://www.hollywoodreporter.com/wp-content/uploads/2025/04/Bill-Maher-Donald-Trump-getty-H-2025.png?w=1296&h=730&crop=1"
+    },
+    {
+      "id": 4,
+      "answer": "Clive Davis",
+      "acceptedAnswers": [
+        "Clive Davis"
+      ],
+      "clues": [
+        "Music industry executive",
+        "Record label mogul",
+        "Whitney Houston mentor",
+        "Arista Records founder",
+        "Grammy Awards gala host",
+        "Rock and Roll Hall of Fame inductee"
+      ],
+      "summary": "Legendary music mogul Clive Davis, known for shaping the careers of Whitney Houston, Aretha Franklin, and Kelly Clarkson, has been hospitalized in New York.",
+      "sourceUrl": "https://www.tmz.com/2026/05/29/clive-davis-hospitalized/",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://imagez.tmz.com/image/ee/16by9/2026/05/30/ee26cf5391074cd5ae952f23fe299833_xl.jpg"
+    },
+    {
+      "id": 5,
+      "answer": "Dell",
+      "acceptedAnswers": [
+        "Dell",
+        "Dell Technologies"
+      ],
+      "clues": [
+        "Computer manufacturer",
+        "Round Rock, Texas headquarters",
+        "Michael founded this company",
+        "Enterprise server provider",
+        "Technology hardware corporation",
+        "AI infrastructure supplier"
+      ],
+      "summary": "Dell's stock surged to an all-time high driven by booming AI server sales, reflecting the company's growing role in artificial intelligence infrastructure.",
+      "sourceUrl": "https://www.fool.com/investing/2026/05/29/why-dell-stock-skyrocketed-new-all-time-high-today/",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F872466%2Fcloud-computing-gettyimages-1336250828.jpg&w=1200&op=resize"
+    },
+    {
+      "id": 6,
+      "answer": "Xavier Becerra",
+      "acceptedAnswers": [
+        "Xavier Becerra"
+      ],
+      "clues": [
+        "California politician",
+        "Former U.S. Attorney General nominee",
+        "Health and Human Services Secretary",
+        "Latino political figure",
+        "Gubernatorial candidate",
+        "Former U.S. Representative"
+      ],
+      "summary": "Xavier Becerra leads two new polls in the California governor's race, emerging as the frontrunner in a competitive field where only two candidates will advance.",
+      "sourceUrl": "https://abc7.com/post/new-poll-california-governors-race-shows-top-candidates-will-move/19195041/",
+      "difficulty": "hard",
+      "region": "us",
+      "imageUrl": "https://cdn.abcotvs.com/dip/images/19196253_052926-kabc-5pm-gov-race-poll-vid.jpg?w=1600"
+    },
+    {
+      "id": 7,
+      "answer": "Jalen Williams",
+      "acceptedAnswers": [
+        "Jalen Williams"
+      ],
+      "clues": [
+        "NBA small forward",
+        "Oklahoma City player",
+        "Santa Clara University alumnus",
+        "2022 draft pick",
+        "Hamstring injury",
+        "Western Conference Finals participant"
+      ],
+      "summary": "Oklahoma City Thunder's Jalen Williams was officially ruled out for Game 7 of the Western Conference Finals due to a hamstring injury sustained during Game 6.",
+      "sourceUrl": "https://www.nbcsports.com/nba/news/thunders-jalen-williams-officially-ruled-out-for-game-7-of-western-conference-finals",
+      "difficulty": "hard",
+      "region": "global",
+      "imageUrl": "https://nbcsports.brightspotcdn.com/dims4/default/10d9287/2147483647/strip/true/crop/4664x2624+0+1071/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fe0%2Fa5%2F185ce94045edac8e3da0f030d3a5%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2277997808"
+    },
+    {
+      "id": 8,
+      "answer": "Anthropic",
+      "acceptedAnswers": [
+        "Anthropic"
+      ],
+      "clues": [
+        "AI safety company",
+        "Claude chatbot developer",
+        "Public benefit corporation",
+        "Founded by former OpenAI researchers",
+        "Dario Amodei-led firm",
+        "Large language model creator"
+      ],
+      "summary": "Anthropic's latest funding round has made each of its seven co-founders worth $8 billion, marking the most founders from one company added to Bloomberg's Billionaires Index in a single day.",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-05-29/anthropic-co-founders-worth-8-billion-each-after-funding-round",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i.8ZC6iY7EIA/v0/1200x799.jpg"
+    },
+    {
+      "id": 9,
+      "answer": "UFC",
+      "acceptedAnswers": [
+        "UFC",
+        "Ultimate Fighting Championship"
+      ],
+      "clues": [
+        "Mixed martial arts promotion",
+        "Dana White-led organization",
+        "Octagon combat",
+        "Pay-per-view events",
+        "Fight Night series",
+        "Zuffa subsidiary"
+      ],
+      "summary": "UFC held official weigh-ins for UFC Fight Night: Song vs Figueiredo at Galaxy Arena in Macau, expanding their presence in the Asian market.",
+      "sourceUrl": "https://www.ufc.com/news/official-weigh-results-ufc-macau-song-figueiredo",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://ufc.com/images/styles/card/s3/image/2026-05/GettyImages-2257869623.jpg?itok=9MX2SRGv"
+    },
+    {
+      "id": 10,
+      "answer": "Scottie Pippen",
+      "acceptedAnswers": [
+        "Scottie Pippen"
+      ],
+      "clues": [
+        "Chicago Bulls legend",
+        "Six-time NBA champion",
+        "Basketball Hall of Famer",
+        "Michael Jordan teammate",
+        "Small forward",
+        "1992 Dream Team member"
+      ],
+      "summary": "Scottie Pippen's son Preston Pippen is among the celebrity kids featured in Netflix's new reality show Calabasas Confidential, drawing attention to the basketball legend's family.",
+      "sourceUrl": "https://www.eonline.com/news/1432440/calabasas-confidential-cast-who-is-in-the-netflix-reality-show",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://akns-images.eonline.com/eol_images/Entire_Site/20260528/b36aaf4e-62f0-4568-8363-c45030ce0ae9_1779988763.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top"
+    }
+  ]
+}
