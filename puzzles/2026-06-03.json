@@ -1,0 +1,209 @@
+{
+  "date": "2026-06-03",
+  "puzzles": [
+    {
+      "id": 1,
+      "answer": "Dua Lipa",
+      "acceptedAnswers": [
+        "Dua Lipa"
+      ],
+      "clues": [
+        "Pop music",
+        "Albanian-British heritage",
+        "Future Nostalgia album",
+        "Grammy Award winner",
+        "Singer-songwriter",
+        "London celebrity"
+      ],
+      "summary": "Dua Lipa married actor Callum Turner in an intimate ceremony in London, making headlines worldwide.",
+      "sourceUrl": "https://www.justjared.com/2026/05/31/dua-lipa-callum-turner-get-married-in-london/",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://www.justjared.com/wp-content/uploads/2026/05/dua-lipa-married.jpg"
+    },
+    {
+      "id": 2,
+      "answer": "James Bond",
+      "acceptedAnswers": [
+        "James Bond",
+        "007"
+      ],
+      "clues": [
+        "MI6 secret agent",
+        "British espionage franchise",
+        "Ian Fleming creation",
+        "Martini shaken not stirred",
+        "Film series spanning decades",
+        "Fictional spy with a license to kill"
+      ],
+      "summary": "The latest video game in the franchise, 007 First Light, has already been discounted on PS5 and Steam shortly after release.",
+      "sourceUrl": "https://www.theverge.com/gadgets/940126/007-first-light-ps5-pc-steam-deal-sale",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/ss_a840c903dd0431a24509454787dcb0a565b56d31.1920x1080.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200"
+    },
+    {
+      "id": 3,
+      "answer": "Colombia",
+      "acceptedAnswers": [
+        "Colombia"
+      ],
+      "clues": [
+        "South American nation",
+        "Capital city Bogotá",
+        "Coffee-producing country",
+        "Emerald exporter",
+        "Pacific and Caribbean coastlines",
+        "Gabriel García Márquez's homeland"
+      ],
+      "summary": "Colombia is holding a presidential election that could redefine its relationship with the United States amid tensions between leaders.",
+      "sourceUrl": "https://www.bbc.com/news/articles/c2027g423glo",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/7b62/live/c71dea20-5cf7-11f1-89a3-d1f559421220.jpg"
+    },
+    {
+      "id": 4,
+      "answer": "Beaufort Castle",
+      "acceptedAnswers": [
+        "Beaufort Castle",
+        "Beaufort"
+      ],
+      "clues": [
+        "Crusader-era fortress",
+        "Strategic hilltop stronghold",
+        "Located in southern Lebanon",
+        "Medieval military architecture",
+        "Overlooking the Litani River valley",
+        "Historic fortification seized in conflict"
+      ],
+      "summary": "Israel seized the historic Beaufort Castle in Lebanon as part of an expanded ground offensive, ordering evacuations south of the Zahrani river.",
+      "sourceUrl": "https://www.bbc.com/news/articles/cdep04kzz5wo",
+      "difficulty": "hard",
+      "region": "global",
+      "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/c1d5/live/7e11c3d0-5cdc-11f1-89a3-d1f559421220.jpg"
+    },
+    {
+      "id": 5,
+      "answer": "Gavin Newsom",
+      "acceptedAnswers": [
+        "Gavin Newsom"
+      ],
+      "clues": [
+        "Democratic governor",
+        "Former San Francisco mayor",
+        "Term-limited state leader",
+        "California politician",
+        "Prominent figure in national politics",
+        "Wine country businessman"
+      ],
+      "summary": "California voters face a crowded primary election to replace outgoing Governor Newsom, with 61 candidates on the ballot and no clear front-runner.",
+      "sourceUrl": "https://apnews.com/article/california-governor-candidates-election-7a5ee493ef386593c7e8aef88838aa89",
+      "difficulty": "medium",
+      "region": "us",
+      "imageUrl": "https://dims.apnews.com/dims4/default/1400596/2147483647/strip/true/crop/5766x3842+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F61%2F7d%2F1b5649a1c4a010fe768739d9679c%2F1c5ce75372db437ca9f80df41b17205e"
+    },
+    {
+      "id": 6,
+      "answer": "San Antonio Spurs",
+      "acceptedAnswers": [
+        "San Antonio Spurs",
+        "Spurs"
+      ],
+      "clues": [
+        "NBA franchise in Texas",
+        "Five-time champions",
+        "Home of the AT&T Center",
+        "Tim Duncan's legendary team",
+        "Silver and black uniforms",
+        "Western Conference contenders"
+      ],
+      "summary": "The San Antonio Spurs have reached the 2026 NBA Finals against the New York Knicks, with the full series schedule now revealed.",
+      "sourceUrl": "https://www.postingandtoasting.com/knicks-news/83473/knicks-vs-spurs-nba-finals-schedule-revealed",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://platform.postingandtoasting.com/wp-content/uploads/sites/125/2026/05/gettyimages-2277908165.jpg?quality=90&strip=all&crop=0%2C10.713340963676%2C100%2C78.573318072649&w=1200"
+    },
+    {
+      "id": 7,
+      "answer": "Callum Turner",
+      "acceptedAnswers": [
+        "Callum Turner"
+      ],
+      "clues": [
+        "British actor",
+        "Fantastic Beasts franchise",
+        "The Gilded Age cast member",
+        "Born in London",
+        "Film and television performer",
+        "Rising Hollywood star"
+      ],
+      "summary": "Actor Callum Turner married pop superstar Dua Lipa in an intimate London ceremony, drawing global media attention.",
+      "sourceUrl": "https://www.justjared.com/2026/05/31/dua-lipa-callum-turner-get-married-in-london/",
+      "difficulty": "hard",
+      "region": "global",
+      "imageUrl": "https://www.justjared.com/wp-content/uploads/2026/05/dua-lipa-married.jpg"
+    },
+    {
+      "id": 8,
+      "answer": "Paris",
+      "acceptedAnswers": [
+        "Paris"
+      ],
+      "clues": [
+        "City of Light",
+        "French capital",
+        "Home to the Eiffel Tower",
+        "Île-de-France region",
+        "Seine River runs through it",
+        "2024 Summer Olympics host city"
+      ],
+      "summary": "Hundreds of people were arrested in Paris after football celebrations turned violent across France, with over 700 detained nationwide.",
+      "sourceUrl": "https://www.politico.eu/article/hundreds-arrested-in-paris-after-football-revelry-turns-ugly/",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/05/31/GettyImages-2279026476-scaled.jpg"
+    },
+    {
+      "id": 9,
+      "answer": "SpaceCamp",
+      "acceptedAnswers": [
+        "SpaceCamp",
+        "Space Camp"
+      ],
+      "clues": [
+        "1986 adventure film",
+        "Lea Thompson starred",
+        "Tatum O'Neal cast member",
+        "Young astronaut trainees",
+        "Accidental shuttle launch plot",
+        "Cult classic movie"
+      ],
+      "summary": "Ars Technica revisits the 1986 film SpaceCamp on its 40th anniversary, debating whether it's a hidden gem or hopelessly dumb.",
+      "sourceUrl": "https://arstechnica.com/culture/2026/05/on-its-40th-anniversary-we-reassess-1986s-spacecamp/",
+      "difficulty": "hard",
+      "region": "global",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/spacecamp_all_aboard-1152x648.jpg"
+    },
+    {
+      "id": 10,
+      "answer": "Summit Therapeutics",
+      "acceptedAnswers": [
+        "Summit Therapeutics"
+      ],
+      "clues": [
+        "Biopharmaceutical company",
+        "Oncology drug development",
+        "Publicly traded biotech firm",
+        "Clinical trial results",
+        "Lung cancer treatment research",
+        "Partnership with Akeso"
+      ],
+      "summary": "Summit Therapeutics and Akeso announced that their experimental lung cancer drug reduced the risk of death by 34% in a late-stage trial in China.",
+      "sourceUrl": "https://www.cnbc.com/2026/05/31/asco-summit-akeso-ivonescimab-improves-survival-in-harmoni-6-trial.html",
+      "difficulty": "hard",
+      "region": "global",
+      "imageUrl": "https://image.cnbcfm.com/api/v1/image/108101537-1739386936355-gettyimages-2193314452-PSWAT_DSC04245.jpeg?v=1780062617&w=1920&h=1080"
+    }
+  ]
+}
