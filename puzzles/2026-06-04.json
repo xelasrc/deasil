@@ -1,0 +1,212 @@
+{
+  "date": "2026-06-04",
+  "puzzles": [
+    {
+      "id": 1,
+      "answer": "A.J. Brown",
+      "acceptedAnswers": [
+        "A.J. Brown",
+        "AJ Brown"
+      ],
+      "clues": [
+        "NFL wide receiver",
+        "Philadelphia Eagles star",
+        "Former Tennessee Titan",
+        "Ole Miss alumnus",
+        "Pro Bowl selection",
+        "Trade rumors subject"
+      ],
+      "summary": "Eagles wide receiver A.J. Brown has gone silent on social media amid swirling trade rumors, fueling speculation about his future with the team.",
+      "sourceUrl": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/as-trade-looms-a-j-brown-is-absent-from-twitter",
+      "difficulty": "medium",
+      "region": "north_america",
+      "imageUrl": "https://nbcsports.brightspotcdn.com/dims4/default/33e49ba/2147483647/strip/true/crop/7846x4413+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F75%2Ff1%2F7c7b7f024ba08de2d9e6282631ca%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2256152033"
+    },
+    {
+      "id": 2,
+      "answer": "Euphoria",
+      "acceptedAnswers": [
+        "Euphoria"
+      ],
+      "clues": [
+        "HBO teen drama series",
+        "Zendaya starring role",
+        "Sam Levinson created show",
+        "Emmy-winning television program",
+        "High school setting",
+        "Season 3 finale controversy"
+      ],
+      "summary": "The HBO series concluded with a shocking death in its Season 3 finale, and creator Sam Levinson confirmed the show will not return for a fourth season.",
+      "sourceUrl": "http://www.hollywoodreporter.com/tv/tv-news/sam-levinson-defends-major-death-euphoria-season-3-finale-1236610149/",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://www.hollywoodreporter.com/wp-content/uploads/2026/05/Euphoria-finale-2.jpg?w=1296&h=730&crop=1"
+    },
+    {
+      "id": 3,
+      "answer": "Chicago Bears",
+      "acceptedAnswers": [
+        "Chicago Bears",
+        "Bears"
+      ],
+      "clues": [
+        "NFC North franchise",
+        "Soldier Field tenants",
+        "1985 Super Bowl champions",
+        "Monsters of the Midway",
+        "Illinois professional sports team",
+        "Stadium relocation debate"
+      ],
+      "summary": "The Illinois Senate passed a stadium bill in an effort to keep the NFL franchise from relocating out of the state, working through the night on the legislation.",
+      "sourceUrl": "https://www.wthr.com/article/sports/locked-on/lo-chicago/illinois-senate-passes-chicago-bears-stadium-bill-keep-team-nfl-football-home/531-f1aa093b-ddd8-44cd-98e6-dcda0771ffd5",
+      "difficulty": "easy",
+      "region": "north_america",
+      "imageUrl": "https://media.tegna-media.com/assets/WTHR/images/d6b33b21-90eb-41c3-bbd8-bcaa1efbcb42/20260526T031856/d6b33b21-90eb-41c3-bbd8-bcaa1efbcb42_1140x641.jpg"
+    },
+    {
+      "id": 4,
+      "answer": "Colombia",
+      "acceptedAnswers": [
+        "Colombia"
+      ],
+      "clues": [
+        "South American republic",
+        "Capital city Bogotá",
+        "Coffee-producing nation",
+        "Gustavo Petro's country",
+        "Bordered by Venezuela and Ecuador",
+        "Presidential runoff election"
+      ],
+      "summary": "Outgoing President Gustavo Petro has sowed doubt about the country's election results, which show his preferred successor heading to a runoff against a right-wing, pro-Trump rival.",
+      "sourceUrl": "https://www.nbcnews.com/world/latin-america/colombia-presidential-election-petro-doubt-rcna347785",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-05/260531-colombia-election-ww-1433-053fae.jpg"
+    },
+    {
+      "id": 5,
+      "answer": "Pancreatic cancer",
+      "acceptedAnswers": [
+        "Pancreatic cancer"
+      ],
+      "clues": [
+        "Deadly digestive system malignancy",
+        "One of the lowest survival rate tumors",
+        "Exocrine organ disease",
+        "Often diagnosed at advanced stages",
+        "Novel pill treatment breakthrough",
+        "Gastrointestinal oncology research focus"
+      ],
+      "summary": "Researchers reported a breakthrough pill that nearly doubled survival time for people with this advanced deadly cancer, raising hopes for better treatments.",
+      "sourceUrl": "https://www.sciencealert.com/breakthrough-pill-nearly-doubles-survival-time-for-one-of-the-deadliest-cancers",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://www.sciencealert.com/images/2026/06/IllustrationOfSingleCancerCell.jpg"
+    },
+    {
+      "id": 6,
+      "answer": "San Antonio Spurs",
+      "acceptedAnswers": [
+        "San Antonio Spurs",
+        "Spurs"
+      ],
+      "clues": [
+        "Texas NBA franchise",
+        "Five-time league champions",
+        "Tim Duncan's former team",
+        "AT&T Center home court",
+        "Western Conference contenders",
+        "1999 championship winners"
+      ],
+      "summary": "The Spurs are returning to the NBA Finals for a rematch of their 1999 championship matchup against the New York Knicks, featuring their rebuilt roster.",
+      "sourceUrl": "https://www.nba.com/news/rematch-of-1999-spurs-knicks-meet-again-in-nba-finals",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://cdn.nba.com/manage/2026/05/GettyImages_wemby_vs_knicks.png"
+    },
+    {
+      "id": 7,
+      "answer": "AMD",
+      "acceptedAnswers": [
+        "AMD",
+        "Advanced Micro Devices"
+      ],
+      "clues": [
+        "Semiconductor company",
+        "Ryzen processor manufacturer",
+        "Competitor to Intel and Nvidia",
+        "Lisa Su-led tech firm",
+        "Graphics card producer",
+        "Computex 2026 announcements"
+      ],
+      "summary": "AMD kicked off Computex 2026 with major product announcements including the Radeon RX 9070 GRE graphics card and the Ryzen AI Max PRO 400 Series processors.",
+      "sourceUrl": "https://www.phoronix.com/review/amd-rx-9070-gre-ryzen-ai-max-400",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://www.phoronix.net/image.php?id=amd-rx-9070-gre-ryzen-ai-max-400&image=amd_computex_9"
+    },
+    {
+      "id": 8,
+      "answer": "General Motors",
+      "acceptedAnswers": [
+        "General Motors",
+        "GM"
+      ],
+      "clues": [
+        "Detroit-based automaker",
+        "Chevrolet parent company",
+        "One of the Big Three",
+        "GMC truck manufacturer",
+        "Mary Barra-led corporation",
+        "UAW strike target"
+      ],
+      "summary": "The UAW announced a strike at a key supplier plant that manufactures critical parts for Chevy Silverado and GMC Sierra trucks, threatening production.",
+      "sourceUrl": "https://www.wsj.com/business/autos/uaw-to-strike-at-key-general-motors-truck-supplier-plant-870e4ff4",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://images.wsj.net/im-65575302/social"
+    },
+    {
+      "id": 9,
+      "answer": "Asus",
+      "acceptedAnswers": [
+        "Asus",
+        "ASUS"
+      ],
+      "clues": [
+        "Taiwanese electronics manufacturer",
+        "Republic of Gamers brand owner",
+        "Laptop and motherboard producer",
+        "ROG gaming hardware line",
+        "Computex regular exhibitor",
+        "Handheld gaming device maker"
+      ],
+      "summary": "Asus announced the ROG Xbox Ally X20 handheld gaming device featuring a new 7.4-inch OLED screen, generating excitement as potentially the best display in a handheld yet.",
+      "sourceUrl": "https://www.theverge.com/games/940722/asus-xbox-ally-x20-special-edition-oled-screen",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/xbox-ally-x20-2.jpg?quality=90&strip=all&crop=0%2C14.672050646148%2C100%2C70.655898707704&w=1200"
+    },
+    {
+      "id": 10,
+      "answer": "Supermassive black hole",
+      "acceptedAnswers": [
+        "Supermassive black hole",
+        "Supermassive black holes"
+      ],
+      "clues": [
+        "Galactic center phenomenon",
+        "Millions to billions of solar masses",
+        "Active galactic nuclei power source",
+        "Sagittarius A* is one",
+        "Event horizon astronomy",
+        "Accretion disk environment"
+      ],
+      "summary": "New research suggests these enormous cosmic objects at the centers of galaxies could serve as the universe's biggest planet nurseries, challenging existing theories about planet formation.",
+      "sourceUrl": "https://phys.org/news/2026-05-supermassive-black-holes-universe-biggest.html",
+      "difficulty": "hard",
+      "region": "global",
+      "imageUrl": "https://scx2.b-cdn.net/gfx/news/hires/2026/supermassive-black-hol-7.jpg"
+    }
+  ]
+}
