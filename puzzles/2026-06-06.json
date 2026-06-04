@@ -1,0 +1,213 @@
+{
+  "date": "2026-06-06",
+  "puzzles": [
+    {
+      "id": 1,
+      "answer": "Scott Pelley",
+      "acceptedAnswers": [
+        "Scott Pelley"
+      ],
+      "clues": [
+        "Television journalist",
+        "CBS News veteran",
+        "Evening news anchor",
+        "Long-form investigative reporting",
+        "Emmy Award winner",
+        "Presidential interview correspondent"
+      ],
+      "summary": "Scott Pelley was fired from CBS after disputes with new management at 60 Minutes, including clashes with editor-in-chief Bari Weiss over the show's new direction.",
+      "sourceUrl": "https://www.jpost.com/international/article-898173",
+      "difficulty": "hard",
+      "region": "north-america",
+      "imageUrl": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/724019"
+    },
+    {
+      "id": 2,
+      "answer": "Myles Garrett",
+      "acceptedAnswers": [
+        "Myles Garrett"
+      ],
+      "clues": [
+        "NFL defensive end",
+        "Former first overall draft pick",
+        "Cleveland Browns legend",
+        "NFL Defensive Player of the Year",
+        "Texas A&M alumni",
+        "Los Angeles Rams newcomer"
+      ],
+      "summary": "Star pass rusher Myles Garrett revealed he paid teammate Poona Ford a significant sum to acquire the No. 95 jersey after joining the Los Angeles Rams.",
+      "sourceUrl": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/myles-garrett-says-it-cost-him-more-than-a-couple-bucks-to-get-the-rams-no-95-jersey",
+      "difficulty": "medium",
+      "region": "north-america",
+      "imageUrl": "https://nbcsports.brightspotcdn.com/dims4/default/1497beb/2147483647/strip/true/crop/7795x4385+0+407/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Faa%2F5c%2Ffa3de34b4ae6acc938352fbbcd51%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2279508163"
+    },
+    {
+      "id": 3,
+      "answer": "New York Knicks",
+      "acceptedAnswers": [
+        "New York Knicks",
+        "Knicks",
+        "NY Knicks"
+      ],
+      "clues": [
+        "NBA franchise",
+        "Madison Square Garden tenants",
+        "Eastern Conference team",
+        "53-year championship drought",
+        "2026 NBA Finals participants",
+        "Atlantic Division member"
+      ],
+      "summary": "The New York Knicks have reached the 2026 NBA Finals, seeking to end a championship dry spell dating back to 1973 in a matchup against the Spurs.",
+      "sourceUrl": "https://www.nba.com/news/what-to-expect-2026-finals-knicks-spurs",
+      "difficulty": "easy",
+      "region": "north-america",
+      "imageUrl": "https://cdn.nba.com/manage/2026/06/v2_Tune-in-GM1-Finals-26-NYK-SAS_16x9-YTThumbnail.jpg"
+    },
+    {
+      "id": 4,
+      "answer": "Broadcom",
+      "acceptedAnswers": [
+        "Broadcom",
+        "AVGO"
+      ],
+      "clues": [
+        "Semiconductor company",
+        "San Jose headquartered",
+        "AI chip manufacturer",
+        "VMware parent company",
+        "NASDAQ-listed technology firm",
+        "Infrastructure software provider"
+      ],
+      "summary": "Broadcom shares surged to 52-week highs alongside other AI-related stocks as the artificial intelligence rally continued on Wall Street.",
+      "sourceUrl": "https://stocktwits.com/news-articles/markets/equity/why-did-mrvl-avgo-hpe-stocks-climb-to-52-week-highs-today/cZ0SqgxReDY",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://s.yimg.com/ny/api/res/1.2/oZWZ1dJ_aLcpc5JVAMubzw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTk-/https://media.zenfs.com/en/stocktwits_383/13ed1e91306cc00df9cde7939ecac349"
+    },
+    {
+      "id": 5,
+      "answer": "Tomb Raider",
+      "acceptedAnswers": [
+        "Tomb Raider",
+        "Tomb Raider Legacy of Atlantis"
+      ],
+      "clues": [
+        "Action-adventure video game franchise",
+        "Lara Croft protagonist",
+        "Square Enix property",
+        "1996 debut on PlayStation",
+        "Crystal Dynamics developer",
+        "Archaeological exploration theme"
+      ],
+      "summary": "An Amazon listing leaked Tomb Raider Legacy of Atlantis, a reimagining of the original 1996 game, with a February 2027 release date on Steam.",
+      "sourceUrl": "https://www.tombraiderchronicles.com/headlines5590.html",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": ""
+    },
+    {
+      "id": 6,
+      "answer": "Bari Weiss",
+      "acceptedAnswers": [
+        "Bari Weiss"
+      ],
+      "clues": [
+        "Journalist and author",
+        "The Free Press founder",
+        "Former New York Times opinion editor",
+        "Media commentator",
+        "Columbia University graduate",
+        "CBS News editor-in-chief"
+      ],
+      "summary": "Bari Weiss, now editor-in-chief at CBS News, is at the center of a shake-up at 60 Minutes that led to the firing of veteran correspondent Scott Pelley.",
+      "sourceUrl": "https://www.jpost.com/international/article-898173",
+      "difficulty": "hard",
+      "region": "north-america",
+      "imageUrl": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/724019"
+    },
+    {
+      "id": 7,
+      "answer": "Iowa",
+      "acceptedAnswers": [
+        "Iowa"
+      ],
+      "clues": [
+        "Hawkeye State",
+        "Midwestern US state",
+        "Des Moines capital",
+        "First-in-the-nation caucuses",
+        "Major corn producer",
+        "Swing state battleground"
+      ],
+      "summary": "Democrats see a major opportunity in Iowa with Rob Sand leading the ticket and competitive races across the state, while Trump-backed candidate Randy Feenstra lost the governor's primary.",
+      "sourceUrl": "https://www.politico.com/news/2026/06/03/democrats-iowa-excitement-primary-00947943",
+      "difficulty": "easy",
+      "region": "north-america",
+      "imageUrl": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F05%2F1a%2F94ee8bb841dea025bef85e1121fd%2Felection-2-26-iowa-governor-7-362.jpg"
+    },
+    {
+      "id": 8,
+      "answer": "Mpox",
+      "acceptedAnswers": [
+        "Mpox",
+        "Monkeypox"
+      ],
+      "clues": [
+        "Orthopoxvirus family",
+        "Infectious disease",
+        "WHO global health emergency",
+        "Originally identified in primates",
+        "Causes skin lesions and rash",
+        "Endemic in Central Africa"
+      ],
+      "summary": "Two researchers at a National Institutes of Health lab in Montana were charged with smuggling deactivated mpox virus from the Republic of the Congo into the US without a permit.",
+      "sourceUrl": "https://www.politico.com/news/2026/06/02/nih-mpox-munster-indictment-montana-00947793",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fc6%2F85%2F6d054c7d418cb45e3470d3b14fa7%2Fscientists-charged-mpox-971.jpg"
+    },
+    {
+      "id": 9,
+      "answer": "Remedy Entertainment",
+      "acceptedAnswers": [
+        "Remedy Entertainment",
+        "Remedy"
+      ],
+      "clues": [
+        "Finnish video game studio",
+        "Max Payne creator",
+        "Alan Wake developer",
+        "Third-person action game specialist",
+        "Espoo-based company",
+        "Control franchise developer"
+      ],
+      "summary": "Remedy Entertainment's Control Resonant had its release date revealed during Sony's State of Play presentation, continuing the story of protagonist Dylan from the original Control.",
+      "sourceUrl": "https://www.eurogamer.net/control-resonant-release-date-sony-state-of-play-trailer",
+      "difficulty": "hard",
+      "region": "global",
+      "imageUrl": "https://assetsio.gnwcdn.com/control-resonant-dylan-hammer.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+    },
+    {
+      "id": 10,
+      "answer": "Supreme Court",
+      "acceptedAnswers": [
+        "Supreme Court",
+        "US Supreme Court",
+        "SCOTUS"
+      ],
+      "clues": [
+        "Highest judicial body in the United States",
+        "Nine justices",
+        "Judicial review authority",
+        "Washington D.C. institution",
+        "Constitutional interpretation",
+        "Landmark rulings on federal policy"
+      ],
+      "summary": "President Trump proposed new tariffs of at least 10% on imports from 60 trading partners after his earlier protectionist tariffs were struck down by the US Supreme Court.",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-03/us-proposes-broad-tariffs-of-at-least-10-citing-forced-labor",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iHLAmkF2OqEA/v0/1200x800.jpg"
+    }
+  ]
+}
