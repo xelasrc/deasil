@@ -29,7 +29,7 @@ function getRecentAnswers(): string[] {
   const answers: string[] = [];
   const today = nzDateString(new Date());
 
-  for (let i = 1; i <= 30; i++) {
+  for (let i = 1; i <= 180; i++) {
     const dateStr = addDays(today, -i);
     const filePath = path.join(process.cwd(), "puzzles", `${dateStr}.json`);
 
@@ -99,7 +99,11 @@ Here are today's top news headlines (each has an article ID):
 ${headlines}
 
 Your task:
-1. Pick 10 diverse, interesting, globally relevant topics from these headlines. Mix people, places, events, companies, and trends. Prefer topics that a global English-speaking audience would know.
+1. Pick 10 diverse, interesting, globally relevant topics from these headlines, balanced like this:
+   - Vary the answer type: mix people, places, events, organisations, companies, and trends.
+   - Vary the subject: at most 1-2 of the 10 should be sport, and at most 2-3 should be US-domestic stories. Actively look for stories relevant to Europe, Asia, Africa, Latin America, the Middle East, and Oceania — the set should feel genuinely global, not dominated by American politics and sport.
+   - Make each of the 10 feel distinct from the others — don't pick multiple topics driven by the same underlying story or news cycle (e.g. not both "Iran" and "Strait of Hormuz" if both stem from the same conflict).
+   - Prefer topics that a global English-speaking audience would know.
 2. Answers must be proper nouns - names of people, places, organisations, events, or things. NEVER use a date (e.g. "January 6") as an answer — instead use the event name (e.g. "Capitol riot" or "January 6 Capitol Attack").
 3. For each topic, generate 6-10 category-style clue tags (like Wikipedia categories).
 4. Remove any clue tag that contains a word from the answer — no giveaways.
@@ -234,7 +238,7 @@ Examples:
 
   console.log(`Fetching news for ${date}...`);
   const recentAnswers = getRecentAnswers();
-  console.log(`Excluding ${recentAnswers.length} recent answers from the past month.`);
+  console.log(`Excluding ${recentAnswers.length} recent answers from the past ~6 months.`);
   const { headlines, urlMap, imageMap } = await fetchNews(recentAnswers);
 
   console.log("Generating puzzle with Claude...");
