@@ -7,7 +7,7 @@ export type Puzzle = {
   sourceUrl: string;
   imageUrl: string;
   difficulty: "easy" | "medium" | "hard";
-  region: "global" | "english";
+  region: string;
 };
 
 export type DailyPuzzle = {

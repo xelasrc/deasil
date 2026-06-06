@@ -7,16 +7,30 @@ dotenv.config({ path: ".env.local" });
 
 const anthropic = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY });
 
+// New Zealand switches between NZST (UTC+12) and NZDT (UTC+13) — a fixed
+// offset drifts by an hour for half the year. Use the IANA tz database via
+// Intl so DST transitions are handled correctly.
+function nzDateString(date: Date): string {
+  return new Intl.DateTimeFormat("en-CA", {
+    timeZone: "Pacific/Auckland",
+    year: "numeric",
+    month: "2-digit",
+    day: "2-digit",
+  }).format(date);
+}
+
+function addDays(dateStr: string, days: number): string {
+  const d = new Date(`${dateStr}T00:00:00Z`);
+  d.setUTCDate(d.getUTCDate() + days);
+  return d.toISOString().split("T")[0];
+}
+
 function getRecentAnswers(): string[] {
   const answers: string[] = [];
-  const nztOffset = 13 * 60;
-  const now = new Date();
-  const today = new Date(now.getTime() + nztOffset * 60 * 1000);
+  const today = nzDateString(new Date());
 
   for (let i = 1; i <= 30; i++) {
-    const d = new Date(today);
-    d.setDate(today.getDate() - i);
-    const dateStr = d.toISOString().split("T")[0];
+    const dateStr = addDays(today, -i);
     const filePath = path.join(process.cwd(), "puzzles", `${dateStr}.json`);
 
     if (fs.existsSync(filePath)) {

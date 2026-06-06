@@ -6,8 +6,6 @@ import { getToday } from "@/app/lib/date";
 
 import NavButton from "@/app/components/NavButton";
 
-const today = getToday();
-
 const HOW_TO_PLAY = [
   { step: "01", text: "Each puzzle shows you a set of category clues about a current news topic." },
   { step: "02", text: "Type your guess — it could be a person, place, event, or trend." },
@@ -18,6 +16,7 @@ const HOW_TO_PLAY = [
 
 export default function LandingPage() {
   const router = useRouter();
+  const today = getToday();
   const [streak, setStreak] = useState(0);
   const [totalScore, setTotalScore] = useState(0);
   const [playedToday, setPlayedToday] = useState(false);
