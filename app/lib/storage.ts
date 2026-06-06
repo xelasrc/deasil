@@ -36,6 +36,22 @@ export function saveStorage(data: GameStorage): void {
   localStorage.setItem(STORAGE_KEY, JSON.stringify(data));
 }
 
+// Removes history entries for dates whose puzzle file no longer exists
+// (e.g. after the archive was trimmed) and corrects the running total to
+// match. Mutates `storage` in place; returns true if anything changed
+// (i.e. the caller should persist it).
+export function pruneStaleHistory(storage: GameStorage, validDates: string[]): boolean {
+  const valid = new Set(validDates);
+  const staleDates = Object.keys(storage.history).filter((d) => !valid.has(d));
+
+  for (const date of staleDates) {
+    storage.totalScore -= storage.history[date].totalScore;
+    delete storage.history[date];
+  }
+
+  return staleDates.length > 0;
+}
+
 export function getTodayHistory(date: string): DayHistory | null {
   const storage = getStorage();
   return storage.history[date] ?? null;

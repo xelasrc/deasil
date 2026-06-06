@@ -1,7 +1,7 @@
 "use client";
 import { useEffect, useState } from "react";
 import { useRouter } from "next/navigation";
-import { getStorage } from "@/app/lib/storage";
+import { getStorage, saveStorage, pruneStaleHistory } from "@/app/lib/storage";
 import { getToday } from "@/app/lib/date";
 
 import NavButton from "@/app/components/NavButton";
@@ -22,11 +22,28 @@ export default function LandingPage() {
   const [playedToday, setPlayedToday] = useState(false);
 
   useEffect(() => {
-    const storage = getStorage();
-    setStreak(storage.streak);
-    setTotalScore(storage.totalScore);
-    setPlayedToday(!!storage.history[today]);
-  }, []);
+    async function init() {
+      const storage = getStorage();
+
+      // Self-heal: drop history entries for puzzles that no longer exist
+      // (e.g. after an archive trim) so stale "completed" marks and scores
+      // don't linger in returning players' localStorage.
+      try {
+        const res = await fetch("/api/puzzles");
+        const { dates } = await res.json();
+        if (pruneStaleHistory(storage, dates)) {
+          saveStorage(storage);
+        }
+      } catch {
+        // Best-effort — skip pruning if the puzzle list can't be fetched.
+      }
+
+      setStreak(storage.streak);
+      setTotalScore(storage.totalScore);
+      setPlayedToday(!!storage.history[today]);
+    }
+    init();
+  }, [today]);
 
   return (
     <main className="min-h-screen p-4 md:p-8 max-w-2xl mx-auto" style={{ backgroundColor: 'var(--color-bg)' }}>
