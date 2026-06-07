@@ -1,0 +1,215 @@
+{
+  "date": "2026-06-08",
+  "puzzles": [
+    {
+      "id": 1,
+      "answer": "Pope Leo XIV",
+      "acceptedAnswers": [
+        "Pope Leo XIV",
+        "Leo XIV",
+        "Pope Leo"
+      ],
+      "clues": [
+        "Catholic Church leader",
+        "American-born pontiff",
+        "Vatican head of state",
+        "Successor of Francis",
+        "Papal visit to Iberian Peninsula",
+        "Religious diplomacy"
+      ],
+      "summary": "Pope Leo XIV, the American-born pontiff, is making a weeklong visit to Spain, bringing him to a traditional center of European Christianity where the Catholic Church has a complex legacy and the government faces political crisis.",
+      "sourceUrl": "https://apnews.com/article/pope-spain-migration-sagrada-familia-650b269286ecf851ed51ebb0e7f5980c",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://dims.apnews.com/dims4/default/77e25b6/2147483647/strip/true/crop/2094x1395+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fa4%2Fc0%2Fd1ef5889a23f66981ae2326e45a8%2F40ecd9735e94470bb2b64eca31455179"
+    },
+    {
+      "id": 2,
+      "answer": "Ebola",
+      "acceptedAnswers": [
+        "Ebola",
+        "Ebola virus",
+        "Ebola virus disease"
+      ],
+      "clues": [
+        "Hemorrhagic fever",
+        "Filovirus family",
+        "Central African outbreak",
+        "Democratic Republic of Congo health crisis",
+        "Zoonotic disease",
+        "WHO emergency pathogen"
+      ],
+      "summary": "There are now 380 confirmed cases of Ebola in DR Congo, with case numbers appearing to drop but experts warning the situation remains complex and uncertain.",
+      "sourceUrl": "https://www.bbc.com/news/articles/c0q2q4y09elo",
+      "difficulty": "easy",
+      "region": "africa",
+      "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/c1aa/live/4ee14ea0-60e2-11f1-82ca-1380a42b6773.jpg"
+    },
+    {
+      "id": 3,
+      "answer": "Anthony Head",
+      "acceptedAnswers": [
+        "Anthony Head",
+        "Anthony Stewart Head"
+      ],
+      "clues": [
+        "British actor",
+        "Rupert Giles portrayer",
+        "Sunnydale High librarian",
+        "BBC television performer",
+        "Watcher role in 1990s cult series",
+        "Nescafé Gold Blend commercial star"
+      ],
+      "summary": "British actor Anthony Head, best known for playing Rupert Giles in 'Buffy the Vampire Slayer,' has died at age 72, prompting tributes from his former castmates.",
+      "sourceUrl": "http://www.hollywoodreporter.com/tv/tv-news/anthony-head-dead-buffy-the-vampire-slayer-cast-tributes-1236614926/",
+      "difficulty": "medium",
+      "region": "europe",
+      "imageUrl": "https://www.hollywoodreporter.com/wp-content/uploads/2026/06/TSDBUTH_FE157-H-2026.jpg?w=1296&h=730&crop=1"
+    },
+    {
+      "id": 4,
+      "answer": "Iran",
+      "acceptedAnswers": [
+        "Iran"
+      ],
+      "clues": [
+        "Persian Gulf nation",
+        "Theocratic republic",
+        "OPEC member state",
+        "Nuclear program controversy",
+        "Drone warfare capability",
+        "Middle Eastern military power"
+      ],
+      "summary": "The U.S. military shot down Iranian drones launched toward Gulf allies as the Trump administration ramps up pressure on Tehran to make a deal to end the conflict.",
+      "sourceUrl": "https://www.npr.org/2026/06/06/nx-s1-5848184/u-s-military-shot-down-iranian-drones",
+      "difficulty": "easy",
+      "region": "middle_east",
+      "imageUrl": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6152x3461+0+320/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F6b%2F43%2F9a90f1bc4b699dcae4b71d134657%2Fap26156702656210.jpg"
+    },
+    {
+      "id": 5,
+      "answer": "Summer Game Fest",
+      "acceptedAnswers": [
+        "Summer Game Fest",
+        "SGF"
+      ],
+      "clues": [
+        "Annual video game industry showcase",
+        "Geoff Keighley hosted event",
+        "E3 spiritual successor",
+        "Major title reveal platform",
+        "Interactive entertainment expo",
+        "June gaming presentation"
+      ],
+      "summary": "The Summer Game Fest 2026 showcase featured numerous major game announcements including Resident Evil Veronica and Final Fantasy VII Revelation, generating significant excitement in the gaming world.",
+      "sourceUrl": "https://gameinformer.com/sgf-2026/2026/06/05/heres-everything-announced-during-the-summer-game-fest-2026-showcase",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://gameinformer.com/sites/default/files/styles/thumbnail/public/2026/06/05/01a68981/ff01.jpg.webp"
+    },
+    {
+      "id": 6,
+      "answer": "Peru",
+      "acceptedAnswers": [
+        "Peru"
+      ],
+      "clues": [
+        "South American republic",
+        "Andes mountain nation",
+        "Lima is the capital",
+        "Inca Empire heartland",
+        "Pacific coast country",
+        "Presidential run-off election host"
+      ],
+      "summary": "Peru is holding a presidential run-off election between Fujimori and Sanchez, following a tumultuous first round that saw long lines, delayed results, and accusations of fraud.",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/6/5/fujimori-vs-sanchez-what-to-know-about-perus-presidential-run-off-election",
+      "difficulty": "medium",
+      "region": "south_america",
+      "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/06/reuters_6a20dded-1780538861_253820-1780549164.jpg?resize=1200%2C630&quality=80"
+    },
+    {
+      "id": 7,
+      "answer": "International Space Station",
+      "acceptedAnswers": [
+        "International Space Station",
+        "ISS"
+      ],
+      "clues": [
+        "Low Earth orbit laboratory",
+        "Multinational crew habitat",
+        "Orbital research facility",
+        "NASA and Roscosmos collaboration",
+        "Microgravity research platform",
+        "Pressurized module complex"
+      ],
+      "summary": "Astronauts aboard the ISS took shelter in a SpaceX Dragon capsule while cosmonauts worked to fix an air leak, highlighting ongoing safety concerns on the aging orbital outpost.",
+      "sourceUrl": "https://www.space.com/space-exploration/international-space-station/astronauts-on-international-space-station-take-shelter-in-spacex-dragon-as-cosmonauts-try-to-fix-air-leak",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://cdn.mos.cms.futurecdn.net/3gfjeM7iRcKjtB3AdJHJwE-2560-80.jpg"
+    },
+    {
+      "id": 8,
+      "answer": "Xavier Becerra",
+      "acceptedAnswers": [
+        "Xavier Becerra",
+        "Becerra"
+      ],
+      "clues": [
+        "California politician",
+        "Former U.S. Health Secretary",
+        "Democratic gubernatorial candidate",
+        "Former state attorney general",
+        "Latino political figure",
+        "35-year career in public office"
+      ],
+      "summary": "Democrat Xavier Becerra has advanced to the general election for California governor, pitching himself as an experienced choice to lead the nation's most populous state.",
+      "sourceUrl": "https://apnews.com/article/california-governor-election-primary-2026-98b2b4dcca6813c3ffeb9754bd09805d",
+      "difficulty": "hard",
+      "region": "north_america",
+      "imageUrl": "https://dims.apnews.com/dims4/default/fa050c9/2147483647/strip/true/crop/7453x4966+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F31%2F29%2Fb05544af80f2aaae72e103753ac2%2F816fbf211f9a4b2e88b87d41a74c4f5f"
+    },
+    {
+      "id": 9,
+      "answer": "Nasdaq",
+      "acceptedAnswers": [
+        "Nasdaq",
+        "NASDAQ"
+      ],
+      "clues": [
+        "Technology-heavy stock exchange",
+        "U.S. equity market index",
+        "Wall Street benchmark",
+        "Composite index of listed companies",
+        "Silicon Valley listing venue",
+        "Electronic securities marketplace"
+      ],
+      "summary": "The Nasdaq plunged 4.2% in its worst session in 14 months as a semiconductor sector selloff and rising bond yields dragged down technology stocks.",
+      "sourceUrl": "https://www.axios.com/2026/06/05/stocks-nasdaq-tech-stocks",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://images.axios.com/gTfBefU1zn4YXQfeSFhREsnxwoA=/1366x768/smart/2025/05/27/205302-1748379182577.jpg"
+    },
+    {
+      "id": 10,
+      "answer": "St. Petersburg",
+      "acceptedAnswers": [
+        "St. Petersburg",
+        "Saint Petersburg"
+      ],
+      "clues": [
+        "Former Russian imperial capital",
+        "Neva River city",
+        "Hermitage Museum location",
+        "Baltic Sea port",
+        "Founded by Peter the Great",
+        "Second-largest Russian metropolis"
+      ],
+      "summary": "Ukraine launched hundreds of drones targeting areas across Russia, including scores over the St. Petersburg region, on the final day of Russia's most important investment forum held in the city.",
+      "sourceUrl": "https://www.rferl.org/a/ukraine-russia-drones-investment-forum-attacks-petersburg/33773988.html",
+      "difficulty": "medium",
+      "region": "europe",
+      "imageUrl": "https://gdb.rferl.org/abf3b287-88bc-463d-c3e2-08debadc7311_tv_w1200_h630.jpg"
+    }
+  ]
+}
