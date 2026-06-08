@@ -1,0 +1,220 @@
+{
+  "date": "2026-06-10",
+  "puzzles": [
+    {
+      "id": 1,
+      "answer": "Hezbollah",
+      "acceptedAnswers": [
+        "Hezbollah",
+        "Hizbollah",
+        "Hizballah"
+      ],
+      "clues": [
+        "Lebanese militant organization",
+        "Iran-backed political party",
+        "Founded in 1982",
+        "Shi'a Islamist movement",
+        "Paramilitary force in the Middle East",
+        "Designated terrorist group by many Western nations"
+      ],
+      "summary": "An Israeli strike in Lebanon killed a Lebanese general amid the ongoing war against Hezbollah. The incident has intensified tensions along the Israel-Lebanon border.",
+      "sourceUrl": "https://www.politico.eu/article/israel-killed-lebanese-general-amid-war-against-hezbollah/",
+      "difficulty": "medium",
+      "region": "middle-east",
+      "imageUrl": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/06/07/GettyImages-2278799741-scaled.jpg"
+    },
+    {
+      "id": 2,
+      "answer": "WWDC",
+      "acceptedAnswers": [
+        "WWDC",
+        "WWDC 2026",
+        "Apple WWDC"
+      ],
+      "clues": [
+        "Annual developer conference",
+        "Held in Cupertino",
+        "Software platform keynote",
+        "iOS and macOS announcements",
+        "Technology industry event",
+        "Siri updates often showcased here"
+      ],
+      "summary": "Apple's Worldwide Developers Conference 2026 is imminent, with major anticipation around a revamped Siri and Apple Intelligence updates.",
+      "sourceUrl": "https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/03/Apple-WWDC26-event-branding_big.jpg.large_.jpg?w=980"
+    },
+    {
+      "id": 3,
+      "answer": "Mitch Marner",
+      "acceptedAnswers": [
+        "Mitch Marner",
+        "Mitchell Marner",
+        "Marner"
+      ],
+      "clues": [
+        "Canadian ice hockey forward",
+        "Former Toronto draft pick",
+        "NHL playoff performer",
+        "Right winger",
+        "Ontario-born athlete",
+        "Stanley Cup Final record holder"
+      ],
+      "summary": "Mitch Marner scored the fastest hat trick in Stanley Cup Final history, helping the Vegas Golden Knights take a series lead against the Carolina Hurricanes in Game 3.",
+      "sourceUrl": "https://www.nhl.com/news/mitch-marner-scores-fastest-hat-trick-in-stanley-cup-final-history",
+      "difficulty": "hard",
+      "region": "north-america",
+      "imageUrl": "https://media.d3.nhle.com/image/private/t_ratio16_9-size50/v1780817029/prd/gna6y2uqhuwjyzogezbn.png"
+    },
+    {
+      "id": 4,
+      "answer": "Simone Biles",
+      "acceptedAnswers": [
+        "Simone Biles",
+        "Biles"
+      ],
+      "clues": [
+        "Olympic gold medalist",
+        "Most decorated gymnast in history",
+        "American athlete born in 1997",
+        "Known for signature moves on the vault and floor",
+        "Houston-based sports icon",
+        "Competed at multiple Summer Games"
+      ],
+      "summary": "Simone Biles revealed she had a recent health scare, describing the experience as 'almost dying' in a post shared on her Instagram Stories.",
+      "sourceUrl": "https://www.nbcnews.com/news/us-news/simone-biles-reveals-health-scare-describes-almost-dying-rcna348833",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-06/260606-simone-biles-1054p-685d2e.jpg"
+    },
+    {
+      "id": 5,
+      "answer": "Normandy",
+      "acceptedAnswers": [
+        "Normandy",
+        "D-Day",
+        "D-Day landings"
+      ],
+      "clues": [
+        "Region in northern France",
+        "Site of famous 1944 military operation",
+        "World War II beaches",
+        "Allied invasion landing zone",
+        "82nd anniversary commemoration in 2026",
+        "Historical Atlantic coast location"
+      ],
+      "summary": "The 82nd anniversary of the D-Day landings was marked in Normandy, but US Defense Secretary Pete Hegseth faced local backlash, with residents of a French village saying he was not welcome.",
+      "sourceUrl": "https://www.france24.com/en/france/20260607-residents-of-french-village-say-us-defense-secretary-hegseth-not-welcome-d-day-visit",
+      "difficulty": "medium",
+      "region": "europe",
+      "imageUrl": "https://s.france24.com/media/display/54dc8406-624e-11f1-b7e9-005056bfb2b6/w:1280/p:16x9/AP26157465457190.jpg"
+    },
+    {
+      "id": 6,
+      "answer": "Venus",
+      "acceptedAnswers": [
+        "Venus",
+        "Venus and Jupiter conjunction"
+      ],
+      "clues": [
+        "Second planet from the Sun",
+        "Named after a Roman goddess",
+        "Brightest natural object in the night sky after the Moon",
+        "Similar in size to Earth",
+        "Thick atmospheric clouds",
+        "Often called Earth's twin"
+      ],
+      "summary": "Jupiter and Venus are forming a close conjunction visible in the night sky this weekend, with the best viewing on June 9-11, 2026, creating a striking astronomical display.",
+      "sourceUrl": "https://www.livescience.com/space/venus-and-jupiter-are-about-to-almost-touch-in-the-sky-in-one-of-2026s-best-skywatching-events",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://cdn.mos.cms.futurecdn.net/C5DSeYTekC2dyZJLKs2EVj-1920-80.jpg"
+    },
+    {
+      "id": 7,
+      "answer": "South Africa",
+      "acceptedAnswers": [
+        "South Africa",
+        "Republic of South Africa"
+      ],
+      "clues": [
+        "Rainbow Nation",
+        "Country with three capital cities",
+        "Home to Table Mountain",
+        "Largest economy in its continental region",
+        "Nelson Mandela's homeland",
+        "Nation bordering Mozambique and Namibia"
+      ],
+      "summary": "South Africa committed $72 million to combat HIV/AIDS as the country works to shed its status as having the world's largest HIV epidemic.",
+      "sourceUrl": "https://africa.businessinsider.com/local/lifestyle/south-africa-commits-dollar72-million-in-bid-to-shed-its-status-as-the-country-with/tnze7wj",
+      "difficulty": "easy",
+      "region": "africa",
+      "imageUrl": "https://ocdn.eu/pulscms-transforms/1/eLmktkpTURBXy9iZjdhMWIxOTQ3ODQ2MzdhNzNhM2Q1YzRkZWQyMzQ0NC5qcGeSlQMAAM0EsM0Co5MFzQSwzQJ2"
+    },
+    {
+      "id": 8,
+      "answer": "Scary Movie",
+      "acceptedAnswers": [
+        "Scary Movie",
+        "Scary Movie 6"
+      ],
+      "clues": [
+        "Horror parody franchise",
+        "Wayans brothers creation",
+        "Spoof film series",
+        "Comedy genre send-up of slasher films",
+        "Dimension Films production",
+        "Box office comedy franchise launched in 2000"
+      ],
+      "summary": "Scary Movie 6 opened strong at the box office with $24.7 million on its first Friday, putting it on pace to set a franchise record.",
+      "sourceUrl": "https://variety.com/2026/film/box-office/box-office-scary-movie-masters-of-the-universe-backrooms-1236768580/",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://variety.com/wp-content/uploads/2026/05/Scary-Movie.jpg?crop=0px%2C86px%2C1500px%2C844px&resize=1000%2C563"
+    },
+    {
+      "id": 9,
+      "answer": "Xbox",
+      "acceptedAnswers": [
+        "Xbox",
+        "Xbox Games Showcase"
+      ],
+      "clues": [
+        "Microsoft gaming brand",
+        "Console platform rival to PlayStation",
+        "Game Pass subscription service",
+        "Bethesda parent platform",
+        "Green-branded entertainment system",
+        "Known for Halo and Forza exclusives"
+      ],
+      "summary": "The Xbox Games Showcase 2026 is underway with major announcements expected, including possible reveals of The Elder Scrolls 6 and a Marvel's Blade game from Arkane Studios.",
+      "sourceUrl": "https://www.eurogamer.net/xbox-games-showcase-2026-live-report",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://assetsio.gnwcdn.com/asha-sharma-xbox-showcase-2026.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+    },
+    {
+      "id": 10,
+      "answer": "Foldable iPhone",
+      "acceptedAnswers": [
+        "Foldable iPhone",
+        "iPhone Fold",
+        "iPhone foldable"
+      ],
+      "clues": [
+        "Rumored flip-style mobile device",
+        "Cupertino's clamshell entry",
+        "Competing with Samsung Galaxy Z series",
+        "Leaked dummy unit images",
+        "Potentially limited color options at launch",
+        "Next-generation smartphone form factor"
+      ],
+      "summary": "Detailed images of a foldable iPhone dummy unit surfaced, revealing what appears to be the finalized design of Apple's first foldable phone, which may only come in white at launch.",
+      "sourceUrl": "https://www.macrumors.com/2026/06/07/best-look-yet-at-foldable-iphone-design-revealed/",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://images.macrumors.com/t/kXDNoVnfgCWvUBiCM4SKk734tZc=/1600x/article-new/2026/06/foldable-iphone-dummy-sonny-dickson.jpg"
+    }
+  ]
+}
