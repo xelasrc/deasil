@@ -1,0 +1,218 @@
+{
+  "date": "2026-06-12",
+  "puzzles": [
+    {
+      "id": 1,
+      "answer": "SpaceX",
+      "acceptedAnswers": [
+        "SpaceX",
+        "Space X"
+      ],
+      "clues": [
+        "Private aerospace manufacturer",
+        "Falcon 9 rocket operator",
+        "Starship development program",
+        "Founded by Elon Musk",
+        "Reusable launch vehicles",
+        "Starlink satellite constellation"
+      ],
+      "summary": "SpaceX is preparing for a blockbuster IPO seeking to raise a record $75 billion, while its Falcon 9 booster recently set a remarkable reuse record by turning five years old and still flying.",
+      "sourceUrl": "https://www.cbsnews.com/news/spacex-ipo-how-to-buy-stock/",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://assets1.cbsnewsstatic.com/hub/i/r/2012/05/22/90fcdad5-a644-11e2-a3f0-029118418759/thumbnail/1200x630/7bedd4f864779e5899cbbd7b7be3372b/en_0522_full.jpg"
+    },
+    {
+      "id": 2,
+      "answer": "Sagrada Família",
+      "acceptedAnswers": [
+        "Sagrada Familia",
+        "Sagrada Família",
+        "La Sagrada Familia"
+      ],
+      "clues": [
+        "Roman Catholic basilica",
+        "Antoni Gaudí masterpiece",
+        "Barcelona landmark",
+        "UNESCO World Heritage Site",
+        "Gothic and Art Nouveau architecture",
+        "Construction began in 1882",
+        "World's tallest church"
+      ],
+      "summary": "Barcelona's Sagrada Família is in the news as the world's tallest church, with coverage highlighting the ancient and modern engineering marvels of Gaudí's legendary design.",
+      "sourceUrl": "https://www.bbc.com/future/article/20260608-sagrada-famlia-the-ancient-engineering-marvels-of-the-worlds-tallest-church",
+      "difficulty": "medium",
+      "region": "europe",
+      "imageUrl": "https://ychef.files.bbci.co.uk/624x351/p0nqv7st.jpg"
+    },
+    {
+      "id": 3,
+      "answer": "OpenAI",
+      "acceptedAnswers": [
+        "OpenAI",
+        "Open AI"
+      ],
+      "clues": [
+        "ChatGPT developer",
+        "Artificial intelligence research lab",
+        "Sam Altman-led company",
+        "GPT language model creator",
+        "San Francisco-based tech firm",
+        "Founded in 2015"
+      ],
+      "summary": "OpenAI has confidentially filed for an IPO, joining Anthropic and SpaceX in a blockbuster tech IPO lineup as the AI giant moves toward going public.",
+      "sourceUrl": "https://www.cnbc.com/2026/06/09/openai-announces-ipo.html",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://image.cnbcfm.com/api/v1/image/108203074-1758667426196-gettyimages-2236544160-STARGATE_DATA_CENTER.jpeg?v=1772250715&w=1920&h=1080"
+    },
+    {
+      "id": 4,
+      "answer": "Rob Reiner",
+      "acceptedAnswers": [
+        "Rob Reiner",
+        "Robert Reiner"
+      ],
+      "clues": [
+        "American film director",
+        "This Is Spinal Tap director",
+        "When Harry Met Sally filmmaker",
+        "Former All in the Family cast member",
+        "The Princess Bride director",
+        "Political activist and commentator"
+      ],
+      "summary": "Rob Reiner's son Nick is seeking funds from a trust his parents established, saying he needs the money for his defense against charges that he killed them.",
+      "sourceUrl": "https://apnews.com/article/rob-reiner-son-nick-defense-trust-killings-aada71c09d4c310fd3dc622608e26dff",
+      "difficulty": "hard",
+      "region": "north-america",
+      "imageUrl": "https://dims.apnews.com/dims4/default/4cc0d58/2147483647/strip/true/crop/2322x1547+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F14%2F53%2F4bb8fd19ba2969ad88121dbe560d%2F43ef8170c0f24af4b356f0249ec5e58a"
+    },
+    {
+      "id": 5,
+      "answer": "Sweden",
+      "acceptedAnswers": [
+        "Sweden"
+      ],
+      "clues": [
+        "Scandinavian nation",
+        "Capital is Stockholm",
+        "Home of ABBA and IKEA",
+        "European Union member state",
+        "Nobel Prize ceremonies hosted here",
+        "Nordic welfare state model"
+      ],
+      "summary": "Sweden, once championed as a leader in digital technology adoption, is set to ban mobile phones in schools beginning in the fall for the next academic year.",
+      "sourceUrl": "https://www.npr.org/2026/06/09/g-s1-126967/sweden-set-to-ban-mobile-phones-in-schools",
+      "difficulty": "medium",
+      "region": "europe",
+      "imageUrl": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5064x2849+0+264/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F73%2F7a%2Fab8c49e54b449f97386c116a923a%2Fap26159263982303.jpg"
+    },
+    {
+      "id": 6,
+      "answer": "House of the Dragon",
+      "acceptedAnswers": [
+        "House of the Dragon",
+        "HOTD"
+      ],
+      "clues": [
+        "HBO fantasy television series",
+        "Game of Thrones prequel",
+        "Targaryen civil war storyline",
+        "Based on George R. R. Martin's Fire & Blood",
+        "Stars Emma D'Arcy and Matt Smith",
+        "Features Westeros setting"
+      ],
+      "summary": "House of the Dragon held its world premiere in London, with stars Emma D'Arcy and Matt Smith discussing the upcoming season that promises a 'bloodbath.'",
+      "sourceUrl": "http://www.hollywoodreporter.com/tv/tv-news/emma-darcy-matt-smith-house-of-the-dragon-season-3-premiere-1236616644/",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://www.hollywoodreporter.com/wp-content/uploads/2026/06/FotoJet-2026-06-08T211845.112.jpg?w=1440&h=810&crop=1"
+    },
+    {
+      "id": 7,
+      "answer": "GLP-1",
+      "acceptedAnswers": [
+        "GLP-1",
+        "GLP1",
+        "GLP-1 drugs",
+        "GLP-1 receptor agonists"
+      ],
+      "clues": [
+        "Incretin hormone class",
+        "Ozempic and Wegovy mechanism",
+        "Weight loss medication category",
+        "Diabetes treatment breakthrough",
+        "Semaglutide drug class",
+        "Novo Nordisk and Eli Lilly products"
+      ],
+      "summary": "Recent studies suggest GLP-1 weight loss and diabetes drugs may protect against cancer and slow its progression, prompting researchers to investigate mechanisms beyond simple weight loss.",
+      "sourceUrl": "https://www.npr.org/2026/06/09/nx-s1-5850732/glp-1-cancer-asco-semaglutide-tirezepatide",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5400x3038+0+209/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F32%2F86%2F765aa4704e13aac27deda3103de6%2Fgettyimages-2279484839.jpg"
+    },
+    {
+      "id": 8,
+      "answer": "Justin Trudeau",
+      "acceptedAnswers": [
+        "Justin Trudeau",
+        "Trudeau"
+      ],
+      "clues": [
+        "Former Canadian Prime Minister",
+        "Liberal Party leader",
+        "Son of Pierre Elliott",
+        "Represented Papineau riding",
+        "Succeeded Stephen Harper",
+        "Canadian political figure"
+      ],
+      "summary": "Justin Trudeau made headlines for his public appearance with Katy Perry at the Tribeca Festival premiere, as the couple took a step in making their year-long relationship more public.",
+      "sourceUrl": "https://www.usatoday.com/picture-gallery/entertainment/celebrities/2026/06/08/katy-perry-justin-trudeau-dating-relationship/90467541007/",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/06/09/USAT/90467567007-gty-2280583034.jpg?crop=3993,2246,x0,y374&width=3200&height=1800&format=pjpg&auto=webp"
+    },
+    {
+      "id": 9,
+      "answer": "Super Mario Galaxy",
+      "acceptedAnswers": [
+        "Super Mario Galaxy",
+        "Super Mario Galaxy Movie",
+        "The Super Mario Galaxy Movie"
+      ],
+      "clues": [
+        "Nintendo franchise adaptation",
+        "Animated film from Illumination",
+        "Plumber protagonist in space",
+        "Video game movie sequel",
+        "Mushroom Kingdom IP",
+        "Chris Pratt voice role"
+      ],
+      "summary": "The Super Mario Galaxy Movie has crossed the billion-dollar mark at the box office, becoming Hollywood's first $1 billion hit of 2026.",
+      "sourceUrl": "https://www.slashfilm.com/2190123/hollywood-first-2026-billion-dollar-box-office-hit-the-super-mario-galaxy-movie/",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://www.slashfilm.com/img/gallery/hollywood-finally-has-a-1-billion-box-office-hit-in-2026/l-intro-1780957144.jpg"
+    },
+    {
+      "id": 10,
+      "answer": "Karen Bass",
+      "acceptedAnswers": [
+        "Karen Bass"
+      ],
+      "clues": [
+        "Los Angeles mayor",
+        "Former U.S. Representative from California",
+        "Democratic Party politician",
+        "Former Congressional Black Caucus chair",
+        "Elected city leader in 2022",
+        "Southern California officeholder"
+      ],
+      "summary": "Los Angeles Mayor Karen Bass faces an unexpected November runoff against progressive city council member Nithya Raman, setting up a clash between two former Democratic allies.",
+      "sourceUrl": "https://apnews.com/article/los-angeles-mayor-2026-election-e0ef2b83cd8f94556d1c532227bb49dd",
+      "difficulty": "hard",
+      "region": "north-america",
+      "imageUrl": "https://dims.apnews.com/dims4/default/dc88966/2147483647/strip/true/crop/6605x4401+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff9%2F7d%2F33cfddd5d28331c55f64985ff416%2F8f905c3eea654268baad2f3ea5c2d5af"
+    }
+  ]
+}
