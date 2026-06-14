@@ -1,0 +1,223 @@
+{
+  "date": "2026-06-15",
+  "puzzles": [
+    {
+      "id": 1,
+      "answer": "Switzerland",
+      "acceptedAnswers": [
+        "Switzerland",
+        "Swiss Confederation"
+      ],
+      "clues": [
+        "Alpine nation",
+        "Direct democracy",
+        "European landlocked country",
+        "Neutral state",
+        "Banking hub",
+        "Canton system",
+        "Immigration referendum"
+      ],
+      "summary": "Switzerland is holding a national vote on whether to cap its population at 10 million, a measure that could restrict immigration and strain its free-movement agreement with the EU.",
+      "sourceUrl": "https://www.cnbc.com/2026/06/13/switzerland-population-cap-referendum-immigration.html",
+      "difficulty": "easy",
+      "region": "europe",
+      "imageUrl": "https://image.cnbcfm.com/api/v1/image/108320871-1781257909666-gettyimages-2278537978-AFP_B4LN4PW.jpeg?v=1781257999&w=1920&h=1080"
+    },
+    {
+      "id": 2,
+      "answer": "Gene Shalit",
+      "acceptedAnswers": [
+        "Gene Shalit"
+      ],
+      "clues": [
+        "Television personality",
+        "Film criticism",
+        "NBC morning program",
+        "Iconic mustache",
+        "Wordplay enthusiast",
+        "Centenarian",
+        "Retired in 2010"
+      ],
+      "summary": "Gene Shalit, the beloved movie critic known for his puns and distinctive mustache who appeared on NBC's Today show for four decades, has died at the age of 100.",
+      "sourceUrl": "https://www.washingtonpost.com/obituaries/2026/06/13/gene-shalit-today-movie-critic-purveyor-puns-dies-100/",
+      "difficulty": "hard",
+      "region": "north-america",
+      "imageUrl": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/2RPYUO3GIVLBVPRFY6CBM63WIQ.jpg&w=1440"
+    },
+    {
+      "id": 3,
+      "answer": "Warner Bros. Discovery",
+      "acceptedAnswers": [
+        "Warner Bros. Discovery",
+        "Warner Bros Discovery",
+        "WBD"
+      ],
+      "clues": [
+        "Media conglomerate",
+        "HBO parent company",
+        "CNN owner",
+        "Entertainment studio",
+        "Streaming service operator",
+        "Television network group",
+        "Merger target"
+      ],
+      "summary": "The U.S. Justice Department has approved Paramount's $111 billion acquisition of Warner Bros. Discovery, paving the way for a massive merger uniting two rival studio giants.",
+      "sourceUrl": "https://www.npr.org/2026/06/12/nx-s1-5856567/paramount-acquisition-warner-bros-discovery-merger",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2888x1625+0+167/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F95%2Fdc%2F0701913248f288bd4b04c79903dc%2Fap25219633110903.jpg"
+    },
+    {
+      "id": 4,
+      "answer": "Tren de Aragua",
+      "acceptedAnswers": [
+        "Tren de Aragua",
+        "TdA"
+      ],
+      "clues": [
+        "Venezuelan criminal organization",
+        "Transnational gang",
+        "South American syndicate",
+        "Human trafficking network",
+        "Latin American security threat",
+        "Cross-border cartel"
+      ],
+      "summary": "The U.S. military reportedly killed the leader of the Venezuelan gang Tren de Aragua, known as Niño Guerrero, in an airstrike announced by President Trump.",
+      "sourceUrl": "https://www.bbc.com/news/articles/cp36z37knlko",
+      "difficulty": "hard",
+      "region": "global",
+      "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/d3bf/live/d798f640-66d1-11f1-bb58-c91c9b854a9d.jpg"
+    },
+    {
+      "id": 5,
+      "answer": "Nuclear clock",
+      "acceptedAnswers": [
+        "Nuclear clock",
+        "Nuclear clocks"
+      ],
+      "clues": [
+        "Timekeeping device",
+        "Physics breakthrough",
+        "Thorium-229 isomer",
+        "Precision measurement",
+        "Tsinghua University research",
+        "Vienna quantum physics",
+        "Frequency standard"
+      ],
+      "summary": "Two independent research teams, at Tsinghua University and the Vienna Center for Quantum Science, have built the first working nuclear clocks, achieving a longstanding goal in physics.",
+      "sourceUrl": "https://phys.org/news/2026-06-nuclear-clocks.html",
+      "difficulty": "hard",
+      "region": "global",
+      "imageUrl": "https://scx2.b-cdn.net/gfx/news/2026/nuclear-clocks-tick-fo.jpg"
+    },
+    {
+      "id": 6,
+      "answer": "Olivia Rodrigo",
+      "acceptedAnswers": [
+        "Olivia Rodrigo"
+      ],
+      "clues": [
+        "Pop singer-songwriter",
+        "Former Disney actress",
+        "SOUR debut album",
+        "Grammy Award winner",
+        "Gen Z music icon",
+        "GUTS follow-up artist",
+        "Twentysomething performer"
+      ],
+      "summary": "Olivia Rodrigo has released a new album that critics note draws surprising influence from goth Gen X icon Robert Smith, marking an evolution from her Taylor Swift-influenced earlier work.",
+      "sourceUrl": "https://slate.com/culture/2026/06/olivia-rodrigo-album-lyrics-the-cure-taylor-swift.html",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://compote.slate.com/images/32798d7e-66e6-4f99-b116-ebadad0c0b2e.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560"
+    },
+    {
+      "id": 7,
+      "answer": "HarmonyOS",
+      "acceptedAnswers": [
+        "HarmonyOS",
+        "Harmony OS"
+      ],
+      "clues": [
+        "Mobile operating system",
+        "Chinese tech platform",
+        "IoT software ecosystem",
+        "Android alternative",
+        "Developer conference showcase",
+        "Embedded systems support",
+        "Smartphone firmware"
+      ],
+      "summary": "At the Huawei Developer Conference 2026, an executive claimed that HarmonyOS can be optimized to run on just 64KB of RAM and operate on a single dry cell battery for a year.",
+      "sourceUrl": "https://wccftech.com/huawei-executive-says-harmonyos-can-be-optimized-to-run-on-64kb-ram/",
+      "difficulty": "medium",
+      "region": "asia",
+      "imageUrl": "https://cdn.wccftech.com/wp-content/uploads/2026/06/HarmonyOS-2.jpg"
+    },
+    {
+      "id": 8,
+      "answer": "Kennedy Center",
+      "acceptedAnswers": [
+        "Kennedy Center",
+        "John F. Kennedy Center for the Performing Arts"
+      ],
+      "clues": [
+        "Performing arts venue",
+        "Washington D.C. landmark",
+        "Cultural institution",
+        "Potomac River location",
+        "Presidential honor site",
+        "National arts complex",
+        "Living memorial"
+      ],
+      "summary": "Courts denied last-ditch attempts to delay the removal of Trump's name from the Kennedy Center, though crews failed to complete the signage change by the midnight deadline.",
+      "sourceUrl": "https://www.washingtonpost.com/style/2026/06/12/kennedy-center-removes-trumps-name-building/",
+      "difficulty": "medium",
+      "region": "north-america",
+      "imageUrl": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CGW6N2TG7D2PZP3FYQX7Q4H2EM_size-normalized.JPG&w=1440"
+    },
+    {
+      "id": 9,
+      "answer": "Folarin Balogun",
+      "acceptedAnswers": [
+        "Folarin Balogun"
+      ],
+      "clues": [
+        "USMNT striker",
+        "Nigerian heritage",
+        "Born in New York",
+        "English youth academy product",
+        "Ligue 1 experience",
+        "International forward",
+        "Dual-nationality athlete"
+      ],
+      "summary": "Folarin Balogun scored twice as the U.S. men's national team defeated Paraguay 4-1 in their 2026 FIFA World Cup opening match in Los Angeles.",
+      "sourceUrl": "https://sports.yahoo.com/soccer/article/folarin-balogun-scores-twice-as-usmnt-beats-paraguay-4-1-in-world-cup-opener-030348674.html",
+      "difficulty": "hard",
+      "region": "global",
+      "imageUrl": "https://s.yimg.com/ny/api/res/1.2/KME0v_56qAc1RwOjCylnDA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://d29szjachogqwa.cloudfront.net/images/2026-06/4ce53b43-f11a-4d69-a1bd-03d7d4e2b095"
+    },
+    {
+      "id": 10,
+      "answer": "Mycorrhizal network",
+      "acceptedAnswers": [
+        "Mycorrhizal network",
+        "Mycorrhizal networks",
+        "Wood wide web"
+      ],
+      "clues": [
+        "Subterranean symbiosis",
+        "Fungal ecology",
+        "Plant root connections",
+        "Nutrient exchange system",
+        "Forest communication theory",
+        "Soil biology",
+        "Global mapping project"
+      ],
+      "summary": "Scientists have published the first global map of underground fungal networks, revealing that Earth's subterranean mycorrhizal system is so massive it would span 10% of the Milky Way if stretched out.",
+      "sourceUrl": "https://www.livescience.com/planet-earth/plants/earths-underground-fungal-network-is-so-massive-it-would-span-10-percent-of-the-milky-way-map-reveals",
+      "difficulty": "hard",
+      "region": "global",
+      "imageUrl": "https://cdn.mos.cms.futurecdn.net/omrVzJB7757vssv4fztbiJ-2560-80.png"
+    }
+  ]
+}
