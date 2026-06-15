@@ -1,0 +1,219 @@
+{
+  "date": "2026-06-17",
+  "puzzles": [
+    {
+      "id": 1,
+      "answer": "Kevin O'Leary",
+      "acceptedAnswers": [
+        "Kevin O'Leary",
+        "Kevin O Leary",
+        "Mr. Wonderful"
+      ],
+      "clues": [
+        "Canadian businessman",
+        "Reality television personality",
+        "Shark Tank panelist",
+        "Data center controversy",
+        "Software entrepreneur",
+        "Conservative media commentator"
+      ],
+      "summary": "Kevin O'Leary is facing growing backlash over a planned data center in Utah, and has been blaming China and accusing his local critics of being tools of Beijing, a tactic locals say is backfiring.",
+      "sourceUrl": "https://www.wsj.com/us-news/backlash-is-growing-over-kevin-olearys-data-center-he-is-blaming-china-d885f1b4",
+      "difficulty": "medium",
+      "region": "north-america",
+      "imageUrl": "https://images.wsj.net/im-01591224/social"
+    },
+    {
+      "id": 2,
+      "answer": "G7",
+      "acceptedAnswers": [
+        "G7",
+        "G-7",
+        "Group of Seven"
+      ],
+      "clues": [
+        "Annual summit of industrialized nations",
+        "International diplomatic forum",
+        "Originally formed in the 1970s",
+        "Includes Canada, Japan, and European members",
+        "Rotating presidency among member states",
+        "Protests often accompany meetings"
+      ],
+      "summary": "The G7 summit is being held in France near Lake Geneva, drawing thousands of protesters in Geneva who are demonstrating against the policies of the world's richest nations.",
+      "sourceUrl": "https://apnews.com/article/switzerland-france-g7-protests-trump-17a5c9c179914e58acecfdb791b824c4",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://dims.apnews.com/dims4/default/083bfeb/2147483647/strip/true/crop/8155x5434+0+2/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F63%2F07%2Fb0254291a9e5e9d4d0d87e6f17e0%2F927956bd07f04ff181c3b20e8d292bc6"
+    },
+    {
+      "id": 3,
+      "answer": "English Channel",
+      "acceptedAnswers": [
+        "English Channel",
+        "The Channel",
+        "La Manche"
+      ],
+      "clues": [
+        "Body of water between two countries",
+        "Famous strait in northwestern Europe",
+        "Site of D-Day naval operations",
+        "Connected by an undersea rail tunnel",
+        "Historically important shipping lane",
+        "Separates an island nation from the continent"
+      ],
+      "summary": "UK military forces seized a suspected Russian shadow fleet tanker called the Smyrtos in the English Channel in a six-hour operation, escalating enforcement against sanctions-evading vessels.",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/6/14/uk-boards-and-seizes-russian-shadow-fleet-tanker-in-english-channel",
+      "difficulty": "easy",
+      "region": "europe",
+      "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/06/GettyImages-2250742390-1781424038.jpg?resize=1920%2C1440"
+    },
+    {
+      "id": 4,
+      "answer": "Palace of Versailles",
+      "acceptedAnswers": [
+        "Palace of Versailles",
+        "Versailles",
+        "Château de Versailles"
+      ],
+      "clues": [
+        "UNESCO World Heritage Site",
+        "Baroque architecture masterpiece",
+        "Former royal residence near Paris",
+        "Hall of Mirrors",
+        "Treaty signed here ended World War I",
+        "Built under Louis XIV"
+      ],
+      "summary": "President Trump and French President Macron are set to meet for dinner at the Palace of Versailles following the G7 summit in France, highlighting Franco-American diplomacy.",
+      "sourceUrl": "https://apnews.com/article/trump-g7-summit-macron-versailles-france-meeting-861a196252ddd5c19ee74a91e607709a",
+      "difficulty": "easy",
+      "region": "europe",
+      "imageUrl": "https://dims.apnews.com/dims4/default/81f99d9/2147483647/strip/true/crop/3874x2581+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F48%2Fb2%2Fad0e74db12a938361e2a0ee743c2%2F15eb570aa1c54ddbaa2d10464aa412ce"
+    },
+    {
+      "id": 5,
+      "answer": "Elon Musk",
+      "acceptedAnswers": [
+        "Elon Musk",
+        "Musk"
+      ],
+      "clues": [
+        "South African-born entrepreneur",
+        "First-ever trillionaire",
+        "CEO of an electric vehicle company",
+        "Neuralink founder",
+        "Acquired a major social media platform",
+        "Rocket company founder"
+      ],
+      "summary": "Elon Musk has become the world's first trillionaire, with AP profiling his vast business empire spanning electric vehicles, brain implants, rockets, underground tunnels, and social media.",
+      "sourceUrl": "https://apnews.com/article/elon-musk-spacex-tesla-ceo-owner-52b206cf4b3d61653e45f0c728b5d61d",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://dims.apnews.com/dims4/default/cdc065f/2147483647/strip/true/crop/7349x4897+0+177/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F73%2Fe7%2F4efa453061a5a14d204f50bbd7da%2F992e71aa2f9c448385741621ba2e8974"
+    },
+    {
+      "id": 6,
+      "answer": "JetBlue",
+      "acceptedAnswers": [
+        "JetBlue",
+        "JetBlue Airways"
+      ],
+      "clues": [
+        "Low-cost American airline",
+        "Headquartered in New York City",
+        "Known for in-flight entertainment screens",
+        "Attempted merger blocked by courts",
+        "Founded in 1998",
+        "Expanding international gateway operations"
+      ],
+      "summary": "JetBlue is making a major investment in Fort Lauderdale with a new airport lounge and international gateway, betting big on the South Florida market against competition from American Airlines at Miami International.",
+      "sourceUrl": "https://www.cnbc.com/2026/06/14/jetblue-fort-lauderdale-airport.html",
+      "difficulty": "medium",
+      "region": "north-america",
+      "imageUrl": "https://image.cnbcfm.com/api/v1/image/108217475-1761597488828-gettyimages-2239801720-jr_12387_axftwqfq.jpeg?v=1761597821&w=1920&h=1080"
+    },
+    {
+      "id": 7,
+      "answer": "Measles",
+      "acceptedAnswers": [
+        "Measles",
+        "Rubeola"
+      ],
+      "clues": [
+        "Highly contagious viral disease",
+        "Preventable with MMR vaccine",
+        "Causes distinctive red rash",
+        "Once declared eliminated in many developed countries",
+        "Spread through airborne transmission",
+        "Resurgence linked to declining immunization rates"
+      ],
+      "summary": "Measles cases are rising in Lancaster County, Pennsylvania, where low vaccination rates are allowing the virus to spread, with doctors worried many more cases are going undetected in under-vaccinated communities.",
+      "sourceUrl": "https://www.inquirer.com/health/measles-cases-rising-low-vaccination-rates-lancaster-20260613.html",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://www.inquirer.com/resizer/v2/SZGOQFYHFVDFZJRLCVGYBPYZZA.jpg?auth=c90680c21fbe35f6db85f271946dc6a6684a90d08fd9411c9c1b1d674ac9cf89&width=760&height=507&smart=true"
+    },
+    {
+      "id": 8,
+      "answer": "Aldon Smith",
+      "acceptedAnswers": [
+        "Aldon Smith"
+      ],
+      "clues": [
+        "NFL defensive end",
+        "San Francisco 49ers first-round draft pick",
+        "University of Missouri alumni",
+        "Multiple legal troubles during career",
+        "Played in the NFC West",
+        "Died at age 36"
+      ],
+      "summary": "Former San Francisco 49ers defensive star Aldon Smith has died at the age of 36. He was a talented pass rusher whose career was derailed by multiple legal issues.",
+      "sourceUrl": "https://www.sfgate.com/49ers/article/49ers-aldon-smith-dies-22304309.php",
+      "difficulty": "hard",
+      "region": "north-america",
+      "imageUrl": "https://s.hdnux.com/photos/53/67/33/11499210/4/rawImage.jpg"
+    },
+    {
+      "id": 9,
+      "answer": "Apollo program",
+      "acceptedAnswers": [
+        "Apollo program",
+        "Apollo",
+        "Project Apollo"
+      ],
+      "clues": [
+        "NASA's crewed lunar missions",
+        "1960s-70s space exploration milestone",
+        "Brought back geological samples from another world",
+        "Astronauts reported strange smells in the cabin",
+        "Culmination of the Space Race",
+        "Featured Saturn V rocket launches"
+      ],
+      "summary": "A Space Daily feature revisits the enduring mystery that astronauts from NASA's moon missions reported fresh lunar dust smelling like spent gunpowder, a phenomenon never fully explained more than fifty years later.",
+      "sourceUrl": "https://spacedaily.com/t-the-apollo-astronauts-who-carried-lunar-dust-back-into-the-cabin-kept-making-the-same-strange-report-fresh-moon-dust-smelled-like-spent-gunpowder-yet-the-smell-never-survived-the-t/",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://spacedaily.com/wp-content/uploads/2026/06/newimagesize-2026-06-14T140223.154.png"
+    },
+    {
+      "id": 10,
+      "answer": "Fitbit",
+      "acceptedAnswers": [
+        "Fitbit",
+        "Fitbit Air"
+      ],
+      "clues": [
+        "Wearable technology brand",
+        "Acquired by a major tech company in 2021",
+        "Fitness and health tracking devices",
+        "Known for step counting and heart rate monitoring",
+        "Now owned by Alphabet",
+        "Competing in the smartwatch market"
+      ],
+      "summary": "Fitbit has launched the Fitbit Air, a screenless fitness tracker powered by AI, representing a new direction for the wearable brand that has been reviewed as a compelling device despite lacking a traditional display.",
+      "sourceUrl": "https://www.androidpolice.com/fitbit-air-review/",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/06/fitbit-air-wrist-1.JPG?w=1600&h=900&fit=crop"
+    }
+  ]
+}
