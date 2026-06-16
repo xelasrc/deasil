@@ -1,0 +1,219 @@
+{
+  "date": "2026-06-18",
+  "puzzles": [
+    {
+      "id": 1,
+      "answer": "Roku",
+      "acceptedAnswers": [
+        "Roku",
+        "Roku Inc"
+      ],
+      "clues": [
+        "Streaming media",
+        "Connected TV platform",
+        "Silicon Valley company",
+        "Set-top box manufacturer",
+        "Publicly traded tech firm",
+        "Founded by Anthony Wood"
+      ],
+      "summary": "Fox Corp announced a $22 billion deal to acquire Roku, the connected TV streaming platform, in a major media-tech merger.",
+      "sourceUrl": "http://deadline.com/2026/06/fox-corp-buying-roku-1236956217/",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://deadline.com/wp-content/uploads/2025/04/Roku-event-Aprtil-23.jpg?w=1024"
+    },
+    {
+      "id": 2,
+      "answer": "G-7",
+      "acceptedAnswers": [
+        "G-7",
+        "G7",
+        "Group of Seven"
+      ],
+      "clues": [
+        "International diplomatic forum",
+        "Annual summit of major democracies",
+        "Founded in the 1970s",
+        "Canada, France, Germany, Italy, Japan, UK, US",
+        "Discusses global economic policy",
+        "Rotating presidency among members"
+      ],
+      "summary": "At the G-7 summit, allied nations are planning for a world less reliant on the United States as European leaders balance cooperation with growing resistance to U.S. pressure under Trump.",
+      "sourceUrl": "https://www.washingtonpost.com/politics/2026/06/15/europe-leaders-are-building-safeguards-against-less-reliable-us/",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/JODZGCCLDUI7BD77EYWW5RKKXE.jpg&w=1440"
+    },
+    {
+      "id": 3,
+      "answer": "Luigi Mangione",
+      "acceptedAnswers": [
+        "Luigi Mangione",
+        "Mangione"
+      ],
+      "clues": [
+        "Ivy League graduate",
+        "Accused of targeting healthcare executive",
+        "Subject of viral public support",
+        "Charged with first-degree murder in Manhattan",
+        "Born in Maryland",
+        "Defense fund exceeding one million dollars"
+      ],
+      "summary": "Luigi Mangione's legal team is back in court for a key pretrial hearing, as public support and donations for his defense continue to grow following his accusation of killing an insurance CEO.",
+      "sourceUrl": "https://www.npr.org/2026/06/15/nx-s1-5853110/luigi-mangione-court-hearings-growing-support",
+      "difficulty": "easy",
+      "region": "northamerica",
+      "imageUrl": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7982x4490+0+416/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3f%2Fc7%2F6e7c07034bbab7031a69e7ef1914%2Fgettyimages-2203266544.jpg"
+    },
+    {
+      "id": 4,
+      "answer": "Marius Borg Høiby",
+      "acceptedAnswers": [
+        "Marius Borg Høiby",
+        "Marius Borg Hoiby",
+        "Marius Hoiby"
+      ],
+      "clues": [
+        "Norwegian royal family",
+        "Stepson of a future king",
+        "Criminal conviction in Scandinavia",
+        "Son of Crown Princess Mette-Marit",
+        "Sentenced to prison in 2026",
+        "29 years old at time of verdict"
+      ],
+      "summary": "Marius Borg Høiby, the son of Norway's Crown Princess Mette-Marit, was found guilty of two counts of rape and sentenced to four years in jail.",
+      "sourceUrl": "https://www.bbc.com/news/articles/cly9d10l5p4o",
+      "difficulty": "hard",
+      "region": "europe",
+      "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/dc45/live/e93a3c90-fc70-11f0-9f00-a7fda7ef067e.jpg"
+    },
+    {
+      "id": 5,
+      "answer": "Oliver Tree",
+      "acceptedAnswers": [
+        "Oliver Tree",
+        "Oliver Tree Nickell"
+      ],
+      "clues": [
+        "American singer-songwriter",
+        "Known for bowl haircut persona",
+        "Atlantic Records artist",
+        "Alien Boy EP",
+        "Ugly Is Beautiful album",
+        "Also known as a scooter enthusiast"
+      ],
+      "summary": "US musician Oliver Tree died in a helicopter collision over Rio de Janeiro, Brazil, along with five other people.",
+      "sourceUrl": "https://www.bbc.com/news/articles/cqj1dd5rgnzo",
+      "difficulty": "medium",
+      "region": "southamerica",
+      "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/dd84/live/4e40a990-687c-11f1-ad29-ebc8ba5e9f31.jpg"
+    },
+    {
+      "id": 6,
+      "answer": "Chandra X-ray Observatory",
+      "acceptedAnswers": [
+        "Chandra X-ray Observatory",
+        "Chandra",
+        "Chandra Observatory"
+      ],
+      "clues": [
+        "NASA space telescope",
+        "Launched aboard Space Shuttle Columbia",
+        "Named after a Nobel Prize-winning astrophysicist",
+        "Detects high-energy radiation from the cosmos",
+        "Part of NASA's Great Observatories program",
+        "Orbits Earth in a highly elliptical path"
+      ],
+      "summary": "NASA's Chandra X-ray Observatory has discovered a possible supernova remnant in the center of the Milky Way galaxy, with findings published in The Astrophysical Journal.",
+      "sourceUrl": "https://phys.org/news/2026-06-nasa-chandra-supernova-remnant-galactic.html",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://scx2.b-cdn.net/gfx/news/2026/nasas-chandra-discover.jpg"
+    },
+    {
+      "id": 7,
+      "answer": "Kyiv",
+      "acceptedAnswers": [
+        "Kyiv",
+        "Kiev"
+      ],
+      "clues": [
+        "Capital city on the Dnieper River",
+        "Home to Saint Sophia Cathedral",
+        "Population over three million",
+        "Maidan Nezalezhnosti square",
+        "Eastern European metropolis",
+        "Golden Gate historic landmark"
+      ],
+      "summary": "A large overnight Russian missile and drone attack struck Kyiv and other Ukrainian cities, killing nine people and damaging a historic cathedral in the capital.",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/6/15/russian-attacks-in-ukraine-kill-nine-damage-historic-kyiv-cathedral",
+      "difficulty": "easy",
+      "region": "europe",
+      "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/06/afp_6a2f950c385e-1781503244.jpg?resize=1920%2C1440"
+    },
+    {
+      "id": 8,
+      "answer": "Honor",
+      "acceptedAnswers": [
+        "Honor",
+        "HONOR"
+      ],
+      "clues": [
+        "Chinese smartphone brand",
+        "Former subsidiary of Huawei",
+        "Headquartered in Shenzhen",
+        "Magic series product line",
+        "Foldable device manufacturer",
+        "Became independent in 2020"
+      ],
+      "summary": "Honor's new Magic V6 foldable phone sets three foldable firsts, with a bigger battery being highlighted as the most meaningful upgrade.",
+      "sourceUrl": "https://www.theverge.com/tech/948919/honor-magic-v6-foldable-review",
+      "difficulty": "medium",
+      "region": "asia",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/honor-magic-v6-review-7.jpg?quality=90&strip=all&crop=0%2C10.741906587151%2C100%2C78.516186825698&w=1200"
+    },
+    {
+      "id": 9,
+      "answer": "English Channel",
+      "acceptedAnswers": [
+        "English Channel",
+        "The English Channel",
+        "La Manche"
+      ],
+      "clues": [
+        "Body of water separating two countries",
+        "Site of D-Day crossings",
+        "Busiest shipping lane in the world",
+        "Connected by an undersea rail tunnel",
+        "Strait of Dover at its narrowest point",
+        "Approximately 350 miles long"
+      ],
+      "summary": "UK forces intercepted a Russian shadow fleet oil tanker in the English Channel as part of ongoing efforts to disrupt Moscow's sanctions-evasion network.",
+      "sourceUrl": "https://www.nbcnews.com/world/europe/uk-forces-intercept-russian-shadow-fleet-oil-tanker-english-channel-rcna349990",
+      "difficulty": "easy",
+      "region": "europe",
+      "imageUrl": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-06/260614-shadow-fleet-nd-00c520.jpg"
+    },
+    {
+      "id": 10,
+      "answer": "ALF",
+      "acceptedAnswers": [
+        "ALF",
+        "Alf"
+      ],
+      "clues": [
+        "1980s NBC sitcom",
+        "Featured a puppet character from Melmac",
+        "Tanner family home setting",
+        "Alien life form acronym",
+        "Ran for four seasons",
+        "Character voiced by Paul Fusco"
+      ],
+      "summary": "Anne Schedeen, the actress best known for playing the mom on the classic sitcom ALF, has died at the age of 77.",
+      "sourceUrl": "http://www.hollywoodreporter.com/tv/tv-news/anne-schedeen-dead-alf-actress-dead-at-77-1236621718/",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://www.hollywoodreporter.com/wp-content/uploads/2026/06/Anne-Schedeen.jpg?w=1296&h=730&crop=1"
+    }
+  ]
+}
