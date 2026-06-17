@@ -1,0 +1,215 @@
+{
+  "date": "2026-06-19",
+  "puzzles": [
+    {
+      "id": 1,
+      "answer": "Roku",
+      "acceptedAnswers": [
+        "Roku",
+        "Roku Inc"
+      ],
+      "clues": [
+        "Streaming technology",
+        "Smart TV platform",
+        "Silicon Valley company",
+        "Digital media player",
+        "Connected TV advertising",
+        "Set-top box manufacturer"
+      ],
+      "summary": "Fox has entered a deal to merge with Roku, which would make Fox the owner of the top digital TV operating system in the United States.",
+      "sourceUrl": "https://www.axios.com/2026/06/16/fox-roku-deal-streaming-wars",
+      "difficulty": "medium",
+      "region": "north-america",
+      "imageUrl": "https://images.axios.com/CN8pDOs6duSrssuEQpERhSr6ZJU=/0x0:1344x756/1366x768/2026/06/16/1781574923045.png"
+    },
+    {
+      "id": 2,
+      "answer": "B-52 Stratofortress",
+      "acceptedAnswers": [
+        "B-52",
+        "B-52 Stratofortress",
+        "Boeing B-52"
+      ],
+      "clues": [
+        "Cold War-era military aircraft",
+        "Strategic long-range bomber",
+        "Boeing military aviation",
+        "Nuclear deterrent platform",
+        "Subsonic jet aircraft",
+        "United States Air Force fleet"
+      ],
+      "summary": "Eight people were killed when a U.S. Air Force B-52 bomber crashed during a routine test mission, drawing renewed attention to one of the longest-serving aircraft in military history.",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/6/16/us-b-52-bomber-crashes-in-california-what-we-know",
+      "difficulty": "medium",
+      "region": "north-america",
+      "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/06/AP26167038291976-1781592286.jpg?resize=1530%2C1080"
+    },
+    {
+      "id": 3,
+      "answer": "Cape Verde",
+      "acceptedAnswers": [
+        "Cape Verde",
+        "Cabo Verde"
+      ],
+      "clues": [
+        "Atlantic island nation",
+        "Macaronesia archipelago",
+        "Former Portuguese colony",
+        "West African region",
+        "Praia capital city",
+        "Lusophone country"
+      ],
+      "summary": "Cape Verde's 40-year-old goalkeeper Vozinha produced a stunning performance to hold Spain to a 0-0 draw at the World Cup, recording seven saves against the tournament favorites.",
+      "sourceUrl": "https://www.npr.org/2026/06/16/nx-s1-5859915/cape-verde-goalkeeper",
+      "difficulty": "hard",
+      "region": "africa",
+      "imageUrl": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2215x1246+0+116/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F01%2F6f%2Fec125fed42698bfb9ad70359d3c8%2Fap26166603425435.jpg"
+    },
+    {
+      "id": 4,
+      "answer": "Strait of Hormuz",
+      "acceptedAnswers": [
+        "Strait of Hormuz",
+        "Hormuz Strait"
+      ],
+      "clues": [
+        "Persian Gulf waterway",
+        "Oil shipping chokepoint",
+        "Middle East maritime passage",
+        "Iran-Oman border waters",
+        "Global energy trade route",
+        "Strategic naval corridor"
+      ],
+      "summary": "President Trump is urging oil tankers to resume sailing through the Strait of Hormuz following a peace deal announcement, but shipping industry groups are urging caution about safety.",
+      "sourceUrl": "https://www.politico.com/news/2026/06/15/is-the-strait-open-00962226",
+      "difficulty": "medium",
+      "region": "middle-east",
+      "imageUrl": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F38%2Fdf%2F083aea5348a5a262509160029c07%2Firan-war-strait-of-hormuz-66-55.jpg"
+    },
+    {
+      "id": 5,
+      "answer": "Oliver Tree",
+      "acceptedAnswers": [
+        "Oliver Tree",
+        "Oliver Tree Nickell"
+      ],
+      "clues": [
+        "American musician and comedian",
+        "Alien Boy singer",
+        "Viral internet personality",
+        "Atlantic Records artist",
+        "Music video director",
+        "California-born entertainer"
+      ],
+      "summary": "American singer and comedian Oliver Tree was listed among six passengers in a deadly helicopter crash in Brazil, drawing international attention to the incident.",
+      "sourceUrl": "https://www.nbcnews.com/news/us-news/know-fatal-brazil-helicopter-crash-singer-oliver-tree-6-passengers-rcna350084",
+      "difficulty": "hard",
+      "region": "south-america",
+      "imageUrl": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-06/260616-oliver-tree-mb-1216-da87df.jpg"
+    },
+    {
+      "id": 6,
+      "answer": "Commodore",
+      "acceptedAnswers": [
+        "Commodore",
+        "Commodore International",
+        "Commodore Business Machines"
+      ],
+      "clues": [
+        "Iconic 1980s computing brand",
+        "Home computer pioneer",
+        "Amiga manufacturer",
+        "Personal computer revolution",
+        "VIC-20 producer",
+        "Retro technology revival"
+      ],
+      "summary": "The resurrected Commodore brand, famous for its pioneering home computers, has announced a move into flip phones with a new device called the Callback, blending nostalgia with modern appeal.",
+      "sourceUrl": "https://www.theverge.com/tech/950190/commodore-callback-flip-phone",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Commodore-Callback-8020-Founders-Edition-005.jpeg?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200"
+    },
+    {
+      "id": 7,
+      "answer": "Antarctica",
+      "acceptedAnswers": [
+        "Antarctica"
+      ],
+      "clues": [
+        "Southernmost continent",
+        "Ice sheet covering landmass",
+        "South Pole location",
+        "McMurdo Station site",
+        "Largest desert by area",
+        "International scientific research zone"
+      ],
+      "summary": "Scientists have discovered hundreds of hidden earthquakes occurring beneath Antarctica in an unexpected location, overturning the long-held assumption that the continent was seismically calm.",
+      "sourceUrl": "https://www.livescience.com/planet-earth/antarctica/hundreds-of-hidden-earthquakes-discovered-beneath-antarctica-and-theyre-happening-in-a-very-odd-location",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://cdn.mos.cms.futurecdn.net/ESzEgdHMtr7uGsTnABeahH-1920-80.jpg"
+    },
+    {
+      "id": 8,
+      "answer": "Jelly Roll",
+      "acceptedAnswers": [
+        "Jelly Roll",
+        "Jason DeFord"
+      ],
+      "clues": [
+        "Country music crossover artist",
+        "Nashville-based rapper turned singer",
+        "Save Me collaborator",
+        "Grammy-nominated performer",
+        "Addiction recovery advocate",
+        "Need a Favor hitmaker"
+      ],
+      "summary": "Country music star Jelly Roll has filed for divorce from his wife Bunnie XO after nearly a decade of marriage, according to court records.",
+      "sourceUrl": "https://www.usatoday.com/story/entertainment/celebrities/2026/06/15/jelly-roll-divorce-bunnie-xo/90567339007/",
+      "difficulty": "medium",
+      "region": "north-america",
+      "imageUrl": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/06/16/USAT/90567664007-jelly-roll-divorces-bunnie-xo-after-10-years.JPG?crop=4604,2590,x580,y165&width=3200&height=1801&format=pjpg&auto=webp"
+    },
+    {
+      "id": 9,
+      "answer": "Intel",
+      "acceptedAnswers": [
+        "Intel",
+        "Intel Corporation"
+      ],
+      "clues": [
+        "Santa Clara semiconductor company",
+        "x86 architecture developer",
+        "Chip fabrication giant",
+        "Moore's Law originator",
+        "Core processor brand owner",
+        "Foundry services provider"
+      ],
+      "summary": "Intel's upcoming Serpent Lake processors are reportedly set to feature NVIDIA RTX GPU tiles as integrated graphics, with an expected launch in early 2028, marking a notable collaboration between the two chip rivals.",
+      "sourceUrl": "https://wccftech.com/intel-serpent-lake-socs-with-nvidia-rtx-gpu-tiles-reportedly-arrive-in-q1-2028/",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://cdn.wccftech.com/wp-content/uploads/2026/04/Intel-Serpent-Lake-NVIDIA-GPU-and-Cooper-Shark-P-Core-Architecture-F-1-1920x1344.jpg"
+    },
+    {
+      "id": 10,
+      "answer": "Vitamin D",
+      "acceptedAnswers": [
+        "Vitamin D"
+      ],
+      "clues": [
+        "Sunshine nutrient",
+        "Fat-soluble secosteroid",
+        "Bone health supplement",
+        "Cholecalciferol form",
+        "Fortified milk additive",
+        "Dietary supplement for older adults"
+      ],
+      "summary": "A major review of nearly 154,000 people found that calcium and vitamin D supplements provide little benefit for strengthening bones or preventing falls in older adults, challenging decades of medical advice.",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260614011852.htm",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://www.sciencedaily.com/images/1920/osteoporosis-stages-bone-strength.webp"
+    }
+  ]
+}
