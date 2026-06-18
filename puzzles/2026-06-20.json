@@ -1,0 +1,214 @@
+{
+  "date": "2026-06-20",
+  "puzzles": [
+    {
+      "id": 1,
+      "answer": "Hantavirus",
+      "acceptedAnswers": [
+        "Hantavirus",
+        "Hanta virus"
+      ],
+      "clues": [
+        "Rodent-borne pathogen",
+        "Pulmonary syndrome",
+        "Bunyavirales order",
+        "Zoonotic disease",
+        "Deer mouse reservoir",
+        "Respiratory illness"
+      ],
+      "summary": "Health Secretary Kennedy ordered an American cruise ship passenger exposed to hantavirus to remain quarantined against her will, sparking controversy over federal quarantine powers.",
+      "sourceUrl": "https://www.yahoo.com/news/us/articles/kennedy-orders-american-exposed-hantavirus-184336888.html",
+      "difficulty": "hard",
+      "region": "global",
+      "imageUrl": "https://s.yimg.com/os/en/reuters.com/b1eb101cb70a46e8674760e39a745ea7"
+    },
+    {
+      "id": 2,
+      "answer": "Federal Reserve",
+      "acceptedAnswers": [
+        "Federal Reserve",
+        "The Fed",
+        "Fed"
+      ],
+      "clues": [
+        "Central banking system",
+        "FOMC meetings",
+        "Interest rate decisions",
+        "Monetary policy authority",
+        "Washington D.C. headquarters",
+        "Dual mandate institution"
+      ],
+      "summary": "The Federal Reserve is holding its latest interest rate meeting, the first under new Chairman Kevin Warsh, with rising inflation taking center stage in the decision.",
+      "sourceUrl": "https://www.nbcnews.com/business/economy/inflation-kevin-warsh-fed-fomc-meeting-rcna350411",
+      "difficulty": "easy",
+      "region": "north_america",
+      "imageUrl": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-06/260616-Kevin-Warsh-vsb-1819-051286.jpg"
+    },
+    {
+      "id": 3,
+      "answer": "Kylian Mbappé",
+      "acceptedAnswers": [
+        "Kylian Mbappé",
+        "Kylian Mbappe",
+        "Mbappé",
+        "Mbappe"
+      ],
+      "clues": [
+        "Real Madrid forward",
+        "French national team captain",
+        "Former Paris Saint-Germain star",
+        "Born in Bondy",
+        "2018 World Cup winner",
+        "Teenage sensation at Monaco"
+      ],
+      "summary": "Mbappé scored a stunning goal and broke France's all-time goal-scoring record with two goals in Les Bleus' 3-1 World Cup group stage win against Senegal.",
+      "sourceUrl": "https://www.espn.com/soccer/story/_/id/49084969/kylian-mbappe-breaks-goal-record-france-kick-world-cup-senegal-win",
+      "difficulty": "easy",
+      "region": "europe",
+      "imageUrl": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0616%2Fr1674349_1296x729_16%2D9.jpg"
+    },
+    {
+      "id": 4,
+      "answer": "WhatsApp",
+      "acceptedAnswers": [
+        "WhatsApp"
+      ],
+      "clues": [
+        "Meta-owned platform",
+        "End-to-end encryption messaging",
+        "Green speech bubble icon",
+        "Acquired for $19 billion in 2014",
+        "Founded by Jan Koum",
+        "Status updates feature"
+      ],
+      "summary": "WhatsApp is reportedly developing a new ephemeral messaging feature for iOS, adding to its existing disappearing messages functionality.",
+      "sourceUrl": "https://9to5mac.com/2026/06/16/whatsapp-working-on-yet-another-ephemeral-feature-on-ios/",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/whatsapp-ios-26.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+    },
+    {
+      "id": 5,
+      "answer": "Haiti",
+      "acceptedAnswers": [
+        "Haiti"
+      ],
+      "clues": [
+        "Caribbean island nation",
+        "Shares Hispaniola",
+        "Port-au-Prince capital",
+        "Creole-speaking country",
+        "1804 independence revolution",
+        "Western Hemisphere's poorest nation"
+      ],
+      "summary": "UN Secretary-General António Guterres visited Haiti where surging gang violence has left more than 1 in 10 people homeless, with a new international force set to be deployed.",
+      "sourceUrl": "https://apnews.com/article/haiti-un-secretary-general-guterres-gangs-d118ce2bd8bcb2bb86f3bc91d27825f6",
+      "difficulty": "medium",
+      "region": "latin_america",
+      "imageUrl": "https://dims.apnews.com/dims4/default/bcc6a2d/2147483647/strip/true/crop/4253x2834+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F7b%2Ff7%2Fdc4c5e98eedcc769ed3c72c729bd%2Fe5afebd10bdb4c6a9c543b8546d0942a"
+    },
+    {
+      "id": 6,
+      "answer": "Tom Holland",
+      "acceptedAnswers": [
+        "Tom Holland"
+      ],
+      "clues": [
+        "British actor",
+        "Spider-Man portrayer in MCU",
+        "Former ballet dancer",
+        "West End stage performer",
+        "Kingston upon Thames native",
+        "The Impossible child star"
+      ],
+      "summary": "Tom Holland confirmed that he secretly married Zendaya, telling media that friends and family were all present at the private wedding ceremony.",
+      "sourceUrl": "http://www.hollywoodreporter.com/news/general-news/tom-holland-zendaya-married-wedding-1236623067/",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://www.hollywoodreporter.com/wp-content/uploads/2024/11/Tom-Holland-Zendaya-getty-H-2024.png?w=1296&h=730&crop=1"
+    },
+    {
+      "id": 7,
+      "answer": "Pizza Hut",
+      "acceptedAnswers": [
+        "Pizza Hut"
+      ],
+      "clues": [
+        "Yum! Brands subsidiary",
+        "Red roof logo",
+        "Founded in Wichita, Kansas",
+        "Pan-style crusts",
+        "Book It! reading program sponsor",
+        "Global fast food franchise"
+      ],
+      "summary": "The struggling Pizza Hut chain is being sold for $2.7 billion after a prolonged period of difficulty and increasing competition from rivals.",
+      "sourceUrl": "https://www.bbc.com/news/articles/c75yd6dy2vlo",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/fc30/live/7b572ab0-69a0-11f1-938e-83ab58a2163c.jpg"
+    },
+    {
+      "id": 8,
+      "answer": "Pauline Hanson",
+      "acceptedAnswers": [
+        "Pauline Hanson"
+      ],
+      "clues": [
+        "One Nation party founder",
+        "Australian senator",
+        "Queensland politician",
+        "Right-wing populist",
+        "Former fish and chip shop owner",
+        "Immigration critic"
+      ],
+      "summary": "Australian right-wing leader Pauline Hanson declared that multiculturalism has failed in Australia and that immigration policies have put the country in crisis.",
+      "sourceUrl": "https://uk.news.yahoo.com/australian-wing-leader-pauline-hanson-051222436.html",
+      "difficulty": "hard",
+      "region": "oceania",
+      "imageUrl": "https://s.yimg.com/lo/mysterio/api/7008111c74c17072c8fedc57ad87a1c270665bfc1dbe2fdb5a00f893c7a01d2f/lightyear_networkapi/resizefill_w800_h534;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F0048ecb22ec8850811e55be60f9ca8f0"
+    },
+    {
+      "id": 9,
+      "answer": "San Andreas Fault",
+      "acceptedAnswers": [
+        "San Andreas Fault",
+        "San Andreas"
+      ],
+      "clues": [
+        "Transform plate boundary",
+        "California tectonic feature",
+        "Pacific and North American plates",
+        "1906 earthquake source",
+        "800-mile geological structure",
+        "Strike-slip seismic zone"
+      ],
+      "summary": "New research reveals that a critical junction where two of California's most powerful fault systems meet has reached stress levels matching 1,000-year highs, just 50 miles from Los Angeles.",
+      "sourceUrl": "https://www.foxweather.com/earth-space/california-dangerous-fault-line-highest-stress-level-1000-years",
+      "difficulty": "medium",
+      "region": "north_america",
+      "imageUrl": "https://images.foxweather.com/static.foxweather.com/www.foxweather.com/content/uploads/2026/04/1024/512/gettyimages-2226857326-scaled.jpg?ve=1&tl=1"
+    },
+    {
+      "id": 10,
+      "answer": "Lionel Messi",
+      "acceptedAnswers": [
+        "Lionel Messi",
+        "Leo Messi",
+        "Messi"
+      ],
+      "clues": [
+        "Argentine forward",
+        "Eight-time Ballon d'Or winner",
+        "Former Barcelona captain",
+        "Inter Miami star",
+        "Rosario-born athlete",
+        "2022 World Cup champion"
+      ],
+      "summary": "Messi scored a hat-trick as defending champions Argentina opened their 2026 World Cup campaign with a 3-0 victory over Algeria.",
+      "sourceUrl": "https://www.aljazeera.com/sports/2026/6/17/messi-fires-argentina-to-win-against-algeria-in-world-cup-defence-opener",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/06/2026-06-17T012417Z_514006236_UP1EM6H03WFV5_RTRMADP_3_SOCCER-WORLDCUP-ARG-DZA-1781659551.jpg?resize=1920%2C1440"
+    }
+  ]
+}
