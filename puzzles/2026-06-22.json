@@ -1,0 +1,213 @@
+{
+  "date": "2026-06-22",
+  "puzzles": [
+    {
+      "id": 1,
+      "answer": "Kevin Warsh",
+      "acceptedAnswers": [
+        "Kevin Warsh",
+        "Warsh"
+      ],
+      "clues": [
+        "Central banking",
+        "Monetary policy",
+        "Former Goldman Sachs executive",
+        "Press conference debut",
+        "U.S. economic leadership",
+        "George W. Bush appointee"
+      ],
+      "summary": "Kevin Warsh gave his first press conference as the new Fed Chair this week, signaling a shift in tone and approach for U.S. monetary policy that investors are watching closely.",
+      "sourceUrl": "https://finance.yahoo.com/markets/article/the-feds-warsh-era-clearly-has-a-new-vibe--and-thats-not-all-bad-for-investors-110147708.html",
+      "difficulty": "hard",
+      "region": "north-america",
+      "imageUrl": "https://s.yimg.com/lo/mysterio/api/84E8C0C8FFD9FBB492BD624E4DE8AD89145C84EE7EA0189DAE9850C3BF47187E/subgraphmysterio/resizefill_w1200_h799;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-06%2F98c8c36a-b425-49f2-9752-6131ed51f14f"
+    },
+    {
+      "id": 2,
+      "answer": "Dominican Republic",
+      "acceptedAnswers": [
+        "Dominican Republic"
+      ],
+      "clues": [
+        "Caribbean nation",
+        "Island of Hispaniola",
+        "Tourism-dependent economy",
+        "Spanish-speaking country",
+        "Shares a border with Haiti",
+        "Capital city: Santo Domingo"
+      ],
+      "summary": "A massive fire destroyed a luxury resort in the Dominican Republic, forcing the evacuation of nearly 1,700 tourists and killing at least one Italian visitor.",
+      "sourceUrl": "https://apnews.com/article/dominican-republic-resort-fire-wyndham-7aa1b38d50bf0c322370d663fdfa5658",
+      "difficulty": "easy",
+      "region": "latin-america",
+      "imageUrl": "https://dims.apnews.com/dims4/default/befb62b/2147483647/strip/true/crop/1081x720+100+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff8%2F38%2Fbefa04ea768c11f2114ed1c956b3%2Fdmr-hotel-fire-20260619cr-1920x1080.jpg"
+    },
+    {
+      "id": 3,
+      "answer": "Shinnecock Hills",
+      "acceptedAnswers": [
+        "Shinnecock Hills",
+        "Shinnecock Hills Golf Club"
+      ],
+      "clues": [
+        "Long Island, New York",
+        "Golf course designed in 1891",
+        "Private club",
+        "Major championship venue",
+        "Southampton location",
+        "Links-style course"
+      ],
+      "summary": "Shinnecock Hills is hosting the 126th U.S. Open, where Wyndham Clark holds a dominant lead entering the weekend while several LIV Golf stars missed the cut.",
+      "sourceUrl": "https://www.nbcsports.com/golf/news/wyndham-clark-leads-at-shinnecock-hills-without-a-game",
+      "difficulty": "hard",
+      "region": "north-america",
+      "imageUrl": "https://nbcsports.brightspotcdn.com/dims4/default/4a84a05/2147483647/strip/true/crop/5133x2887+0+267/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F83%2F8d%2F6d54b676430ba6c61172f90c0295%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2282377453"
+    },
+    {
+      "id": 4,
+      "answer": "Keir Starmer",
+      "acceptedAnswers": [
+        "Keir Starmer",
+        "Starmer"
+      ],
+      "clues": [
+        "British Labour Party",
+        "Former Director of Public Prosecutions",
+        "Prime Minister of the United Kingdom",
+        "Member of Parliament for Holborn and St Pancras",
+        "Knighted for services to law",
+        "Leadership contest challenger"
+      ],
+      "summary": "British PM Keir Starmer is vowing to fight a potential Labour leadership challenge from Andy Burnham after Burnham's recent election victory fueled a showdown within the party.",
+      "sourceUrl": "https://apnews.com/article/uk-makerfield-election-burnham-starmer-labour-434ca8a59d57e79590e9a38a31d6573e",
+      "difficulty": "medium",
+      "region": "europe",
+      "imageUrl": "https://dims.apnews.com/dims4/default/f93d15b/2147483647/strip/true/crop/5625x3748+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc8%2F8b%2F5b9c728aee695d5fab47a85174c8%2F3e642afb232142d982e37bee467c9012"
+    },
+    {
+      "id": 5,
+      "answer": "H5N1",
+      "acceptedAnswers": [
+        "H5N1",
+        "H5N1 bird flu",
+        "Avian influenza"
+      ],
+      "clues": [
+        "Influenza A virus subtype",
+        "Zoonotic pathogen",
+        "Poultry culling",
+        "Highly pathogenic strain",
+        "World Health Organization monitoring",
+        "First identified in geese in 1996"
+      ],
+      "summary": "Australia confirmed its first mainland case of H5N1 bird flu in a seabird near Esperance, Western Australia, prompting pledges of action from the government.",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/6/20/australia-pledges-action-on-h5n1-after-bird-flu-case-confirmed",
+      "difficulty": "medium",
+      "region": "oceania",
+      "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/03/reuters_69ba4986-1773816198.jpg?resize=1920%2C1440"
+    },
+    {
+      "id": 6,
+      "answer": "Moscow",
+      "acceptedAnswers": [
+        "Moscow"
+      ],
+      "clues": [
+        "Capital city on the Moskva River",
+        "Home of the Kremlin",
+        "Most populous city in Europe",
+        "Red Square landmark",
+        "Russia-Ukraine conflict",
+        "Oil refinery infrastructure"
+      ],
+      "summary": "An attack on a Moscow oil refinery brought the consequences of Russia's war with Ukraine closer to the Russian capital, disrupting the sense of normalcy in the city.",
+      "sourceUrl": "https://www.bbc.com/news/articles/cp3xqkxp3x5o",
+      "difficulty": "easy",
+      "region": "europe",
+      "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/e66a/live/6e4dd6a0-6c04-11f1-8e1d-bbbb1017d210.jpg"
+    },
+    {
+      "id": 7,
+      "answer": "Anne Hathaway",
+      "acceptedAnswers": [
+        "Anne Hathaway"
+      ],
+      "clues": [
+        "Academy Award winner for Best Supporting Actress",
+        "The Devil Wears Prada star",
+        "Les Misérables cast member",
+        "Brooklyn-born actress",
+        "Married to Adam Shulman",
+        "Interstellar performer"
+      ],
+      "summary": "Anne Hathaway revealed on Instagram that she is pregnant with her third child with husband Adam Shulman.",
+      "sourceUrl": "http://www.thecut.com/article/anne-hathaway-pregnant-third-baby.html",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://pyxis.nymag.com/v1/imgs/528/31a/76994d76ae0f25e9205b84225484b7f614-GettyImages-2274062054.1x.rsocial.w1200.jpg"
+    },
+    {
+      "id": 8,
+      "answer": "Swift Observatory",
+      "acceptedAnswers": [
+        "Swift Observatory",
+        "Swift",
+        "Neil Gehrels Swift Observatory"
+      ],
+      "clues": [
+        "NASA satellite",
+        "Gamma-ray burst detection",
+        "Launched in 2004",
+        "Low Earth orbit",
+        "Multi-wavelength astronomy",
+        "Orbital decay emergency"
+      ],
+      "summary": "NASA's Swift space observatory is falling out of orbit, and the agency has launched a daring plan to save the telescope by having a commercial company build a rescue spacecraft in just nine months.",
+      "sourceUrl": "https://www.space.com/space-exploration/launches-spacecraft/no-one-thought-it-was-going-to-be-possible-a-space-telescope-is-falling-out-of-space-this-is-nasas-daring-plan-to-save-it",
+      "difficulty": "hard",
+      "region": "global",
+      "imageUrl": "https://cdn.mos.cms.futurecdn.net/4qpLsvHVY5NfVXrwMdPV45-1920-80.png"
+    },
+    {
+      "id": 9,
+      "answer": "Bedford",
+      "acceptedAnswers": [
+        "Bedford"
+      ],
+      "clues": [
+        "English market town",
+        "Bedfordshire county",
+        "River Great Ouse",
+        "East Midlands railway service",
+        "Borough in England",
+        "North of London"
+      ],
+      "summary": "A serious train crash occurred near Bedford, England, involving two East Midlands Railway trains colliding, with police confirming at least one death and emergency services responding to the scene.",
+      "sourceUrl": "https://www.bbc.com/news/articles/cn75z3nl048o",
+      "difficulty": "hard",
+      "region": "europe",
+      "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/a7b0/live/aed1a380-6c1a-11f1-b1db-af71d47507d6.jpg"
+    },
+    {
+      "id": 10,
+      "answer": "Siri",
+      "acceptedAnswers": [
+        "Siri",
+        "Apple Siri"
+      ],
+      "clues": [
+        "Virtual assistant",
+        "Introduced in 2011",
+        "iOS integration",
+        "Voice-activated technology",
+        "Natural language processing",
+        "Cupertino-developed AI"
+      ],
+      "summary": "Apple's Siri has received a major AI overhaul in iOS 27, with early reviews from tech journalists praising the significantly improved capabilities of the revamped virtual assistant.",
+      "sourceUrl": "https://9to5mac.com/2026/06/19/joanna-stern-spent-one-week-with-new-siri-ai-and-its-very-good/",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/06/joanna-stern-siri-ai.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+    }
+  ]
+}
