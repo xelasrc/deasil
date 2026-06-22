@@ -1,0 +1,215 @@
+{
+  "date": "2026-06-24",
+  "puzzles": [
+    {
+      "id": 1,
+      "answer": "Travis Kelce",
+      "acceptedAnswers": [
+        "Travis Kelce",
+        "Kelce"
+      ],
+      "clues": [
+        "NFL tight end",
+        "Kansas City Chiefs",
+        "Super Bowl champion",
+        "Celebrity relationship",
+        "Reality TV host",
+        "American football star"
+      ],
+      "summary": "Travis Kelce is in the news as his father Ed Kelce appears to have gone public with a new girlfriend weeks before Travis's high-profile wedding to Taylor Swift.",
+      "sourceUrl": "https://www.tmz.com/2026/06/21/taylor-swift-future-father-in-law-ed-kelce-hard-launches-girlfriend/",
+      "difficulty": "easy",
+      "region": "north-america",
+      "imageUrl": "https://imagez.tmz.com/image/c1/16by9/2026/06/21/c13d4d2801254b89b111883fefe18ca2_xl.jpg"
+    },
+    {
+      "id": 2,
+      "answer": "Giorgia Meloni",
+      "acceptedAnswers": [
+        "Giorgia Meloni",
+        "Meloni"
+      ],
+      "clues": [
+        "Italian prime minister",
+        "Brothers of Italy party leader",
+        "European conservative",
+        "First female head of government in Rome",
+        "G7 host 2024",
+        "Transatlantic relations"
+      ],
+      "summary": "Italian Premier Giorgia Meloni has reportedly fallen out with Donald Trump as she prepares for her re-election campaign, marking a significant shift in transatlantic relations.",
+      "sourceUrl": "https://www.ft.com/content/1adcac1d-d2d3-4a62-855d-7dd56319edbf?syn-25a6b1a6\\\\u003d1",
+      "difficulty": "medium",
+      "region": "europe",
+      "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fa71967c1-c9a9-4820-b75e-68007c5bc926.jpg?source=next-barrier-page"
+    },
+    {
+      "id": 3,
+      "answer": "GTA 6",
+      "acceptedAnswers": [
+        "GTA 6",
+        "Grand Theft Auto 6",
+        "Grand Theft Auto VI",
+        "GTA VI"
+      ],
+      "clues": [
+        "Rockstar Games",
+        "Open-world video game",
+        "Vice City setting",
+        "Take-Two Interactive",
+        "Highly anticipated sequel",
+        "Crime simulation franchise"
+      ],
+      "summary": "Leaked pricing from French retailer FNAC shows GTA 6 at €90 for the base edition and €119.99 for a Premium tier, sparking debate about game pricing days before pre-orders open.",
+      "sourceUrl": "https://wccftech.com/gta-6-price-leak-fnac-90-euros-premium-edition/",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://cdn.wccftech.com/wp-content/uploads/2026/06/gta-6-cover-1920x1080.jpg"
+    },
+    {
+      "id": 4,
+      "answer": "Cambodia",
+      "acceptedAnswers": [
+        "Cambodia"
+      ],
+      "clues": [
+        "Southeast Asian kingdom",
+        "Phnom Penh capital",
+        "Mekong River nation",
+        "Angkor Wat location",
+        "Former Khmer Rouge state",
+        "ASEAN member"
+      ],
+      "summary": "Cambodia's crackdown on scam compounds has created a secondary crisis, with thousands of freed trafficking victims now stranded on the streets of Phnom Penh.",
+      "sourceUrl": "https://www.npr.org/2026/06/21/g-s1-128624/freed-from-cambodias-scam-compounds-trafficking-victims-face-a-new-crisis",
+      "difficulty": "medium",
+      "region": "asia",
+      "imageUrl": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5333x3000+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7f%2Fee%2F17d4b4b24231a7021dab2c87152d%2Fglennharvey-2026-06-09-npr-f1-large.jpg"
+    },
+    {
+      "id": 5,
+      "answer": "Nicole Kidman",
+      "acceptedAnswers": [
+        "Nicole Kidman"
+      ],
+      "clues": [
+        "Australian actress",
+        "Academy Award winner",
+        "Big Little Lies star",
+        "Former spouse of Tom Cruise",
+        "Moulin Rouge performer",
+        "Nashville resident"
+      ],
+      "summary": "Nicole Kidman celebrated her 59th birthday on June 20, with her daughter Sunday Rose posting a tribute showcasing the actress's natural curls.",
+      "sourceUrl": "https://www.instyle.com/nicole-kidman-59th-birthday-tribute-natural-curls-daughter-sunday-rose-12003460",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://www.instyle.com/thmb/YXCYkXc1T_16mYJB_5hJDjFWFSc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-22745760382-20ed5b9b01914ac69e9489eec26ecb6f.jpg"
+    },
+    {
+      "id": 6,
+      "answer": "Sargassum",
+      "acceptedAnswers": [
+        "Sargassum",
+        "Sargassum seaweed"
+      ],
+      "clues": [
+        "Brown macroalgae",
+        "Floating ocean biomass",
+        "Atlantic gyre accumulation",
+        "Beach fouling phenomenon",
+        "Caribbean coastal nuisance",
+        "Hydrogen sulfide odor source"
+      ],
+      "summary": "Massive quantities of sargassum seaweed are inundating Florida beaches with foul smells, and experts warn other U.S. coastal states could be next.",
+      "sourceUrl": "https://thehill.com/policy/energy-environment/5930569-smelly-sargassum-inundates-florida-beaches-these-states-could-be-next/",
+      "difficulty": "hard",
+      "region": "global",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/06/AP26162802198806.jpg?w=1280"
+    },
+    {
+      "id": 7,
+      "answer": "NBA Draft",
+      "acceptedAnswers": [
+        "NBA Draft",
+        "2026 NBA Draft"
+      ],
+      "clues": [
+        "Annual player selection event",
+        "Professional basketball",
+        "First-round lottery picks",
+        "Prospect evaluation",
+        "Rookie contracts",
+        "Brooklyn venue tradition"
+      ],
+      "summary": "The 2026 NBA Draft is taking place, with AJ Dybantsa expected to be the first No. 1 pick from Massachusetts in 41 years.",
+      "sourceUrl": "https://www.bostonglobe.com/2026/06/21/sports/nba-draft-aj-dybantsa/",
+      "difficulty": "medium",
+      "region": "north-america",
+      "imageUrl": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/QXJV45AKVYXJHWAZM6FVN4DGHM.jpg?auth=27a7220100179da86d9271e8cb0c9a9a75bd5b9d905c2f737e7e30422c116eb9&width=1440"
+    },
+    {
+      "id": 8,
+      "answer": "Reflecting Pool",
+      "acceptedAnswers": [
+        "Reflecting Pool",
+        "Lincoln Memorial Reflecting Pool"
+      ],
+      "clues": [
+        "National Mall landmark",
+        "Washington D.C. monument feature",
+        "Iconic water feature",
+        "Civil rights march backdrop",
+        "Neoclassical memorial vista",
+        "Capitol district attraction"
+      ],
+      "summary": "President Trump claimed vandals slashed the lining and poured chemicals into the D.C. Reflecting Pool, saying it would be drained again, though he provided no evidence for his claims.",
+      "sourceUrl": "https://www.npr.org/2026/06/21/nx-s1-5865636/trump-reflecting-pool-dc-vandals-drain-green",
+      "difficulty": "medium",
+      "region": "north-america",
+      "imageUrl": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8016x4509+0+686/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F89%2F0e%2Fd6a76a654718abb909d994980bf1%2Fap26171631771313.jpg"
+    },
+    {
+      "id": 9,
+      "answer": "College World Series",
+      "acceptedAnswers": [
+        "College World Series",
+        "CWS"
+      ],
+      "clues": [
+        "NCAA Division I championship",
+        "Omaha annual event",
+        "Charles Schwab Field host",
+        "Eight-team bracket tournament",
+        "Amateur baseball pinnacle",
+        "June sporting tradition"
+      ],
+      "summary": "The Oklahoma Sooners defeated North Carolina 9-3 in Game 1 of the College World Series finals and are one win away from their first national baseball title since 1994.",
+      "sourceUrl": "https://www.oklahoman.com/story/sports/college/sooners/2026/06/20/oklahoma-north-carolina-score-updates-ncaa-baseball-today-college-world-series-sooners-tar-heels/90628251007/",
+      "difficulty": "hard",
+      "region": "north-america",
+      "imageUrl": "https://www.oklahoman.com/gcdn/authoring/authoring-images/2026/06/20/NOKL/90630570007-20260620-t-201427-z-1970643671-mt-1-usatoday-29237309-rtrmadp-3-ncaabaseballdivisionimenscollegeworldseriesnorthcarolinavoklahoma.JPG?crop=5750,3235,x0,y191&width=3200&height=1801&format=pjpg&auto=webp"
+    },
+    {
+      "id": 10,
+      "answer": "Heliconius",
+      "acceptedAnswers": [
+        "Heliconius",
+        "Heliconius butterfly"
+      ],
+      "clues": [
+        "Tropical Lepidoptera",
+        "Pollen-feeding insects",
+        "Müllerian mimicry examples",
+        "Neotropical genus",
+        "Passion vine associates",
+        "Wing pattern diversity"
+      ],
+      "summary": "Scientists have discovered that tropical butterflies from the Heliconius tribe have evolved to live up to 348 days, nearly 25 times longer than their relatives, unlocking new insights into longevity.",
+      "sourceUrl": "https://www.cnn.com/2026/06/19/science/tropical-butterfly-longevity",
+      "difficulty": "hard",
+      "region": "global",
+      "imageUrl": "https://media.cnn.com/api/v1/images/stellar/prod/5-20260619151739637.jpeg?c=16x9&q=w_800,c_fill"
+    }
+  ]
+}
