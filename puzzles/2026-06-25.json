@@ -1,0 +1,215 @@
+{
+  "date": "2026-06-25",
+  "puzzles": [
+    {
+      "id": 1,
+      "answer": "Chevron",
+      "acceptedAnswers": [
+        "Chevron",
+        "Chevron Corporation"
+      ],
+      "clues": [
+        "Energy company",
+        "Oil and gas major",
+        "Headquartered in San Ramon, California",
+        "Fortune 500 corporation",
+        "Downstream and upstream operations",
+        "Merged with Texaco in 2001"
+      ],
+      "summary": "Chevron is partnering with Microsoft to fuel a massive data center in Texas using natural gas, highlighting the tech industry's growing energy demands and willingness to rely on fossil fuels.",
+      "sourceUrl": "https://www.cnbc.com/2026/06/22/chevron-cvx-microsoft-msft-natural-gas-data-center.html",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://image.cnbcfm.com/api/v1/image/108015792-1722622747011-gettyimages-2158623712-BC_24SChart3581.jpeg?v=1747318823&w=1920&h=1080"
+    },
+    {
+      "id": 2,
+      "answer": "T Coronae Borealis",
+      "acceptedAnswers": [
+        "T Coronae Borealis",
+        "T CrB",
+        "Blaze Star"
+      ],
+      "clues": [
+        "Recurrent nova",
+        "Binary star system",
+        "Located in the Northern Crown constellation",
+        "White dwarf accreting matter",
+        "Last erupted in 1946",
+        "Visible to the naked eye during outburst"
+      ],
+      "summary": "The recurrent nova T Coronae Borealis, which was expected to explode in 2024 but didn't, is still being closely watched by astronomers who say the eruption could still happen soon.",
+      "sourceUrl": "https://www.cbc.ca/news/science/t-coronae-borealis-9.7240370",
+      "difficulty": "hard",
+      "region": "global",
+      "imageUrl": "https://i.cbc.ca/ais/a0185321-c0a7-430e-968c-c9b8cf5c1b14,1781803395179/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1024%2C576%29%3BResize%3D620"
+    },
+    {
+      "id": 3,
+      "answer": "Brexit",
+      "acceptedAnswers": [
+        "Brexit"
+      ],
+      "clues": [
+        "2016 referendum",
+        "EU withdrawal",
+        "Article 50 triggered",
+        "Trade barrier implications",
+        "Northern Ireland Protocol debates",
+        "Customs union departure"
+      ],
+      "summary": "Britain marks a decade since the historic vote to leave the EU, with economic woes fueling growing public discontent over the decision and its impact on trade and manufacturing.",
+      "sourceUrl": "https://apnews.com/article/brexit-anniversary-economy-leave-remain-94ec535c96a3d7bfdeee087683bd9012",
+      "difficulty": "easy",
+      "region": "europe",
+      "imageUrl": "https://dims.apnews.com/dims4/default/c1b71dc/2147483647/strip/true/crop/8287x5522+0+2/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff9%2F81%2F157da4f812b09301e427d823eef3%2F81256a0ad4004a268046675c6c044175"
+    },
+    {
+      "id": 4,
+      "answer": "Rare earth elements",
+      "acceptedAnswers": [
+        "Rare earth elements",
+        "Rare earths",
+        "Rare earth minerals"
+      ],
+      "clues": [
+        "Lanthanides and related metals",
+        "Critical for electronics manufacturing",
+        "Used in permanent magnets",
+        "Key component in electric vehicle motors",
+        "Strategic mineral resources",
+        "Subject of trade disputes between major powers"
+      ],
+      "summary": "China has placed two US rare earth producers on its export control list, escalating tensions over critical mineral supply chains that are vital for technology and defense industries.",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-22/china-places-two-us-rare-earths-producers-on-export-control-list",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ifhDaov2gztw/v0/1200x800.jpg"
+    },
+    {
+      "id": 5,
+      "answer": "Amazon Prime Day",
+      "acceptedAnswers": [
+        "Amazon Prime Day",
+        "Prime Day"
+      ],
+      "clues": [
+        "Annual shopping event",
+        "Online retail promotion",
+        "Members-only deals",
+        "Started in 2015",
+        "Multi-day sale",
+        "E-commerce giant's signature event"
+      ],
+      "summary": "Amazon Prime Day is starting tomorrow, with major deals on electronics from Apple, Sony, and Bose already going live, driving significant consumer shopping activity.",
+      "sourceUrl": "https://www.cnet.com/deals/best-amazon-prime-day-headphone-earbud-deals-2026-06-22/",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://www.cnet.com/a/img/resize/d04649385f4abb3c7b0a71c46d3ed471a5a3f604/hub/2026/06/15/052a7632-506a-4416-8059-466ad7e61502/prime-day-headphone-deals.jpg?auto=webp&fit=crop&height=675&width=1200"
+    },
+    {
+      "id": 6,
+      "answer": "Cannes Lions",
+      "acceptedAnswers": [
+        "Cannes Lions",
+        "Cannes Lions International Festival of Creativity"
+      ],
+      "clues": [
+        "Annual French Riviera gathering",
+        "Advertising industry awards",
+        "International creativity festival",
+        "Marketing professionals' tentpole event",
+        "Held on the Côte d'Azur",
+        "Grand Prix trophies awarded"
+      ],
+      "summary": "The Cannes Lions advertising festival is underway, with content creators increasingly dominating the event, reflecting their growing importance in the marketing industry.",
+      "sourceUrl": "https://www.businessinsider.com/creators-take-over-cannes-lions-advertising-biggest-bash-2026-6#article",
+      "difficulty": "hard",
+      "region": "europe",
+      "imageUrl": "https://i.insider.com/6a3421f40e60dfb3f373f23b?width=1200&format=jpeg"
+    },
+    {
+      "id": 7,
+      "answer": "Madison Square Garden",
+      "acceptedAnswers": [
+        "Madison Square Garden",
+        "MSG"
+      ],
+      "clues": [
+        "Iconic indoor arena",
+        "Located in Midtown Manhattan",
+        "Home to the Rangers and Knicks",
+        "Known as 'The World's Most Famous Arena'",
+        "Sits atop Pennsylvania rail hub",
+        "Opened in its current form in 1968"
+      ],
+      "summary": "A concertgoer fatally fell 150 feet from the Chase Bridge at Madison Square Garden during a Goose concert, prompting tributes and raising safety concerns at the iconic venue.",
+      "sourceUrl": "https://nypost.com/2026/06/22/us-news/goose-reeling-after-dad-paul-kueker-fell-to-his-death-at-madison-square-garden-concert-pays-tribute-in-central-park/",
+      "difficulty": "easy",
+      "region": "north-america",
+      "imageUrl": "https://nypost.com/wp-content/uploads/sites/2/2026/06/131809477-1.jpg?quality=75&strip=all&w=1200"
+    },
+    {
+      "id": 8,
+      "answer": "NBA draft",
+      "acceptedAnswers": [
+        "NBA draft",
+        "2026 NBA draft"
+      ],
+      "clues": [
+        "Annual player selection event",
+        "Lottery determines top picks",
+        "Professional basketball recruitment",
+        "Held by the National Basketball Association",
+        "Two rounds of selections",
+        "Prospect evaluation and scouting combines"
+      ],
+      "summary": "The 2026 NBA draft is approaching, with ESPN analyst Jay Bilas highlighting top prospects including Darryn Peterson and naming superlatives for the most talented and dynamic players available.",
+      "sourceUrl": "https://www.espn.com/nba/story/_/id/49100172/bilas-nba-draft-superlatives-no-1-pick-peterson-dybantsa-boozer-wilson-acuff",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0618%2Fnba_bilas%2Dguide_16x9.jpg"
+    },
+    {
+      "id": 9,
+      "answer": "June Boötids",
+      "acceptedAnswers": [
+        "June Boötids",
+        "June Bootids"
+      ],
+      "clues": [
+        "Annual celestial display",
+        "Associated with Comet 7P/Pons-Winnecke",
+        "Peaks in late June",
+        "Radiant near Arcturus",
+        "Notoriously unpredictable activity levels",
+        "Meteor shower with history of surprise outbursts"
+      ],
+      "summary": "The June Boötids meteor shower is peaking this week. Although usually producing only a handful of meteors, this unpredictable shower has a history of surprise outbursts that could delight skywatchers.",
+      "sourceUrl": "https://www.space.com/stargazing/meteor-showers/the-most-unpredictable-meteor-shower-of-the-year-peaks-next-week-heres-what-to-expect",
+      "difficulty": "hard",
+      "region": "global",
+      "imageUrl": "https://cdn.mos.cms.futurecdn.net/Zrnn9iBPvJj5Q2eKUoSeDX-1920-80.jpg"
+    },
+    {
+      "id": 10,
+      "answer": "Heat dome",
+      "acceptedAnswers": [
+        "Heat dome"
+      ],
+      "clues": [
+        "High-pressure weather system",
+        "Traps hot air over a region",
+        "Causes prolonged extreme temperatures",
+        "Associated with atmospheric ridging",
+        "Public health hazard during summer",
+        "Can intensify drought conditions"
+      ],
+      "summary": "A heat dome is gripping Europe, pushing temperatures above 39-40°C and triggering heat alerts and disruptions across the continent, with Germany also facing extreme thunderstorm threats.",
+      "sourceUrl": "https://www.dw.com/en/severe-heat-wave-sweeps-europe-triggering-alerts-and-disruptions/a-77648446",
+      "difficulty": "medium",
+      "region": "europe",
+      "imageUrl": "https://static.dw.com/image/77648486_6.jpg"
+    }
+  ]
+}
