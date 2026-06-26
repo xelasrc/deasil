@@ -1,0 +1,213 @@
+{
+  "date": "2026-06-27",
+  "puzzles": [
+    {
+      "id": 1,
+      "answer": "Venezuela",
+      "acceptedAnswers": [
+        "Venezuela"
+      ],
+      "clues": [
+        "South American country",
+        "Caribbean coastline",
+        "Oil-rich nation",
+        "Bolívar currency",
+        "Caracas capital",
+        "OPEC member state"
+      ],
+      "summary": "Venezuela was struck by two powerful back-to-back earthquakes, killing dozens of people and injuring hundreds across the country.",
+      "sourceUrl": "https://www.cnn.com/2026/06/24/weather/live-news/venezuela-earthquake-puerto-rico-tsunami",
+      "difficulty": "easy",
+      "region": "south-america",
+      "imageUrl": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2282641624.jpg?c=16x9&q=w_800,c_fill"
+    },
+    {
+      "id": 2,
+      "answer": "Perseverance",
+      "acceptedAnswers": [
+        "Perseverance",
+        "Perseverance rover"
+      ],
+      "clues": [
+        "NASA robotic explorer",
+        "Jezero Crater mission",
+        "Launched in 2020",
+        "Carries Ingenuity helicopter",
+        "Mars 2020 program",
+        "Sample collection vehicle",
+        "Red planet surface laboratory"
+      ],
+      "summary": "A new study published in Science Advances confirms that NASA's Perseverance rover detected organic carbon in the Bright Angel rock formation on Mars, bolstering earlier biosignature findings.",
+      "sourceUrl": "https://phys.org/news/2026-06-carbon-bright-angel-formation-mars.html",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://scx2.b-cdn.net/gfx/news/2026/what-new-analyses-reve.jpg"
+    },
+    {
+      "id": 3,
+      "answer": "Andy Burnham",
+      "acceptedAnswers": [
+        "Andy Burnham",
+        "Burnham"
+      ],
+      "clues": [
+        "Greater Manchester mayor",
+        "Former Labour cabinet minister",
+        "British politician",
+        "Health Secretary under Gordon Brown",
+        "Metro mayor role",
+        "Potential prime ministerial candidate"
+      ],
+      "summary": "Andy Burnham is widely seen as Britain's likely next prime minister, and his past critical comments about President Trump are drawing scrutiny.",
+      "sourceUrl": "https://www.cbsnews.com/news/uk-andy-burnham-what-he-says-about-president-trump/",
+      "difficulty": "hard",
+      "region": "europe",
+      "imageUrl": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/06/23/97d4a39d-382c-43bf-ae81-f5eaf425aec0/thumbnail/1200x630/c4f28e4f443dbad43b2871f0cf467807/andy-burnham-mp.jpg"
+    },
+    {
+      "id": 4,
+      "answer": "Eric Adams",
+      "acceptedAnswers": [
+        "Eric Adams"
+      ],
+      "clues": [
+        "New York City mayor",
+        "Former police captain",
+        "Brooklyn Borough president",
+        "Democratic politician",
+        "Gracie Mansion resident",
+        "NYPD veteran turned elected official"
+      ],
+      "summary": "Eric Adams's close confidant Frank Carone has been indicted in a $120,000 bribery scheme involving cash bribes and a migrant shelter contract, deepening the legal troubles around the mayor's circle.",
+      "sourceUrl": "https://www.politico.com/news/2026/06/24/eric-adams-confidant-frank-carone-arrested-in-alleged-bribery-scheme-00973438",
+      "difficulty": "medium",
+      "region": "north-america",
+      "imageUrl": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F00%2Fb3%2Fc40695c745faaa161928a24a3051%2Fimg-6878.jpg"
+    },
+    {
+      "id": 5,
+      "answer": "Google Play Store",
+      "acceptedAnswers": [
+        "Google Play Store",
+        "Play Store",
+        "Google Play"
+      ],
+      "clues": [
+        "Digital distribution platform",
+        "App marketplace",
+        "Alphabet subsidiary service",
+        "Competing with Apple's App Store",
+        "In-app purchase ecosystem",
+        "Mobile software marketplace"
+      ],
+      "summary": "Google announced it will open its Play Store to external billing options in the US, UK, and Europe starting June 30, a significant shift in app marketplace policy.",
+      "sourceUrl": "http://9to5google.com/2026/06/24/google-play-store-external-billing-june-30/",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/06/google-play-store-external-billing-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+    },
+    {
+      "id": 6,
+      "answer": "Kenya",
+      "acceptedAnswers": [
+        "Kenya"
+      ],
+      "clues": [
+        "East African nation",
+        "Nairobi capital city",
+        "Great Rift Valley country",
+        "Former British colony",
+        "Swahili-speaking population",
+        "Home to Maasai Mara",
+        "Indian Ocean coastline"
+      ],
+      "summary": "Two years after Gen Z-led protests rocked Kenya, families of those killed and missing say investigations have stalled and accountability remains out of reach.",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/6/25/two-years-on-kenyan-families-still-seek-justice-after-gen-z-protests",
+      "difficulty": "medium",
+      "region": "africa",
+      "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/06/image00002-1782318053.jpeg?resize=1200%2C675"
+    },
+    {
+      "id": 7,
+      "answer": "Qatar",
+      "acceptedAnswers": [
+        "Qatar"
+      ],
+      "clues": [
+        "Persian Gulf nation",
+        "2022 World Cup host",
+        "Doha capital city",
+        "Natural gas exporter",
+        "Al Jazeera headquarters",
+        "Small peninsular Arab state"
+      ],
+      "summary": "Qatar's midfielder Madibo has been banned for five games after a tackle that broke the leg of Canada's Kone during a FIFA World Cup Group B match.",
+      "sourceUrl": "https://www.aljazeera.com/sports/2026/6/24/qatars-madibo-banned-for-5-games-after-breaking-leg-of-canadas-kone",
+      "difficulty": "medium",
+      "region": "middle-east",
+      "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/06/reuters_6a3c3cc2-1782332610.jpg?resize=1401%2C1080"
+    },
+    {
+      "id": 8,
+      "answer": "Pete Hegseth",
+      "acceptedAnswers": [
+        "Pete Hegseth",
+        "Hegseth"
+      ],
+      "clues": [
+        "U.S. Defense Secretary",
+        "Former Fox News host",
+        "Military veteran",
+        "Army National Guard officer",
+        "Princeton and Harvard graduate",
+        "Trump administration appointee"
+      ],
+      "summary": "Two months after Defense Secretary Pete Hegseth made the flu vaccine optional for military personnel, an outbreak forced several branches to reinstate the mandate.",
+      "sourceUrl": "https://theconversation.com/the-military-traded-its-flu-vaccine-mandate-for-medical-freedom-an-outbreak-quickly-followed-286094",
+      "difficulty": "medium",
+      "region": "north-america",
+      "imageUrl": "https://images.theconversation.com/files/744042/original/file-20260624-3928-hqlows.jpg?ixlib=rb-4.1.0&rect=0%2C868%2C5520%2C2760&q=45&auto=format&w=1356&h=668&fit=crop"
+    },
+    {
+      "id": 9,
+      "answer": "Scott Eastwood",
+      "acceptedAnswers": [
+        "Scott Eastwood"
+      ],
+      "clues": [
+        "Hollywood actor",
+        "Son of a legendary director",
+        "Fast and Furious franchise cast member",
+        "Appeared in Pacific Rim: Uprising",
+        "California-born performer",
+        "Action film star"
+      ],
+      "summary": "Scott Eastwood stars alongside Colin Hanks in 'Lucky Strike,' a new World War II thriller about an American soldier trapped behind enemy lines.",
+      "sourceUrl": "http://www.hollywoodreporter.com/movies/movie-reviews/lucky-strike-review-scott-eastwood-rod-lurie-colin-hanks-1236627542/",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://www.hollywoodreporter.com/wp-content/uploads/2026/06/Scott_Eastwood_in_Lucky_Strike_Courtesy_of_Roadside_Attractions_and_Saban_1-H-2026.jpg?w=1296&h=730&crop=1"
+    },
+    {
+      "id": 10,
+      "answer": "Evan Mobley",
+      "acceptedAnswers": [
+        "Evan Mobley",
+        "Mobley"
+      ],
+      "clues": [
+        "Cleveland Cavaliers player",
+        "NBA big man",
+        "USC Trojans alumnus",
+        "2021 top draft pick",
+        "Power forward / center",
+        "Rookie of the Year runner-up"
+      ],
+      "summary": "After failing to acquire Giannis Antetokounmpo via trade, the Boston Celtics are reportedly pivoting to target Cleveland's Evan Mobley as their next major acquisition.",
+      "sourceUrl": "https://www.boston.com/sports/boston-celtics/2026/06/24/boston-celtics-evan-mobley-trade-rumors-jaylen-brown-cavaliers-cavs-giannis/",
+      "difficulty": "hard",
+      "region": "north-america",
+      "imageUrl": "https://bdc2020.o0bc.com/wp-content/uploads/2026/06/Cavaliers_Basketball_67723-6a3c5b345eec0-768x432.jpg"
+    }
+  ]
+}
