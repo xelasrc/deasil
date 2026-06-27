@@ -1,0 +1,211 @@
+{
+  "date": "2026-06-28",
+  "puzzles": [
+    {
+      "id": 1,
+      "answer": "Buckingham Palace",
+      "acceptedAnswers": [
+        "Buckingham Palace"
+      ],
+      "clues": [
+        "Royal residence",
+        "London landmark",
+        "Built in 1703 as a townhouse",
+        "The Mall terminates here",
+        "Changing of the Guard",
+        "Official headquarters of the British monarch"
+      ],
+      "summary": "Royal officials revealed that King Charles and Queen Camilla will not reside at Buckingham Palace, breaking nearly two centuries of tradition for the British monarch's official London residence.",
+      "sourceUrl": "https://www.dw.com/en/king-charles-wont-live-in-buckingham-palace-reveals-taxes/a-77715823",
+      "difficulty": "easy",
+      "region": "europe",
+      "imageUrl": "https://static.dw.com/image/74887499_6.jpg"
+    },
+    {
+      "id": 2,
+      "answer": "JPMorgan Chase",
+      "acceptedAnswers": [
+        "JPMorgan Chase",
+        "JPMorgan",
+        "JP Morgan"
+      ],
+      "clues": [
+        "Largest U.S. bank by assets",
+        "Headquartered on Park Avenue",
+        "Jamie Dimon is CEO",
+        "Formed from a 2000 merger",
+        "Wall Street financial institution",
+        "Named after a Gilded Age financier"
+      ],
+      "summary": "Jamie Dimon has upended the CEO succession race at JPMorgan Chase, with longtime lieutenant Marianne Lake reportedly no longer a contender as new top deputies are named.",
+      "sourceUrl": "https://www.ft.com/content/d289abbc-c6fd-431b-9c97-85ffa88853f6?syn-25a6b1a6\\\\u003d1",
+      "difficulty": "medium",
+      "region": "north_america",
+      "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F82043ba6-a1e6-4dba-a4ba-eb0193fbc0aa.jpg?source=next-barrier-page"
+    },
+    {
+      "id": 3,
+      "answer": "The Bear",
+      "acceptedAnswers": [
+        "The Bear"
+      ],
+      "clues": [
+        "FX television series",
+        "Set in a Chicago restaurant",
+        "Jeremy Allen White stars",
+        "Premiered in 2022",
+        "Kitchen drama",
+        "Hulu streaming original"
+      ],
+      "summary": "The critically acclaimed FX series The Bear concluded its fifth and final season, wrapping up storylines for Carmy, Sydney, Richie and the rest of the cast.",
+      "sourceUrl": "https://deadline.com/gallery/the-bear-series-finale-recap-ending-explained/",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://deadline.com/wp-content/uploads/2026/06/Bear-Still007-copy.jpg?w=1000"
+    },
+    {
+      "id": 4,
+      "answer": "Windows 10",
+      "acceptedAnswers": [
+        "Windows 10"
+      ],
+      "clues": [
+        "Released in July 2015",
+        "Microsoft operating system",
+        "Succeeded by a newer version in 2021",
+        "Featured Cortana at launch",
+        "Start menu returned after version 8",
+        "Still runs on about 25% of PCs"
+      ],
+      "summary": "Microsoft has added another year to its Windows 10 extended update program, as roughly a quarter of all PCs worldwide still run the aging operating system.",
+      "sourceUrl": "https://arstechnica.com/gadgets/2026/06/microsoft-adds-another-year-to-windows-10-extended-update-program/",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/microsoft-windows-1024x648.jpg"
+    },
+    {
+      "id": 5,
+      "answer": "Perseverance",
+      "acceptedAnswers": [
+        "Perseverance",
+        "Perseverance rover"
+      ],
+      "clues": [
+        "NASA Mars mission",
+        "Landed in Jezero Crater",
+        "Carries the Ingenuity helicopter companion",
+        "Launched in July 2020",
+        "Collects rock samples for future return",
+        "Astrobiology research vehicle"
+      ],
+      "summary": "NASA's Perseverance rover has found additional signs of possible extinct life on Mars, though scientists remain cautious and urge a sample return mission to confirm the findings.",
+      "sourceUrl": "https://www.theregister.com/offbeat/2026/06/25/perseverance-rover-finds-even-more-signs-of-extinct-life-on-mars/5262477",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://image.theregister.com/251831.jpg?imageId=251831&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
+    },
+    {
+      "id": 6,
+      "answer": "Bangladesh",
+      "acceptedAnswers": [
+        "Bangladesh"
+      ],
+      "clues": [
+        "South Asian nation",
+        "Formerly East Pakistan",
+        "Dhaka is the capital",
+        "Bay of Bengal coastline",
+        "Ganges Delta region",
+        "World's eighth most populous country"
+      ],
+      "summary": "Bangladesh has turned to China for cooperation on the Teesta River and signed 13 bilateral agreements, raising concerns in India about shifting geopolitical alignments in South Asia.",
+      "sourceUrl": "https://www.rediff.com/news/report/bangladesh-turns-to-china-on-teesta-should-india-be-concerned/20260626.htm",
+      "difficulty": "medium",
+      "region": "asia",
+      "imageUrl": "https://im.rediff.com/1200-630/news/2026/jun/25bangla-pm.jpg"
+    },
+    {
+      "id": 7,
+      "answer": "Caitlin Clark",
+      "acceptedAnswers": [
+        "Caitlin Clark"
+      ],
+      "clues": [
+        "Indiana Fever guard",
+        "Former Iowa Hawkeyes star",
+        "NCAA all-time scoring leader",
+        "2024 WNBA Draft first overall pick",
+        "Known for deep three-pointers",
+        "Women's basketball phenomenon"
+      ],
+      "summary": "The WNBA suspended Alyssa Thomas after she struck Caitlin Clark in the throat during a game between the Phoenix Mercury and Indiana Fever, an incident that initially went uncalled.",
+      "sourceUrl": "https://www.cbsnews.com/news/wnba-flagrant-foul-caitlin-clark-alyssa-thomas-hit/",
+      "difficulty": "easy",
+      "region": "north_america",
+      "imageUrl": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/06/25/193fdad0-0b8f-4db8-b45d-044883e3ccff/thumbnail/1200x630g2/f0ddf600287e5697e681e27f63109426/gettyimages-2282515006.jpg"
+    },
+    {
+      "id": 8,
+      "answer": "Palisades Fire",
+      "acceptedAnswers": [
+        "Palisades Fire",
+        "Palisades fire"
+      ],
+      "clues": [
+        "2025 Los Angeles wildfire",
+        "Pacific coast disaster",
+        "Southern California blaze",
+        "Destroyed thousands of structures",
+        "Named for a neighborhood",
+        "One of the costliest U.S. wildfires"
+      ],
+      "summary": "A jury has deadlocked in the arson trial of Jonathan Rinderknecht, the suspect charged in connection with the devastating Palisades Fire in Los Angeles.",
+      "sourceUrl": "https://abc7.com/post/jonathan-rinderknecht-jurors-deadlocked-in-arson-trial-of-palisades-fire-suspect/19382333/",
+      "difficulty": "medium",
+      "region": "north_america",
+      "imageUrl": "https://cdn.abcotvs.com/dip/images/19257859_palisades-fire-suspect-clean-TN-img.jpg?w=1600"
+    },
+    {
+      "id": 9,
+      "answer": "iPad",
+      "acceptedAnswers": [
+        "iPad",
+        "Apple iPad"
+      ],
+      "clues": [
+        "Tablet computer line",
+        "First released in 2010",
+        "Runs a mobile operating system",
+        "Available in Pro, Air, and Mini variants",
+        "Cupertino tech product",
+        "Uses the App Store ecosystem"
+      ],
+      "summary": "Apple has raised iPad prices by up to $300, but retailers are still offering select models at previous prices, prompting a rush to find deals before the increases take full effect.",
+      "sourceUrl": "https://www.theverge.com/gadgets/957106/prime-day-ipad-deals-apple-price-hikes",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268386_iPad_Air_M4_AKrales_0020.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+    },
+    {
+      "id": 10,
+      "answer": "Exoplanet",
+      "acceptedAnswers": [
+        "Exoplanet",
+        "Exoplanets"
+      ],
+      "clues": [
+        "Orbits a star outside our solar system",
+        "First confirmed discovery in 1992",
+        "Detected via transit or radial velocity methods",
+        "Thousands catalogued by Kepler mission",
+        "Studied for habitability potential",
+        "Planetary science research subject"
+      ],
+      "summary": "Astronomers have discovered two gigantic planets lighter than cotton candy orbiting a star 1,110 light-years away, making them the largest exoplanets ever found with such remarkably low density.",
+      "sourceUrl": "https://www.cbsnews.com/news/super-puff-planets-lighter-than-cotton-candy-found/",
+      "difficulty": "hard",
+      "region": "global",
+      "imageUrl": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/06/25/b9622f84-f061-4ce9-ba16-e14d4ee86604/thumbnail/1200x630/71ef12a80ce4bf17044b82db2aeb09fb/ap26175637322496.jpg"
+    }
+  ]
+}
