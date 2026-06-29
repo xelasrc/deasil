@@ -1,0 +1,220 @@
+{
+  "date": "2026-07-01",
+  "puzzles": [
+    {
+      "id": 1,
+      "answer": "Saudi Arabia",
+      "acceptedAnswers": [
+        "Saudi Arabia",
+        "Kingdom of Saudi Arabia",
+        "KSA"
+      ],
+      "clues": [
+        "Middle Eastern monarchy",
+        "OPEC founding member",
+        "Oil-rich nation",
+        "Home to Mecca and Medina",
+        "Vision 2030 economic plan",
+        "Peninsula country bordering the Red Sea"
+      ],
+      "summary": "A helicopter crash in Saudi Arabia's Ras Tanura killed all 14 people on board, according to state media reports.",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/6/28/saudi-arabia-helicopter-crash-kills-all-14-on-board",
+      "difficulty": "easy",
+      "region": "middle-east",
+      "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/06/2026-06-28T120139Z_458419213_RC2H1MAVJLK2_RTRMADP_3_SAUDI-CRASH-1782650310.jpg?resize=1920%2C1440"
+    },
+    {
+      "id": 2,
+      "answer": "Powassan virus",
+      "acceptedAnswers": [
+        "Powassan virus",
+        "Powassan",
+        "POWV"
+      ],
+      "clues": [
+        "Tick-borne pathogen",
+        "Named after a Canadian town",
+        "Flavivirus family",
+        "Encephalitis risk",
+        "Transmitted by Ixodes ticks",
+        "No specific treatment available"
+      ],
+      "summary": "Cases of Powassan virus are on the rise in the United States, drawing attention due to its potentially life-altering and sometimes fatal neurological symptoms.",
+      "sourceUrl": "https://www.washingtonpost.com/wellness/2026/06/28/powassan-virus-disease-is-rise-us/",
+      "difficulty": "hard",
+      "region": "north-america",
+      "imageUrl": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/FAS5H2N3CNMDBU7HAYQXXKOA6M.jpg&w=1440"
+    },
+    {
+      "id": 3,
+      "answer": "Psilocybin",
+      "acceptedAnswers": [
+        "Psilocybin",
+        "Magic mushrooms",
+        "Psilocybin mushrooms"
+      ],
+      "clues": [
+        "Psychedelic compound",
+        "Found in certain fungi",
+        "Schedule I substance in many countries",
+        "Studied for depression treatment",
+        "Causes visual hallucinations",
+        "Converted to psilocin in the body"
+      ],
+      "summary": "A newly discovered species of magic mushroom is making headlines after users report seeing tiny 'gnome' people, a phenomenon scientists cannot yet explain.",
+      "sourceUrl": "https://nypost.com/2026/06/27/science/new-details-on-magic-mushroom-that-makes-users-see-tiny-people/",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://nypost.com/wp-content/uploads/sites/2/2026/06/132488348.jpg?quality=75&strip=all&w=1200"
+    },
+    {
+      "id": 4,
+      "answer": "Shingles",
+      "acceptedAnswers": [
+        "Shingles",
+        "Herpes zoster",
+        "Shingrix"
+      ],
+      "clues": [
+        "Caused by varicella-zoster reactivation",
+        "Painful skin rash condition",
+        "Vaccine recommended for adults over 50",
+        "Related to childhood chickenpox",
+        "Can cause postherpetic neuralgia",
+        "Nerve-affecting viral disease"
+      ],
+      "summary": "A growing body of research suggests that the shingles vaccine may significantly protect older adults against dementia, adding a surprising benefit beyond its intended purpose.",
+      "sourceUrl": "https://www.nbcnews.com/health/health-news/shingles-brain-inflammation-research-vaccine-dementia-risk-rcna351961",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-07/250710-shingles-se-1226p-f27aed.jpg"
+    },
+    {
+      "id": 5,
+      "answer": "Google",
+      "acceptedAnswers": [
+        "Google",
+        "Alphabet",
+        "Google LLC"
+      ],
+      "clues": [
+        "Alphabet subsidiary",
+        "Mountain View tech giant",
+        "Dominant search engine",
+        "Creator of Pixel devices",
+        "YouTube parent company",
+        "Founded by Larry Page and Sergey Brin"
+      ],
+      "summary": "Google is in the news for testing an iPhone-inspired feature for Pixel smartphones, while multiple former employees have publicly shared why they left the once-coveted employer.",
+      "sourceUrl": "https://www.phonearena.com/news/google-testing-iphone-feature-for-pixel_id181453",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://m-cdn.phonearena.com/images/article/181453-wide-two_1200/Google-testing-iPhone-feature-to-add-to-Pixel-smartphones.jpg"
+    },
+    {
+      "id": 6,
+      "answer": "Warren Buffett",
+      "acceptedAnswers": [
+        "Warren Buffett",
+        "Warren E. Buffett"
+      ],
+      "clues": [
+        "Oracle of Omaha",
+        "Berkshire Hathaway chairman",
+        "Legendary value investor",
+        "Known for annual shareholder letters",
+        "Giving Pledge co-founder",
+        "One of the world's wealthiest people"
+      ],
+      "summary": "The Giving Pledge, co-founded by Warren Buffett, is in the news as philanthropy leaders reveal that billionaires' children are pushing their parents to give away wealth faster amid a historic $124 trillion wealth transfer.",
+      "sourceUrl": "https://finance.yahoo.com/small-business/articles/philanthropy-leader-warren-buffett-bill-102800166.html",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://s.yimg.com/lo/mysterio/api/558A258C6BE9F38D645F3E044C9686BD3F1F7A0411D37BDFC78C1C7E6F16F037/subgraphmysterio/resizefill_w1200_h799;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffortune_175%2F521bfa57962b1ec36878becaf4c524ce"
+    },
+    {
+      "id": 7,
+      "answer": "Kentucky",
+      "acceptedAnswers": [
+        "Kentucky",
+        "Commonwealth of Kentucky"
+      ],
+      "clues": [
+        "Bluegrass State",
+        "Home of the Derby",
+        "Bourbon production center",
+        "Bordered by the Ohio River",
+        "Appalachian region state",
+        "Capital is Frankfort"
+      ],
+      "summary": "Governor Andy Beshear declared a state of emergency as flash flooding and severe weather worsened across Kentucky, with a rising death toll.",
+      "sourceUrl": "https://www.wlky.com/article/kentucky-state-emergency-flash-flooding-severe-weather/71756774",
+      "difficulty": "medium",
+      "region": "north-america",
+      "imageUrl": "https://kubrick.htvapps.com/htv-prod/images/33aabf32-17bf-4a06-9232-e86aa1c56bd0.jpg?crop=1.00xw:0.428xh;0,0.243xh&resize=1200:*"
+    },
+    {
+      "id": 8,
+      "answer": "NHL Draft",
+      "acceptedAnswers": [
+        "NHL Draft",
+        "2026 NHL Draft"
+      ],
+      "clues": [
+        "Annual ice hockey selection event",
+        "Teams pick amateur players",
+        "Lottery determines top picks",
+        "Prospect showcase",
+        "Multiple rounds of selections",
+        "North American professional league event"
+      ],
+      "summary": "The 2026 NHL Draft took place over the weekend, with ESPN grading all 32 teams on their picks, highlighting the best, worst, and most surprising selections.",
+      "sourceUrl": "https://www.espn.com/nhl/story/_/id/49201091/nhl-draft-2026-grades-best-players-top-prospects-picks-value",
+      "difficulty": "medium",
+      "region": "north-america",
+      "imageUrl": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0627%2Fr1680221_1296x729_16%2D9.jpg"
+    },
+    {
+      "id": 9,
+      "answer": "Vicks VapoRub",
+      "acceptedAnswers": [
+        "Vicks VapoRub",
+        "VapoRub",
+        "Vicks"
+      ],
+      "clues": [
+        "Mentholated topical ointment",
+        "Procter & Gamble product",
+        "Used for cough and congestion relief",
+        "Contains camphor and eucalyptus oil",
+        "Iconic blue jar packaging",
+        "Over-the-counter remedy since 1905"
+      ],
+      "summary": "Nurses shared their go-to at-home medical products, with Vicks VapoRub featured prominently among the items health professionals personally rely on to treat common ailments.",
+      "sourceUrl": "https://www.washingtonpost.com/home/2026/06/28/we-asked-nurses-here-are-at-home-medical-items-they-swear-by/",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/YGT462YY2FC5LH7JI2WSS3HX5Q.jpg&w=1440"
+    },
+    {
+      "id": 10,
+      "answer": "Colorado",
+      "acceptedAnswers": [
+        "Colorado"
+      ],
+      "clues": [
+        "Rocky Mountain state",
+        "Centennial State nickname",
+        "Home to Denver",
+        "Known for ski resorts",
+        "Contains part of the Continental Divide",
+        "Bordered by Utah to the west"
+      ],
+      "summary": "Three firefighters were killed and two injured while battling wildfires on the Colorado-Utah border, as wildfire activity intensifies across the western United States.",
+      "sourceUrl": "https://apnews.com/article/western-wildfires-wind-dry-weather-a5fb3b05719d2a6b77feacffd2cbdba9",
+      "difficulty": "medium",
+      "region": "north-america",
+      "imageUrl": "https://dims.apnews.com/dims4/default/576115b/2147483647/strip/true/crop/4903x3267+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F0b%2F82%2F3cd5436eb414d2ca76e4297ad2b3%2Fcb64bd56a55446aa9bab9444ebc23476"
+    }
+  ]
+}
