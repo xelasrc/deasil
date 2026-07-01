@@ -1,0 +1,214 @@
+{
+  "date": "2026-07-03",
+  "puzzles": [
+    {
+      "id": 1,
+      "answer": "Kawhi Leonard",
+      "acceptedAnswers": [
+        "Kawhi Leonard",
+        "Leonard"
+      ],
+      "clues": [
+        "NBA forward",
+        "Former San Antonio Spur",
+        "2019 NBA Finals MVP",
+        "Los Angeles Clippers star",
+        "Two-time Defensive Player of the Year",
+        "NCAA champion with San Diego State"
+      ],
+      "summary": "Kawhi Leonard is reportedly the subject of significant trade rumors, with the Toronto Raptors reportedly building momentum on a deal ahead of free agency.",
+      "sourceUrl": "https://www.hoopsrumors.com/2026/06/stein-fischers-latest-kawhi-raptors-brown-westbrook-more.html",
+      "difficulty": "medium",
+      "region": "north-america",
+      "imageUrl": "https://cdn.hoopsrumors.com/files/2026/03/Kawhi-Leonard-LA-Clippers-900x600.jpg"
+    },
+    {
+      "id": 2,
+      "answer": "Monaco",
+      "acceptedAnswers": [
+        "Monaco"
+      ],
+      "clues": [
+        "Mediterranean city-state",
+        "European principality",
+        "Home to a famous Grand Prix",
+        "Known for its casino district",
+        "Smallest UN member by area after Vatican City",
+        "Ruled by the Grimaldi dynasty"
+      ],
+      "summary": "A bomb attack in Monaco injured three people, and police are hunting for a suspect believed to have fled the wealthy Mediterranean principality.",
+      "sourceUrl": "https://www.ft.com/content/7455e85b-7389-49dd-b7c8-f145f79e7f0b",
+      "difficulty": "medium",
+      "region": "europe",
+      "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F97c3aad2-f0af-4eb8-b9d5-38f41ecfc6f2.jpg?source=next-barrier-page"
+    },
+    {
+      "id": 3,
+      "answer": "Paraguay",
+      "acceptedAnswers": [
+        "Paraguay"
+      ],
+      "clues": [
+        "South American landlocked nation",
+        "Capital is Asunción",
+        "Bordered by Argentina, Brazil, and Bolivia",
+        "Known for the Guaraní language",
+        "Site of the Triple Alliance War",
+        "Home to the Itaipú Dam"
+      ],
+      "summary": "Paraguay pulled off a stunning upset by defeating Germany in the Round of 32 at the 2026 FIFA World Cup, making headlines as one of the greatest World Cup shocks in history.",
+      "sourceUrl": "https://www.aljazeera.com/sports/2026/6/30/paraguays-shock-win-against-germany-headlines-all-time-world-cup-upsets",
+      "difficulty": "medium",
+      "region": "south-america",
+      "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/06/2026-06-30T003452Z_63969248_UP1EM6T1UDEIU_RTRMADP_3_SOCCER-WORLDCUP-GER-PRY-1782798430_a7f111-1782806632.jpg?resize=1200%2C630&quality=80"
+    },
+    {
+      "id": 4,
+      "answer": "Morocco",
+      "acceptedAnswers": [
+        "Morocco"
+      ],
+      "clues": [
+        "North African kingdom",
+        "2030 World Cup co-host",
+        "Home to the Atlas Mountains",
+        "Capital is Rabat",
+        "Historic 2022 World Cup semifinalist",
+        "Borders the Atlantic and Mediterranean"
+      ],
+      "summary": "Morocco eliminated the Netherlands from the 2026 World Cup in a dramatic penalty shootout in the Round of 32, sending the Dutch to their earliest tournament exit.",
+      "sourceUrl": "https://apnews.com/article/world-cup-netherlands-morocco-score-9187f746b2f53ff591287ac59c1f02f0",
+      "difficulty": "easy",
+      "region": "africa",
+      "imageUrl": "https://dims.apnews.com/dims4/default/497bff8/2147483647/strip/true/crop/4425x2948+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fab%2F75%2F964cb600a9c70662b0e2c0a4faa3%2F4709e124ea364a4c95c987a1e46926ac"
+    },
+    {
+      "id": 5,
+      "answer": "Medicare",
+      "acceptedAnswers": [
+        "Medicare"
+      ],
+      "clues": [
+        "US federal health insurance program",
+        "Covers Americans 65 and older",
+        "Established in 1965",
+        "Part D covers prescriptions",
+        "Administered by CMS",
+        "Funded through payroll taxes and premiums"
+      ],
+      "summary": "Medicare announced it will begin covering obesity drugs like GLP-1 medications for the first time, potentially unlocking access for millions of seniors and boosting sales for Novo Nordisk and Eli Lilly.",
+      "sourceUrl": "https://www.cnbc.com/2026/06/30/medicare-obesity-drug-glp-1-coverage-starting-july-1.html",
+      "difficulty": "easy",
+      "region": "north-america",
+      "imageUrl": "https://image.cnbcfm.com/api/v1/image/108139249-17461007952025-05-01t110135z_141929000_rc26x7av6mkm_rtrmadp_0_health-obesity-who.jpeg?v=1746100832&w=1920&h=1080"
+    },
+    {
+      "id": 6,
+      "answer": "Alzheimer's disease",
+      "acceptedAnswers": [
+        "Alzheimer's disease",
+        "Alzheimer's",
+        "Alzheimers"
+      ],
+      "clues": [
+        "Neurodegenerative condition",
+        "Most common cause of dementia",
+        "Associated with tau tangles",
+        "Named after a German psychiatrist",
+        "Progressive memory loss disorder",
+        "Amyloid plaques are a hallmark"
+      ],
+      "summary": "Scientists have potentially discovered a new mechanism for how the disease spreads through the brain, involving a common brain protein that carries toxic Tau proteins from damaged neurons into healthy ones.",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/06/260630020521.htm",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://www.sciencedaily.com/images/1920/brain-fire-inflammation-dementia-alzheimers.webp"
+    },
+    {
+      "id": 7,
+      "answer": "Comcast",
+      "acceptedAnswers": [
+        "Comcast",
+        "Comcast Corporation"
+      ],
+      "clues": [
+        "Philadelphia-based media conglomerate",
+        "Largest cable television company in the US",
+        "Owner of NBCUniversal",
+        "Parent of Xfinity brand",
+        "Acquired Sky in 2018",
+        "Operates theme parks worldwide"
+      ],
+      "summary": "Comcast announced a corporate split from NBCUniversal, with analysts debating whether the restructuring will require FCC review amid Trump-influenced regulatory scrutiny in Washington.",
+      "sourceUrl": "http://deadline.com/2026/06/comcast-nbc-universal-split-trump-fcc-1236970465/",
+      "difficulty": "medium",
+      "region": "north-america",
+      "imageUrl": "https://deadline.com/wp-content/uploads/2026/06/Comcast-Donald-Trump.jpg?w=1024"
+    },
+    {
+      "id": 8,
+      "answer": "Guo Wengui",
+      "acceptedAnswers": [
+        "Guo Wengui",
+        "Miles Guo",
+        "Ho Wan Kwok"
+      ],
+      "clues": [
+        "Chinese dissident and businessman",
+        "Exiled billionaire",
+        "Founded the Rule of Law Foundation",
+        "Allied with Steve Bannon",
+        "Arrested in New York in 2023",
+        "Convicted of fraud in US federal court"
+      ],
+      "summary": "Chinese billionaire Guo Wengui was sentenced to 30 years in a US federal prison for a massive fraud scheme that cost more than 1,000 people worldwide hundreds of millions of dollars.",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/6/30/chinese-billionaire-guo-wengui-gets-30-years-in-us-prison-for-huge-fraud",
+      "difficulty": "hard",
+      "region": "global",
+      "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/06/2018-11-20T171843Z_1959378282_RC1203A29EF0_RTRMADP_3_CHINA-CORRUPTION-KWOK-1782794564.jpg?resize=1920%2C1440"
+    },
+    {
+      "id": 9,
+      "answer": "Bosnia and Herzegovina",
+      "acceptedAnswers": [
+        "Bosnia and Herzegovina",
+        "Bosnia"
+      ],
+      "clues": [
+        "Balkan nation",
+        "Capital is Sarajevo",
+        "Site of 1990s ethnic conflict",
+        "UEFA member nation",
+        "Home to the Stari Most bridge",
+        "Governed by a tripartite presidency"
+      ],
+      "summary": "Bosnia and Herzegovina are preparing for a Round of 32 matchup against the USMNT at the 2026 World Cup, having fought through a crowded UEFA qualifying field to reach the tournament.",
+      "sourceUrl": "https://sports.yahoo.com/soccer/article/2026-world-cup-5-things-to-know-about-bosnia-and-herzegovina-ahead-of-the-round-of-32-matchup-vs-the-usmnt-054632779.html",
+      "difficulty": "medium",
+      "region": "europe",
+      "imageUrl": "https://s.yimg.com/ny/api/res/1.2/bdaoq617OtZ_x8lCd19UvQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://d29szjachogqwa.cloudfront.net/images/2026-06/3c420f8c-6487-45f9-8d9f-82d5d114b99d"
+    },
+    {
+      "id": 10,
+      "answer": "Louis C.K.",
+      "acceptedAnswers": [
+        "Louis C.K.",
+        "Louis CK",
+        "Louis Szekely"
+      ],
+      "clues": [
+        "Stand-up comedian and filmmaker",
+        "Created and starred in 'Louie' on FX",
+        "Won a Peabody Award",
+        "Directed 'I Love You, Daddy'",
+        "Known for self-deprecating humor",
+        "Returned to performing after 2017 controversy"
+      ],
+      "summary": "Louis C.K. is re-entering the mainstream with a new Netflix special called 'Ridiculous,' his first on the streaming platform since sexual misconduct allegations emerged in 2017.",
+      "sourceUrl": "https://variety.com/2026/tv/reviews/louis-ck-ridiculous-review-netflix-1236797990/",
+      "difficulty": "medium",
+      "region": "north-america",
+      "imageUrl": "https://variety.com/wp-content/uploads/2026/06/LCKSS_UNIT_00015R_e82c3a.jpg?w=1000&h=563&crop=1"
+    }
+  ]
+}
