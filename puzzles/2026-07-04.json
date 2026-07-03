@@ -1,0 +1,212 @@
+{
+  "date": "2026-07-04",
+  "puzzles": [
+    {
+      "id": 1,
+      "answer": "Society of St. Pius X",
+      "acceptedAnswers": [
+        "Society of St. Pius X",
+        "SSPX",
+        "Society of Saint Pius X"
+      ],
+      "clues": [
+        "Catholic traditionalism",
+        "Schism",
+        "Excommunication",
+        "Latin Mass movement",
+        "Archbishop Marcel Lefebvre",
+        "Vatican conflict"
+      ],
+      "summary": "The Vatican declared the Society of St. Pius X in schism after it consecrated bishops without papal consent, excommunicating its bishops and invalidating its sacraments.",
+      "sourceUrl": "https://apnews.com/article/vatican-traditionalist-pope-latin-st-pius-6570c6bcc0784f4b9229e20bdec4e5aa",
+      "difficulty": "hard",
+      "region": "global",
+      "imageUrl": "https://dims.apnews.com/dims4/default/cf20e8c/2147483647/strip/true/crop/3829x2551+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fa9%2F3c%2F94da93e0d7dddc9ee1058aa48846%2F3ff50f9971074bfa9416dbed29a1948e"
+    },
+    {
+      "id": 2,
+      "answer": "West Nile virus",
+      "acceptedAnswers": [
+        "West Nile virus",
+        "West Nile"
+      ],
+      "clues": [
+        "Mosquito-borne pathogen",
+        "Flavivirus family",
+        "First identified in Uganda",
+        "Neuroinvasive disease",
+        "Bird reservoir hosts",
+        "Culex mosquito transmission"
+      ],
+      "summary": "West Nile virus is surging earlier than it has in over two decades in the United States, prompting public health warnings about mosquito protection.",
+      "sourceUrl": "https://www.washingtonpost.com/health/2026/07/01/west-nile-virus-is-surging-earlier-than-it-has-decades-heres-how-protect-yourself/",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/24FUGANY5RIUWSRZD2VP24ZKLQ.jpg&w=1440"
+    },
+    {
+      "id": 3,
+      "answer": "Empire State Building",
+      "acceptedAnswers": [
+        "Empire State Building"
+      ],
+      "clues": [
+        "Art Deco skyscraper",
+        "Fifth Avenue landmark",
+        "Completed in 1931",
+        "Manhattan observation deck",
+        "Once the world's tallest structure",
+        "102 floors"
+      ],
+      "summary": "A daredevil couple was arrested after scaling the building's antenna in an audacious marriage proposal stunt, unfurling a banner about love and peace.",
+      "sourceUrl": "https://apnews.com/article/empire-state-building-antenna-stunt-banner-68f02bde462ee033662f3e5939142559",
+      "difficulty": "easy",
+      "region": "north-america",
+      "imageUrl": "https://dims.apnews.com/dims4/default/4a1a0bd/2147483647/strip/true/crop/2435x1623+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F41%2F5c%2Fd19233e3917513f00b03996277ab%2Fb3983ee281654e6db2fc10f8db78153f"
+    },
+    {
+      "id": 4,
+      "answer": "Bending Spoons",
+      "acceptedAnswers": [
+        "Bending Spoons"
+      ],
+      "clues": [
+        "Italian tech company",
+        "SaaS acquirer",
+        "Milan-based startup",
+        "Evernote parent company",
+        "IPO debut",
+        "Software portfolio strategy"
+      ],
+      "summary": "The Italian software company surged 40% on its first day of trading, having grown rapidly by acquiring and revamping legacy tech brands like Evernote, Meetup, and Vimeo.",
+      "sourceUrl": "https://techcrunch.com/2026/07/01/bending-spoons-defies-saas-slump-surges-40-on-first-day-of-trading/",
+      "difficulty": "hard",
+      "region": "europe",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/12/Bending-Spoons_CEO-cofounder_Luca-Ferrari_2-copy.jpeg?resize=1200,800"
+    },
+    {
+      "id": 5,
+      "answer": "Monaco",
+      "acceptedAnswers": [
+        "Monaco"
+      ],
+      "clues": [
+        "Mediterranean microstate",
+        "Monte Carlo casino",
+        "Formula One Grand Prix host",
+        "House of Grimaldi",
+        "French Riviera principality",
+        "Second-smallest country in the world"
+      ],
+      "summary": "A bombing in Monaco targeted Ukrainian oligarch Vadym Yermolaiev, wounding three people in what authorities are investigating as an attempted murder.",
+      "sourceUrl": "https://www.france24.com/en/europe/20260701-who-is-ukrainian-oligarch-vadym-yermolaiev-the-suspected-target-of-the-monaco-bombing",
+      "difficulty": "medium",
+      "region": "europe",
+      "imageUrl": "https://s.france24.com/media/display/2907898a-748b-11f1-b76e-005056bf30b7/w:1280/p:16x9/000-B8QX2R9.jpg"
+    },
+    {
+      "id": 6,
+      "answer": "Supergirl",
+      "acceptedAnswers": [
+        "Supergirl",
+        "Supergirl: Woman of Tomorrow"
+      ],
+      "clues": [
+        "DC Comics heroine",
+        "Kara Zor-El",
+        "Kryptonian character",
+        "Milly Alcock role",
+        "Comic book film adaptation",
+        "Cousin of Kal-El"
+      ],
+      "summary": "The new Supergirl film starring Milly Alcock has faced a box office setback, though original 1984 star Helen Slater publicly praised Alcock's performance.",
+      "sourceUrl": "http://www.hollywoodreporter.com/movies/movie-news/supergirl-milly-alcock-support-helen-slater-1984-interview-1236634141/",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://www.hollywoodreporter.com/wp-content/uploads/2026/06/Supergirl-Milly-Alcock-and-Helen-Slater-Split-Everett-H-2026.jpg?w=1296&h=730&crop=1"
+    },
+    {
+      "id": 7,
+      "answer": "Synthetic cell",
+      "acceptedAnswers": [
+        "Synthetic cell",
+        "Artificial cell"
+      ],
+      "clues": [
+        "Bioengineering breakthrough",
+        "University of Minnesota research",
+        "Bottom-up biology",
+        "Minimal genome",
+        "Artificial life",
+        "Protocell reproduction"
+      ],
+      "summary": "Scientists at the University of Minnesota announced they have created the first-ever synthetic cell built entirely from scratch, observing it go through an entire life cycle including reproduction.",
+      "sourceUrl": "https://www.sciencealert.com/for-the-first-time-scientists-say-theyve-built-a-synthetic-cell-from-scratch",
+      "difficulty": "hard",
+      "region": "global",
+      "imageUrl": "https://www.sciencealert.com/images/2026/07/SpudCellsSynthetic.gif"
+    },
+    {
+      "id": 8,
+      "answer": "South Korea",
+      "acceptedAnswers": [
+        "South Korea",
+        "Republic of Korea"
+      ],
+      "clues": [
+        "East Asian economy",
+        "KOSPI index",
+        "Semiconductor manufacturing hub",
+        "Seoul-based stock exchange",
+        "Major memory chip exporter",
+        "Han River miracle economy"
+      ],
+      "summary": "South Korean stocks tumbled 6% as renewed doubts over the sustainability of the AI buildout boom triggered a selloff in chipmakers that had been driving the market's world-beating performance.",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-02/south-korean-stocks-tumble-6-as-ai-jitters-hurt-chipmakers",
+      "difficulty": "medium",
+      "region": "asia",
+      "imageUrl": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iWVH39U66fws/v0/1200x800.jpg"
+    },
+    {
+      "id": 9,
+      "answer": "USMCA",
+      "acceptedAnswers": [
+        "USMCA",
+        "United States-Mexico-Canada Agreement"
+      ],
+      "clues": [
+        "North American trade pact",
+        "NAFTA successor",
+        "Trilateral economic treaty",
+        "Ratified in 2020",
+        "Free trade framework",
+        "Tariff and market access rules"
+      ],
+      "summary": "The Trump administration has announced it will not renew the trilateral trade agreement and instead plans to pursue separate bilateral deals with Canada and Mexico.",
+      "sourceUrl": "https://www.foxbusiness.com/economy/what-main-sticking-points-trump-admins-trade-negotiations-canada-mexico",
+      "difficulty": "medium",
+      "region": "north-america",
+      "imageUrl": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/07/0/0/us-mexico-canada-flags.jpg?ve=1&tl=1"
+    },
+    {
+      "id": 10,
+      "answer": "Coffee",
+      "acceptedAnswers": [
+        "Coffee"
+      ],
+      "clues": [
+        "Caffeinated beverage",
+        "Arabica and Robusta varieties",
+        "Brewed daily worldwide",
+        "Bean roasting process",
+        "Ethiopian origin legend",
+        "Antioxidant-rich drink"
+      ],
+      "summary": "A Washington Post report highlighted hundreds of studies showing that daily coffee consumption may protect against major diseases, citing surprising evidence-based health benefits.",
+      "sourceUrl": "https://www.washingtonpost.com/wellness/2026/07/02/4-proven-health-benefits-drinking-coffee/",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/GWI2VKN2PDPYB6PGLNRNLZ4VYI.jpg&w=1440"
+    }
+  ]
+}
