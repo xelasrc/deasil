@@ -1,0 +1,210 @@
+{
+  "date": "2026-07-08",
+  "puzzles": [
+    {
+      "id": 1,
+      "answer": "Thomas Tuchel",
+      "acceptedAnswers": [
+        "Thomas Tuchel",
+        "Tuchel"
+      ],
+      "clues": [
+        "German football manager",
+        "Former Chelsea head coach",
+        "Champions League winner",
+        "Previously managed Paris Saint-Germain",
+        "Succeeded Gareth Southgate",
+        "Currently leading a national team at the 2026 tournament"
+      ],
+      "summary": "Thomas Tuchel, England's head coach, discussed England's preparations ahead of their World Cup match against Mexico, dismissing concerns over their treatment by local fans.",
+      "sourceUrl": "https://www.bbc.com/sport/football/articles/c8r2827pyxlo",
+      "difficulty": "medium",
+      "region": "europe",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/53e9/live/dde8f140-7800-11f1-b528-69433fdf608f.jpg"
+    },
+    {
+      "id": 2,
+      "answer": "Shohei Ohtani",
+      "acceptedAnswers": [
+        "Shohei Ohtani",
+        "Ohtani"
+      ],
+      "clues": [
+        "Japanese-born athlete",
+        "Two-way baseball player",
+        "MLB MVP winner",
+        "Signed record-breaking contract in 2023",
+        "Los Angeles Dodgers star",
+        "Known for both pitching and hitting"
+      ],
+      "summary": "Shohei Ohtani was named an All-Star Game starter, leading the Dodgers' contingent of four starters selected for the NL lineup at the upcoming July 14 game.",
+      "sourceUrl": "https://www.espn.com/mlb/story/_/id/49272621/ohtani-freeman-lead-dodgers-four-starters-all-star-game",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0702%2Fr1683416_1296x729_16%2D9.jpg"
+    },
+    {
+      "id": 3,
+      "answer": "Jesse Eisenberg",
+      "acceptedAnswers": [
+        "Jesse Eisenberg"
+      ],
+      "clues": [
+        "American actor and author",
+        "Portrayed a tech billionaire on screen",
+        "Starred in Zombieland",
+        "Oscar-nominated performer",
+        "Known for neurotic, fast-talking roles",
+        "Also a playwright and novelist"
+      ],
+      "summary": "Jesse Eisenberg revealed he turned down a sequel to The Social Network, titled 'The Social Reckoning,' saying he doesn't want to be associated with Mark Zuckerberg.",
+      "sourceUrl": "https://variety.com/2026/film/global/jesse-eisenberg-mark-zuckerberg-the-social-reckoning-1236801688/",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://variety.com/wp-content/uploads/2026/07/VARIETY-SIZING-18.png?w=1000&h=563&crop=1"
+    },
+    {
+      "id": 4,
+      "answer": "Joey Chestnut",
+      "acceptedAnswers": [
+        "Joey Chestnut"
+      ],
+      "clues": [
+        "Competitive eating champion",
+        "Annual Fourth of July competitor",
+        "Nathan's Famous contest legend",
+        "Holds multiple world records for food consumption",
+        "Based in Indiana",
+        "His rivalry with Takeru Kobayashi is legendary"
+      ],
+      "summary": "Joey Chestnut won his 18th title at the annual Nathan's Famous Hot Dog Eating Contest at Coney Island on July 4th, consuming 66 hot dogs.",
+      "sourceUrl": "http://deadline.com/2026/07/joey-chestnut-hot-dog-contest-1236974217/",
+      "difficulty": "medium",
+      "region": "north_america",
+      "imageUrl": "https://deadline.com/wp-content/uploads/2026/07/chestnut.jpg?w=1024"
+    },
+    {
+      "id": 5,
+      "answer": "Arctic ground squirrel",
+      "acceptedAnswers": [
+        "Arctic ground squirrel"
+      ],
+      "clues": [
+        "Small burrowing mammal",
+        "Found in northern tundra regions",
+        "Survives subzero body temperatures",
+        "Hibernation champion of the animal kingdom",
+        "Studied for medical applications",
+        "Native to Alaska, Siberia, and northern Canada"
+      ],
+      "summary": "Scientists are studying how the Arctic ground squirrel survives the coldest body temperatures of any mammal during hibernation, inspiring new treatments for heart attacks, stroke, and brain injury.",
+      "sourceUrl": "https://www.bbc.com/future/article/20260703-the-arctic-ground-squirrel-could-revolutionise-emergency-care",
+      "difficulty": "hard",
+      "region": "global",
+      "imageUrl": "https://ychef.files.bbci.co.uk/624x351/p0nwnl96.jpg"
+    },
+    {
+      "id": 6,
+      "answer": "Michael Dell",
+      "acceptedAnswers": [
+        "Michael Dell"
+      ],
+      "clues": [
+        "Texas-based tech billionaire",
+        "Founded a major PC company from a college dorm",
+        "CEO of a Fortune 500 technology firm",
+        "Took his company private in 2013",
+        "University of Texas at Austin dropout",
+        "Known for direct-to-consumer computer sales model"
+      ],
+      "summary": "Michael Dell pledged $250 per child for the first 25 million qualifying children who sign up for Trump Accounts, a new federal investment program launched on Independence Day.",
+      "sourceUrl": "https://www.foxbusiness.com/economy/michael-dell-celebrates-americas-250th-birthday-gift-seed-american-dream-millions-kids",
+      "difficulty": "medium",
+      "region": "north_america",
+      "imageUrl": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2025/12/0/0/dell-family-trump-account.png?ve=1&tl=1"
+    },
+    {
+      "id": 7,
+      "answer": "Paul Pelosi",
+      "acceptedAnswers": [
+        "Paul Pelosi"
+      ],
+      "clues": [
+        "San Francisco businessman",
+        "Venture capital investor",
+        "Husband of a prominent Democratic politician",
+        "Previously attacked in his home in 2022",
+        "Napa County resident",
+        "Connected to California's political establishment"
+      ],
+      "summary": "Paul Pelosi, husband of former House Speaker Nancy Pelosi, is facing a hit-and-run charge in Napa County, California.",
+      "sourceUrl": "https://www.kcra.com/article/nancy-pelosi-husband-paul-charge-napa-county-hit-and-run/71823395",
+      "difficulty": "medium",
+      "region": "north_america",
+      "imageUrl": "https://kubrick.htvapps.com/htv-prod/images/90750e29-7818-4544-be63-168d7a426ba6.jpg?crop=1.00xw:0.846xh;0,0&resize=1200:*"
+    },
+    {
+      "id": 8,
+      "answer": "Electric vehicle battery",
+      "acceptedAnswers": [
+        "Electric vehicle battery",
+        "EV battery",
+        "EV batteries"
+      ],
+      "clues": [
+        "Lithium-ion technology",
+        "Key component of zero-emission transport",
+        "Range anxiety concern",
+        "Charging infrastructure dependent",
+        "Major investment by automakers globally",
+        "Recyclability is an emerging challenge"
+      ],
+      "summary": "A new Wall Street Journal report highlights that EV batteries are lasting far longer than expected, defying early concerns about degradation and boosting consumer confidence in electric vehicles.",
+      "sourceUrl": "https://www.wsj.com/business/autos/ev-batteries-are-defying-expectations-after-hundreds-of-thousands-of-miles-8579de13",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://images.wsj.net/im-58558884/social"
+    },
+    {
+      "id": 9,
+      "answer": "Coney Island",
+      "acceptedAnswers": [
+        "Coney Island"
+      ],
+      "clues": [
+        "Brooklyn neighborhood",
+        "Historic amusement park destination",
+        "Home of the Cyclone roller coaster",
+        "Boardwalk along the Atlantic Ocean",
+        "Setting for numerous films and TV shows",
+        "Site of an annual competitive eating event"
+      ],
+      "summary": "Coney Island was in the news after eight people, including four children, were shot late Saturday night, and separately as the site of the annual Nathan's Famous Hot Dog Eating Contest.",
+      "sourceUrl": "https://www.nbcnews.com/news/us-news/eight-people-shot-coney-island-four-children-nypd-rcna353013",
+      "difficulty": "easy",
+      "region": "north_america",
+      "imageUrl": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-07/260705-coney-island-mb-1038-7d3de3.jpg"
+    },
+    {
+      "id": 10,
+      "answer": "iPhone",
+      "acceptedAnswers": [
+        "iPhone",
+        "iPhone 18"
+      ],
+      "clues": [
+        "Iconic consumer electronics product",
+        "Launched in 2007",
+        "iOS operating system",
+        "Features Face ID technology",
+        "Cupertino-designed smartphone",
+        "Annual release cycle in September"
+      ],
+      "summary": "Leaks reveal the upcoming iPhone 18 will feature 9GB of RAM but still won't support two new iOS 27 features, generating debate about Apple's hardware-software strategy.",
+      "sourceUrl": "https://www.macrumors.com/2026/07/03/iphone-18-wont-support-two-ios-27-features/",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://images.macrumors.com/t/UEZCUOG8YOUhjIDEsGIoroluUAw=/1950x/article-new/2025/09/iphone-17-ceramic-shield.jpg"
+    }
+  ]
+}
