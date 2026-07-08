@@ -1,0 +1,214 @@
+{
+  "date": "2026-07-09",
+  "puzzles": [
+    {
+      "id": 1,
+      "answer": "The Odyssey",
+      "acceptedAnswers": [
+        "The Odyssey",
+        "Odyssey"
+      ],
+      "clues": [
+        "Ancient Greek epic poem",
+        "Christopher Nolan film adaptation",
+        "Homer's literary masterpiece",
+        "Ithaca homecoming journey",
+        "Penelope and Telemachus",
+        "Summer blockbuster 2026"
+      ],
+      "summary": "Christopher Nolan's film adaptation of Homer's epic poem is receiving overwhelmingly positive first reactions, with critics calling it 'jaw-dropping' and 'staggering.'",
+      "sourceUrl": "https://ew.com/the-odyssey-first-reactions-raves-for-christopher-nolan-must-see-epic-12013163",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://ew.com/thmb/MAMtbWp1b37CC3z7bHoMsoeoe20=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Matt-Damon-Zendaya-THE-ODYSSEY-050426-6c6207657404494caf47c96c4e8f51e6.jpg"
+    },
+    {
+      "id": 2,
+      "answer": "Tianwen-2",
+      "acceptedAnswers": [
+        "Tianwen-2",
+        "Tianwen 2"
+      ],
+      "clues": [
+        "Chinese space mission",
+        "Asteroid sample return",
+        "Quasi-moon target",
+        "Interplanetary probe",
+        "CNSA deep space exploration",
+        "First photograph of Kamoʻoalewa"
+      ],
+      "summary": "China's Tianwen-2 space probe has sent back the first-ever photo of an asteroid some astronomers believe may have once been part of the Moon, with plans to return a sample to Earth.",
+      "sourceUrl": "https://www.nbcnews.com/science/space/china-photo-asteroid-earth-quasi-moon-tianwen-2-mission-rcna353154",
+      "difficulty": "hard",
+      "region": "global",
+      "imageUrl": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-07/260706-asteroid-china-space-3x2-mn-1120-1a7c77.jpg"
+    },
+    {
+      "id": 3,
+      "answer": "Marine Le Pen",
+      "acceptedAnswers": [
+        "Marine Le Pen",
+        "Le Pen"
+      ],
+      "clues": [
+        "French far-right politician",
+        "National Rally leader",
+        "Presidential candidate multiple times",
+        "Daughter of Jean-Marie",
+        "Appeal court electoral ban threat",
+        "2027 race uncertainty"
+      ],
+      "summary": "Marine Le Pen faces a potential appeal court ruling that could bar her from running in the 2027 French presidential election, which could end her political career.",
+      "sourceUrl": "https://www.bbc.com/news/articles/cdejj03j9ejo",
+      "difficulty": "medium",
+      "region": "europe",
+      "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/efd1/live/14ab1350-7970-11f1-9290-9b15d0e76459.jpg"
+    },
+    {
+      "id": 4,
+      "answer": "Damascus",
+      "acceptedAnswers": [
+        "Damascus"
+      ],
+      "clues": [
+        "One of the world's oldest continuously inhabited cities",
+        "Capital in the Levant",
+        "Ancient Umayyad Mosque location",
+        "Syrian Arab Republic seat of government",
+        "Emmanuel Macron diplomatic visit",
+        "Explosions during state visit"
+      ],
+      "summary": "Explosions rocked Damascus during the second day of French President Macron's historic visit to Syria, wounding at least 18 people near a high-end hotel.",
+      "sourceUrl": "https://www.france24.com/en/middle-east/20260707-explosions-heard-in-damascus-during-french-president-macron-s-visit",
+      "difficulty": "medium",
+      "region": "middle_east",
+      "imageUrl": "https://s.france24.com/media/display/76ac4e8e-79d9-11f1-9515-005056bf30b7/w:1280/p:16x9/2026-07-07T075111Z-119825787-RC2V8MAWK2WB-RTRMADP-3-SYRIA-POLITICS-FRANCE.jpg"
+    },
+    {
+      "id": 5,
+      "answer": "Nipsey Hussle",
+      "acceptedAnswers": [
+        "Nipsey Hussle",
+        "Nipsey Hussle",
+        "Ermias Asghedom"
+      ],
+      "clues": [
+        "Grammy-nominated rapper",
+        "Crenshaw neighborhood icon",
+        "Murdered in 2019 in Los Angeles",
+        "Victory Lap album creator",
+        "Marathon Clothing founder",
+        "Posthumous estate settlement"
+      ],
+      "summary": "Nipsey Hussle's children have finally received their inheritance from the late rapper's estate, which is worth millions of dollars.",
+      "sourceUrl": "https://www.tmz.com/2026/07/07/nipsey-hussle-kids-receive-share-from-estate/",
+      "difficulty": "medium",
+      "region": "north_america",
+      "imageUrl": "https://imagez.tmz.com/image/b4/16by9/2026/07/06/b4e99a514be14b3aad021e6288444e85_xl.png"
+    },
+    {
+      "id": 6,
+      "answer": "Nintendo Switch",
+      "acceptedAnswers": [
+        "Nintendo Switch",
+        "Switch"
+      ],
+      "clues": [
+        "Hybrid home and portable gaming console",
+        "Joy-Con controllers",
+        "Released March 2017",
+        "European battery regulation compliance",
+        "Successor announced as second generation",
+        "Japanese gaming hardware"
+      ],
+      "summary": "Nintendo will discontinue the original Switch console lineup in Europe by mid-February 2027 to comply with EU replaceable battery legislation, while rolling out revised Switch 2 models.",
+      "sourceUrl": "https://www.gamesindustry.biz/original-switch-console-lineup-to-be-discontinued-in-europe-by-mid-february-2027",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://assetsio.gnwcdn.com/switch-console-jesper-brouwers-unsplash.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+    },
+    {
+      "id": 7,
+      "answer": "Neanderthals",
+      "acceptedAnswers": [
+        "Neanderthals",
+        "Neanderthal"
+      ],
+      "clues": [
+        "Extinct hominin species",
+        "Coexisted with Homo sapiens",
+        "European and Western Asian range",
+        "Stone tool culture bearers",
+        "Denisovan relatives",
+        "Shared symbolic traditions with modern humans"
+      ],
+      "summary": "A new study from Turkey suggests that Neanderthals and modern humans shared hunting strategies and symbolic cultural traditions around 59,000 years ago, even without directly overlapping at the same site.",
+      "sourceUrl": "https://www.livescience.com/archaeology/neanderthals/modern-humans-and-neanderthals-may-have-shared-long-term-cultural-continuity",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://cdn.mos.cms.futurecdn.net/utoSE5ACGwfAskzKi7eVwT-2400-80.png"
+    },
+    {
+      "id": 8,
+      "answer": "Legionnaires' disease",
+      "acceptedAnswers": [
+        "Legionnaires' disease",
+        "Legionellosis",
+        "Legionnaires disease"
+      ],
+      "clues": [
+        "Severe form of pneumonia",
+        "Caused by Legionella bacteria",
+        "Waterborne pathogen",
+        "Cooling tower contamination risk",
+        "Named after 1976 Philadelphia outbreak",
+        "Upper East Side cluster 2026"
+      ],
+      "summary": "New York City's Upper East Side is experiencing a cluster of Legionnaires' disease cases, with at least 18 confirmed cases and several critical patients reported by the health commissioner.",
+      "sourceUrl": "https://abc7ny.com/post/nycs-upper-east-side-experiencing-cluster-legionnaires-least-18-cases/19459466/",
+      "difficulty": "medium",
+      "region": "north_america",
+      "imageUrl": "https://cdn.abcotvs.com/dip/images/19459491_070626-wabc-ues-generic-img.jpg?w=1600"
+    },
+    {
+      "id": 9,
+      "answer": "Raphael Claus",
+      "acceptedAnswers": [
+        "Raphael Claus"
+      ],
+      "clues": [
+        "Brazilian match official",
+        "FIFA-appointed referee",
+        "Red card controversy",
+        "World Cup officiating",
+        "Trump criticism target",
+        "South American football official"
+      ],
+      "summary": "FIFA has defended referee Raphael Claus after former President Trump called him 'a bit suspect' following a controversial red card decision involving Folarin Balogun during a FIFA World Cup match.",
+      "sourceUrl": "https://www.aljazeera.com/sports/2026/7/7/fifa-defends-balogun-red-card-referee-after-trump-calls-him-a-bit-suspect",
+      "difficulty": "hard",
+      "region": "global",
+      "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/07/AFP__20260702__2284250723__v1__HighRes__UsaVBosniaAndHerzegovinaRoundOf32FifaWorldCu-1783386519.jpg?resize=1920%2C1440"
+    },
+    {
+      "id": 10,
+      "answer": "Bryan Johnson",
+      "acceptedAnswers": [
+        "Bryan Johnson"
+      ],
+      "clues": [
+        "Tech entrepreneur and biohacker",
+        "Anti-aging crusader",
+        "Blueprint longevity protocol",
+        "'Don't Die' movement founder",
+        "Kernel neurotechnology company",
+        "Autoimmune diagnosis revealed"
+      ],
+      "summary": "Bryan Johnson, the tech entrepreneur famous for his extreme anti-aging 'Don't Die' protocols, has revealed that he has been diagnosed with a serious autoimmune disease affecting his stomach.",
+      "sourceUrl": "https://gizmodo.com/dont-die-guy-bryan-johnson-says-he-has-serious-autoimmune-disease-2000781915",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://gizmodo.com/app/uploads/2025/01/Bryan-Johnson-speaks-at-a-conference-in-Beverly-Hills-1200x675.jpg"
+    }
+  ]
+}
