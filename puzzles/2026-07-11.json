@@ -1,0 +1,216 @@
+{
+  "date": "2026-07-11",
+  "puzzles": [
+    {
+      "id": 1,
+      "answer": "CTE",
+      "acceptedAnswers": [
+        "CTE",
+        "Chronic traumatic encephalopathy"
+      ],
+      "clues": [
+        "Neurodegenerative disease",
+        "Repetitive head impacts",
+        "Tau protein accumulation",
+        "Posthumous diagnosis",
+        "Contact sports risk",
+        "Aaron Hernandez finding"
+      ],
+      "summary": "Dallas Cowboys player Marshawn Kneeland, who died by suicide, was posthumously diagnosed with CTE, a degenerative brain disease linked to repeated head impacts common in football.",
+      "sourceUrl": "https://www.bbc.com/news/articles/c5yz6kllg1jo",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/9802/live/49eb2cb0-7a44-11f1-bc29-738b6960c215.jpg"
+    },
+    {
+      "id": 2,
+      "answer": "Prince Harry",
+      "acceptedAnswers": [
+        "Prince Harry",
+        "Harry",
+        "Duke of Sussex"
+      ],
+      "clues": [
+        "British royal family member",
+        "Duke of Sussex",
+        "Invictus Games founder",
+        "Memoir author",
+        "Montecito resident",
+        "Fifth in line of succession"
+      ],
+      "summary": "Prince Harry suffered a major court loss in a legal battle against British tabloids, with royal observers warning the defeat could devastate his and Meghan Markle's finances and reputation.",
+      "sourceUrl": "https://www.mercurynews.com/2026/07/07/prince-harrys-court-loss-devastate-finances/",
+      "difficulty": "easy",
+      "region": "europe",
+      "imageUrl": "https://www.mercurynews.com/wp-content/uploads/2026/07/Harry-Invictus-GettyImages-2284529170.jpeg?w=1024&h=683"
+    },
+    {
+      "id": 3,
+      "answer": "Charlie Kirk",
+      "acceptedAnswers": [
+        "Charlie Kirk"
+      ],
+      "clues": [
+        "Turning Point USA founder",
+        "Conservative media personality",
+        "Political commentator",
+        "Campus activism organizer",
+        "Right-wing podcast host",
+        "Arizona-based figure"
+      ],
+      "summary": "A preliminary hearing is underway for the suspect accused of killing conservative activist Charlie Kirk, revealing new details about events leading up to the shooting.",
+      "sourceUrl": "https://www.bbc.com/news/articles/cr5j983p046o",
+      "difficulty": "hard",
+      "region": "north-america",
+      "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/9139/live/497a46a0-7a3d-11f1-ab76-d75965dea4d1.jpg"
+    },
+    {
+      "id": 4,
+      "answer": "National Rally",
+      "acceptedAnswers": [
+        "National Rally",
+        "Rassemblement National",
+        "RN"
+      ],
+      "clues": [
+        "French political party",
+        "Far-right populism",
+        "Founded as Front National",
+        "European Parliament group member",
+        "Anti-immigration platform",
+        "Largest party in French legislature"
+      ],
+      "summary": "Marine Le Pen's presidential bid has disrupted EU hopes that Jordan Bardella would be a more moderate leader of France's far-right National Rally party.",
+      "sourceUrl": "https://www.politico.eu/article/marine-le-pen-2027-french-presidential-bid-brussels-eu-hopes-dashed-pragmatic-successor-far-right/",
+      "difficulty": "medium",
+      "region": "europe",
+      "imageUrl": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/07/07/IMG_3408-scaled.png"
+    },
+    {
+      "id": 5,
+      "answer": "Manhattan",
+      "acceptedAnswers": [
+        "Manhattan",
+        "Midtown Manhattan"
+      ],
+      "clues": [
+        "New York City borough",
+        "Island between two rivers",
+        "Wall Street location",
+        "Central Park setting",
+        "Times Square neighborhood",
+        "Most densely populated US county"
+      ],
+      "summary": "A high-rise building under construction in Midtown Manhattan was evacuated after structural columns buckled, prompting emergency stabilization efforts by New York officials.",
+      "sourceUrl": "https://www.cnn.com/2026/07/07/us/live-news/nyc-pfizer-building-evacuations",
+      "difficulty": "easy",
+      "region": "north-america",
+      "imageUrl": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2284525677.jpg?c=16x9&q=w_800,c_fill"
+    },
+    {
+      "id": 6,
+      "answer": "ICE",
+      "acceptedAnswers": [
+        "ICE",
+        "Immigration and Customs Enforcement"
+      ],
+      "clues": [
+        "Federal law enforcement agency",
+        "Department of Homeland Security division",
+        "Established in 2003",
+        "Deportation operations",
+        "Enforcement and Removal Operations branch",
+        "Founded after September 11 reforms"
+      ],
+      "summary": "An ICE agent shot and killed an undocumented immigrant from Mexico during an attempted arrest in east Houston, prompting a heavy law enforcement response.",
+      "sourceUrl": "https://www.click2houston.com/news/local/2026/07/07/heavy-law-enforcement-presence-reported-in-east-houston-neighborhood/",
+      "difficulty": "medium",
+      "region": "north-america",
+      "imageUrl": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/video/kprc/faa35483-99fb-499f-9e18-ce8c77800740/image.jpg?_a=DATAg1kSZAA0"
+    },
+    {
+      "id": 7,
+      "answer": "Typhoon Gaemi",
+      "acceptedAnswers": [
+        "Typhoon Gaemi",
+        "Typhoon"
+      ],
+      "clues": [
+        "Tropical cyclone",
+        "Western Pacific weather system",
+        "Extreme rainfall event",
+        "Southeast Asian natural disaster",
+        "Wind rotation phenomenon",
+        "Storm surge threat"
+      ],
+      "summary": "A powerful typhoon triggered severe flooding and rare tornadoes across parts of China, stranding villagers and cutting off access to food and aid.",
+      "sourceUrl": "https://www.bbc.com/news/articles/c79ygnv9e93o",
+      "difficulty": "hard",
+      "region": "asia",
+      "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/c16e/live/c1b8aea0-79ba-11f1-8257-1765759c449e.jpg"
+    },
+    {
+      "id": 8,
+      "answer": "Stop WOKE Act",
+      "acceptedAnswers": [
+        "Stop WOKE Act",
+        "Stop W.O.K.E. Act",
+        "Individual Freedom Act"
+      ],
+      "clues": [
+        "Florida legislation",
+        "First Amendment challenge",
+        "Higher education regulation",
+        "Ron DeSantis initiative",
+        "Diversity training restrictions",
+        "Federal court ruling subject"
+      ],
+      "summary": "A federal court struck down Florida's Stop WOKE Act as it applies to higher education, ruling the law unconstitutionally restricted the speech of professors and students.",
+      "sourceUrl": "https://www.orlandosentinel.com/2026/07/07/federal-court-strikes-down-floridas-stop-woke-act-in-higher-ed/",
+      "difficulty": "hard",
+      "region": "north-america",
+      "imageUrl": "https://www.orlandosentinel.com/wp-content/uploads/2025/10/TH4JHZBKCZIR76EAZSJ477Q3UA-2.jpg?w=1024&h=682"
+    },
+    {
+      "id": 9,
+      "answer": "SpudCell",
+      "acceptedAnswers": [
+        "SpudCell"
+      ],
+      "clues": [
+        "Laboratory creation",
+        "Artificial biology platform",
+        "Cell division capability",
+        "Biomimicry achievement",
+        "Synthetic biology breakthrough",
+        "Life science innovation"
+      ],
+      "summary": "Scientists created SpudCell, the most lifelike artificial cell ever made in a lab, capable of feeding, growing, and dividing like a normal cell.",
+      "sourceUrl": "https://www.livescience.com/health/scientists-just-created-the-most-lifelike-cell-ever-made-in-a-lab-heres-what-it-could-accomplish",
+      "difficulty": "hard",
+      "region": "global",
+      "imageUrl": "https://cdn.mos.cms.futurecdn.net/rRQanenR9P66KVMyeDykuG-2000-80.jpg"
+    },
+    {
+      "id": 10,
+      "answer": "Jordan Bardella",
+      "acceptedAnswers": [
+        "Jordan Bardella",
+        "Bardella"
+      ],
+      "clues": [
+        "French politician",
+        "Youngest party president in French history",
+        "European Parliament member",
+        "Italian heritage",
+        "Seine-Saint-Denis upbringing",
+        "Far-right leader"
+      ],
+      "summary": "EU insiders had hoped Jordan Bardella would emerge as a more moderate far-right French leader, but Marine Le Pen's presidential bid has disrupted those expectations.",
+      "sourceUrl": "https://www.politico.eu/article/marine-le-pen-2027-french-presidential-bid-brussels-eu-hopes-dashed-pragmatic-successor-far-right/",
+      "difficulty": "hard",
+      "region": "europe",
+      "imageUrl": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/07/07/IMG_3408-scaled.png"
+    }
+  ]
+}
