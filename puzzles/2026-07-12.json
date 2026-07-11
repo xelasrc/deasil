@@ -1,0 +1,215 @@
+{
+  "date": "2026-07-12",
+  "puzzles": [
+    {
+      "id": 1,
+      "answer": "Long March 10B",
+      "acceptedAnswers": [
+        "Long March 10B",
+        "Long March 10",
+        "LM-10B"
+      ],
+      "clues": [
+        "Reusable booster technology",
+        "Sea platform landing",
+        "Maiden flight",
+        "Chinese space program",
+        "Vertical recovery",
+        "Launch vehicle"
+      ],
+      "summary": "China successfully launched the Long March 10B rocket for the first time and recovered its first stage via a vertical landing on a sea platform, marking a milestone in China's reusable rocket development.",
+      "sourceUrl": "https://www.scmp.com/news/china/science/article/3360069/china-recovers-long-march-10b-reusable-rocket-maiden-launch",
+      "difficulty": "hard",
+      "region": "asia",
+      "imageUrl": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/07/10/9c5d6972-f234-4b46-9d26-486ede654d3c_7eeb649a.jpg?itok=aRrLUp61&v=1783658973"
+    },
+    {
+      "id": 2,
+      "answer": "Pokémon Go",
+      "acceptedAnswers": [
+        "Pokémon Go",
+        "Pokemon Go",
+        "Pokémon GO"
+      ],
+      "clues": [
+        "Augmented reality",
+        "Niantic",
+        "Mobile gaming",
+        "10th anniversary",
+        "Times Square event",
+        "Mewtwo raid battle"
+      ],
+      "summary": "Thousands of players gathered in Times Square for a surprise 10th-anniversary event celebrating Pokémon Go, where they collectively battled Mewtwo, fulfilling a promise from the original 2016 launch trailer.",
+      "sourceUrl": "https://www.wired.com/story/thousands-of-pokemon-go-players-descend-on-times-square-to-defeat-mewtwo/",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://media.wired.com/photos/6a5043b7f715f2c43619b84a/191:100/w_1280,c_limit/DSC_9089.jpg"
+    },
+    {
+      "id": 3,
+      "answer": "Ariana Grande",
+      "acceptedAnswers": [
+        "Ariana Grande"
+      ],
+      "clues": [
+        "Pop music",
+        "Grammy Award winner",
+        "Glinda in Wicked",
+        "Boca Raton native",
+        "Ponytail signature style",
+        "Republic Records artist"
+      ],
+      "summary": "Ariana Grande's viral look-alike Paige Niemann publicly stated she felt 'misled' by a direct message Grande sent her years ago during her rise to internet fame.",
+      "sourceUrl": "https://www.tmz.com/2026/07/10/ariana-grande-lookalike-felt-misled-by-direct-message/",
+      "difficulty": "easy",
+      "region": "north-america",
+      "imageUrl": "https://imagez.tmz.com/image/a9/16by9/2026/07/09/a9e0a2484dc34f3d9ef3face734f2b38_xl.jpg"
+    },
+    {
+      "id": 4,
+      "answer": "Moana",
+      "acceptedAnswers": [
+        "Moana",
+        "Moana (film)"
+      ],
+      "clues": [
+        "Polynesian mythology",
+        "Disney live-action remake",
+        "Dwayne Johnson",
+        "Pacific Ocean voyage",
+        "Demigod Maui",
+        "Rotten Tomatoes critical reception"
+      ],
+      "summary": "Disney's live-action remake of Moana debuted to scathing reviews, earning just 38% on Rotten Tomatoes, with critics mocking Dwayne Johnson's wig and calling the film unnecessary.",
+      "sourceUrl": "https://www.foxnews.com/outkick-analysis/live-action-remake-moana-ravaged-critics-latest-blow-disney-studios",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/AP26187595127248.jpg"
+    },
+    {
+      "id": 5,
+      "answer": "Quantum mechanics",
+      "acceptedAnswers": [
+        "Quantum mechanics",
+        "Quantum physics"
+      ],
+      "clues": [
+        "Wave function",
+        "Schrödinger equation",
+        "Subatomic particles",
+        "Complex number debate",
+        "Theoretical physics",
+        "Superposition principle"
+      ],
+      "summary": "Physicists have developed a version of quantum mechanics that uses only real numbers instead of complex numbers, while making all the same predictions as the standard theory, resolving a foundational question in the field.",
+      "sourceUrl": "https://www.livescience.com/physics-mathematics/complex-numbers-are-not-needed-for-quantum-mechanics-physicists-develop-quantum-model-that-uses-only-real-numbers-for-first-time-ever",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://cdn.mos.cms.futurecdn.net/oX65hpPehZaRtBsU5KsLgC-2000-80.jpg"
+    },
+    {
+      "id": 6,
+      "answer": "Christian Pulisic",
+      "acceptedAnswers": [
+        "Christian Pulisic",
+        "Pulisic"
+      ],
+      "clues": [
+        "AC Milan winger",
+        "United States men's national team",
+        "Hershey, Pennsylvania native",
+        "Former Borussia Dortmund player",
+        "Captain America nickname",
+        "2026 tournament knockout stage"
+      ],
+      "summary": "LA Galaxy coach Greg Vanney discussed how an early injury to Christian Pulisic robbed him of momentum during Team USA's World Cup knockout-stage loss to Belgium.",
+      "sourceUrl": "https://www.foxnews.com/outkick-sports/la-galaxy-coach-greg-vanney-team-usa-too-naive-explains-christian-pulisic-struggles",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/christian-pulisic-bench-7826.jpg"
+    },
+    {
+      "id": 7,
+      "answer": "E. Jean Carroll",
+      "acceptedAnswers": [
+        "E. Jean Carroll",
+        "Jean Carroll"
+      ],
+      "clues": [
+        "Advice columnist",
+        "Elle magazine",
+        "Defamation lawsuit",
+        "Civil jury verdict",
+        "Federal court judgment",
+        "What Do We Need Men For?"
+      ],
+      "summary": "Courts at every level have rejected Donald Trump's attempts to block payment to E. Jean Carroll, shutting down his last-ditch legal maneuvers in the long-running defamation and liability case.",
+      "sourceUrl": "https://www.politico.com/news/2026/07/09/donald-trump-e-jean-carroll-5-million-00992363",
+      "difficulty": "medium",
+      "region": "north-america",
+      "imageUrl": ""
+    },
+    {
+      "id": 8,
+      "answer": "Susan Collins",
+      "acceptedAnswers": [
+        "Susan Collins"
+      ],
+      "clues": [
+        "Republican senator",
+        "Maine politician",
+        "Senate moderate",
+        "Appropriations Committee",
+        "Bangor native",
+        "Longest-serving female senator from her state"
+      ],
+      "summary": "After Maine Democratic Senate nominee Graham Platner suspended his campaign following a sexual assault allegation, multiple Democrats are vying to replace him as the challenger to incumbent GOP Senator Susan Collins.",
+      "sourceUrl": "https://www.cbsnews.com/news/maine-democrats-senate-candidates-replace-graham-platner/",
+      "difficulty": "medium",
+      "region": "north-america",
+      "imageUrl": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/06/06/5e8f6844-49fa-4311-a4b2-74b458db71ad/thumbnail/1200x630/23e7f132f8a2f1007b1eff76c68e2b7c/enthumb0605.jpg"
+    },
+    {
+      "id": 9,
+      "answer": "Bahamas",
+      "acceptedAnswers": [
+        "Bahamas",
+        "The Bahamas"
+      ],
+      "clues": [
+        "Caribbean archipelago",
+        "Nassau capital",
+        "Commonwealth realm",
+        "Atlantic Ocean island nation",
+        "Tourism-dependent economy",
+        "Former British colony"
+      ],
+      "summary": "The disappearance of Michigan woman Lynette Hooker in the Bahamas has taken a new turn, with investigators looking into the possibility she returned to her sailboat before vanishing, contradicting her husband's account.",
+      "sourceUrl": "https://www.cbsnews.com/news/lynette-hooker-missing-sailboat-bahamas-investigation/",
+      "difficulty": "medium",
+      "region": "caribbean",
+      "imageUrl": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/04/13/d7a45f0a-7d18-485c-8d5b-abfad842bd66/thumbnail/1200x630g1/325a7d797358be532ccbb571574e275e/lynette-hooker-facebook.jpg"
+    },
+    {
+      "id": 10,
+      "answer": "Dark chocolate",
+      "acceptedAnswers": [
+        "Dark chocolate",
+        "Chocolate"
+      ],
+      "clues": [
+        "Cocoa content",
+        "Theobromine",
+        "Flavonoids",
+        "Confectionery",
+        "Cacao bean product",
+        "Frontiers in Physiology study"
+      ],
+      "summary": "A new study published in Frontiers in Physiology found that the aroma of dark chocolate with high cocoa content can reduce feelings of hunger and make strength training feel easier, even on an empty stomach.",
+      "sourceUrl": "https://medicalxpress.com/news/2026-07-dark-chocolate-leg-workout-easier.html",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://scx2.b-cdn.net/gfx/news/hires/2026/leg-machine-gym.jpg"
+    }
+  ]
+}
