@@ -1,0 +1,210 @@
+{
+  "date": "2026-07-13",
+  "puzzles": [
+    {
+      "id": 1,
+      "answer": "Bahamas",
+      "acceptedAnswers": [
+        "Bahamas",
+        "The Bahamas"
+      ],
+      "clues": [
+        "Caribbean archipelago",
+        "Commonwealth realm",
+        "Nassau is the capital",
+        "Independence Day celebrated on July 10",
+        "Popular cruise ship destination",
+        "Atlantic Ocean island nation"
+      ],
+      "summary": "A small plane crash in the Bahamas killed 10 people on the country's independence day, prompting the prime minister to call it a national tragedy.",
+      "sourceUrl": "https://www.bbc.com/news/articles/ckg47lz10p7o",
+      "difficulty": "easy",
+      "region": "caribbean",
+      "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/77ca/live/66dbf810-7cdb-11f1-8c49-6f4d70563315.jpg"
+    },
+    {
+      "id": 2,
+      "answer": "Iron lung",
+      "acceptedAnswers": [
+        "Iron lung"
+      ],
+      "clues": [
+        "Negative pressure ventilator",
+        "Medical device from the 1920s",
+        "Associated with mid-20th century epidemics",
+        "Cylindrical chamber enclosing the body",
+        "Replaced by positive pressure ventilation",
+        "Philip Drinker invention"
+      ],
+      "summary": "Martha Lillard, the last U.S. polio patient still using an iron lung, has died at age 78 in Oklahoma, drawing renewed attention to this historic medical device.",
+      "sourceUrl": "https://apnews.com/article/iron-lung-last-patient-died-polio-41e5b4da4f4e710344dd0872d7fcf987",
+      "difficulty": "medium",
+      "region": "north-america",
+      "imageUrl": "https://dims.apnews.com/dims4/default/9b7118f/2147483647/strip/true/crop/5500x3665+0+933/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fd7%2F58%2Fe635de176b40739fca964bd3ec9a%2Fdc8a95a2b84d449ea6bee11b771736bd"
+    },
+    {
+      "id": 3,
+      "answer": "Mikel Merino",
+      "acceptedAnswers": [
+        "Mikel Merino"
+      ],
+      "clues": [
+        "Spanish midfielder",
+        "Born in Pamplona",
+        "Former Borussia Dortmund player",
+        "Arsenal signing in 2024",
+        "La Liga veteran",
+        "Late-game specialist"
+      ],
+      "summary": "Mikel Merino scored a dramatic 88th-minute goal to send Spain past Belgium 2-1 in the 2026 World Cup quarterfinals, his second consecutive late match-winner in the tournament.",
+      "sourceUrl": "https://apnews.com/article/spain-belgium-score-world-cup-780243a17571b6b2b26074b66feec90a",
+      "difficulty": "hard",
+      "region": "europe",
+      "imageUrl": "https://dims.apnews.com/dims4/default/f2ecd48/2147483647/strip/true/crop/4361x2906+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F1d%2F4d%2F9804aa5ed773dbb86a0c9033c2f3%2F5331a0925224414aa10dbccf035eb99b"
+    },
+    {
+      "id": 4,
+      "answer": "Pokémon Go",
+      "acceptedAnswers": [
+        "Pokémon Go",
+        "Pokemon Go"
+      ],
+      "clues": [
+        "Augmented reality mobile game",
+        "Developed by Niantic",
+        "Location-based gameplay",
+        "Launched in 2016",
+        "Uses GPS and camera features",
+        "Inspired by a Nintendo franchise"
+      ],
+      "summary": "Over a thousand Pokémon Go players gathered in Times Square for a surprise 10th-anniversary event to defeat Mewtwo, fulfilling a promise teased in the game's original 2016 launch trailer.",
+      "sourceUrl": "https://www.wired.com/story/thousands-of-pokemon-go-players-descend-on-times-square-to-defeat-mewtwo/",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://media.wired.com/photos/6a5043b7f715f2c43619b84a/191:100/w_1280,c_limit/DSC_9089.jpg"
+    },
+    {
+      "id": 5,
+      "answer": "Dark energy",
+      "acceptedAnswers": [
+        "Dark energy"
+      ],
+      "clues": [
+        "Hypothetical form of cosmic force",
+        "Drives accelerating expansion of the universe",
+        "Approximately 68% of the total universe",
+        "Discovered via Type Ia supernovae observations",
+        "Linked to the cosmological constant",
+        "Nobel Prize in Physics 2011 subject"
+      ],
+      "summary": "New research shows dark energy may have flipped its sign over cosmic history, but the long-standing Hubble tension — the discrepancy in measurements of the universe's expansion rate — remains unresolved.",
+      "sourceUrl": "https://phys.org/news/2026-07-dark-energy-flips-hubble-tension.html",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://scx2.b-cdn.net/gfx/news/hires/2026/dark-energy-flips-its.jpg"
+    },
+    {
+      "id": 6,
+      "answer": "Mauricio Pochettino",
+      "acceptedAnswers": [
+        "Mauricio Pochettino",
+        "Pochettino"
+      ],
+      "clues": [
+        "Argentine football manager",
+        "Former Tottenham Hotspur boss",
+        "Champions League finalist 2019",
+        "Managed Paris Saint-Germain",
+        "Former Chelsea head coach",
+        "Coached Espanyol and Southampton"
+      ],
+      "summary": "Despite the USMNT's humiliating exit from the 2026 World Cup, analysts argue Pochettino is not to blame and deserves to continue as manager of the U.S. men's national team.",
+      "sourceUrl": "https://www.si.com/soccer/usmnt-humiliating-world-cup-exit-wasnt-pochettino-fault-deserves-stay",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_90,w_720,h_405/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/si/01kwga2ce9js664ac13a.jpg"
+    },
+    {
+      "id": 7,
+      "answer": "Election Assistance Commission",
+      "acceptedAnswers": [
+        "Election Assistance Commission",
+        "EAC"
+      ],
+      "clues": [
+        "Independent U.S. federal agency",
+        "Created by the Help America Vote Act of 2002",
+        "Oversees voting system certification",
+        "Bipartisan body with four commissioners",
+        "Issues guidance on election administration",
+        "Maintains voluntary voting system guidelines"
+      ],
+      "summary": "A report revealed the White House explored declaring a national emergency over alleged voting machine vulnerabilities before Trump ousted leaders of this federal election agency.",
+      "sourceUrl": "https://www.dw.com/en/us-trump-looked-to-bypass-federal-election-agency-before-firings-says-report/a-77913362",
+      "difficulty": "hard",
+      "region": "north-america",
+      "imageUrl": "https://static.dw.com/image/77881694_6.jpg"
+    },
+    {
+      "id": 8,
+      "answer": "Mega Millions",
+      "acceptedAnswers": [
+        "Mega Millions"
+      ],
+      "clues": [
+        "American multi-state lottery",
+        "Drawing held twice weekly",
+        "Five numbers plus a bonus ball",
+        "Jackpots can reach billions",
+        "Available in 45 states",
+        "Competing national lottery game"
+      ],
+      "summary": "The Mega Millions jackpot has climbed past $1 billion in combination with Powerball after neither game produced a winner, drawing massive public interest.",
+      "sourceUrl": "https://komonews.com/news/local/washington-state-lottery-mega-millions-powerball-combined-jackpot-surpasses-1-billion-dollars-winner-latest-drawing-quick-pick-how-to-get-a-lottery-ticket",
+      "difficulty": "easy",
+      "region": "north-america",
+      "imageUrl": "https://komonews.com/resources/media2/16x9/1999/1320/0x49/90/d561dde6-04df-44bd-b724-b43fd01c7372-Powerball.jpg"
+    },
+    {
+      "id": 9,
+      "answer": "Hubble tension",
+      "acceptedAnswers": [
+        "Hubble tension",
+        "Hubble constant tension"
+      ],
+      "clues": [
+        "Cosmological crisis in modern physics",
+        "Discrepancy in expansion rate measurements",
+        "Named after an astronomer's constant",
+        "Comparing early universe vs. local observations",
+        "Involves cosmic microwave background data",
+        "Challenges the standard model of cosmology"
+      ],
+      "summary": "Despite new findings about dark energy flipping its sign, the Hubble tension — the persistent disagreement between different methods of measuring the universe's expansion rate — stubbornly remains unresolved.",
+      "sourceUrl": "https://phys.org/news/2026-07-dark-energy-flips-hubble-tension.html",
+      "difficulty": "hard",
+      "region": "global",
+      "imageUrl": "https://scx2.b-cdn.net/gfx/news/hires/2026/dark-energy-flips-its.jpg"
+    },
+    {
+      "id": 10,
+      "answer": "Mewtwo",
+      "acceptedAnswers": [
+        "Mewtwo"
+      ],
+      "clues": [
+        "Psychic-type fictional creature",
+        "Genetically engineered from Mew",
+        "Legendary status in its franchise",
+        "Featured in first animated movie of its series",
+        "Number 150 in the original Pokédex",
+        "Created by scientists in a laboratory"
+      ],
+      "summary": "Over a thousand players gathered in Times Square for a Pokémon Go 10th-anniversary event to collectively battle and defeat Mewtwo, recreating a scene from the game's iconic 2016 launch trailer.",
+      "sourceUrl": "https://www.wired.com/story/thousands-of-pokemon-go-players-descend-on-times-square-to-defeat-mewtwo/",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://media.wired.com/photos/6a5043b7f715f2c43619b84a/191:100/w_1280,c_limit/DSC_9089.jpg"
+    }
+  ]
+}
