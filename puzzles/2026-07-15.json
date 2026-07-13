@@ -1,0 +1,216 @@
+{
+  "date": "2026-07-15",
+  "puzzles": [
+    {
+      "id": 1,
+      "answer": "Ann Widdecombe",
+      "acceptedAnswers": [
+        "Ann Widdecombe",
+        "Anne Widdecombe"
+      ],
+      "clues": [
+        "British politician",
+        "Conservative Party member",
+        "Brexit Party MEP",
+        "Strictly Come Dancing contestant",
+        "Former Shadow Home Secretary",
+        "Devon constituency"
+      ],
+      "summary": "Former British lawmaker Ann Widdecombe was found dead with serious injuries at her home, prompting a murder investigation and reigniting concerns about the safety of UK politicians.",
+      "sourceUrl": "https://www.nbcnews.com/world/united-kingdom/uk-rattled-killing-politician-ann-widdecombe-murder-probe-continues-rcna439777",
+      "difficulty": "hard",
+      "region": "europe",
+      "imageUrl": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-07/260711-widdecombe-nd-0e69fc.jpg"
+    },
+    {
+      "id": 2,
+      "answer": "Costco",
+      "acceptedAnswers": [
+        "Costco",
+        "Costco Wholesale"
+      ],
+      "clues": [
+        "Membership-based retailer",
+        "Warehouse club",
+        "Bulk purchasing",
+        "Kirkland Signature brand",
+        "Founded in Washington state",
+        "Fortune 500 company"
+      ],
+      "summary": "Costco's iconic free sample program is in the spotlight as reports highlight how the bite-sized treats drive bulk sales and have become a cultural phenomenon for American shoppers.",
+      "sourceUrl": "https://www.usatoday.com/story/money/2026/07/12/costco-free-samples-feeding-frenzy/90768766007/",
+      "difficulty": "easy",
+      "region": "north_america",
+      "imageUrl": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/01/USAT/90776369007-756618.jpg?crop=2999,1687,x0,y308&width=2999&height=1687&format=pjpg&auto=webp"
+    },
+    {
+      "id": 3,
+      "answer": "Tyrannosaurus rex",
+      "acceptedAnswers": [
+        "Tyrannosaurus rex",
+        "T. rex",
+        "T-Rex"
+      ],
+      "clues": [
+        "Cretaceous period predator",
+        "Theropod dinosaur",
+        "Discovered in North America",
+        "Featured in Jurassic Park",
+        "Large carnivorous reptile",
+        "Tiny forelimbs"
+      ],
+      "summary": "A 67-million-year-old fossil is set to go on sale in New York with a pre-sale estimate of $30 million, potentially making it the most expensive dinosaur ever sold at auction.",
+      "sourceUrl": "https://www.bbc.com/news/articles/c4gykgyn1r4o",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/6771/live/98eee880-7c5e-11f1-bee8-53ce494e1abc.jpg"
+    },
+    {
+      "id": 4,
+      "answer": "Medicaid",
+      "acceptedAnswers": [
+        "Medicaid"
+      ],
+      "clues": [
+        "US public health insurance",
+        "Joint federal-state program",
+        "Enacted in 1965",
+        "Low-income assistance",
+        "Title XIX of Social Security Act",
+        "Centers for Medicare services"
+      ],
+      "summary": "Nebraska became the first state to implement new Trump administration work requirements for the program, causing widespread confusion among participants struggling to get information about compliance.",
+      "sourceUrl": "https://www.nbcnews.com/news/us-news/medicaid-work-requirements-nebraska-extreme-confusion-rcna353644",
+      "difficulty": "medium",
+      "region": "north_america",
+      "imageUrl": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-07/260709-nebraska-medicaid-molly-mayhew-schmeeka-simpson-vl-1212p-48c25e.jpg"
+    },
+    {
+      "id": 5,
+      "answer": "Guggenheim Museum",
+      "acceptedAnswers": [
+        "Guggenheim Museum",
+        "Solomon R. Guggenheim Museum",
+        "Guggenheim"
+      ],
+      "clues": [
+        "Frank Lloyd Wright design",
+        "Fifth Avenue landmark",
+        "Spiral rotunda architecture",
+        "Modern art collection",
+        "Upper East Side institution",
+        "Opened in 1959"
+      ],
+      "summary": "The iconic New York museum is among 31 buildings on the Upper East Side that tested positive for Legionnaires' disease bacteria, as the city deals with a growing outbreak.",
+      "sourceUrl": "https://www.pbs.org/newshour/health/guggenheim-museum-among-nyc-buildings-that-tested-positive-for-legionnaires-amid-disease-outbreak",
+      "difficulty": "medium",
+      "region": "north_america",
+      "imageUrl": "https://d3i6fh83elv35t.cloudfront.net/static/2026/07/2017-08-30T202006Z_894343115_RC1DCF0F1700_RTRMADP_3_NEW-YORK-GOLDTOILET-1024x683.jpg"
+    },
+    {
+      "id": 6,
+      "answer": "Reflect Orbital",
+      "acceptedAnswers": [
+        "Reflect Orbital"
+      ],
+      "clues": [
+        "Space startup",
+        "Sunlight redirection technology",
+        "FCC-approved satellite",
+        "Controversial astronomy impact",
+        "Night illumination concept",
+        "Environmental criticism"
+      ],
+      "summary": "The FCC approved the company's first satellite to test technology that reflects sunlight into nighttime regions, a project that has drawn sharp criticism from astronomers and environmentalists.",
+      "sourceUrl": "https://spacenews.com/fcc-approves-first-reflect-orbital-satellite/",
+      "difficulty": "hard",
+      "region": "global",
+      "imageUrl": "https://spacenews.com/wp-content/uploads/2026/07/reflectorbital.jpeg"
+    },
+    {
+      "id": 7,
+      "answer": "MLB Draft",
+      "acceptedAnswers": [
+        "MLB Draft",
+        "MLB draft",
+        "Major League Baseball Draft"
+      ],
+      "clues": [
+        "Amateur player selection",
+        "Professional baseball event",
+        "Annual June/July event",
+        "First-year player selections",
+        "Prospect evaluation",
+        "Held since 1965"
+      ],
+      "summary": "Day 1 of the 2026 MLB Draft concluded with the first 135 picks, as analysts assessed the winners and losers heading into Day 2 of the selection process.",
+      "sourceUrl": "https://www.espn.com/mlb/story/_/id/49306849/2026-mlb-draft-analysis-winners-losers-day-1-preview-day-2",
+      "difficulty": "medium",
+      "region": "north_america",
+      "imageUrl": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0711%2Fr1687923_3_1296x729_16%2D9.jpg"
+    },
+    {
+      "id": 8,
+      "answer": "Colin Kaepernick",
+      "acceptedAnswers": [
+        "Colin Kaepernick",
+        "Kaepernick"
+      ],
+      "clues": [
+        "Former NFL quarterback",
+        "San Francisco 49ers player",
+        "Civil rights activist",
+        "National anthem protest",
+        "Nike endorsement deal",
+        "Wisconsin-born athlete"
+      ],
+      "summary": "Colin Kaepernick is funding an independent autopsy for Nolan Wells, an 18-year-old found dead after a July 4 boat trip to a Mississippi island, as the teen's parents demand answers from friends who left him behind.",
+      "sourceUrl": "https://nypost.com/2026/07/11/us-news/kids-have-to-answer-to-for-leaving-nolan-wells-behind-parents-say/",
+      "difficulty": "medium",
+      "region": "north_america",
+      "imageUrl": "https://nypost.com/wp-content/uploads/sites/2/2026/07/nolan-wells-second-right-friends-134090966_a3b474.jpg?quality=75&strip=all&w=1200"
+    },
+    {
+      "id": 9,
+      "answer": "Boston Harbor",
+      "acceptedAnswers": [
+        "Boston Harbor",
+        "Boston Harbour"
+      ],
+      "clues": [
+        "Massachusetts Bay inlet",
+        "Site of a famous tea party",
+        "New England port",
+        "Logan Airport proximity",
+        "Historical colonial waterway",
+        "Charles River outlet"
+      ],
+      "summary": "Tall ships gathered in the harbor for Sail Boston 2026 are causing flight delays and cancellations at nearby Logan Airport due to height restrictions on approaching aircraft.",
+      "sourceUrl": "https://www.cbsnews.com/boston/news/tall-ships-parade-of-sail-logan-airport-delays/",
+      "difficulty": "medium",
+      "region": "north_america",
+      "imageUrl": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/07/11/83673250-5901-4fa3-a882-c7ca7ced69f1/thumbnail/1200x630/5785674ecfca008f396efa59a0e54fd2/best-of-tall-ships-condensed-hi-res-still.jpg"
+    },
+    {
+      "id": 10,
+      "answer": "MIT",
+      "acceptedAnswers": [
+        "MIT",
+        "Massachusetts Institute of Technology"
+      ],
+      "clues": [
+        "Cambridge university",
+        "Founded in 1861",
+        "Engineering research institution",
+        "Beaver mascot",
+        "Ivy Plus member",
+        "Tech innovation hub"
+      ],
+      "summary": "Researchers at the university have developed a robot inspired by diving seabirds like puffins that uses the same wings to both fly through the air and swim underwater.",
+      "sourceUrl": "https://www.techspot.com/news/113077-mit-robot-flies-through-air-dives-underwater-using.html",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://www.techspot.com/images2/news/bigimage/2026/07/2026-07-10-image-20.jpg"
+    }
+  ]
+}
