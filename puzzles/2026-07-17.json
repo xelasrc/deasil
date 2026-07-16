@@ -1,0 +1,210 @@
+{
+  "date": "2026-07-17",
+  "puzzles": [
+    {
+      "id": 1,
+      "answer": "Gibraltar",
+      "acceptedAnswers": [
+        "Gibraltar"
+      ],
+      "clues": [
+        "British Overseas Territory",
+        "Iberian Peninsula",
+        "Rock formation landmark",
+        "Strait connecting Atlantic and Mediterranean",
+        "Pillar of Hercules",
+        "Disputed sovereignty"
+      ],
+      "summary": "Border controls between Spain and Gibraltar have been scrapped, with the old chain-link fence removed, marking a historic step for freedom of movement.",
+      "sourceUrl": "https://www.dw.com/en/border-controls-scrapped-between-spain-and-gibraltar/a-77961013",
+      "difficulty": "medium",
+      "region": "europe",
+      "imageUrl": "https://static.dw.com/image/77960942_6.jpg"
+    },
+    {
+      "id": 2,
+      "answer": "Luis de la Fuente",
+      "acceptedAnswers": [
+        "Luis de la Fuente",
+        "De la Fuente"
+      ],
+      "clues": [
+        "National team manager",
+        "UEFA Euro 2024 winner",
+        "Former Athletic Bilbao youth coach",
+        "La Roja",
+        "Successor to Luis Enrique",
+        "Huelva-born tactician"
+      ],
+      "summary": "Spain's head coach has guided his team to the 2026 FIFA World Cup final after a masterclass semifinal victory over France, seeking to recapture the glory of 2010.",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/7/15/spain-france-world-cup-semifinal-luis-de-la-fuente-2010-title",
+      "difficulty": "hard",
+      "region": "europe",
+      "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/07/AFP__20260710__B9TE9PG__v1__HighRes__FblWc2026PresserEsp-1784096183.jpg?resize=1920%2C1440"
+    },
+    {
+      "id": 3,
+      "answer": "IBM",
+      "acceptedAnswers": [
+        "IBM",
+        "International Business Machines"
+      ],
+      "clues": [
+        "Big Blue",
+        "Founded in 1911",
+        "Mainframe computing pioneer",
+        "Watson AI platform",
+        "New York-headquartered tech firm",
+        "Deep Blue chess computer"
+      ],
+      "summary": "IBM shares crashed 25% in their worst single-day decline ever after CEO Arvind Krishna warned investors that results were worse than expectations.",
+      "sourceUrl": "https://www.forbes.com/sites/tylerroush/2026/07/14/ibm-shares-crashed-25-in-worst-day-ever-heres-why/",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://imageio.forbes.com/specials-images/imageserve/6a564f18a6d31425969051ae/0x0.jpg?format=jpg&crop=2551,1436,x0,y78,safe&height=900&width=1600&fit=bounds"
+    },
+    {
+      "id": 4,
+      "answer": "Iraq",
+      "acceptedAnswers": [
+        "Iraq"
+      ],
+      "clues": [
+        "Mesopotamia",
+        "Tigris and Euphrates rivers",
+        "OPEC member state",
+        "Baghdad capital",
+        "Former Ba'athist state",
+        "Middle Eastern republic"
+      ],
+      "summary": "Iraq has conducted a major anti-corruption crackdown, seizing 825 pounds of gold and tens of millions in cash from lawmakers and government officials.",
+      "sourceUrl": "https://www.cbsnews.com/news/iraq-gold-cash-corruption-crackdown/",
+      "difficulty": "easy",
+      "region": "middle-east",
+      "imageUrl": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/07/15/7e0667b7-4700-4dd2-b41e-ef900258be1b/thumbnail/1200x630/1e61e3a68376f8ffa246971a445d5615/iraq-corruption-2.jpg"
+    },
+    {
+      "id": 5,
+      "answer": "Dylan Cease",
+      "acceptedAnswers": [
+        "Dylan Cease"
+      ],
+      "clues": [
+        "Right-handed pitcher",
+        "Former Chicago White Sox player",
+        "Milton, Georgia native",
+        "Vanderbilt Commodores alumnus",
+        "San Diego Padres trade acquisition",
+        "American League hurler"
+      ],
+      "summary": "Dylan Cease struck out the side in the first inning and combined with relievers on a three-hitter as the American League won the All-Star Game 4-0, the first shutout since 2013.",
+      "sourceUrl": "https://apnews.com/article/national-american-score-all-star-game-75d1dd78f84ccf9390d11cbd3f262cdd",
+      "difficulty": "hard",
+      "region": "north-america",
+      "imageUrl": "https://dims.apnews.com/dims4/default/3be8008/2147483647/strip/true/crop/3746x2496+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F5d%2F31%2F3f6fd8e33e4a9adeef903a0e3d30%2F0734c615c67a4df696d541684958a84d"
+    },
+    {
+      "id": 6,
+      "answer": "Todd Blanche",
+      "acceptedAnswers": [
+        "Todd Blanche"
+      ],
+      "clues": [
+        "Attorney general nominee",
+        "Former federal prosecutor",
+        "Trump defense lawyer",
+        "Senate confirmation process",
+        "Southern District of New York veteran",
+        "Department of Justice leadership"
+      ],
+      "summary": "Todd Blanche, Trump's nominee for attorney general, is facing a confirmation hearing where he could receive tough questioning from members of both parties.",
+      "sourceUrl": "https://www.politico.com/news/2026/07/14/todd-blanche-confirmation-hearing-attorney-general-00998340",
+      "difficulty": "hard",
+      "region": "north-america",
+      "imageUrl": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F7e%2F74%2F0dca88bf4caca3f85b5ea9e7eb78%2Fu-s-congress-43643.jpg"
+    },
+    {
+      "id": 7,
+      "answer": "China",
+      "acceptedAnswers": [
+        "China",
+        "People's Republic of China"
+      ],
+      "clues": [
+        "World's second-largest economy",
+        "Belt and Road Initiative",
+        "East Asian nation",
+        "Yuan currency",
+        "Most populous country historically",
+        "Beijing-governed state"
+      ],
+      "summary": "China has reported its lowest GDP growth in more than three years, with the second-quarter figure falling below the country's annual target range amid mounting economic pressure.",
+      "sourceUrl": "https://www.ft.com/content/5b12e491-dcd0-4e0c-a464-96ec37b737ab?syn-25a6b1a6\\\\u003d1",
+      "difficulty": "easy",
+      "region": "asia",
+      "imageUrl": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F86dce608-92dd-4c07-82ae-7cc3056f5bc8.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1?source=next-barrier-page"
+    },
+    {
+      "id": 8,
+      "answer": "Microsoft",
+      "acceptedAnswers": [
+        "Microsoft"
+      ],
+      "clues": [
+        "Redmond-based tech giant",
+        "Azure cloud platform",
+        "Office 365 developer",
+        "Satya Nadella-led company",
+        "Xbox parent company",
+        "Operating system market leader"
+      ],
+      "summary": "Microsoft has rolled out significant updates to Windows Search functionality that have been surprisingly well-received by users and reviewers.",
+      "sourceUrl": "https://www.theregister.com/os-platforms/2026/07/14/microsoft-rolls-out-windows-search-updates-and-theyre-quite-good/5271320",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://image.theregister.com/5271367.jpg?imageId=5271367&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
+    },
+    {
+      "id": 9,
+      "answer": "Lindsey Graham",
+      "acceptedAnswers": [
+        "Lindsey Graham"
+      ],
+      "clues": [
+        "South Carolina senator",
+        "Republican Party politician",
+        "Senate Judiciary Committee member",
+        "Former Air Force JAG officer",
+        "Central, South Carolina native",
+        "Three-term upper chamber legislator"
+      ],
+      "summary": "Lindsey Graham's sister, Darline Graham Nordone, has been sworn in to succeed him, appointed by South Carolina's governor to serve the final six months of his term.",
+      "sourceUrl": "https://www.washingtonpost.com/politics/2026/07/14/darline-graham-nordone-lindsey-grahams-sister-sworn-succeed-him/",
+      "difficulty": "medium",
+      "region": "north-america",
+      "imageUrl": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/RQVXITBFVFI4PQQ5LIYC4SBN7Q.jpg&w=1440"
+    },
+    {
+      "id": 10,
+      "answer": "Metropolitan Museum of Art",
+      "acceptedAnswers": [
+        "Metropolitan Museum of Art",
+        "The Met",
+        "Met Museum"
+      ],
+      "clues": [
+        "Fifth Avenue cultural institution",
+        "Central Park landmark",
+        "Largest art museum in the Americas",
+        "Temple of Dendur home",
+        "The Cloisters affiliate",
+        "Founded in 1870"
+      ],
+      "summary": "The Metropolitan Museum of Art is among notable Upper East Side buildings that have tested positive for Legionella bacteria, alongside several prominent private schools.",
+      "sourceUrl": "https://patch.com/new-york/upper-east-side-nyc/76-ues-buildings-test-positive-legionella-officials-say",
+      "difficulty": "medium",
+      "region": "north-america",
+      "imageUrl": "https://patch.com/img/cdn20/shutterstock/26929305/20260714/045529/styles/patch_image/public/shutterstock-355821983___14165520689.jpg"
+    }
+  ]
+}
