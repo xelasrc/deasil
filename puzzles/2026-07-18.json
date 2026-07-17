@@ -1,0 +1,219 @@
+{
+  "date": "2026-07-18",
+  "puzzles": [
+    {
+      "id": 1,
+      "answer": "Sam Neill",
+      "acceptedAnswers": [
+        "Sam Neill",
+        "Nigel John Dermot Neill"
+      ],
+      "clues": [
+        "New Zealand actor",
+        "Born in Northern Ireland",
+        "Raised in Christchurch",
+        "Starred alongside Laura Dern",
+        "Played Dr. Alan Grant",
+        "Peaky Blinders cast member"
+      ],
+      "summary": "Actor Sam Neill, best known for his role as Dr. Alan Grant in the Jurassic Park franchise, has died from pneumonia in Sydney, Australia. His agent confirmed the cause of death after his family announced his passing.",
+      "sourceUrl": "https://apnews.com/article/sam-neill-pneumonia-cause-of-death-a24b8770ab1af7ab2e2160d8e9394e34",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://dims.apnews.com/dims4/default/781356b/2147483647/strip/true/crop/4987x3323+6+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fed%2F4b%2F85cfa3bb81a27865f4bfdf404105%2F6aa8be05bc54422186ad31c5801961c4"
+    },
+    {
+      "id": 2,
+      "answer": "Alcatraz",
+      "acceptedAnswers": [
+        "Alcatraz",
+        "Alcatraz Island"
+      ],
+      "clues": [
+        "Island in the San Francisco Bay",
+        "Former federal penitentiary",
+        "National Historic Landmark",
+        "Famous for escape attempts",
+        "Now a popular tourist destination",
+        "Once housed Al Capone"
+      ],
+      "summary": "A 49-foot cabin cruiser carrying 20 adults capsized in rough seas near this famous island, killing one person and leaving three others missing as search efforts concluded.",
+      "sourceUrl": "https://www.sfchronicle.com/bayarea/article/alcatraz-boat-capsize-22346212.php",
+      "difficulty": "medium",
+      "region": "north-america",
+      "imageUrl": "https://s.hdnux.com/photos/01/66/66/24/31155503/3/rawImage.jpg"
+    },
+    {
+      "id": 3,
+      "answer": "Microplastics",
+      "acceptedAnswers": [
+        "Microplastics",
+        "Micro and nanoplastics",
+        "Nanoplastics"
+      ],
+      "clues": [
+        "Environmental pollutant",
+        "Found in ocean ecosystems",
+        "Derived from synthetic polymers",
+        "Smaller than 5 millimeters",
+        "Present in drinking water worldwide",
+        "Linked to cardiovascular research"
+      ],
+      "summary": "A new study published by the European Society of Cardiology found that heart attack patients had significantly higher levels of micro and nanoplastics in their blood compared to other cardiac patients, raising global health concerns.",
+      "sourceUrl": "https://www.escardio.org/news/press/press-releases/patients-who-suffer-heart-attack-have-more-micro-and-nanoplastic-in-their-blood/",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": ""
+    },
+    {
+      "id": 4,
+      "answer": "Mars",
+      "acceptedAnswers": [
+        "Mars"
+      ],
+      "clues": [
+        "Fourth planet from the Sun",
+        "Home to Olympus Mons",
+        "Has two small moons",
+        "Red appearance due to iron oxide",
+        "Explored by multiple rovers",
+        "Named after Roman god of war"
+      ],
+      "summary": "NASA's photo of the day for July 14 featured striking honeycomb-like geological structures spotted on the Martian surface, sparking interest among planetary scientists about their formation.",
+      "sourceUrl": "https://www.space.com/astronomy/mars/honeycomb-structures-spotted-on-mars-space-photo-of-the-day-for-july-14-2026",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://cdn.mos.cms.futurecdn.net/mSUoGqZdfYkdpCyVYrpcvN-2000-80.png"
+    },
+    {
+      "id": 5,
+      "answer": "Skullcandy",
+      "acceptedAnswers": [
+        "Skullcandy"
+      ],
+      "clues": [
+        "Audio equipment brand",
+        "Founded in Park City, Utah",
+        "Known for colorful designs",
+        "Competes with JBL and Sony",
+        "Popular among younger consumers",
+        "Owned by Incipio Group"
+      ],
+      "summary": "Skullcandy has released new wireless headphones called the Crusher 1080 ANC, notable for incorporating three Bose-licensed technologies never before used outside of Bose's own product lineup.",
+      "sourceUrl": "https://gizmodo.com/skullcandys-new-wireless-headphones-have-so-much-bose-in-them-2000785885",
+      "difficulty": "hard",
+      "region": "global",
+      "imageUrl": "https://gizmodo.com/app/uploads/2026/07/skullcandy-crusher-1080-ANC-1200x675.jpg"
+    },
+    {
+      "id": 6,
+      "answer": "The Open Championship",
+      "acceptedAnswers": [
+        "The Open Championship",
+        "The Open",
+        "British Open",
+        "The 154th Open"
+      ],
+      "clues": [
+        "Oldest golf major tournament",
+        "Organized by The R&A",
+        "Played on links courses",
+        "Uses a Claret Jug trophy",
+        "Held in the United Kingdom",
+        "One of four men's major championships"
+      ],
+      "summary": "The 154th edition of golf's oldest major championship is underway, with Round 2 tee times announced as players compete on a links course in the UK.",
+      "sourceUrl": "https://sports.yahoo.com/golf/article/the-154th-british-open-how-to-watch-the-open-championship-golf-tournament-round-2-tee-times-tv-channel-streaming-schedule-and-more-130000399.html",
+      "difficulty": "medium",
+      "region": "europe",
+      "imageUrl": "https://s.yimg.com/ny/api/res/1.2/zsxeCn_ut9_2iJyuDUccOg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://d29szjachogqwa.cloudfront.net/images/2026-07/0cfc631e-47ad-4920-9126-60072ee478a5"
+    },
+    {
+      "id": 7,
+      "answer": "Bose",
+      "acceptedAnswers": [
+        "Bose",
+        "Bose Corporation"
+      ],
+      "clues": [
+        "Founded by Amar G. in 1964",
+        "Headquartered in Framingham, Massachusetts",
+        "Known for noise-cancelling technology",
+        "Premium audio equipment maker",
+        "Named after an MIT professor",
+        "Pioneer in active sound management"
+      ],
+      "summary": "Bose's proprietary audio technologies are making headlines after Skullcandy's new Crusher 1080 ANC headphones became the first non-Bose product to incorporate three of the company's licensed technologies.",
+      "sourceUrl": "https://gizmodo.com/skullcandys-new-wireless-headphones-have-so-much-bose-in-them-2000785885",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://gizmodo.com/app/uploads/2026/07/skullcandy-crusher-1080-ANC-1200x675.jpg"
+    },
+    {
+      "id": 8,
+      "answer": "Canadian wildfires",
+      "acceptedAnswers": [
+        "Canadian wildfires",
+        "Canada wildfires",
+        "Canadian wildfire smoke"
+      ],
+      "clues": [
+        "Recurring boreal forest crisis",
+        "Cause of transboundary air pollution",
+        "Linked to climate change impacts",
+        "Produce hazardous particulate matter",
+        "Triggered air quality alerts in 2023",
+        "Affected visibility across North America"
+      ],
+      "summary": "Wildfire smoke from Canada has again drifted south into the New York City area, triggering air quality alerts across the Tri-State region with hazy skies and spikes in pollution levels.",
+      "sourceUrl": "https://abc7ny.com/live-updates/nyc-weather-air-quality-alert-new-york-nj-tri-state-canadian-wildfire-smoke-moves/19514675/",
+      "difficulty": "medium",
+      "region": "north-america",
+      "imageUrl": "https://cdn.abcotvs.com/dip/images/19514842_071526-wabc-getty-smoky-nyc-img.jpg?w=1600"
+    },
+    {
+      "id": 9,
+      "answer": "Interstellar medium",
+      "acceptedAnswers": [
+        "Interstellar medium",
+        "Interstellar space",
+        "ISM"
+      ],
+      "clues": [
+        "Region between star systems",
+        "Contains gas and cosmic dust",
+        "Studied via radio astronomy",
+        "Home to molecular clouds",
+        "Site of prebiotic chemistry discoveries",
+        "Mapped by spectroscopy"
+      ],
+      "summary": "Scientists have detected raspberry sugar (glycolaldehyde) in the space between stars, a discovery that suggests sugars can form naturally in cosmic environments and may offer clues about the origins of life.",
+      "sourceUrl": "https://www.space.com/astronomy/raspberry-sugar-spotted-in-interstellar-space-a-sweet-discovery-that-could-reveal-clues-about-lifes-origins",
+      "difficulty": "hard",
+      "region": "global",
+      "imageUrl": "https://cdn.mos.cms.futurecdn.net/n9GnL4gPVcwfwgcFmDAtVS-2000-80.png"
+    },
+    {
+      "id": 10,
+      "answer": "ESPY Awards",
+      "acceptedAnswers": [
+        "ESPY Awards",
+        "ESPYs",
+        "ESPY"
+      ],
+      "clues": [
+        "Annual ceremony honoring athletic achievement",
+        "Broadcast on ABC network",
+        "Hosted by ESPN",
+        "Features fan voting",
+        "Named for Excellence in Sports Performance",
+        "Red carpet event for athletes and celebrities"
+      ],
+      "summary": "The 2026 ESPY Awards ceremony brought athletes and celebrities together on the red carpet, with notable attendees including Ayesha Curry and Olympic figure skater Alysa Liu.",
+      "sourceUrl": "https://pagesix.com/2026/07/15/photos/espy-awards-2026-red-carpet-lindsey-vonn-alysa-liu-and-more/",
+      "difficulty": "medium",
+      "region": "north-america",
+      "imageUrl": "https://pagesix.com/wp-content/uploads/sites/3/2026/07/ESPY-Awards-2026.jpg?quality=90&strip=all&w=1200"
+    }
+  ]
+}
