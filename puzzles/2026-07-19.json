@@ -1,0 +1,214 @@
+{
+  "date": "2026-07-19",
+  "puzzles": [
+    {
+      "id": 1,
+      "answer": "Japanese Imperial Succession",
+      "acceptedAnswers": [
+        "Japanese Imperial Succession",
+        "Imperial succession",
+        "Japan imperial succession"
+      ],
+      "clues": [
+        "Chrysanthemum Throne",
+        "East Asian monarchy",
+        "Constitutional monarchy reform",
+        "Gender debate in royal lineage",
+        "Oldest continuous hereditary institution",
+        "Diet legislative debate"
+      ],
+      "summary": "Japan has revised its law to ensure male heirs to the imperial throne, despite growing public support for allowing a female Emperor, spurred by a popular princess. The country's first female prime minister has opposed the change.",
+      "sourceUrl": "https://www.npr.org/2026/07/17/g-s1-133536/japan-revises-law-to-ensure-supply-of-male-heirs-to-the-imperial-throne",
+      "difficulty": "hard",
+      "region": "asia",
+      "imageUrl": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4327x2434+0+226/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5a%2F10%2F47a4ee14413f879cdd72dd339d34%2Fgettyimages-2254321285.jpg"
+    },
+    {
+      "id": 2,
+      "answer": "Netflix",
+      "acceptedAnswers": [
+        "Netflix"
+      ],
+      "clues": [
+        "Streaming service",
+        "NASDAQ-listed entertainment company",
+        "Original content producer",
+        "Subscription-based platform",
+        "Los Gatos headquarters",
+        "Reed Hastings co-founded"
+      ],
+      "summary": "Netflix stock dropped after the company reported quarterly revenue of $12.56 billion, slightly missing analyst expectations of $12.58 billion, alongside an engagement update.",
+      "sourceUrl": "https://www.barrons.com/articles/netflix-earnings-stock-price-4fb3e0df",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://images.barrons.com/im-09630528/social"
+    },
+    {
+      "id": 3,
+      "answer": "Blue Angels",
+      "acceptedAnswers": [
+        "Blue Angels",
+        "US Navy Blue Angels"
+      ],
+      "clues": [
+        "Military flight demonstration squadron",
+        "F/A-18 Hornet operators",
+        "Pensacola-based team",
+        "Naval aviation showcase",
+        "Formation flying",
+        "Founded in 1946"
+      ],
+      "summary": "The U.S. Navy's Blue Angels performed a low flyover that sent umbrellas and chairs toppling. The acting Navy secretary defended the maneuver, posting 'That's the sound of Freedom!' and confirming no firings would result.",
+      "sourceUrl": "https://www.washingtonpost.com/nation/2026/07/16/after-blue-angels-low-flyover-acting-navy-secretary-says-no-firings/",
+      "difficulty": "medium",
+      "region": "north_america",
+      "imageUrl": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/Y7OMJUWETYQWZVQSS2MEOKX6LQ.JPG&w=1440"
+    },
+    {
+      "id": 4,
+      "answer": "God of War",
+      "acceptedAnswers": [
+        "God of War"
+      ],
+      "clues": [
+        "PlayStation franchise adaptation",
+        "Greek mythology-inspired action series",
+        "Prime Video television project",
+        "Santa Monica Studio creation",
+        "Norse mythology sequel setting",
+        "Blades of Chaos weapon"
+      ],
+      "summary": "Prime Video's God of War TV adaptation shocked fans by recasting the lead role of Kratos after actor Ryan Hurst suffered an on-set injury during production.",
+      "sourceUrl": "https://variety.com/2026/tv/news/god-of-war-recast-kratos-actor-ryan-hurst-injury-1236814409/",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://variety.com/wp-content/uploads/2026/02/God-of-War-Amazon-Prime-Video.jpg?w=1000&h=563&crop=1"
+    },
+    {
+      "id": 5,
+      "answer": "Craig Melvin",
+      "acceptedAnswers": [
+        "Craig Melvin"
+      ],
+      "clues": [
+        "Television journalist",
+        "NBC morning program host",
+        "Columbia, South Carolina native",
+        "Wofford College alumnus",
+        "Weekday broadcast anchor",
+        "News correspondent"
+      ],
+      "summary": "An intruder broke into the Today show studio in New York City and confronted co-host Craig Melvin, lunging at him and yelling racial slurs before being arrested.",
+      "sourceUrl": "https://ew.com/today-show-intruder-arrested-after-allegedly-lunging-at-craig-melvin-12020652",
+      "difficulty": "hard",
+      "region": "north_america",
+      "imageUrl": "https://ew.com/thmb/REoVVUL-5R366_B7ge7UK3teIOg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Craig-Melvin-071626-2761f63289d04adabd3594333938e6df.jpg"
+    },
+    {
+      "id": 6,
+      "answer": "Portland Trail Blazers",
+      "acceptedAnswers": [
+        "Portland Trail Blazers",
+        "Trail Blazers"
+      ],
+      "clues": [
+        "Pacific Northwest NBA franchise",
+        "1977 championship winners",
+        "Moda Center tenants",
+        "Rip City nickname",
+        "Western Conference basketball team",
+        "Oregon professional sports"
+      ],
+      "summary": "Portland city leaders have sent an initial term sheet to the Trail Blazers outlining a proposal to keep the team, days after the NBA indicated that relocation talks were 'off track.'",
+      "sourceUrl": "https://katu.com/sports/trail-blazers/portland-to-send-first-term-sheet-to-trail-blazers-this-week-as-talks-heat-up-nba-basketball-business-city-council-negotiation-renovation-moda-center-local-sports-community-economy",
+      "difficulty": "medium",
+      "region": "north_america",
+      "imageUrl": "https://katu.com/resources/media2/16x9/4284/1320/0x1652/90/5432a238-a242-419c-af43-64494804ebdd-PortlandTrailBlazerstakeonSanAntonioSpursinGame4attheModaCenteronApril262026KATUimagefromWesleighOgle.png"
+    },
+    {
+      "id": 7,
+      "answer": "Meteorite",
+      "acceptedAnswers": [
+        "Meteorite",
+        "Hillsborough meteorite",
+        "New Jersey meteorite"
+      ],
+      "clues": [
+        "Extraterrestrial object",
+        "Space rock reaching Earth's surface",
+        "Amino acid carrier",
+        "Bolide remnant",
+        "Chondrite classification",
+        "Atmospheric entry survivor"
+      ],
+      "summary": "A meteorite fragment that crashed through the ceiling of a home in Hillsborough, New Jersey has been found to contain extraterrestrial amino acids, exciting scientists about its cosmic origins.",
+      "sourceUrl": "https://6abc.com/post/new-jersey-home-meteorite-fragments-contain-extraterrestrial-amino-acids/19521592/",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://cdn.abcotvs.com/dip/images/19521691_071626-wabc-meteorite-nj-img.jpg?w=1600"
+    },
+    {
+      "id": 8,
+      "answer": "Habitable zone",
+      "acceptedAnswers": [
+        "Habitable zone",
+        "Goldilocks zone"
+      ],
+      "clues": [
+        "Astrobiology concept",
+        "Circumstellar region",
+        "Liquid water conditions",
+        "Planetary science term",
+        "Biosignature search area",
+        "Stellar distance-dependent phenomenon"
+      ],
+      "summary": "Astronomers have discovered the first atmosphere around a rocky Earth-like planet located in the habitable zone of its star, a breakthrough finding for the search for extraterrestrial life.",
+      "sourceUrl": "https://www.space.com/astronomy/exoplanets/astronomers-discover-1st-atmosphere-around-a-rocky-earth-like-planet-in-the-habitable-zone",
+      "difficulty": "hard",
+      "region": "global",
+      "imageUrl": "https://cdn.mos.cms.futurecdn.net/nEzX2M7miYS5dGjqB5kcU7-2000-80.png"
+    },
+    {
+      "id": 9,
+      "answer": "Northwestern University",
+      "acceptedAnswers": [
+        "Northwestern University",
+        "Northwestern"
+      ],
+      "clues": [
+        "Big Ten institution",
+        "Evanston, Illinois campus",
+        "Private research institution",
+        "Medill School of Journalism home",
+        "Wildcat mascot",
+        "Founded in 1851"
+      ],
+      "summary": "Engineers at Northwestern University have designed the 'Phantom Twist,' a spinning drone that exploits motion blur in human vision to nearly vanish during flight, advancing stealth drone technology.",
+      "sourceUrl": "https://techxplore.com/news/2026-07-drone-plain-sight-phantom-harnesses.html",
+      "difficulty": "hard",
+      "region": "north_america",
+      "imageUrl": "https://scx2.b-cdn.net/gfx/news/hires/2026/new-spinning-drone-hid-2.jpg"
+    },
+    {
+      "id": 10,
+      "answer": "Wildfire smoke",
+      "acceptedAnswers": [
+        "Wildfire smoke",
+        "Wildfire"
+      ],
+      "clues": [
+        "Air quality hazard",
+        "Particulate matter source",
+        "Respiratory health threat",
+        "Climate-linked phenomenon",
+        "Visibility reduction cause",
+        "Cross-state atmospheric transport"
+      ],
+      "summary": "Heavy wildfire smoke darkened skies across the U.S. from the Great Lakes to parts of the East Coast, reducing visibility and prompting officials to warn residents to stay indoors due to dangerous air quality.",
+      "sourceUrl": "https://www.pbs.org/newshour/health/as-wildfire-smoke-makes-air-unhealthy-from-midwest-to-east-coast-officials-say-stay-inside",
+      "difficulty": "easy",
+      "region": "north_america",
+      "imageUrl": "https://d3i6fh83elv35t.cloudfront.net/static/2026/07/2026-07-16T135836Z_55835436_RC2ZEMAX9HTX_RTRMADP_3_USA-WEATHER-WILDFIRES-1024x653.jpg"
+    }
+  ]
+}
