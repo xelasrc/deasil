@@ -1,0 +1,212 @@
+{
+  "date": "2026-07-20",
+  "puzzles": [
+    {
+      "id": 1,
+      "answer": "Perseid meteor shower",
+      "acceptedAnswers": [
+        "Perseid meteor shower",
+        "Perseids",
+        "Perseid meteors"
+      ],
+      "clues": [
+        "Annual celestial event",
+        "Comet Swift-Tuttle debris",
+        "Peak viewing in August",
+        "Radiant point in constellation",
+        "Night sky spectacle",
+        "One of the most prolific displays of shooting stars"
+      ],
+      "summary": "The Perseid meteor shower has begun and will continue through late August, offering one of the year's most spectacular celestial shows as Earth passes through comet debris.",
+      "sourceUrl": "https://ktla.com/news/california/perseid-meteor-shower-begins-friday-best-times-places-to-watch-in-socal/",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://ktla.com/wp-content/uploads/sites/4/2026/07/PERSEID-METEOR-SHOWER.jpg?w=1280"
+    },
+    {
+      "id": 2,
+      "answer": "Heartstopper",
+      "acceptedAnswers": [
+        "Heartstopper",
+        "Heartstopper Forever"
+      ],
+      "clues": [
+        "Based on a webcomic and graphic novel series",
+        "Netflix original production",
+        "LGBTQ+ coming-of-age story",
+        "Set in a British school",
+        "Alice Oseman creation",
+        "Characters named Charlie and Nick"
+      ],
+      "summary": "Netflix has released 'Heartstopper Forever,' the finale film that concludes the beloved series about Charlie and Nick's relationship, receiving positive reviews for its mature and wistful ending.",
+      "sourceUrl": "https://variety.com/2026/tv/reviews/heartstopper-forever-review-netflix-1236812518/",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://variety.com/wp-content/uploads/2026/07/HeartstopperForever_FirstLook_Image_1.jpg?w=1000&h=563&crop=1"
+    },
+    {
+      "id": 3,
+      "answer": "Fallout: New Vegas",
+      "acceptedAnswers": [
+        "Fallout: New Vegas",
+        "Fallout New Vegas"
+      ],
+      "clues": [
+        "Post-apocalyptic RPG",
+        "Developed by Obsidian Entertainment",
+        "Set in the Mojave Wasteland",
+        "Features factions like the NCR and Caesar's Legion",
+        "Published by Bethesda Softworks",
+        "Sequel to a franchise created by Interplay"
+      ],
+      "summary": "Bethesda has officially announced a remaster of Fallout: New Vegas alongside Fallout 3, confirming what had been a poorly kept secret for months in the gaming community.",
+      "sourceUrl": "https://gizmodo.com/obviously-bethesda-is-remastering-fallout-new-vegas-and-fallout-3-2000787259",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://gizmodo.com/app/uploads/2026/07/FalloutS2NYimage14_30001-1200x675.jpg"
+    },
+    {
+      "id": 4,
+      "answer": "Vertu",
+      "acceptedAnswers": [
+        "Vertu"
+      ],
+      "clues": [
+        "Luxury mobile phone brand",
+        "Originally a subsidiary of Nokia",
+        "Known for concierge services",
+        "Handcrafted devices with premium materials",
+        "British heritage brand",
+        "Titanium and sapphire crystal construction"
+      ],
+      "summary": "Luxury phone maker Vertu has launched a $6,880 AI-powered foldable device aimed at executives, drawing attention for its premium pricing and integrated AI agent capabilities.",
+      "sourceUrl": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
+      "difficulty": "hard",
+      "region": "global",
+      "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/07/vertu-alphafold-unfold.jpg?resize=1200,800"
+    },
+    {
+      "id": 5,
+      "answer": "Wisconsin",
+      "acceptedAnswers": [
+        "Wisconsin"
+      ],
+      "clues": [
+        "Midwestern U.S. state",
+        "Known as America's Dairyland",
+        "Home to the Badgers",
+        "Capital city is Madison",
+        "Borders Lake Michigan and Lake Superior",
+        "Swing state in presidential elections"
+      ],
+      "summary": "The Wisconsin governor's race has been shaken up after Lt. Gov. Sara Rodriguez exited the Democratic primary over a campaign finance scandal, prompting Milwaukee County Executive David Crowley to rejoin the race.",
+      "sourceUrl": "https://thehill.com/homenews/campaign/5975854-david-crowley-wisconsin-governor-race/",
+      "difficulty": "easy",
+      "region": "north_america",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/04/AP26076785141279-e1775483610233.jpg?w=1280"
+    },
+    {
+      "id": 6,
+      "answer": "Cyclospora",
+      "acceptedAnswers": [
+        "Cyclospora",
+        "Cyclospora cayetanensis"
+      ],
+      "clues": [
+        "Foodborne pathogen",
+        "Causes prolonged gastrointestinal illness",
+        "Single-celled organism",
+        "Often linked to fresh produce",
+        "Treated with trimethoprim-sulfamethoxazole",
+        "Parasitic infection requiring laboratory diagnosis"
+      ],
+      "summary": "More than 30 U.S. states have reported cases of the cyclospora parasite, causing a widespread outbreak of severe gastrointestinal illness that health officials are working to contain.",
+      "sourceUrl": "https://www.newsnationnow.com/health/map-explosive-diarrhea-cyclospora-outbreak/",
+      "difficulty": "hard",
+      "region": "global",
+      "imageUrl": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2026/07/image-25.png?w=1280"
+    },
+    {
+      "id": 7,
+      "answer": "Kim Zolciak",
+      "acceptedAnswers": [
+        "Kim Zolciak",
+        "Kim Zolciak-Biermann"
+      ],
+      "clues": [
+        "Reality television personality",
+        "Bravo network star",
+        "Don't Be Tardy spinoff",
+        "Mother of six children",
+        "Known for a contentious split from NFL husband",
+        "Georgia-based media figure"
+      ],
+      "summary": "Former Real Housewives of Atlanta star Kim Zolciak avoided jail time after paying money owed to a court-appointed guardian in her bitter ongoing divorce proceedings.",
+      "sourceUrl": "https://www.tmz.com/2026/07/18/kim-zolciak-avoids-jail-after-giving-money-in-divorce/",
+      "difficulty": "medium",
+      "region": "north_america",
+      "imageUrl": "https://imagez.tmz.com/image/cd/16by9/2026/07/17/cda05e1635ea44b4ba34293f21a5c7f0_xl.png"
+    },
+    {
+      "id": 8,
+      "answer": "Ladera Ranch",
+      "acceptedAnswers": [
+        "Ladera Ranch"
+      ],
+      "clues": [
+        "Master-planned community in Orange County",
+        "Southern California residential area",
+        "Located in unincorporated territory",
+        "Near San Juan Capistrano",
+        "Known for family-oriented neighborhoods",
+        "Part of the greater Mission Viejo area"
+      ],
+      "summary": "Parents in Ladera Ranch, California are raising alarms as more cases of rare childhood cancer are reported in the community, with two children having already died and families insisting the cluster is not random.",
+      "sourceUrl": "https://people.com/more-cases-of-rare-cancer-in-children-from-california-town-reported-12021697",
+      "difficulty": "hard",
+      "region": "north_america",
+      "imageUrl": "https://people.com/thmb/y0r6DBKmUFN7cKyEsUwgmnRvZ8U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(871x701:873x703)/ladera-ranch-oc-california-71726-3cc62b83c0004a9f8b6bc25f76c6a315.jpg"
+    },
+    {
+      "id": 9,
+      "answer": "Markwayne Mullin",
+      "acceptedAnswers": [
+        "Markwayne Mullin"
+      ],
+      "clues": [
+        "Former U.S. Senator from Oklahoma",
+        "Cherokee Nation citizen",
+        "Former professional MMA fighter",
+        "Businessman in plumbing industry",
+        "Cabinet member in Trump administration",
+        "Department of Homeland Security leader"
+      ],
+      "summary": "Homeland Security Secretary Markwayne Mullin sent letters to four states claiming 250,000 non-citizens were registered to vote, though elections experts say the figures may be significantly overcounted.",
+      "sourceUrl": "https://www.cbsnews.com/news/trump-markwayne-mullin-non-citizens-registered-voters-california-new-jersey-nevada-pennsylvania/",
+      "difficulty": "hard",
+      "region": "north_america",
+      "imageUrl": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/07/17/31705e8d-48d0-4bb2-8222-9e9b03038070/thumbnail/1200x630g2/5377b66dbe7216edb754888e11616516/gettyimages-2275076634.jpg"
+    },
+    {
+      "id": 10,
+      "answer": "Bethesda Softworks",
+      "acceptedAnswers": [
+        "Bethesda Softworks",
+        "Bethesda"
+      ],
+      "clues": [
+        "Video game publisher owned by Microsoft subsidiary",
+        "Known for The Elder Scrolls series",
+        "Rockville, Maryland headquarters",
+        "Parent company ZeniMax Media",
+        "Published Doom and Wolfenstein reboots",
+        "Created the Starfield universe"
+      ],
+      "summary": "Bethesda has officially confirmed remasters of Fallout: New Vegas and Fallout 3, ending months of speculation about the long-rumored projects in the gaming community.",
+      "sourceUrl": "https://gizmodo.com/obviously-bethesda-is-remastering-fallout-new-vegas-and-fallout-3-2000787259",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://gizmodo.com/app/uploads/2026/07/FalloutS2NYimage14_30001-1200x675.jpg"
+    }
+  ]
+}
