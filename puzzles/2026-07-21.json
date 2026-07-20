@@ -1,0 +1,215 @@
+{
+  "date": "2026-07-21",
+  "puzzles": [
+    {
+      "id": 1,
+      "answer": "TSMC",
+      "acceptedAnswers": [
+        "TSMC",
+        "Taiwan Semiconductor Manufacturing Company",
+        "Taiwan Semiconductor"
+      ],
+      "clues": [
+        "Semiconductor foundry",
+        "Largest contract chipmaker",
+        "Asia-Pacific technology giant",
+        "NYSE-listed company",
+        "Advanced node fabrication",
+        "Supplies processors for major tech firms"
+      ],
+      "summary": "TSMC is in the news as investors debate whether the stock is a buying opportunity amid strong revenue growth forecasts but heavy capital spending on new foundry capacity.",
+      "sourceUrl": "https://www.fool.com/investing/2026/07/18/tsmc-stock-to-avoid-or-incredible-buying-opportuni/",
+      "difficulty": "medium",
+      "region": "asia",
+      "imageUrl": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F879395%2Ftaiwan-semiconductor-tsmc-building-with-tsmc-logo-in-front_tsmc.jpg&w=1200&op=resize"
+    },
+    {
+      "id": 2,
+      "answer": "WordPress",
+      "acceptedAnswers": [
+        "WordPress",
+        "Wordpress"
+      ],
+      "clues": [
+        "Open-source content management system",
+        "PHP-based web platform",
+        "Blogging software origin",
+        "Powers over 40% of websites",
+        "Plugin ecosystem",
+        "Automattic-associated project"
+      ],
+      "summary": "Critical remote code execution vulnerabilities dubbed 'wp2shell' have been discovered in WordPress Core, with public exploits now available, prompting urgent patch advisories for site administrators worldwide.",
+      "sourceUrl": "https://www.bleepingcomputer.com/news/security/wordpress-core-wp2shell-rce-flaws-get-public-exploits-patch-now/",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://www.bleepstatic.com/content/hl-images/2023/12/07/back.jpg"
+    },
+    {
+      "id": 3,
+      "answer": "Bryson DeChambeau",
+      "acceptedAnswers": [
+        "Bryson DeChambeau",
+        "DeChambeau"
+      ],
+      "clues": [
+        "Professional golfer",
+        "LIV Golf member",
+        "2020 U.S. Open champion",
+        "Known for scientific approach to the game",
+        "Former NCAA individual champion",
+        "Nicknamed 'The Scientist'"
+      ],
+      "summary": "Bryson DeChambeau made headlines at The Open Championship after the R&A declined an unusual request from him, adding fresh drama to his participation in the major tournament.",
+      "sourceUrl": "https://www.todays-golfer.com/news-and-events/majors/the-open-championship/bryson-dechambeau-rules-official-request/",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://todaysgolfer-images.bauersecure.com/wp-images/319459/786x524/bryson-dechambeau.jpg"
+    },
+    {
+      "id": 4,
+      "answer": "Polymarket",
+      "acceptedAnswers": [
+        "Polymarket"
+      ],
+      "clues": [
+        "Prediction market platform",
+        "Blockchain-based betting exchange",
+        "Cryptocurrency wagering",
+        "Event contract trading",
+        "Decentralized forecasting",
+        "Founded in 2020"
+      ],
+      "summary": "Polymarket traders have cut the odds of the CLARITY Act passing this year to a record low, reflecting growing skepticism over stalled Senate negotiations on crypto regulation.",
+      "sourceUrl": "https://www.coindesk.com/markets/2026/07/17/polymarket-traders-cut-clarity-act-passage-odds-to-record-low-as-senate-delay-drags-on",
+      "difficulty": "hard",
+      "region": "global",
+      "imageUrl": "https://cdn.sanity.io/images/s3y3vcno/production/e473e13d2b998775c2c41a1456513cc8710f6cd7-2461x1385.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg"
+    },
+    {
+      "id": 5,
+      "answer": "University of Tokyo",
+      "acceptedAnswers": [
+        "University of Tokyo",
+        "UTokyo",
+        "Todai"
+      ],
+      "clues": [
+        "Japan's top-ranked institution",
+        "Founded in 1877",
+        "Located in Bunkyō",
+        "Imperial university system origin",
+        "Hongo campus",
+        "Prestigious East Asian research institution"
+      ],
+      "summary": "Scientists at the University of Tokyo have developed a revolutionary super-strong, stretchable glue that can grip non-stick surfaces yet washes away easily with alcohol.",
+      "sourceUrl": "https://phys.org/news/2026-07-super-strong-surfaces-easily.html",
+      "difficulty": "medium",
+      "region": "asia",
+      "imageUrl": "https://scx2.b-cdn.net/gfx/news/hires/2026/new-super-strong-glue.jpg"
+    },
+    {
+      "id": 6,
+      "answer": "SAVE Act",
+      "acceptedAnswers": [
+        "SAVE Act",
+        "SAVE America Act",
+        "Safeguard American Voter Eligibility Act"
+      ],
+      "clues": [
+        "Congressional legislation",
+        "Voter eligibility measure",
+        "Republican-sponsored bill",
+        "Proof of citizenship requirement",
+        "Election reform proposal",
+        "2026 midterm controversy"
+      ],
+      "summary": "President Trump's push to pass the SAVE Act requiring proof of citizenship to vote is dividing Republicans ahead of the 2026 midterm elections, with some in the party worried about picking the wrong legislative fights.",
+      "sourceUrl": "https://thehill.com/homenews/administration/5975430-senate-gop-split-voter-id-bill/",
+      "difficulty": "hard",
+      "region": "north-america",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/07/trumpdonald_071626ap02_w.jpg?w=1280"
+    },
+    {
+      "id": 7,
+      "answer": "Silicon Valley",
+      "acceptedAnswers": [
+        "Silicon Valley",
+        "Tech industry"
+      ],
+      "clues": [
+        "Northern California region",
+        "Global technology hub",
+        "Home to major startups",
+        "Santa Clara County area",
+        "Venture capital center",
+        "Named after semiconductor material"
+      ],
+      "summary": "Waves of layoffs and growing automation pressures are creating existential panic across the tech industry, with economists warning that other white-collar workers could be next.",
+      "sourceUrl": "https://www.washingtonpost.com/technology/2026/07/19/tech-has-never-been-richer-its-workers-have-never-felt-less-secure/",
+      "difficulty": "easy",
+      "region": "north-america",
+      "imageUrl": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/7XYOM4WBJO7TC2E5VION7QFTU4.JPG&w=1440"
+    },
+    {
+      "id": 8,
+      "answer": "Horn Island",
+      "acceptedAnswers": [
+        "Horn Island"
+      ],
+      "clues": [
+        "Mississippi barrier island",
+        "Gulf of Mexico location",
+        "Gulf Islands National Seashore",
+        "Uninhabited coastal landmass",
+        "Jackson County territory",
+        "Accessible only by boat"
+      ],
+      "summary": "The death of Nolan Wells off the coast of Horn Island has drawn attention after locals revealed that the dangerous waters around the island have claimed other lives in the past.",
+      "sourceUrl": "https://www.tmz.com/2026/07/18/local-claims-nolan-wells-not-first-person-to-drown-off-horn-island-coast/",
+      "difficulty": "hard",
+      "region": "north-america",
+      "imageUrl": "https://imagez.tmz.com/image/34/16by9/2026/07/18/34cc9bd0fdb241ea93bd9d1a3c5bc6fd_xl.jpg"
+    },
+    {
+      "id": 9,
+      "answer": "Upper East Side",
+      "acceptedAnswers": [
+        "Upper East Side",
+        "UES"
+      ],
+      "clues": [
+        "Affluent residential neighborhood",
+        "Museum Mile location",
+        "Park Avenue corridor",
+        "Central Park border",
+        "Historically wealthy enclave",
+        "Famous New York City district"
+      ],
+      "summary": "A Legionnaires' disease outbreak linked to dozens of water-cooling towers on the Upper East Side of Manhattan has claimed its first life, prompting a public health response.",
+      "sourceUrl": "https://gothamist.com/news/1-dead-in-upper-east-side-legionnaires-outbreak",
+      "difficulty": "medium",
+      "region": "north-america",
+      "imageUrl": "https://api-prod.gothamist.com/images/358219/fill-1200x650|format-webp|webpquality-85/"
+    },
+    {
+      "id": 10,
+      "answer": "Calabasas",
+      "acceptedAnswers": [
+        "Calabasas"
+      ],
+      "clues": [
+        "Affluent Southern California city",
+        "Los Angeles County community",
+        "Celebrity enclave",
+        "Santa Monica Mountains border",
+        "Gated community lifestyle",
+        "Known for luxury real estate"
+      ],
+      "summary": "A wealthy Southern California community has suspended the use of chemical landscaping products after a disturbing spike in rare cancer cases among children rocked the area.",
+      "sourceUrl": "https://nypost.com/2026/07/17/us-news/socal-city-suspends-use-of-landscaping-chemical-amid-rare-cancer-cluster/",
+      "difficulty": "hard",
+      "region": "north-america",
+      "imageUrl": "https://nypost.com/wp-content/uploads/sites/2/2026/07/134726406.jpg?quality=75&strip=all&w=1200"
+    }
+  ]
+}
