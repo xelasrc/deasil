@@ -1,0 +1,220 @@
+{
+  "date": "2026-07-22",
+  "puzzles": [
+    {
+      "id": 1,
+      "answer": "Mississippi kite",
+      "acceptedAnswers": [
+        "Mississippi kite",
+        "Mississippi Kite",
+        "Ictinia mississippiensis"
+      ],
+      "clues": [
+        "Birds of prey",
+        "Accipitridae family",
+        "Migratory raptor",
+        "Southeastern United States breeding range",
+        "Insectivorous hunter",
+        "Gray plumage"
+      ],
+      "summary": "A rare pair of Mississippi kites was spotted nesting in Washington, D.C., drawing crowds of birdwatchers to observe the raptors' 50-foot-high nest.",
+      "sourceUrl": "https://www.washingtonpost.com/dc-md-va/2026/07/19/teen-spotted-rare-pair-birds-dc-then-came-another-surprise/",
+      "difficulty": "hard",
+      "region": "north-america",
+      "imageUrl": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/FUBAB4CFUVCBJLZ5FIXNITEH7I.jpg&w=1440"
+    },
+    {
+      "id": 2,
+      "answer": "Gulf of Mexico",
+      "acceptedAnswers": [
+        "Gulf of Mexico",
+        "Gulf of America"
+      ],
+      "clues": [
+        "Atlantic Ocean basin",
+        "Bordered by Cuba and the Yucatan Peninsula",
+        "Loop Current",
+        "Major petroleum extraction region",
+        "Hurricane formation zone",
+        "Warm subtropical waters"
+      ],
+      "summary": "A tropical depression has formed in the Gulf of Mexico, bringing increased thunderstorms and rain to coastal areas as hurricane season continues.",
+      "sourceUrl": "https://www.usatoday.com/story/news/weather/2026/07/19/tropical-depression-florida-gulf-national-hurricane-center-storm-watch/90973407007/",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/19/USAT/90973977007-screenshot-20260719-at-120234-pm.png?crop=1726,970,x0,y66&width=1726&height=970&format=pjpg&auto=webp"
+    },
+    {
+      "id": 3,
+      "answer": "Oklahoma City Thunder",
+      "acceptedAnswers": [
+        "Oklahoma City Thunder",
+        "OKC Thunder",
+        "Thunder"
+      ],
+      "clues": [
+        "Western Conference team",
+        "Formerly based in Seattle",
+        "Chesapeake Energy Arena",
+        "Professional basketball franchise",
+        "Founded in 1967",
+        "Kevin Durant former roster"
+      ],
+      "summary": "Thunder GM Sam Presti discussed the team's trade sending Lu Dort to the Hawks in exchange for three second-round picks, calling it a financial decision.",
+      "sourceUrl": "https://www.hoopsrumors.com/2026/07/sam-presti-calls-lu-dort-trade-a-financial-decision.html",
+      "difficulty": "medium",
+      "region": "north-america",
+      "imageUrl": "https://cdn.hoopsrumors.com/files/2026/06/Sam-Presti-900x600.jpg"
+    },
+    {
+      "id": 4,
+      "answer": "Travis Scott",
+      "acceptedAnswers": [
+        "Travis Scott",
+        "Jacques Bermon Webster"
+      ],
+      "clues": [
+        "Hip-hop artist",
+        "Cactus Jack Records founder",
+        "Astroworld album",
+        "Houston native",
+        "Nike collaboration partner",
+        "Sicko Mode performer"
+      ],
+      "summary": "Rapper Travis Scott was involved in a bottle-throwing altercation at an ultra-exclusive private club, continuing a pattern of incidents at high-profile events.",
+      "sourceUrl": "https://pagesix.com/2026/07/19/celebrity-news/travis-scott-involved-in-bottle-throwing-fight-at-ultra-exclusive-private-club/",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://pagesix.com/wp-content/uploads/sites/3/2026/07/travis-scott-bottle-throwing.jpg?quality=75&strip=all&w=1200"
+    },
+    {
+      "id": 5,
+      "answer": "Jennifer Lopez",
+      "acceptedAnswers": [
+        "Jennifer Lopez",
+        "J.Lo",
+        "JLo"
+      ],
+      "clues": [
+        "Latin pop icon",
+        "Actress and singer",
+        "Bronx-born entertainer",
+        "Selena biopic star",
+        "Fragrance empire mogul",
+        "On the Floor hitmaker"
+      ],
+      "summary": "Jennifer Lopez shared photos from a joint birthday vacation in Europe with her sister Lynda, celebrating their July birthdays together.",
+      "sourceUrl": "https://people.com/jennifer-lopez-shares-photos-from-european-vacation-with-sister-lynda-12022269",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://people.com/thmb/b3WZHBv06dBtuSJtwnMuKWKQ7aY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(749x0:751x2)/jennifer-lynda-lopez-sister-trip-071926-2c94bc8ae18f49a78e16299a7548a4ee.jpg"
+    },
+    {
+      "id": 6,
+      "answer": "Microchimerism",
+      "acceptedAnswers": [
+        "Microchimerism",
+        "Maternal microchimerism",
+        "Fetal microchimerism"
+      ],
+      "clues": [
+        "Cell biology phenomenon",
+        "Pregnancy-related transfer",
+        "Immune system interaction",
+        "Cross-placental migration",
+        "Foreign cell persistence",
+        "Genetic mosaicism in offspring"
+      ],
+      "summary": "A new study reveals that maternal cells infiltrate children's brains during pregnancy, taking on various functions and potentially surviving for decades into old age.",
+      "sourceUrl": "https://www.livescience.com/health/genetics/cells-from-your-mother-likely-infiltrated-your-brain-in-the-womb-and-they-could-survive-for-decades-study-reveals",
+      "difficulty": "hard",
+      "region": "global",
+      "imageUrl": "https://cdn.mos.cms.futurecdn.net/ixA52pFyX3rUsejZKqqQra-2000-80.jpg"
+    },
+    {
+      "id": 7,
+      "answer": "Vivo",
+      "acceptedAnswers": [
+        "Vivo",
+        "vivo"
+      ],
+      "clues": [
+        "Chinese electronics manufacturer",
+        "BBK Electronics subsidiary",
+        "Smartphone brand",
+        "Zeiss camera partnership",
+        "Dongguan-based company",
+        "IQOO sub-brand parent"
+      ],
+      "summary": "Details have leaked about the Vivo X500 Ultra, the successor to the highly-rated X300 Ultra camera flagship, featuring advanced 35mm and 85mm Zeiss camera lenses planned for 2027.",
+      "sourceUrl": "https://www.notebookcheck.net/Vivo-X500-Ultra-Leaker-reveals-what-s-in-store-for-the-35mm-and-85mm-Zeiss-cameras.1346593.0.html",
+      "difficulty": "medium",
+      "region": "asia",
+      "imageUrl": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Vivo-X500-Ultra-Was-fuer-die-35mm-und-85mm-Zeiss-Kameras-geplant-ist.jpg"
+    },
+    {
+      "id": 8,
+      "answer": "Lindsay Clancy",
+      "acceptedAnswers": [
+        "Lindsay Clancy",
+        "Lindsey Clancy"
+      ],
+      "clues": [
+        "Massachusetts criminal case",
+        "Former labor and delivery nurse",
+        "Postpartum psychosis defense",
+        "Triple homicide defendant",
+        "Duxbury case",
+        "Mental health legal debate"
+      ],
+      "summary": "Lindsay Clancy is on trial for the murder of her three children, with her defense arguing she was suffering from severe postpartum mental health complications and may not be criminally responsible.",
+      "sourceUrl": "https://www.cnn.com/2026/07/20/us/lindsay-clancy-murder-trial-massachusetts",
+      "difficulty": "hard",
+      "region": "north-america",
+      "imageUrl": "https://media.cnn.com/api/v1/images/stellar/prod/usatsi-29226384.jpg?c=16x9&q=w_800,c_fill"
+    },
+    {
+      "id": 9,
+      "answer": "Flash flood",
+      "acceptedAnswers": [
+        "Flash flood",
+        "Flash flooding"
+      ],
+      "clues": [
+        "Sudden water surge",
+        "Canyon hazard",
+        "Weather-related disaster",
+        "Rapid onset natural event",
+        "Slot canyon danger",
+        "Arid region paradox"
+      ],
+      "summary": "A Utah fire captain, his wife, and three sons were killed in a flash flood in a Utah canyon, with only their daughter surviving the tragedy.",
+      "sourceUrl": "https://www.cbsnews.com/news/fire-captain-wife-sons-dead-flash-flood-utah-canyon/",
+      "difficulty": "easy",
+      "region": "north-america",
+      "imageUrl": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/07/20/8429f513-6a5a-4218-a446-0858d6c4fb3b/thumbnail/1200x630g2/1b98f73a6fb1bd0ae4725613951380ff/family-screenshot-2026-07-20-061132.png"
+    },
+    {
+      "id": 10,
+      "answer": "NBA Summer League",
+      "acceptedAnswers": [
+        "NBA Summer League",
+        "Las Vegas Summer League",
+        "Summer League"
+      ],
+      "clues": [
+        "Las Vegas event",
+        "Rookie showcase tournament",
+        "Professional basketball preseason competition",
+        "Thomas & Mack Center venue",
+        "July annual tradition",
+        "Prospect evaluation opportunity"
+      ],
+      "summary": "The NBA Summer League in Las Vegas has concluded, with ESPN highlighting 10 standout players who impressed during the event's games.",
+      "sourceUrl": "https://www.espn.com/nba/story/_/id/49391646/2026-2027-nba-summer-league-superlatives-mvp-aj-dybantsa-cameron-boozer-vegas",
+      "difficulty": "medium",
+      "region": "north-america",
+      "imageUrl": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0718%2Fr1690865_1296x729_16%2D9.jpg"
+    }
+  ]
+}
