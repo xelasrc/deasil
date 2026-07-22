@@ -1,0 +1,217 @@
+{
+  "date": "2026-07-23",
+  "puzzles": [
+    {
+      "id": 1,
+      "answer": "Acropolis",
+      "acceptedAnswers": [
+        "Acropolis",
+        "The Acropolis",
+        "Acropolis of Athens"
+      ],
+      "clues": [
+        "Ancient citadel",
+        "UNESCO World Heritage Site",
+        "Parthenon location",
+        "Greek landmark",
+        "Hilltop fortress ruins",
+        "Classical antiquity"
+      ],
+      "summary": "A man stabbed two Greek American tourists near the Acropolis in Athens, Greece's most famous ancient landmark and top tourist attraction.",
+      "sourceUrl": "https://apnews.com/article/greece-athens-tourist-stabbings-4bea820db5357c69d5d5d6cb44d7977a",
+      "difficulty": "easy",
+      "region": "europe",
+      "imageUrl": "https://dims.apnews.com/dims4/default/87b1524/2147483647/strip/true/crop/7989x5323+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ffb%2Fe5%2F6930f5e8324bf19a464fabcef290%2Fe6aabefe00c0411cb0efbb4d5c2bc494"
+    },
+    {
+      "id": 2,
+      "answer": "Mark Carney",
+      "acceptedAnswers": [
+        "Mark Carney",
+        "Carney"
+      ],
+      "clues": [
+        "Former Bank of England governor",
+        "Canadian politician",
+        "Liberal Party leader",
+        "Former central banker",
+        "Economics PhD from Oxford",
+        "Goldman Sachs alumnus"
+      ],
+      "summary": "Canadian Prime Minister Mark Carney vowed to intensify trade talks after Trump imposed 50% tariffs on Canada, escalating trade tensions between the two nations.",
+      "sourceUrl": "https://www.bbc.com/news/articles/cg4dzq3x3e1o",
+      "difficulty": "medium",
+      "region": "north-america",
+      "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/a06b/live/1dd117f0-84dc-11f1-b976-0b9c15b0ccfc.jpg"
+    },
+    {
+      "id": 3,
+      "answer": "Tropical Storm Bertha",
+      "acceptedAnswers": [
+        "Tropical Storm Bertha",
+        "Bertha"
+      ],
+      "clues": [
+        "Named Atlantic weather system",
+        "Gulf of Mexico cyclone",
+        "2026 hurricane season",
+        "Flash flood threat",
+        "Tropical cyclone",
+        "National Hurricane Center tracking"
+      ],
+      "summary": "Tropical Storm Bertha formed in the Gulf of Mexico on July 20 and moved toward the Gulf Coast, with forecasters warning of flash flooding across multiple states.",
+      "sourceUrl": "https://www.usatoday.com/story/news/weather/2026/07/20/tropical-storm-bertha-weather-path-gulf-coast/90979616007/",
+      "difficulty": "medium",
+      "region": "north-america",
+      "imageUrl": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/21/USAT/90990248007-berthajuly-20.png?crop=896,504,x0,y153&width=896&height=504&format=pjpg&auto=webp"
+    },
+    {
+      "id": 4,
+      "answer": "Jon Stewart",
+      "acceptedAnswers": [
+        "Jon Stewart"
+      ],
+      "clues": [
+        "Former Daily Show host",
+        "Political satirist",
+        "Emmy-winning comedian",
+        "Apple TV+ personality",
+        "Rosewater director",
+        "Late-night television icon"
+      ],
+      "summary": "Jon Stewart commented on the 2026 FIFA World Cup final, calling it the 'reverse Super Bowl' in his post-game analysis.",
+      "sourceUrl": "https://variety.com/2026/tv/news/jon-stewart-world-cup-final-halftime-show-trump-1236817023/",
+      "difficulty": "easy",
+      "region": "north-america",
+      "imageUrl": "https://variety.com/wp-content/uploads/2026/07/MixCollage-20-Jul-2026-09-23-PM-9469.jpg?crop=0px%2C19px%2C1200px%2C675px&resize=1000%2C563"
+    },
+    {
+      "id": 5,
+      "answer": "South Carolina",
+      "acceptedAnswers": [
+        "South Carolina"
+      ],
+      "clues": [
+        "Palmetto State",
+        "First state to secede",
+        "Charleston location",
+        "Fort Sumter site",
+        "Southeastern U.S. state",
+        "Early presidential primary state"
+      ],
+      "summary": "South Carolina Republicans are competing for Lindsey Graham's Senate seat, with a power struggle testing Trump's political influence in the state.",
+      "sourceUrl": "https://www.politico.com/news/2026/07/21/south-carolina-trump-graham-test-01005834",
+      "difficulty": "easy",
+      "region": "north-america",
+      "imageUrl": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fde%2F6e%2F6fb3c7e64f28b1179a6414db4854%2Flindsey-graham-south-carolina-17578.jpg"
+    },
+    {
+      "id": 6,
+      "answer": "Ocean deoxygenation",
+      "acceptedAnswers": [
+        "Ocean deoxygenation",
+        "Ocean oxygen loss",
+        "Marine deoxygenation"
+      ],
+      "clues": [
+        "Marine ecosystem crisis",
+        "Climate change consequence",
+        "Dead zone expansion",
+        "Dissolved gas depletion",
+        "Aquatic biodiversity threat",
+        "Human activity impact on seas"
+      ],
+      "summary": "A new report warns that Earth's oceans are rapidly losing oxygen due to human activity, threatening marine ecosystems and potentially destabilizing the planet.",
+      "sourceUrl": "https://gizmodo.com/earths-oceans-are-rapidly-losing-oxygen-it-could-destabilize-the-planet-2000787781",
+      "difficulty": "hard",
+      "region": "global",
+      "imageUrl": "https://gizmodo.com/app/uploads/2026/07/bubbles-under-the-ocean-surface-1200x675.jpg"
+    },
+    {
+      "id": 7,
+      "answer": "University of Michigan",
+      "acceptedAnswers": [
+        "University of Michigan",
+        "Michigan",
+        "U of M"
+      ],
+      "clues": [
+        "Big Ten member",
+        "Ann Arbor institution",
+        "Wolverines",
+        "Public research university",
+        "Big House stadium",
+        "Maize and blue colors"
+      ],
+      "summary": "Michigan Athletic Director Warde Manuel announced he will step down at the end of the calendar year following an internal investigation into the culture within the athletics department.",
+      "sourceUrl": "https://www.cbssports.com/college-football/news/warde-manuel-michigan-ad-step-down-investigation/",
+      "difficulty": "medium",
+      "region": "north-america",
+      "imageUrl": "https://sportshub.cbsistatic.com/i/r/2026/07/20/313070bc-a02b-47b0-b6db-c3339916fee8/thumbnail/1200x675/ad33149a76c63d7803e33a3c6b5b130e/wardemanuelfire.png"
+    },
+    {
+      "id": 8,
+      "answer": "Jordan",
+      "acceptedAnswers": [
+        "Jordan",
+        "Kingdom of Jordan"
+      ],
+      "clues": [
+        "Hashemite monarchy",
+        "Amman capital",
+        "Dead Sea border",
+        "Middle Eastern kingdom",
+        "Petra location",
+        "U.S. military partner in region"
+      ],
+      "summary": "A Southern Utah University student serving as a U.S. soldier was killed in action while deployed in Jordan, highlighting the ongoing American military presence in the country.",
+      "sourceUrl": "https://www.ksl.com/article/51600029/suu-student-identified-as-us-soldier-killed-in-jordan",
+      "difficulty": "easy",
+      "region": "middle-east",
+      "imageUrl": "https://img.ksl.com/slc/3195/319513/31951375.jpeg?filter=kslv2/responsive_story_lg"
+    },
+    {
+      "id": 9,
+      "answer": "NotebookLM",
+      "acceptedAnswers": [
+        "NotebookLM",
+        "Notebook LM"
+      ],
+      "clues": [
+        "AI-powered research tool",
+        "Large language model application",
+        "Prompt-based assistant",
+        "Document analysis platform",
+        "Generative AI product",
+        "Alphabet subsidiary creation"
+      ],
+      "summary": "A tech writer shared how adding a single line to prompts in Google's NotebookLM AI tool dramatically improved the quality of its outputs.",
+      "sourceUrl": "https://www.xda-developers.com/i-added-one-line-to-my-notebooklm-prompts/",
+      "difficulty": "hard",
+      "region": "global",
+      "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/03/notebooklm-as-read-it-later-app.jpeg?w=1600&h=900&fit=crop"
+    },
+    {
+      "id": 10,
+      "answer": "United Kingdom",
+      "acceptedAnswers": [
+        "United Kingdom",
+        "UK",
+        "Britain"
+      ],
+      "clues": [
+        "Constitutional monarchy",
+        "Parliamentary democracy",
+        "Post-industrial economy",
+        "G7 member state",
+        "Island nation in northwest Europe",
+        "Seventh prime minister in a decade"
+      ],
+      "summary": "The UK's newest prime minister — the seventh in a decade — has outlined an economic agenda that critics say relies on failed policies and won't end Britain's economic stagnation.",
+      "sourceUrl": "https://www.washingtonpost.com/opinions/2026/07/20/andy-burnham-first-speech-british-prime-minister-doesnt-inspire-confidence/",
+      "difficulty": "easy",
+      "region": "europe",
+      "imageUrl": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/SQZ3WXXI5LWXYRIW2PGINIVILU.JPG&w=1440"
+    }
+  ]
+}
