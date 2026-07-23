@@ -1,0 +1,218 @@
+{
+  "date": "2026-07-24",
+  "puzzles": [
+    {
+      "id": 1,
+      "answer": "Alphabet",
+      "acceptedAnswers": [
+        "Alphabet",
+        "Alphabet Inc",
+        "Alphabet Inc."
+      ],
+      "clues": [
+        "Silicon Valley conglomerate",
+        "Parent company of YouTube",
+        "NASDAQ-listed tech giant",
+        "Sundar Pichai leadership",
+        "Search engine dominance",
+        "Cloud computing services",
+        "Autonomous vehicle subsidiary Waymo"
+      ],
+      "summary": "Alphabet is set to report its quarterly earnings results, with investors closely watching the tech giant's performance amid broader market volatility in Asia.",
+      "sourceUrl": "https://www.investing.com/news/stock-market-news/asia-stocks-climb-on-tech-gains-kospi-surges-5-middle-east-tensions-simmer-4804620",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://i-invdn-com.investing.com/news/https://content-media.investing.com/news/LYNXMPEB310J3_L.jpg"
+    },
+    {
+      "id": 2,
+      "answer": "Tropical Storm Bertha",
+      "acceptedAnswers": [
+        "Tropical Storm Bertha",
+        "Bertha"
+      ],
+      "clues": [
+        "Atlantic hurricane season",
+        "Named weather system",
+        "Coastal storm surge warnings",
+        "Second named cyclone of the season",
+        "National Hurricane Center tracking",
+        "Southern U.S. landfall threat"
+      ],
+      "summary": "Tropical Storm Bertha is impacting the northern Gulf Coast as the second named storm of the 2026 Atlantic hurricane season, bringing heavy rain and storm surge concerns.",
+      "sourceUrl": "https://www.cbsnews.com/news/tropical-storm-bertha-gulf-coast-maps-path/",
+      "difficulty": "medium",
+      "region": "north_america",
+      "imageUrl": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/07/21/69640ae4-5335-41e6-9d1f-0b8a417f7096/thumbnail/1200x630/465400c8f14cde752c177b4eae3fb78e/bertha21.jpg"
+    },
+    {
+      "id": 3,
+      "answer": "Eton College",
+      "acceptedAnswers": [
+        "Eton College",
+        "Eton"
+      ],
+      "clues": [
+        "Founded in 1440 by Henry VI",
+        "Independent boarding school in Berkshire",
+        "All-boys institution near Windsor Castle",
+        "Alumni include 20 British prime ministers",
+        "Annual Wall Game tradition",
+        "River Thames location"
+      ],
+      "summary": "Prince George is set to enroll at the prestigious school this September, following in Prince William's footsteps, though reports suggest his experience will differ from his father's in key ways.",
+      "sourceUrl": "https://www.instyle.com/prince-george-wont-have-privilege-eton-unlike-prince-william-12024153",
+      "difficulty": "medium",
+      "region": "europe",
+      "imageUrl": "https://www.instyle.com/thmb/gB-FlHiNRU5r20GhLYLZ_pCUXsU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Prince-William-George-Lead-02fe6f81bfff4ef5bece94f02d277b10.jpg"
+    },
+    {
+      "id": 4,
+      "answer": "Oleksandr Syrskyi",
+      "acceptedAnswers": [
+        "Oleksandr Syrskyi",
+        "Syrskyi",
+        "Syrskii"
+      ],
+      "clues": [
+        "Ukrainian military leadership",
+        "Commander-in-Chief of Armed Forces",
+        "Replaced Valerii Zaluzhnyi in 2024",
+        "Soviet-born general",
+        "Battle of Kyiv veteran",
+        "Eastern front strategy"
+      ],
+      "summary": "Ukrainian President Zelenskyy has replaced military chief Syrskyi following internal clashes with the former Defence Minister and public protests demanding leadership changes.",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/7/21/zelenskyy-replaces-ukraine-military-chief-after-protests",
+      "difficulty": "hard",
+      "region": "europe",
+      "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/07/ap_6a5fe73235d8f-1784670002.jpg?resize=1920%2C1333"
+    },
+    {
+      "id": 5,
+      "answer": "Instagram",
+      "acceptedAnswers": [
+        "Instagram"
+      ],
+      "clues": [
+        "Meta-owned platform",
+        "Photo and video sharing app",
+        "Reels short-form video feature",
+        "Stories format pioneer",
+        "Launched in 2010",
+        "Explore page algorithm"
+      ],
+      "summary": "Instagram announced a new feature allowing users to replace the audio on old video and photo posts with new songs, enabling creators to refresh existing content without uploading new material.",
+      "sourceUrl": "https://www.theverge.com/news/968243/instagram-creators-replace-audio-tiktok-competition",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK070_INSTAGRAM__A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+    },
+    {
+      "id": 6,
+      "answer": "Pleasanton",
+      "acceptedAnswers": [
+        "Pleasanton",
+        "Pleasanton, California"
+      ],
+      "clues": [
+        "San Francisco Bay Area city",
+        "Alameda County municipality",
+        "Annual county fair host",
+        "Tri-Valley region community",
+        "Northern California suburb",
+        "BART commuter rail station"
+      ],
+      "summary": "A wildfire dubbed the 'Little Fire' exploded to over 1,000 acres near Pleasanton in Alameda County, injuring a firefighter and triggering evacuations across the area.",
+      "sourceUrl": "https://abc7news.com/post/sunol-grass-fire-burning-pleasanton-scorches-75-acres-moderate-rate-spread/19552712/",
+      "difficulty": "hard",
+      "region": "north_america",
+      "imageUrl": "https://cdn.abcotvs.com/dip/images/19554735_072126-kgo-little-fire-flames-img.jpg?w=1600"
+    },
+    {
+      "id": 7,
+      "answer": "Generic drugs",
+      "acceptedAnswers": [
+        "Generic drugs",
+        "Generic pharmaceuticals",
+        "Generic medicines"
+      ],
+      "clues": [
+        "Off-patent medication",
+        "Bioequivalent formulations",
+        "FDA abbreviated approval pathway",
+        "Lower-cost prescription alternatives",
+        "Pharmaceutical manufacturing",
+        "Global supply chain dependency"
+      ],
+      "summary": "President Trump announced a 100% tariff on generic drug imports with a two-year delay, threatening the supply of affordable medicines and pressuring manufacturers to relocate production to the United States.",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-21/trump-plans-100-tariff-on-generic-drugs-from-august-2028",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iQl6SYKD.klk/v0/1200x800.jpg"
+    },
+    {
+      "id": 8,
+      "answer": "Los Angeles Dodgers",
+      "acceptedAnswers": [
+        "Los Angeles Dodgers",
+        "Dodgers",
+        "LA Dodgers"
+      ],
+      "clues": [
+        "National League West franchise",
+        "Chavez Ravine home field",
+        "2020 World Series champions",
+        "Brooklyn origins before relocation",
+        "Iconic blue and white uniforms",
+        "Historic rivalry with San Francisco"
+      ],
+      "summary": "The Dodgers defeated the Phillies 2-1 in a rain-affected game that ended on a dramatic baserunning error by Philadelphia.",
+      "sourceUrl": "https://nypost.com/2026/07/21/sports/dodgers-beat-phillies-on-game-ending-baserunning-gaffe/",
+      "difficulty": "easy",
+      "region": "north_america",
+      "imageUrl": "https://nypost.com/wp-content/uploads/sites/2/2026/07/135138248.jpg?quality=75&strip=all&w=1200"
+    },
+    {
+      "id": 9,
+      "answer": "Kindle",
+      "acceptedAnswers": [
+        "Kindle",
+        "Amazon Kindle"
+      ],
+      "clues": [
+        "E-ink reading device",
+        "Amazon hardware product line",
+        "Whispersync technology",
+        "Digital bookstore ecosystem",
+        "E-paper display technology",
+        "Launched in 2007"
+      ],
+      "summary": "A new pocket-sized e-reader from Xteink is being positioned as a potential competitor to Amazon's dominant e-reader, with premium features added to its latest model.",
+      "sourceUrl": "https://gizmodo.com/xteinks-next-pocket-sized-e-reader-could-almost-replace-your-kindle-2000788436",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://gizmodo.com/app/uploads/2026/07/xteink-1200x675.jpg"
+    },
+    {
+      "id": 10,
+      "answer": "Arizona",
+      "acceptedAnswers": [
+        "Arizona"
+      ],
+      "clues": [
+        "Grand Canyon State",
+        "Southwestern U.S. border region",
+        "Phoenix metropolitan area",
+        "Maricopa County elections",
+        "2020 presidential battleground",
+        "Sonoran Desert landscape"
+      ],
+      "summary": "Arizona's top Republican candidates for key 2026 races are all figures who played prominent roles in casting doubt on the 2020 presidential election results, making the state a focal point of national political debate.",
+      "sourceUrl": "https://www.politico.com/news/2026/07/22/arizona-republicans-elect-2020-deniers-trump-01007511",
+      "difficulty": "medium",
+      "region": "north_america",
+      "imageUrl": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F40%2Ff9%2F2c7e271e4dfba1fcb223cce65a01%2Fturning-point-32174.jpg"
+    }
+  ]
+}
