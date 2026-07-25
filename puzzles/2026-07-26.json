@@ -1,0 +1,210 @@
+{
+  "date": "2026-07-26",
+  "puzzles": [
+    {
+      "id": 1,
+      "answer": "Sonam Wangchuk",
+      "acceptedAnswers": [
+        "Sonam Wangchuk",
+        "Wangchuk"
+      ],
+      "clues": [
+        "Indian activist",
+        "Ladakh autonomy advocate",
+        "Hunger strike",
+        "Education reform",
+        "Ice stupa inventor",
+        "Cockroach movement"
+      ],
+      "summary": "Indian activist Sonam Wangchuk ended a 26-day hunger strike that became a rallying point for the 'Cockroach' protest movement demanding the resignation of India's education minister.",
+      "sourceUrl": "https://apnews.com/article/india-cockroach-protests-sonam-wangchuk-e2f114b6cf6568bb8f5d739fe36349ed",
+      "difficulty": "hard",
+      "region": "asia",
+      "imageUrl": "https://dims.apnews.com/dims4/default/bc3f130/2147483647/strip/true/crop/4470x2978+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fb5%2F8f%2Fe419fde3d36b15ef7560b6927da6%2F188d693420704baf80b9f6cad0b5933c"
+    },
+    {
+      "id": 2,
+      "answer": "Amazon Prime",
+      "acceptedAnswers": [
+        "Amazon Prime"
+      ],
+      "clues": [
+        "Subscription service",
+        "E-commerce membership",
+        "Two-day shipping",
+        "Streaming video included",
+        "Class action lawsuit",
+        "Annual membership fee"
+      ],
+      "summary": "Eligible Amazon Prime customers have until July 27, 2026, to file a claim in a $2.5 billion settlement related to the subscription service.",
+      "sourceUrl": "https://www.whec.com/top-news/eligible-amazon-prime-customers-have-until-monday-to-file-claim-in-2-5-billion-settlement/",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://www.whec.com/wp-content/uploads/2026/07/Copy-of-Mugshot-Template-55.png"
+    },
+    {
+      "id": 3,
+      "answer": "Kenmore Air",
+      "acceptedAnswers": [
+        "Kenmore Air"
+      ],
+      "clues": [
+        "Seaplane operator",
+        "Pacific Northwest aviation",
+        "San Juan Islands flights",
+        "Float plane carrier",
+        "Founded in Washington state",
+        "Scenic flight tours"
+      ],
+      "summary": "A Kenmore Air seaplane crashed near Sucia Island in Washington's San Juan County, with all 11 people aboard successfully rescued by emergency crews.",
+      "sourceUrl": "https://komonews.com/news/local/aircraft-crashes-into-water-near-sucia-island-rescue-response-underway-orcas-island-san-juan-fire-and-rescue-united-states-coast-guard-operations-11-patients-investigation-aircraft",
+      "difficulty": "hard",
+      "region": "north_america",
+      "imageUrl": "https://komonews.com/resources/media2/16x9/4032/1320/center/90/17d307e7-fe30-4f82-8086-cf171a0b80fc-3.jpg"
+    },
+    {
+      "id": 4,
+      "answer": "West Bank",
+      "acceptedAnswers": [
+        "West Bank"
+      ],
+      "clues": [
+        "Occupied territory",
+        "Palestinian Authority",
+        "Jordan River borderland",
+        "Israeli settlements",
+        "Middle Eastern flashpoint",
+        "Biblical Judea and Samaria"
+      ],
+      "summary": "A Palestinian attacker stole a gun and shot hikers near Gilad Farm in the West Bank, killing one Israeli and wounding four others in a deadly attack.",
+      "sourceUrl": "https://www.jpost.com/israel-news/article-903540",
+      "difficulty": "medium",
+      "region": "middle_east",
+      "imageUrl": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/731286"
+    },
+    {
+      "id": 5,
+      "answer": "Lane Kiffin",
+      "acceptedAnswers": [
+        "Lane Kiffin"
+      ],
+      "clues": [
+        "College football head coach",
+        "Former Tennessee head coach",
+        "SEC Media Days appearance",
+        "Previously coached at USC",
+        "Offensive play-caller",
+        "Controversial coaching figure"
+      ],
+      "summary": "Lane Kiffin made headlines at SEC Media Days discussing his offseason transformation after transitioning to a new coaching role at LSU.",
+      "sourceUrl": "https://www.on3.com/teams/kentucky-wildcats/news/deflecting-lane-kiffin-discusses-death-at-sec-media-days-lsu-tigers/",
+      "difficulty": "medium",
+      "region": "north_america",
+      "imageUrl": "https://on3static.com/uploads/dev/assets/cms/2026/07/23100940/Copy-of-Copy-of-four-star-julian-phillips-discusses-recruitment-official-visits-55.png"
+    },
+    {
+      "id": 6,
+      "answer": "Viking Lander",
+      "acceptedAnswers": [
+        "Viking Lander",
+        "Viking 1",
+        "Viking 1 Lander",
+        "Viking"
+      ],
+      "clues": [
+        "1970s space mission",
+        "First successful surface photographs from another planet",
+        "Robotic spacecraft",
+        "Chryse Planitia landing site",
+        "Life detection experiments",
+        "Red planet exploration"
+      ],
+      "summary": "Space.com featured the historic first up-close photograph of the Martian surface, taken by NASA's Viking lander, as its photo of the day for the anniversary of this landmark achievement.",
+      "sourceUrl": "https://www.space.com/astronomy/mars/our-1st-ever-up-close-look-at-the-martian-surface-space-photo-of-the-day-for-july-22-2026",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://cdn.mos.cms.futurecdn.net/kskBh6w9z952imWASU2XeR-2000-80.png"
+    },
+    {
+      "id": 7,
+      "answer": "IDEMIA",
+      "acceptedAnswers": [
+        "IDEMIA"
+      ],
+      "clues": [
+        "Identity verification company",
+        "Biometric technology provider",
+        "Government contractor",
+        "French multinational",
+        "Digital security solutions",
+        "Voter registration systems"
+      ],
+      "summary": "IDEMIA, a biometric and identity technology contractor, disputed New Jersey congresswoman Mikie Sherrill's claims about voter registration software errors that allegedly allowed over 6,600 noncitizens to register to vote.",
+      "sourceUrl": "https://www.politico.com/news/2026/07/23/contractor-disputes-mikie-sherrills-claims-of-nj-voter-registration-software-error-01010689",
+      "difficulty": "hard",
+      "region": "global",
+      "imageUrl": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F55%2F75%2F4dcad3c741188f417e866f79ff63%2Fimmigration-protests-new-jersey-5147.jpg"
+    },
+    {
+      "id": 8,
+      "answer": "MLB trade deadline",
+      "acceptedAnswers": [
+        "MLB trade deadline",
+        "MLB Trade Deadline"
+      ],
+      "clues": [
+        "Major League Baseball",
+        "Buyer and seller market",
+        "Midsummer roster moves",
+        "Contending team acquisitions",
+        "Waiver wire activity",
+        "Annual summer transaction frenzy"
+      ],
+      "summary": "The 2026 MLB trade deadline is approaching, with analysts evaluating 'bubble teams' that could either buy or sell players in what is shaping up to be a seller's market.",
+      "sourceUrl": "https://www.cbssports.com/mlb/news/mlb-trade-deadline-bubble-teams-orioles-tigers-cardinals-padres-mariners-blue-jays-nationals/",
+      "difficulty": "medium",
+      "region": "north_america",
+      "imageUrl": "https://sportshub.cbsistatic.com/i/r/2026/07/23/a3ca872d-172d-4445-a6bb-4146e2980b43/thumbnail/1200x675/21f75797dd81eb1bdbc57e72c6f6fdd5/nationals-getty-1.png"
+    },
+    {
+      "id": 9,
+      "answer": "Sucia Island",
+      "acceptedAnswers": [
+        "Sucia Island"
+      ],
+      "clues": [
+        "San Juan archipelago",
+        "Washington state park",
+        "Pacific Northwest",
+        "Accessible only by boat",
+        "Marine state park",
+        "Puget Sound region"
+      ],
+      "summary": "Sucia Island in Washington's San Juan County became the site of a seaplane crash rescue after all 11 people aboard a downed aircraft were pulled from the water.",
+      "sourceUrl": "https://komonews.com/news/local/aircraft-crashes-into-water-near-sucia-island-rescue-response-underway-orcas-island-san-juan-fire-and-rescue-united-states-coast-guard-operations-11-patients-investigation-aircraft",
+      "difficulty": "hard",
+      "region": "north_america",
+      "imageUrl": "https://komonews.com/resources/media2/16x9/4032/1320/center/90/17d307e7-fe30-4f82-8086-cf171a0b80fc-3.jpg"
+    },
+    {
+      "id": 10,
+      "answer": "Mikie Sherrill",
+      "acceptedAnswers": [
+        "Mikie Sherrill"
+      ],
+      "clues": [
+        "New Jersey politician",
+        "Former Navy helicopter pilot",
+        "U.S. House of Representatives member",
+        "Federal prosecutor background",
+        "Democratic congresswoman",
+        "Voter integrity advocate"
+      ],
+      "summary": "Congresswoman Mikie Sherrill's claims about voter registration software errors in New Jersey were disputed by the contractor IDEMIA after it was revealed that thousands of noncitizens had been registered to vote.",
+      "sourceUrl": "https://www.politico.com/news/2026/07/23/contractor-disputes-mikie-sherrills-claims-of-nj-voter-registration-software-error-01010689",
+      "difficulty": "hard",
+      "region": "north_america",
+      "imageUrl": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F55%2F75%2F4dcad3c741188f417e866f79ff63%2Fimmigration-protests-new-jersey-5147.jpg"
+    }
+  ]
+}
