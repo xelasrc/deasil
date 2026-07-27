@@ -1,0 +1,215 @@
+{
+  "date": "2026-07-29",
+  "puzzles": [
+    {
+      "id": 1,
+      "answer": "Anesthesia",
+      "acceptedAnswers": [
+        "Anesthesia",
+        "Anaesthesia",
+        "General anesthesia"
+      ],
+      "clues": [
+        "Medical sedation",
+        "Surgical procedure requirement",
+        "Pain management",
+        "Pharmacology",
+        "Consciousness alteration",
+        "Operating room essential"
+      ],
+      "summary": "A Washington Post article explores factors like age, alcohol use, and hair color that influence how much anesthesia and pain medication patients require during and after surgery.",
+      "sourceUrl": "https://www.washingtonpost.com/wellness/2026/07/26/4-things-that-can-make-you-need-more-anesthesia-during-surgery/",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/23ATDSTEUPYIBBYB2SGI6PWGYQ.jpg&w=1440"
+    },
+    {
+      "id": 2,
+      "answer": "Air conditioning",
+      "acceptedAnswers": [
+        "Air conditioning",
+        "AC",
+        "Air conditioner"
+      ],
+      "clues": [
+        "HVAC technology",
+        "Climate control",
+        "Indoor cooling system",
+        "Refrigerant-based appliance",
+        "Willis Carrier invention",
+        "Building energy consumption"
+      ],
+      "summary": "As Europe recorded its hottest June on record, Europeans have rapidly adopted air conditioning units, closing a long-standing gap with American usage of cooling technology.",
+      "sourceUrl": "https://www.businessinsider.com/europe-is-warming-to-americas-obsession-with-ac-2026-7#article",
+      "difficulty": "easy",
+      "region": "europe",
+      "imageUrl": "https://i.insider.com/6a56373c81137eabe596d31d?width=1200&format=jpeg"
+    },
+    {
+      "id": 3,
+      "answer": "Marvel Studios",
+      "acceptedAnswers": [
+        "Marvel Studios",
+        "Marvel"
+      ],
+      "clues": [
+        "Disney subsidiary",
+        "Cinematic Universe creator",
+        "Kevin Feige leadership",
+        "Superhero film production",
+        "Comic book adaptation powerhouse",
+        "Hall H presentations"
+      ],
+      "summary": "Marvel Studios dominated San Diego Comic-Con with announcements including Avengers: Doomsday reveals and a third Black Panther film starring David Jonsson, in one of their most packed panels ever.",
+      "sourceUrl": "http://www.hollywoodreporter.com/movies/movie-news/marvel-studios-doomsday-comic-con-panel-recap-1236656358/",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://www.hollywoodreporter.com/wp-content/uploads/2026/07/2287654826-e1785032920452.jpg?w=1440&h=810&crop=1"
+    },
+    {
+      "id": 4,
+      "answer": "David Jonsson",
+      "acceptedAnswers": [
+        "David Jonsson"
+      ],
+      "clues": [
+        "British actor",
+        "Alien: Romulus star",
+        "London-born performer",
+        "RADA graduate",
+        "Science fiction film roles",
+        "Rising leading man"
+      ],
+      "summary": "David Jonsson was announced at Comic-Con as the new titular hero in Ryan Coogler's third Black Panther film, marking a major new chapter for the franchise.",
+      "sourceUrl": "https://www.marvel.com/articles/movies/marvel-studios-black-panther-3-ryan-coogler-san-diego-comic-con-2026",
+      "difficulty": "hard",
+      "region": "europe",
+      "imageUrl": "https://cdn.marvel.com/content/2x/black_panther_sdcc_2026.webp"
+    },
+    {
+      "id": 5,
+      "answer": "NPR",
+      "acceptedAnswers": [
+        "NPR",
+        "National Public Radio"
+      ],
+      "clues": [
+        "Nonprofit media organization",
+        "Public broadcasting",
+        "Founded in 1970",
+        "Radio network",
+        "Listener-supported journalism",
+        "All Things Considered producer"
+      ],
+      "summary": "A year after President Trump signed a law ending six decades of federal funding for public media, NPR reports on how public TV and radio stations nationwide are reinventing themselves to survive without government support.",
+      "sourceUrl": "https://www.npr.org/2026/07/26/nx-s1-5884022/pbs-npr-public-radio-tv-funding-trump",
+      "difficulty": "medium",
+      "region": "north-america",
+      "imageUrl": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3947x2219+553+132/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F91%2F63%2F8569cd3a4077b7a41925ef3f5bd8%2Fsdpb-acp-072026-0416.jpg"
+    },
+    {
+      "id": 6,
+      "answer": "Wildfire",
+      "acceptedAnswers": [
+        "Wildfire",
+        "Wildfires"
+      ],
+      "clues": [
+        "Natural disaster",
+        "Mediterranean climate hazard",
+        "Evacuation trigger",
+        "Forest destruction",
+        "Extreme heat consequence",
+        "Firefighting emergency"
+      ],
+      "summary": "Devastating wildfires in France and Spain have forced more than 200,000 people to flee their homes, with at least one death reported in Spain as extreme heat drives dangerous fire conditions across southern Europe.",
+      "sourceUrl": "https://www.npr.org/2026/07/25/nx-s1-5907963/wildfires-spain-france-evacuations",
+      "difficulty": "easy",
+      "region": "europe",
+      "imageUrl": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7779x4376+0+6/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F56%2F56%2F859d072449599d0ba00bcd5bb020%2Fap26206645272115.jpg"
+    },
+    {
+      "id": 7,
+      "answer": "Sylvia Luke",
+      "acceptedAnswers": [
+        "Sylvia Luke"
+      ],
+      "clues": [
+        "Hawaii politician",
+        "Lieutenant Governor",
+        "Democratic Party member",
+        "Bribery investigation",
+        "Government official indictment",
+        "Honolulu political figure"
+      ],
+      "summary": "Hawaii Lieutenant Governor Sylvia Luke is among five people indicted in a bribery investigation, marking the beginning of what legal experts say will be a lengthy court process.",
+      "sourceUrl": "https://www.kitv.com/news/the-legal-process-will-now-begin-after-the-recent-bribery-investigation-indictments-but-what-happens/article_be1b3724-0983-4134-a28e-f9bf89ed10ce.html",
+      "difficulty": "hard",
+      "region": "north-america",
+      "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kitv.com/content/tncms/assets/v3/editorial/c/f5/cf57e1ef-a372-4ee8-bd3b-c47896abfa9b/6a657c2a4e1bc.image.png?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
+    },
+    {
+      "id": 8,
+      "answer": "WNBA All-Star Game",
+      "acceptedAnswers": [
+        "WNBA All-Star Game",
+        "WNBA All-Star Weekend"
+      ],
+      "clues": [
+        "Professional basketball showcase",
+        "Women's sports event",
+        "Annual midseason exhibition",
+        "Chicago 2026 host city",
+        "League growth milestone",
+        "Star player exhibition match"
+      ],
+      "summary": "The 2026 WNBA All-Star Weekend took place in Chicago, showcasing the league's growth with standout performances from Jonquel Jones and Dominique Malonga.",
+      "sourceUrl": "https://www.cbssports.com/wnba/news/2026-wnba-all-star-winners-losers-jonquel-jones-sky/",
+      "difficulty": "medium",
+      "region": "north-america",
+      "imageUrl": "https://sportshub.cbsistatic.com/i/r/2026/07/26/568fee3f-6796-45e0-89e1-1ab6563a4134/thumbnail/1200x675/0d7c58693a4569a6a7492d0ea1580a07/jonquel-jones-wnba-all-star-mvp.png"
+    },
+    {
+      "id": 9,
+      "answer": "Satellite servicing",
+      "acceptedAnswers": [
+        "Satellite servicing",
+        "On-orbit servicing",
+        "Satellite life extension"
+      ],
+      "clues": [
+        "Space technology",
+        "Orbital mechanics application",
+        "Telecommunications infrastructure",
+        "Spacecraft refueling concept",
+        "Private space mission",
+        "Geostationary orbit operations"
+      ],
+      "summary": "A private high-tech mission has launched to extend the operational life of communication satellites that have run out of fuel, representing a growing commercial space servicing industry.",
+      "sourceUrl": "https://www.newser.com/story/393267/inside-the-high-tech-effort-to-keep-satellites-alive.html",
+      "difficulty": "hard",
+      "region": "global",
+      "imageUrl": "https://cdn.newser.com/image/1700175-12-20260725173003.jpeg"
+    },
+    {
+      "id": 10,
+      "answer": "Emma Roberts",
+      "acceptedAnswers": [
+        "Emma Roberts"
+      ],
+      "clues": [
+        "American Horror Story cast member",
+        "Julia Roberts' niece",
+        "Actress and model",
+        "Scream Queens star",
+        "Hollywood family legacy",
+        "Celebrity wedding news"
+      ],
+      "summary": "Actress Emma Roberts is marrying fiancé Cody John this weekend in Idaho, with the couple having been together since 2022.",
+      "sourceUrl": "https://pagesix.com/2026/07/25/celebrity-news/emma-roberts-marrying-fiance-cody-john-this-weekend-in-idaho/",
+      "difficulty": "medium",
+      "region": "north-america",
+      "imageUrl": "https://pagesix.com/wp-content/uploads/sites/3/2026/07/135488276.jpg?quality=75&strip=all&w=1200"
+    }
+  ]
+}
