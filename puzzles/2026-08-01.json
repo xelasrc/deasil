@@ -1,0 +1,214 @@
+{
+  "date": "2026-08-01",
+  "puzzles": [
+    {
+      "id": 1,
+      "answer": "Kumamoto",
+      "acceptedAnswers": [
+        "Kumamoto",
+        "Kumamoto Prefecture"
+      ],
+      "clues": [
+        "Japanese prefecture",
+        "Kyushu island",
+        "Earthquake zone",
+        "Home of a famous castle",
+        "Mascot character Kumamon",
+        "Volcanic caldera region"
+      ],
+      "summary": "A magnitude 7.1 earthquake struck Kumamoto in southwestern Japan, killing at least 25 people, toppling buildings, and setting off an explosion at a mall.",
+      "sourceUrl": "https://apnews.com/article/japan-earthquake-kumamoto-mall-factory-80b525f6a271a0b3aecd708342b09294",
+      "difficulty": "hard",
+      "region": "asia",
+      "imageUrl": "https://dims.apnews.com/dims4/default/85f0e80/2147483647/strip/true/crop/3968x2644+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc8%2F96%2F5877a50b975436fb144e00d089cb%2F30646451dace4b4da1d9ac830614c995"
+    },
+    {
+      "id": 2,
+      "answer": "Anthony Fauci",
+      "acceptedAnswers": [
+        "Anthony Fauci",
+        "Fauci",
+        "Dr. Fauci"
+      ],
+      "clues": [
+        "Former NIAID director",
+        "Immunologist",
+        "COVID-19 task force member",
+        "Congressional testimony",
+        "Public health official",
+        "Infectious disease expert"
+      ],
+      "summary": "Anthony Fauci faces a contempt-of-Congress vote after refusing to answer questions about COVID during a congressional hearing, while his recently revealed diary offers new insights into pandemic decision-making.",
+      "sourceUrl": "https://www.bbc.com/news/articles/czdmv0vyv4zo",
+      "difficulty": "easy",
+      "region": "north-america",
+      "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/a41f/live/7f66f650-8bbd-11f1-b8ee-9b3c26ad07bb.jpg"
+    },
+    {
+      "id": 3,
+      "answer": "Vagus nerve",
+      "acceptedAnswers": [
+        "Vagus nerve",
+        "Vagus"
+      ],
+      "clues": [
+        "Cranial nerve X",
+        "Parasympathetic nervous system",
+        "Gut-brain axis",
+        "Longest cranial nerve",
+        "Autonomic regulation",
+        "Connects brainstem to abdomen"
+      ],
+      "summary": "Scientists discovered that the vagus nerve carries a signal linking food consumption directly to memory formation, shedding light on why meals are so tied to important memories.",
+      "sourceUrl": "https://www.sciencealert.com/what-you-eat-may-trigger-gut-brain-signals-that-shape-how-memories-form",
+      "difficulty": "hard",
+      "region": "global",
+      "imageUrl": "https://www.sciencealert.com/images/2026/07/u1665515325_hyper_realistic_cinematic_photograph_of_a_chubby__7b0daa49-f9c0-4dc4-9190-0c6fc3097cc8_1.png"
+    },
+    {
+      "id": 4,
+      "answer": "Attachment theory",
+      "acceptedAnswers": [
+        "Attachment theory",
+        "Attachment styles"
+      ],
+      "clues": [
+        "Developmental psychology concept",
+        "John Bowlby's framework",
+        "Secure and insecure categories",
+        "Mary Ainsworth's research",
+        "Relationship patterns",
+        "Childhood bonding influence"
+      ],
+      "summary": "New research highlights how attachment styles shape relationship outcomes, with scientists explaining why some relationships flourish while others fail and how people can change their patterns.",
+      "sourceUrl": "https://www.washingtonpost.com/health/2026/07/30/scientists-say-this-is-reason-some-relationships-flourish-others-flop/",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/PVYLIWNE3NHV7DHMG5G2NESPLI.jpg&w=1440"
+    },
+    {
+      "id": 5,
+      "answer": "Tarik Skubal",
+      "acceptedAnswers": [
+        "Tarik Skubal",
+        "Skubal"
+      ],
+      "clues": [
+        "American League pitcher",
+        "Detroit professional athlete",
+        "Cy Young Award winner",
+        "Left-handed starter",
+        "2024 MLB strikeout leader",
+        "Trade deadline target"
+      ],
+      "summary": "ESPN's Jeff Passan reported that the Detroit Tigers are going to trade ace pitcher Tarik Skubal before the trade deadline, making one of the biggest pitching trades in recent memory.",
+      "sourceUrl": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-07-29/passan-tigers-are-going-to-trade-tarik-skubal",
+      "difficulty": "hard",
+      "region": "north-america",
+      "imageUrl": "https://nbcsports.brightspotcdn.com/dims4/default/f509466/2147483647/strip/true/crop/100x56+0+39/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F23%2Fc8%2F9e981a3647cc8c7a3937acb3cabc%2Fskubal-tarik.jpg"
+    },
+    {
+      "id": 6,
+      "answer": "Noah Kahan",
+      "acceptedAnswers": [
+        "Noah Kahan"
+      ],
+      "clues": [
+        "Vermont singer-songwriter",
+        "Folk-pop artist",
+        "Stick Season performer",
+        "Dial Drunk singer",
+        "Independent music scene",
+        "Political music controversy"
+      ],
+      "summary": "Noah Kahan publicly stated he would 'never approve' the Trump administration using his music after his song 'American Cars' was used without permission to promote a presidential visit to a GM facility.",
+      "sourceUrl": "https://ew.com/white-house-responds-to-noah-kahan-slamming-trump-for-using-his-song-american-cars-12030298",
+      "difficulty": "medium",
+      "region": "north-america",
+      "imageUrl": "https://ew.com/thmb/Lg-_LcD_Fa1zLtbXtB2815LMMkE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/noah-kahan-donald-trump-072926-4540e5f3ee94405482f6f03ef8c6935f.jpg"
+    },
+    {
+      "id": 7,
+      "answer": "Dulles Airport",
+      "acceptedAnswers": [
+        "Dulles Airport",
+        "Dulles International Airport",
+        "Washington Dulles"
+      ],
+      "clues": [
+        "Virginia aviation hub",
+        "Named after a Cold War diplomat",
+        "Eero Saarinen design",
+        "Mobile lounge shuttles",
+        "Washington metropolitan area",
+        "International gateway near the capital"
+      ],
+      "summary": "President Trump announced an extensive overhaul of Dulles International Airport, including the removal of its much-criticized 'people mover' shuttle vehicles, to widespread traveler approval.",
+      "sourceUrl": "https://www.washingtonpost.com/dc-md-va/2026/07/29/good-riddance-people-mover-shuttles-dulles-airport-travelers-say/",
+      "difficulty": "medium",
+      "region": "north-america",
+      "imageUrl": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/TTA3AGIHSNFNNAOXI5QR43TO5A.jpeg&w=1440"
+    },
+    {
+      "id": 8,
+      "answer": "Pat Fitzgerald",
+      "acceptedAnswers": [
+        "Pat Fitzgerald"
+      ],
+      "clues": [
+        "College football head coach",
+        "Former Northwestern leader",
+        "Big Ten conference figure",
+        "Linebacker background",
+        "East Lansing newcomer",
+        "Championship-era nostalgia"
+      ],
+      "summary": "Pat Fitzgerald, now head coach at Michigan State, has promised to return the Spartans to Big Ten championship contention, evoking the toughness of the Mark Dantonio era.",
+      "sourceUrl": "https://www.freep.com/story/sports/college/michigan-state/spartans/2026/07/29/michigan-state-football-pat-fitzgerald-big-ten-media-days/91099628007/",
+      "difficulty": "hard",
+      "region": "north-america",
+      "imageUrl": "https://www.freep.com/gcdn/authoring/authoring-images/2026/07/29/SCOL/91096998007-20260729-t-190957-z-1659001276-mt-1-usatoday-29473620-rtrmadp-3-ncaafootballbigtenmediadays.JPG?crop=4199,2362,x0,y0&width=3200&height=1801&format=pjpg&auto=webp"
+    },
+    {
+      "id": 9,
+      "answer": "Santa Cruz",
+      "acceptedAnswers": [
+        "Santa Cruz",
+        "Santa Cruz, California"
+      ],
+      "clues": [
+        "California coastal city",
+        "Pacific Ocean beaches",
+        "University of California campus",
+        "Surfing destination",
+        "Monterey Bay area",
+        "Boardwalk amusement park"
+      ],
+      "summary": "A heroic teen lifeguard rescued a 10-year-old boy from powerful waves at Seabright Beach in Santa Cruz, California, in a dramatic death-defying rescue witnessed by horrified beachgoers.",
+      "sourceUrl": "https://nypost.com/2026/07/29/us-news/dad-of-10-year-old-boy-saved-by-heroic-teen-lifeguard-speaks-out-on-death-defying-rescue/",
+      "difficulty": "medium",
+      "region": "north-america",
+      "imageUrl": "https://nypost.com/wp-content/uploads/sites/2/2026/07/newspress-collage-es68puull-1785377005459.jpg?quality=75&strip=all&1785362778&w=1200"
+    },
+    {
+      "id": 10,
+      "answer": "Kyushu",
+      "acceptedAnswers": [
+        "Kyushu"
+      ],
+      "clues": [
+        "Third largest Japanese island",
+        "Southwestern archipelago region",
+        "Volcanic landscape",
+        "Home to Nagasaki",
+        "Hot spring tourism",
+        "Subtropical climate zone"
+      ],
+      "summary": "Kyushu, Japan's southwestern main island, was struck by a devastating magnitude 7.1 earthquake that killed at least 25 people and caused widespread destruction across the region.",
+      "sourceUrl": "https://apnews.com/article/japan-earthquake-kumamoto-mall-factory-80b525f6a271a0b3aecd708342b09294",
+      "difficulty": "medium",
+      "region": "asia",
+      "imageUrl": "https://dims.apnews.com/dims4/default/85f0e80/2147483647/strip/true/crop/3968x2644+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc8%2F96%2F5877a50b975436fb144e00d089cb%2F30646451dace4b4da1d9ac830614c995"
+    }
+  ]
+}
