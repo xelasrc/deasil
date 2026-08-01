@@ -1,0 +1,218 @@
+{
+  "date": "2026-08-02",
+  "puzzles": [
+    {
+      "id": 1,
+      "answer": "Nirmal Purja",
+      "acceptedAnswers": [
+        "Nirmal Purja",
+        "Nims Purja",
+        "Nimsdai Purja"
+      ],
+      "clues": [
+        "Mountaineering",
+        "Royal Marines veteran",
+        "14 peaks record holder",
+        "Nepalese-British climber",
+        "High-altitude expedition",
+        "Guinness World Records"
+      ],
+      "summary": "Nirmal Purja, the renowned Nepalese-British mountaineer famous for summiting all 14 eight-thousanders in record time, is among 10 climbers feared missing after an avalanche in Pakistan.",
+      "sourceUrl": "https://www.bbc.com/news/articles/cddjz1r01l8o",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/e632/live/d7597730-8c6b-11f1-a7ab-8b30adf0800a.jpg"
+    },
+    {
+      "id": 2,
+      "answer": "Hamas",
+      "acceptedAnswers": [
+        "Hamas"
+      ],
+      "clues": [
+        "Palestinian territories",
+        "Founded in 1987",
+        "Militant organization",
+        "Gaza governance",
+        "Disarmament negotiations",
+        "Middle Eastern conflict"
+      ],
+      "summary": "President Trump announced that the Board of Peace has reached an agreement on disarmament of Hamas in Gaza, with Israel reportedly set to withdraw once the group disarms.",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/7/30/trump-says-board-of-peace-reaches-agreement-on-disarmament-of-hamas-in-gaza",
+      "difficulty": "easy",
+      "region": "middle-east",
+      "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/07/AFP__20260728__C3EH47Y__v1__HighRes__PalestinianIsraelConflictGaza-1785392877.jpg?resize=1920%2C1440"
+    },
+    {
+      "id": 3,
+      "answer": "Photonic time crystal",
+      "acceptedAnswers": [
+        "Photonic time crystal",
+        "Photonic time crystals",
+        "PTC"
+      ],
+      "clues": [
+        "Metamaterials",
+        "Terahertz frequency",
+        "Optical physics",
+        "All-optical realization",
+        "Periodically varying properties",
+        "Light manipulation technology"
+      ],
+      "summary": "An international team of researchers achieved the first experimental realization of an all-optical photonic time crystal, enabling ultrafast control of light in the terahertz range.",
+      "sourceUrl": "https://phys.org/news/2026-07-photonic-crystals-ultrafast-terahertz-range.html",
+      "difficulty": "hard",
+      "region": "global",
+      "imageUrl": "https://scx2.b-cdn.net/gfx/news/hires/2026/shaping-light-like-nev-1.jpg"
+    },
+    {
+      "id": 4,
+      "answer": "Ben Crump",
+      "acceptedAnswers": [
+        "Ben Crump",
+        "Benjamin Crump"
+      ],
+      "clues": [
+        "Civil rights law",
+        "National Urban League Conference",
+        "High-profile wrongful death cases",
+        "Florida-based attorney",
+        "Police brutality litigation",
+        "Social justice advocacy"
+      ],
+      "summary": "Civil rights attorney Ben Crump announced that audio engineering experts have been retained to review a July 4 boat distress call related to the Nolan Wells case.",
+      "sourceUrl": "https://www.pbs.org/newshour/nation/attorney-for-nolan-wells-family-says-experts-will-review-a-july-4-boat-distress-call",
+      "difficulty": "medium",
+      "region": "north-america",
+      "imageUrl": "https://d3i6fh83elv35t.cloudfront.net/static/2026/07/2026-07-22T180813Z_502764415_RC22JMADXB6F_RTRMADP_3_MISSISSIPPI-DEATH-1-1024x683.jpg"
+    },
+    {
+      "id": 5,
+      "answer": "K2",
+      "acceptedAnswers": [
+        "K2",
+        "Mount K2"
+      ],
+      "clues": [
+        "Karakoram Range",
+        "Second-highest peak",
+        "8,611 metres",
+        "Savage Mountain",
+        "Pakistan-administered territory",
+        "Deadly mountaineering destination"
+      ],
+      "summary": "K2 in Pakistan is in the news after an avalanche left 10 climbers, including renowned mountaineer Nirmal Purja, feared missing on the mountain.",
+      "sourceUrl": "https://www.bbc.com/news/articles/cddjz1r01l8o",
+      "difficulty": "medium",
+      "region": "asia",
+      "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/e632/live/d7597730-8c6b-11f1-a7ab-8b30adf0800a.jpg"
+    },
+    {
+      "id": 6,
+      "answer": "Archaic human introgression",
+      "acceptedAnswers": [
+        "Archaic human introgression",
+        "Archaic introgression",
+        "Introgression"
+      ],
+      "clues": [
+        "Ancestral recombination graphs",
+        "Paleogenomics",
+        "Denisovan DNA",
+        "Neanderthal admixture",
+        "Population genetics",
+        "Ancient DNA analysis"
+      ],
+      "summary": "A new study published in Science introduces TRACE, a method using ancestral recombination graphs to recover signatures of interbreeding between modern humans and extinct hominin species.",
+      "sourceUrl": "https://www.science.org/doi/10.1126/science.aef8874",
+      "difficulty": "hard",
+      "region": "global",
+      "imageUrl": "https://www.science.org/cms/asset/b2dfa81c-e645-40bf-ad5a-abb03601248b/science.aef8874-keyimage.gif"
+    },
+    {
+      "id": 7,
+      "answer": "École Polytechnique",
+      "acceptedAnswers": [
+        "École Polytechnique",
+        "Ecole Polytechnique"
+      ],
+      "clues": [
+        "Grande école",
+        "French engineering institution",
+        "Palaiseau campus",
+        "Founded 1794",
+        "Military academy heritage",
+        "Paris-Saclay university system"
+      ],
+      "summary": "Researchers from École Polytechnique, along with international collaborators, achieved a breakthrough in photonic time crystal technology enabling ultrafast control of light.",
+      "sourceUrl": "https://phys.org/news/2026-07-photonic-crystals-ultrafast-terahertz-range.html",
+      "difficulty": "hard",
+      "region": "europe",
+      "imageUrl": "https://scx2.b-cdn.net/gfx/news/hires/2026/shaping-light-like-nev-1.jpg"
+    },
+    {
+      "id": 8,
+      "answer": "Tanning",
+      "acceptedAnswers": [
+        "Tanning",
+        "Indoor tanning",
+        "Sunbed tanning"
+      ],
+      "clues": [
+        "Ultraviolet radiation exposure",
+        "Melanoma risk factor",
+        "Skin care trend",
+        "Social media beauty influence",
+        "Gen Z health misconceptions",
+        "Dermatology concern"
+      ],
+      "summary": "Tanning is experiencing a resurgence among young adults driven by social media influencers, raising concerns among health experts about increased skin cancer risks and misconceptions about sun protection.",
+      "sourceUrl": "https://apnews.com/article/tanning-beds-sun-teens-skin-cancer-trends-4ae3015a66dd90817ce30b34e6556e5e",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://dims.apnews.com/dims4/default/6395a7c/2147483647/strip/true/crop/2719x1812+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F1d%2Ff4%2F8e46201e1c8a0d34086435740ef1%2F107e391e1d064e4e9d5a1f8f73acbdd5"
+    },
+    {
+      "id": 9,
+      "answer": "National Urban League",
+      "acceptedAnswers": [
+        "National Urban League",
+        "Urban League"
+      ],
+      "clues": [
+        "Civil rights organization",
+        "Founded 1910",
+        "African American advocacy",
+        "Annual conference",
+        "Economic empowerment",
+        "New York City headquarters"
+      ],
+      "summary": "The National Urban League Conference served as the venue where attorney Ben Crump made announcements about the Nolan Wells case and audio evidence review.",
+      "sourceUrl": "https://www.pbs.org/newshour/nation/attorney-for-nolan-wells-family-says-experts-will-review-a-july-4-boat-distress-call",
+      "difficulty": "hard",
+      "region": "north-america",
+      "imageUrl": "https://d3i6fh83elv35t.cloudfront.net/static/2026/07/2026-07-22T180813Z_502764415_RC22JMADXB6F_RTRMADP_3_MISSISSIPPI-DEATH-1-1024x683.jpg"
+    },
+    {
+      "id": 10,
+      "answer": "Gaza",
+      "acceptedAnswers": [
+        "Gaza",
+        "Gaza Strip"
+      ],
+      "clues": [
+        "Mediterranean coastal territory",
+        "Palestinian enclave",
+        "Densely populated region",
+        "Ceasefire negotiations",
+        "Humanitarian crisis zone",
+        "Middle Eastern conflict area"
+      ],
+      "summary": "Gaza is in the news as President Trump announced a disarmament agreement involving Hamas, with Israel set to withdraw from the territory once the Palestinian group disarms.",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/7/30/trump-says-board-of-peace-reaches-agreement-on-disarmament-of-hamas-in-gaza",
+      "difficulty": "easy",
+      "region": "middle-east",
+      "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/07/AFP__20260728__C3EH47Y__v1__HighRes__PalestinianIsraelConflictGaza-1785392877.jpg?resize=1920%2C1440"
+    }
+  ]
+}
