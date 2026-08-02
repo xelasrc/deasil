@@ -1,0 +1,212 @@
+{
+  "date": "2026-08-03",
+  "puzzles": [
+    {
+      "id": 1,
+      "answer": "Slipknot",
+      "acceptedAnswers": [
+        "Slipknot"
+      ],
+      "clues": [
+        "Nu metal band",
+        "Iowa origins",
+        "Masked performers",
+        "Nine members",
+        "Corey Taylor frontman",
+        "Des Moines",
+        "Heavy metal"
+      ],
+      "summary": "DJ and keyboardist Sid Wilson was reportedly kicked out of Slipknot after nearly 30 years with the band, making headlines in the music world.",
+      "sourceUrl": "https://www.justjared.com/2026/07/31/slipknots-sid-wilson-reportedly-kicked-out-of-band-after-nearly-30-years/",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://www.justjared.com/wp-content/uploads/2026/07/sid-wilson-leaves-slipknot.jpg"
+    },
+    {
+      "id": 2,
+      "answer": "Ceuta",
+      "acceptedAnswers": [
+        "Ceuta"
+      ],
+      "clues": [
+        "Spanish exclave",
+        "North African territory",
+        "Autonomous city",
+        "Strait of Gibraltar proximity",
+        "Mediterranean border",
+        "Enclave on Moroccan coast"
+      ],
+      "summary": "A massive migrant crisis in the Spanish North African enclave of Ceuta prompted Italy to close borders with Spain and suspend Schengen arrangements.",
+      "sourceUrl": "https://thehill.com/policy/international/6003064-ceuta-migration-spain-morocco-italy/",
+      "difficulty": "hard",
+      "region": "europe",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/07/AP26212312898697-e1785506593290.jpg?w=1280"
+    },
+    {
+      "id": 3,
+      "answer": "Schengen Area",
+      "acceptedAnswers": [
+        "Schengen Area",
+        "Schengen",
+        "Schengen Zone"
+      ],
+      "clues": [
+        "European free movement zone",
+        "Named after a Luxembourg town",
+        "Borderless travel agreement",
+        "1985 treaty origin",
+        "26 member states",
+        "Passport-free travel"
+      ],
+      "summary": "Italy temporarily suspended Schengen agreements with Spain over the Ceuta migrant crisis, highlighting tensions within European border policy.",
+      "sourceUrl": "https://thehill.com/policy/international/6003064-ceuta-migration-spain-morocco-italy/",
+      "difficulty": "medium",
+      "region": "europe",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/07/AP26212312898697-e1785506593290.jpg?w=1280"
+    },
+    {
+      "id": 4,
+      "answer": "Ken Griffin",
+      "acceptedAnswers": [
+        "Ken Griffin",
+        "Kenneth Griffin"
+      ],
+      "clues": [
+        "Billionaire hedge fund manager",
+        "Citadel founder",
+        "Financial market titan",
+        "Chicago-based investor",
+        "Palm Beach philanthropist",
+        "Algorithmic trading pioneer"
+      ],
+      "summary": "Citadel's Ken Griffin made headlines for stepping in with a deal involving Situational Awareness AI, continuing his pattern of seizing opportunities when rivals face losses.",
+      "sourceUrl": "https://finance.yahoo.com/markets/stocks/articles/situational-awareness-ai-deal-citadels-235730306.html",
+      "difficulty": "hard",
+      "region": "north-america",
+      "imageUrl": "https://s.yimg.com/lo/mysterio/api/01DF41B096A30FD21A063A1D3391AF9D13E77D02E7FDB1B395EA7B1E2B0DC4A5/subgraphmysterio/resizefill_w1200_h764;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters-finance.com%2F66f38639ea3d92252a3561b2901856f4"
+    },
+    {
+      "id": 5,
+      "answer": "Tony Romo",
+      "acceptedAnswers": [
+        "Tony Romo"
+      ],
+      "clues": [
+        "Former NFL quarterback",
+        "Dallas Cowboys star",
+        "CBS broadcaster",
+        "Eastern Illinois University alumnus",
+        "Undrafted free agent success story",
+        "Television color commentator"
+      ],
+      "summary": "Colin Cowherd claimed that CBS executives have resented Tony Romo since his lucrative contract negotiations, reigniting debate about his broadcasting career.",
+      "sourceUrl": "https://awfulannouncing.com/nfl/colin-cowherd-tony-romo-contract.html",
+      "difficulty": "medium",
+      "region": "north-america",
+      "imageUrl": "https://cdn1.thecomeback.com/wp-content/uploads/sites/94/2024/12/RomoFace-scaled-e1785528048754.jpg"
+    },
+    {
+      "id": 6,
+      "answer": "Sony",
+      "acceptedAnswers": [
+        "Sony",
+        "Sony Group"
+      ],
+      "clues": [
+        "Japanese electronics conglomerate",
+        "PlayStation maker",
+        "Tokyo-headquartered multinational",
+        "Columbia Pictures parent",
+        "Blu-ray co-developer",
+        "Consumer electronics giant"
+      ],
+      "summary": "Sony acknowledged consumer backlash but announced it will cautiously move forward with ending physical disc production, marking a major shift in media distribution.",
+      "sourceUrl": "https://arstechnica.com/gaming/2026/07/sony-acknowledges-backlash-will-cautiously-move-forward-with-end-of-discs/",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2283657893-1024x648.jpg"
+    },
+    {
+      "id": 7,
+      "answer": "Tim Walz",
+      "acceptedAnswers": [
+        "Tim Walz"
+      ],
+      "clues": [
+        "Minnesota governor",
+        "Former U.S. congressman",
+        "National Guard veteran",
+        "High school teacher background",
+        "Democratic-Farmer-Labor Party",
+        "Midwest politician"
+      ],
+      "summary": "Minnesota Governor Tim Walz sharply responded to unfounded claims from President Trump that Minnesota was behind cyberattacks on municipal water systems.",
+      "sourceUrl": "https://www.mprnews.org/story/2026/07/31/walz-rejects-trumps-unfounded-claims-minnesota-behind-water-system-cyberattacks",
+      "difficulty": "medium",
+      "region": "north-america",
+      "imageUrl": "https://img.apmcdn.org/58872ad4aafa05fbfef71ea58cd4cf2c4ee9ebb0/widescreen/f5f7a5-20251219-minnesota-gov-tim-walz-speaking-2000.jpg"
+    },
+    {
+      "id": 8,
+      "answer": "PFL",
+      "acceptedAnswers": [
+        "PFL",
+        "Professional Fighters League"
+      ],
+      "clues": [
+        "Mixed martial arts promotion",
+        "Season-based tournament format",
+        "Acquired Bellator",
+        "MMA league with playoffs",
+        "Million-dollar championship prize",
+        "Combat sports organization"
+      ],
+      "summary": "Usman Nurmagomedov scored a dominant first-round knockout of Archie Colgan at PFL New York, a major card for the growing MMA promotion.",
+      "sourceUrl": "https://www.mmafighting.com/pfl/502548/usman-nurmagomedov-torches-archie-colgan-in-the-first-round-at-pfl-new-york",
+      "difficulty": "hard",
+      "region": "global",
+      "imageUrl": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/07/Screenshot-2026-07-31-at-9.05.26-PM.png?quality=90&strip=all&crop=0,7.1043491783733,100,85.791301643253"
+    },
+    {
+      "id": 9,
+      "answer": "Sid Wilson",
+      "acceptedAnswers": [
+        "Sid Wilson"
+      ],
+      "clues": [
+        "Turntablist and keyboardist",
+        "Known for wearing gas masks",
+        "Number zero in his band",
+        "DJ in a metal group",
+        "Kelly Osbourne's partner",
+        "Nearly three decades with one group"
+      ],
+      "summary": "Sid Wilson was reportedly removed from Slipknot after nearly 30 years, ending one of the longest tenures in the iconic metal band's lineup.",
+      "sourceUrl": "https://www.justjared.com/2026/07/31/slipknots-sid-wilson-reportedly-kicked-out-of-band-after-nearly-30-years/",
+      "difficulty": "hard",
+      "region": "global",
+      "imageUrl": "https://www.justjared.com/wp-content/uploads/2026/07/sid-wilson-leaves-slipknot.jpg"
+    },
+    {
+      "id": 10,
+      "answer": "Citadel",
+      "acceptedAnswers": [
+        "Citadel",
+        "Citadel LLC"
+      ],
+      "clues": [
+        "Hedge fund giant",
+        "Market-making arm",
+        "Founded in 1990",
+        "Chicago financial firm",
+        "Multi-strategy fund",
+        "Quantitative trading powerhouse"
+      ],
+      "summary": "Citadel made news for a deal involving Situational Awareness AI, with founder Ken Griffin once again stepping into a market opportunity amid rival losses.",
+      "sourceUrl": "https://finance.yahoo.com/markets/stocks/articles/situational-awareness-ai-deal-citadels-235730306.html",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://s.yimg.com/lo/mysterio/api/01DF41B096A30FD21A063A1D3391AF9D13E77D02E7FDB1B395EA7B1E2B0DC4A5/subgraphmysterio/resizefill_w1200_h764;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters-finance.com%2F66f38639ea3d92252a3561b2901856f4"
+    }
+  ]
+}
