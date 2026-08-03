@@ -1,0 +1,213 @@
+{
+  "date": "2026-08-05",
+  "puzzles": [
+    {
+      "id": 1,
+      "answer": "In-N-Out Burger",
+      "acceptedAnswers": [
+        "In-N-Out Burger",
+        "In-N-Out",
+        "In N Out"
+      ],
+      "clues": [
+        "Fast food chain",
+        "Founded in Baldwin Park, California",
+        "Double-Double menu item",
+        "Animal Style secret menu",
+        "Drive-through restaurant",
+        "Western United States expansion"
+      ],
+      "summary": "Several people were killed in a shooting at an In-N-Out restaurant in Twin Falls, Idaho, drawing national attention to the popular fast food chain.",
+      "sourceUrl": "https://www.cbsnews.com/news/twin-falls-idaho-in-n-out-shooting/",
+      "difficulty": "easy",
+      "region": "north-america",
+      "imageUrl": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/08/02/f6531405-c6cd-40f2-831a-a685adb689d1/thumbnail/1200x630/34f0bcf36ed5fe975d5370d95d8762ad/ap26214049907166.jpg"
+    },
+    {
+      "id": 2,
+      "answer": "Vincent Pastore",
+      "acceptedAnswers": [
+        "Vincent Pastore"
+      ],
+      "clues": [
+        "American character actor",
+        "HBO crime drama cast member",
+        "Known for playing mobsters",
+        "Born in the Bronx",
+        "Big Pussy nickname on screen",
+        "Died at age 80"
+      ],
+      "summary": "Vincent Pastore, the veteran actor best known for portraying Salvatore 'Big Pussy' Bonpensiero on The Sopranos, has died at 80.",
+      "sourceUrl": "https://apnews.com/article/pastore-sopranos-obit-80cd230a299c6894b809065f835ef774",
+      "difficulty": "medium",
+      "region": "north-america",
+      "imageUrl": "https://dims.apnews.com/dims4/default/75d159c/2147483647/strip/true/crop/4562x3040+0+13/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F73%2Ff6%2F46aa0da65661da45cb978e1b7661%2F53edf8ccbb4c4e158488717f44e8cad9"
+    },
+    {
+      "id": 3,
+      "answer": "Spider-Man",
+      "acceptedAnswers": [
+        "Spider-Man",
+        "Spiderman"
+      ],
+      "clues": [
+        "Marvel Comics superhero",
+        "Created by Stan Lee and Steve Ditko",
+        "Web-slinging abilities",
+        "Daily Bugle photographer",
+        "Queens, New York origin",
+        "Multiple MCU film appearances"
+      ],
+      "summary": "The upcoming MCU film 'Spider-Man: Brand New Day' is generating buzz, with outlets publishing guides on which Marvel movies to watch beforehand.",
+      "sourceUrl": "https://www.forbes.com/sites/hannahabraham/2026/08/02/movies-to-watch-before-spider-man-brand-new-day/",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://imageio.forbes.com/specials-images/imageserve/6a5e573f0279d5441373ce03/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+    },
+    {
+      "id": 4,
+      "answer": "Broad Peak",
+      "acceptedAnswers": [
+        "Broad Peak"
+      ],
+      "clues": [
+        "Karakoram mountain range",
+        "Located in Pakistan",
+        "Twelfth-highest mountain in the world",
+        "First summited in 1957",
+        "Eight-thousander classification",
+        "Near the border with China"
+      ],
+      "summary": "An avalanche on Broad Peak, the world's 12th-highest mountain in Pakistan, killed famed climber Nirmal Purja and nine others, shocking the mountaineering community.",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/8/1/omani-legend-us-novice-pakistan-recovers-bodies-from-broad-peak",
+      "difficulty": "hard",
+      "region": "asia",
+      "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/08/AFP__20230805__33QK7PU__v1__MidRes__PakistanMountaineeringBroadPeak-1785565609.jpg?resize=1800%2C1200&quality=80"
+    },
+    {
+      "id": 5,
+      "answer": "The Sopranos",
+      "acceptedAnswers": [
+        "The Sopranos",
+        "Sopranos"
+      ],
+      "clues": [
+        "HBO television series",
+        "Created by David Chase",
+        "Set in New Jersey",
+        "Mafia family drama",
+        "Premiered in 1999",
+        "James Gandolfini starred"
+      ],
+      "summary": "The Sopranos is back in the news following the death of cast member Vincent Pastore, who played the memorable character Big Pussy on the iconic HBO series.",
+      "sourceUrl": "https://apnews.com/article/pastore-sopranos-obit-80cd230a299c6894b809065f835ef774",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://dims.apnews.com/dims4/default/75d159c/2147483647/strip/true/crop/4562x3040+0+13/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F73%2Ff6%2F46aa0da65661da45cb978e1b7661%2F53edf8ccbb4c4e158488717f44e8cad9"
+    },
+    {
+      "id": 6,
+      "answer": "Savannah Guthrie",
+      "acceptedAnswers": [
+        "Savannah Guthrie"
+      ],
+      "clues": [
+        "American television journalist",
+        "Morning news show anchor",
+        "NBC personality",
+        "Formerly a White House correspondent",
+        "Georgetown University law degree",
+        "Co-anchor role since 2012"
+      ],
+      "summary": "Six months after Savannah Guthrie's mother was kidnapped from her bed, investigators have made little progress in the case, which is now generating major media coverage.",
+      "sourceUrl": "https://www.wsj.com/us-news/how-savannah-guthrie-lost-mother-nancy-28907a65",
+      "difficulty": "medium",
+      "region": "north-america",
+      "imageUrl": "https://images.wsj.net/im-24491094/social"
+    },
+    {
+      "id": 7,
+      "answer": "Lioness",
+      "acceptedAnswers": [
+        "Lioness",
+        "Special Ops: Lioness"
+      ],
+      "clues": [
+        "Paramount+ original series",
+        "Created by Taylor Sheridan",
+        "CIA undercover operations theme",
+        "Zoe Saldaña stars",
+        "Military thriller genre",
+        "Season 3 premiere in 2026"
+      ],
+      "summary": "The Paramount+ series 'Lioness,' created by Taylor Sheridan and starring Zoe Saldaña, has returned for its third season with new episodes now streaming.",
+      "sourceUrl": "https://pagesix.com/2026/08/02/entertainment/how-to-watch-taylor-sheridans-lioness-season-3-for-free/",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://pagesix.com/wp-content/uploads/sites/3/2026/08/136101463.jpg?quality=75&strip=all&w=1200"
+    },
+    {
+      "id": 8,
+      "answer": "Twin Falls",
+      "acceptedAnswers": [
+        "Twin Falls",
+        "Twin Falls, Idaho"
+      ],
+      "clues": [
+        "City in southern Idaho",
+        "Named after a waterfall on the Snake River",
+        "Magic Valley region",
+        "Perrine Bridge landmark",
+        "Agricultural hub of Idaho",
+        "Population under 60,000"
+      ],
+      "summary": "Twin Falls, Idaho, became the site of a mass shooting at an In-N-Out restaurant that left several people dead, bringing national attention to the small city.",
+      "sourceUrl": "https://www.cbsnews.com/news/twin-falls-idaho-in-n-out-shooting/",
+      "difficulty": "hard",
+      "region": "north-america",
+      "imageUrl": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/08/02/f6531405-c6cd-40f2-831a-a685adb689d1/thumbnail/1200x630/34f0bcf36ed5fe975d5370d95d8762ad/ap26214049907166.jpg"
+    },
+    {
+      "id": 9,
+      "answer": "Protein",
+      "acceptedAnswers": [
+        "Protein"
+      ],
+      "clues": [
+        "Macronutrient composed of amino acids",
+        "Essential for muscle repair",
+        "Found in meat, legumes, and dairy",
+        "Dietary supplement industry staple",
+        "Recommended daily allowance debated",
+        "Linked to metabolic pathways in research"
+      ],
+      "summary": "A sweeping review of over 350 studies suggests eating less protein may slow aging, improve metabolism, and reduce inflammation, challenging the current high-protein diet trend.",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260801042811.htm",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://www.sciencedaily.com/images/1920/woman-holding-birthday-cake-for-100-year-old.webp"
+    },
+    {
+      "id": 10,
+      "answer": "Ray J",
+      "acceptedAnswers": [
+        "Ray J",
+        "Ray-J",
+        "William Ray Norwood Jr."
+      ],
+      "clues": [
+        "American singer and television personality",
+        "Brother of Brandy Norwood",
+        "Love & Hip Hop cast member",
+        "Scoot-E-Bike entrepreneur",
+        "One Wish hit single",
+        "Reality TV star"
+      ],
+      "summary": "Ray J made headlines after being knocked out in a celebrity boxing match and spending four nights in the hospital, but has declared he will continue boxing.",
+      "sourceUrl": "https://www.tmz.com/2026/08/02/ray-j-stilling-planning-to-fight-despite-knockout/",
+      "difficulty": "medium",
+      "region": "north-america",
+      "imageUrl": "https://imagez.tmz.com/image/5c/16by9/2026/07/30/5c87dca166dc4446b478da4b4d4e1941_xl.jpg"
+    }
+  ]
+}
