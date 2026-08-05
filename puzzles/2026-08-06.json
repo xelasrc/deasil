@@ -1,0 +1,210 @@
+{
+  "date": "2026-08-06",
+  "puzzles": [
+    {
+      "id": 1,
+      "answer": "Naoero",
+      "acceptedAnswers": [
+        "Naoero",
+        "Nauru"
+      ],
+      "clues": [
+        "South Pacific island nation",
+        "World's third-smallest country",
+        "Phosphate mining history",
+        "Republic in Micronesia",
+        "Former Australian mandate territory",
+        "Name change in 2026"
+      ],
+      "summary": "Nauru, the world's third-smallest country, officially changed its name to Naoero, restoring its traditional indigenous name instead of the colonial-era version that was easier for foreigners to pronounce.",
+      "sourceUrl": "https://www.nbcnews.com/world/asia/nauru-worlds-3rd-smallest-country-changes-name-naoero-rcna590689",
+      "difficulty": "hard",
+      "region": "oceania",
+      "imageUrl": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-08/260803-NauraNaoero-vsb-2342-1eef79.jpg"
+    },
+    {
+      "id": 2,
+      "answer": "Haley Stevens",
+      "acceptedAnswers": [
+        "Haley Stevens"
+      ],
+      "clues": [
+        "U.S. Representative from Michigan",
+        "Democratic Senate primary candidate",
+        "Moderate wing of Democratic Party",
+        "Former Obama administration official",
+        "11th Congressional District representative",
+        "2026 Senate race contender"
+      ],
+      "summary": "U.S. Rep. Haley Stevens is competing in a closely watched Michigan Democratic Senate primary against progressive Abdul El-Sayed, in one of the nation's most expensive primary contests.",
+      "sourceUrl": "https://apnews.com/article/michigan-2026-primary-election-elsayed-stevens-bd4ed54a2c84db3f95ac27facb715866",
+      "difficulty": "hard",
+      "region": "north-america",
+      "imageUrl": "https://dims.apnews.com/dims4/default/d0b1fc7/2147483647/strip/true/crop/5030x3352+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff0%2F39%2F150919a605dd1f9fd3c9103d39b9%2F1487d43cfa2e42a195fbf04b25d66ac9"
+    },
+    {
+      "id": 3,
+      "answer": "FGF21",
+      "acceptedAnswers": [
+        "FGF21",
+        "Fibroblast growth factor 21"
+      ],
+      "clues": [
+        "Hormone linked to longevity",
+        "Triggered by protein restriction",
+        "Fibroblast growth factor family",
+        "Endocrine signaling molecule",
+        "Metabolic regulator studied in aging research",
+        "Calorie restriction mimetic pathway"
+      ],
+      "summary": "A review of over 350 studies found that the hormone FGF21, triggered by protein restriction, delivers longevity benefits similar to calorie restriction, suggesting a dietary change that could extend lifespan.",
+      "sourceUrl": "https://www.foxnews.com/health/living-longer-could-hinge-one-surprising-dietary-change-study-review-suggests",
+      "difficulty": "hard",
+      "region": "global",
+      "imageUrl": "https://static.foxnews.com/foxnews.com/content/uploads/2026/03/eating-red-meat-with-knife-and-fork.jpg"
+    },
+    {
+      "id": 4,
+      "answer": "In-N-Out Burger",
+      "acceptedAnswers": [
+        "In-N-Out Burger",
+        "In-N-Out"
+      ],
+      "clues": [
+        "Fast food chain founded in 1948",
+        "Headquartered in Irvine, California",
+        "Known for a secret menu",
+        "Animal Style is a signature option",
+        "Double-Double is a famous menu item",
+        "West Coast restaurant icon"
+      ],
+      "summary": "An In-N-Out Burger manager from Stockton, California, was identified as one of the victims in a mass shooting in Idaho over the weekend.",
+      "sourceUrl": "https://www.kcra.com/article/stockton-in-n-out-manager-ashley-garibay-idaho-mass-shooting-victim/73338070",
+      "difficulty": "easy",
+      "region": "north-america",
+      "imageUrl": "https://kubrick.htvapps.com/htv-prod/images/1d9e4899-1110-4b26-9c23-f3f749c348bd.jpeg?crop=1.00xw%3A0.759xh%3B0%2C0&resize=1200%3A*"
+    },
+    {
+      "id": 5,
+      "answer": "COSMOS field",
+      "acceptedAnswers": [
+        "COSMOS field",
+        "COSMOS"
+      ],
+      "clues": [
+        "Deep sky survey region",
+        "Astronomical observation area in Sextans constellation",
+        "Multi-wavelength imaging project",
+        "Hubble Space Telescope legacy field",
+        "Extragalactic survey target",
+        "Region revealing hundreds of thousands of galaxies"
+      ],
+      "summary": "The Vera C. Rubin Observatory captured an image of the COSMOS field revealing more than 650,000 galaxies as it began its ambitious 10-year survey of the southern sky.",
+      "sourceUrl": "https://gizmodo.com/rubin-gets-a-closer-look-at-the-cosmos-field-revealing-more-than-650000-galaxies-in-one-image-2000793928",
+      "difficulty": "hard",
+      "region": "global",
+      "imageUrl": "https://gizmodo.com/app/uploads/2026/08/COSMOS-1200x675.jpg"
+    },
+    {
+      "id": 6,
+      "answer": "Perseids",
+      "acceptedAnswers": [
+        "Perseids",
+        "Perseid meteor shower"
+      ],
+      "clues": [
+        "Annual celestial event peaking in August",
+        "Originating from comet Swift-Tuttle",
+        "Radiant point in constellation Perseus",
+        "One of the most prolific annual displays",
+        "Up to 100 meteors per hour at peak",
+        "Summer night sky spectacle"
+      ],
+      "summary": "The Perseid meteor shower, considered the best meteor shower of the year, is a highlight of August 2026 skywatching along with two eclipses.",
+      "sourceUrl": "https://www.king5.com/article/weather/august-skywatching-events-eclipses-perseid-meteor-shower/281-0e35a4a5-4c8d-44b3-a063-b819f020eb64",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://media.king5.com/assets/KING/images/f630025a-89f9-409e-bce8-c24f4419667c/f630025a-89f9-409e-bce8-c24f4419667c_1920x1080.jpg"
+    },
+    {
+      "id": 7,
+      "answer": "Abdul El-Sayed",
+      "acceptedAnswers": [
+        "Abdul El-Sayed"
+      ],
+      "clues": [
+        "Michigan progressive politician",
+        "Former Detroit health director",
+        "Public health physician",
+        "2018 gubernatorial candidate",
+        "Epidemiologist and author",
+        "Democratic Senate primary contender"
+      ],
+      "summary": "Abdul El-Sayed is running as the progressive candidate in Michigan's heated Democratic Senate primary against moderate Haley Stevens, making the race a national proxy battle for the party's direction.",
+      "sourceUrl": "https://apnews.com/article/michigan-2026-primary-election-elsayed-stevens-bd4ed54a2c84db3f95ac27facb715866",
+      "difficulty": "hard",
+      "region": "north-america",
+      "imageUrl": "https://dims.apnews.com/dims4/default/d0b1fc7/2147483647/strip/true/crop/5030x3352+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff0%2F39%2F150919a605dd1f9fd3c9103d39b9%2F1487d43cfa2e42a195fbf04b25d66ac9"
+    },
+    {
+      "id": 8,
+      "answer": "Micronesia",
+      "acceptedAnswers": [
+        "Micronesia"
+      ],
+      "clues": [
+        "Subregion of Oceania",
+        "Includes thousands of small islands in the western Pacific",
+        "Home to Palau and the Marshall Islands",
+        "Name means 'small islands' in Greek",
+        "Part of the wider Pacific Islands region",
+        "Includes both independent nations and U.S. territories"
+      ],
+      "summary": "Micronesia is in the news as Nauru, one of its island nations, officially changed its name to Naoero, highlighting cultural identity movements across the Pacific subregion.",
+      "sourceUrl": "https://www.nbcnews.com/world/asia/nauru-worlds-3rd-smallest-country-changes-name-naoero-rcna590689",
+      "difficulty": "medium",
+      "region": "oceania",
+      "imageUrl": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-08/260803-NauraNaoero-vsb-2342-1eef79.jpg"
+    },
+    {
+      "id": 9,
+      "answer": "Lunar eclipse",
+      "acceptedAnswers": [
+        "Lunar eclipse"
+      ],
+      "clues": [
+        "Occurs when Earth passes between the Sun and Moon",
+        "Can appear as a 'blood moon'",
+        "Visible from an entire hemisphere simultaneously",
+        "Umbral and penumbral types",
+        "Celestial alignment event",
+        "August 2026 astronomical phenomenon"
+      ],
+      "summary": "A lunar eclipse is among the notable skywatching events in August 2026, joining the Perseid meteor shower and a solar eclipse as celestial highlights for the month.",
+      "sourceUrl": "https://www.king5.com/article/weather/august-skywatching-events-eclipses-perseid-meteor-shower/281-0e35a4a5-4c8d-44b3-a063-b819f020eb64",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://media.king5.com/assets/KING/images/f630025a-89f9-409e-bce8-c24f4419667c/f630025a-89f9-409e-bce8-c24f4419667c_1920x1080.jpg"
+    },
+    {
+      "id": 10,
+      "answer": "Chino Hills",
+      "acceptedAnswers": [
+        "Chino Hills"
+      ],
+      "clues": [
+        "City in San Bernardino County, California",
+        "Located in the Inland Empire region",
+        "Known for its rolling hills and suburban communities",
+        "Near Pomona and Diamond Bar",
+        "Home of a record Powerball lottery winner in 2016",
+        "Southern California residential community"
+      ],
+      "summary": "A murder charge was filed in the kidnapping and killing of a man from Chino Hills, California, with the surviving suspect now formally charged in the case.",
+      "sourceUrl": "https://abc7.com/post/shukur-aikebaer-death-jianquan-bo-suspect-in-chino-hills-kidnapping-killing-case-charged-with-murder/19618496/",
+      "difficulty": "medium",
+      "region": "north-america",
+      "imageUrl": "https://cdn.abcotvs.com/dip/images/19620283_chino-hills-kidnapping-murder-clean-TN-img.jpg?w=1600"
+    }
+  ]
+}
