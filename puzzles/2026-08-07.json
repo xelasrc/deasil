@@ -1,0 +1,216 @@
+{
+  "date": "2026-08-07",
+  "puzzles": [
+    {
+      "id": 1,
+      "answer": "Total solar eclipse",
+      "acceptedAnswers": [
+        "Total solar eclipse",
+        "Solar eclipse",
+        "2026 solar eclipse"
+      ],
+      "clues": [
+        "Astronomical event",
+        "Umbra and penumbra",
+        "Greenland and Spain viewing locations",
+        "Corona visible to naked eye",
+        "Saros cycle",
+        "Path of totality"
+      ],
+      "summary": "A total solar eclipse is one week away on August 12, 2026, with the path of totality crossing Greenland, Iceland, and Spain. Excitement is building worldwide as astronomers and tourists prepare.",
+      "sourceUrl": "https://www.space.com/news/live/total-solar-eclipse-aug-12-2026-live-updates-one-week-to-go",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://cdn.mos.cms.futurecdn.net/FjsLrdUxHVhG9wH44TDHkJ-2000-80.jpg"
+    },
+    {
+      "id": 2,
+      "answer": "Phoebe Bridgers",
+      "acceptedAnswers": [
+        "Phoebe Bridgers"
+      ],
+      "clues": [
+        "Singer-songwriter",
+        "Indie rock",
+        "Los Angeles native",
+        "Punisher album",
+        "Saddest Factory Records founder",
+        "Grammy-nominated artist"
+      ],
+      "summary": "Phoebe Bridgers has released 'Lost Weekend,' her first solo album in six years, receiving critical acclaim from outlets like Rolling Stone.",
+      "sourceUrl": "http://www.rollingstone.com/music/music-album-reviews/phoebe-bridgers-new-album-review-lost-weekend-1235589661/",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2026/07/phoebe-bridgers-REVIEW.jpg?w=1600&h=900&crop=1"
+    },
+    {
+      "id": 3,
+      "answer": "Rhine",
+      "acceptedAnswers": [
+        "Rhine",
+        "Rhine River",
+        "River Rhine"
+      ],
+      "clues": [
+        "Major European waterway",
+        "Flows through six countries",
+        "North Sea outlet",
+        "Important freight corridor",
+        "Passes through Basel and Cologne",
+        "Alpine headwaters in Switzerland"
+      ],
+      "summary": "Extreme drought in Europe has caused critically low water levels on the Rhine and Danube rivers, disrupting energy supplies, freight transport, and threatening economic growth across the continent.",
+      "sourceUrl": "https://www.cnbc.com/2026/08/05/drought-rhine-danube-water-levels-economy.html",
+      "difficulty": "medium",
+      "region": "europe",
+      "imageUrl": "https://image.cnbcfm.com/api/v1/image/108344346-1785838713038-gettyimages-2288117226-AFP_C3UF4CQ.jpeg?v=1785839371&w=1920&h=1080"
+    },
+    {
+      "id": 4,
+      "answer": "Eli Lilly",
+      "acceptedAnswers": [
+        "Eli Lilly",
+        "Eli Lilly and Company",
+        "Lilly"
+      ],
+      "clues": [
+        "Indianapolis-based corporation",
+        "Pharmaceutical industry",
+        "NYSE-listed blue chip",
+        "Insulin manufacturer",
+        "Mounjaro and Zepbound maker",
+        "Founded in 1876"
+      ],
+      "summary": "Eli Lilly reported strong second-quarter 2026 financial results and raised its full-year guidance, highlighting continued growth driven by its blockbuster drug pipeline.",
+      "sourceUrl": "https://investor.lilly.com/news-releases/news-release-details/lilly-reports-second-quarter-2026-financial-results-raises-full",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://investor.lilly.com/static-files/414b590d-5fd8-4d74-bb91-284a3d77fb98"
+    },
+    {
+      "id": 5,
+      "answer": "Kherson",
+      "acceptedAnswers": [
+        "Kherson",
+        "Kherson Oblast"
+      ],
+      "clues": [
+        "Ukrainian region near Black Sea",
+        "Dnieper River city",
+        "Occupied and later liberated in 2022",
+        "Southern front of ongoing conflict",
+        "Oblast capital",
+        "Agricultural heartland"
+      ],
+      "summary": "A disturbing video emerged showing a Russian drone deliberately pursuing and killing a Ukrainian vegetable seller in the Kherson region in what has been called a 'human safari' attack.",
+      "sourceUrl": "https://www.bbc.com/news/videos/clye173d533o",
+      "difficulty": "hard",
+      "region": "europe",
+      "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/6bb4/live/1636a630-9036-11f1-b2ab-0dd01740f9f6.jpg"
+    },
+    {
+      "id": 6,
+      "answer": "Walt Disney Company",
+      "acceptedAnswers": [
+        "Walt Disney Company",
+        "Disney"
+      ],
+      "clues": [
+        "Entertainment conglomerate",
+        "Burbank headquarters",
+        "Theme park operator",
+        "Streaming service provider",
+        "A+E Networks former stakeholder",
+        "Founded in 1923"
+      ],
+      "summary": "Disney reported Q3 2026 earnings that topped estimates, driven by a rebound in its parks and experiences division, while also exiting its A+E Media stake.",
+      "sourceUrl": "https://finance.yahoo.com/markets/stocks/article/disneys-q3-earnings-top-estimates-on-demand-for-experiences-company-exits-ae-media-stake-103619379.html",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://s.yimg.com/lo/mysterio/api/DF02CA98CF4FC2CCB8CA300D96E786FC467F790BC7AC5789FA5A3609BA97C8DD/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-08%2Fbeefec57-da71-4d1e-b3f3-986d92d3b537"
+    },
+    {
+      "id": 7,
+      "answer": "Ted Lasso",
+      "acceptedAnswers": [
+        "Ted Lasso"
+      ],
+      "clues": [
+        "Apple TV+ original series",
+        "Jason Sudeikis starring role",
+        "AFC Richmond",
+        "Comedy about American coach abroad",
+        "Emmy Award-winning show",
+        "Premier League setting"
+      ],
+      "summary": "A new season of Ted Lasso is featuring the NWSL's Kansas City Current as a key plot point, with filming taking place at the real-life club's facilities in the United States.",
+      "sourceUrl": "https://www.espn.com/soccer/story/_/id/49525710/new-ted-lasso-season-features-nwsl-kansas-city-current-plot-point",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0804%2Fr1697380_1296x729_16%2D9.png"
+    },
+    {
+      "id": 8,
+      "answer": "Tularemia",
+      "acceptedAnswers": [
+        "Tularemia",
+        "Rabbit fever"
+      ],
+      "clues": [
+        "Bacterial zoonotic disease",
+        "Francisella tularensis pathogen",
+        "Transmitted by ticks and deer flies",
+        "Bioterrorism Category A agent",
+        "Affects rodents and lagomorphs",
+        "Reportable infectious disease"
+      ],
+      "summary": "Health officials in New York reported three probable cases of tularemia, commonly known as 'rabbit fever,' a rare but serious bacterial disease that can be transmitted through insect bites or animal contact.",
+      "sourceUrl": "https://www.wcvb.com/article/rabbit-fever-new-york-what-is-tularemia/73348028",
+      "difficulty": "hard",
+      "region": "north-america",
+      "imageUrl": "https://kubrick.htvapps.com/htv-prod/images/ff746a3f-96c5-4ff7-ba21-d635f0b34c57.jpg?crop=1.00xw%3A1.00xh%3B0%2C0&resize=1200%3A*"
+    },
+    {
+      "id": 9,
+      "answer": "CarPlay",
+      "acceptedAnswers": [
+        "CarPlay",
+        "Apple CarPlay"
+      ],
+      "clues": [
+        "In-vehicle infotainment system",
+        "Cupertino technology product",
+        "Dashboard integration platform",
+        "Siri-enabled interface",
+        "iOS companion for automobiles",
+        "Now expanding to marine vessels"
+      ],
+      "summary": "Apple's CarPlay is expanding beyond cars to pontoon boats, with MasterCraft Boat Holdings announcing it will integrate the platform into its Crest and Balise pontoon lines.",
+      "sourceUrl": "https://www.macrumors.com/2026/08/04/carplay-is-coming-to-pontoon-boats/",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://images.macrumors.com/t/Wb6Jjk2ALd5cN6_tB-9YPlurbss=/2000x/article-new/2026/08/carplay-pontoon-crest-balise.jpg"
+    },
+    {
+      "id": 10,
+      "answer": "Carnivorous plant",
+      "acceptedAnswers": [
+        "Carnivorous plant",
+        "Carnivorous plants"
+      ],
+      "clues": [
+        "Insectivorous organism",
+        "Venus flytrap is an example",
+        "Charles Darwin research subject",
+        "Nitrogen obtained from prey",
+        "Pitcher and sundew varieties",
+        "Nature Communications study topic"
+      ],
+      "summary": "A sticky alpine flower, Saxifraga candelabrum, has been confirmed as a new carnivorous lineage, validating a prediction Charles Darwin made 150 years ago about insect-trapping plants.",
+      "sourceUrl": "https://phys.org/news/2026-08-sticky-alpine-darwin-year-carnivorous.html",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://scx2.b-cdn.net/gfx/news/hires/2026/carnivorous-plants-con.jpg"
+    }
+  ]
+}
