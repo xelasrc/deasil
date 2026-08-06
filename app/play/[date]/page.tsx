@@ -28,7 +28,9 @@ export default function PlayPage() {
   useEffect(() => {
     async function loadPuzzle() {
       try {
-        const data = await import(`../../../puzzles/${date}.json`);
+        const res = await fetch(`/api/puzzles/${date}`);
+        if (!res.ok) throw new Error("Puzzle not found");
+        const data = await res.json();
         setPuzzle(data as DailyPuzzle);
       } catch {
         router.push("/");
