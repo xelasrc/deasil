@@ -8,6 +8,11 @@ export type Puzzle = {
   imageUrl: string;
   difficulty: "easy" | "medium" | "hard";
   region: string;
+  // Short descriptor of the underlying news story, used at generation time
+  // to stop different entities from the same story being reused as answers
+  // on nearby days. Optional since puzzles generated before this field
+  // existed won't have it.
+  event?: string;
 };
 
 export type DailyPuzzle = {
