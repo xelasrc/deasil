@@ -1,0 +1,221 @@
+{
+  "date": "2026-08-08",
+  "puzzles": [
+    {
+      "id": 1,
+      "answer": "Perez Hilton",
+      "acceptedAnswers": [
+        "Perez Hilton",
+        "Mario Lavandeira"
+      ],
+      "clues": [
+        "Celebrity gossip",
+        "Blogger",
+        "Entertainment media personality",
+        "Livestreaming controversy",
+        "Social media influencer",
+        "Hollywood commentator"
+      ],
+      "summary": "TikTok acknowledged a moderator error that delayed the removal of Perez Hilton's livestream showing acts of self-harm, leading to his hospitalization and a law enforcement response.",
+      "sourceUrl": "https://www.foxbusiness.com/entertainment/tiktok-says-moderator-error-delayed-removal-perez-hiltons-livestream-showing-acts-self-harm",
+      "difficulty": "medium",
+      "region": "north-america",
+      "event": "TikTok livestream self-harm moderation failure",
+      "imageUrl": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/08/0/0/perez-hilton.jpg?ve=1&tl=1"
+    },
+    {
+      "id": 2,
+      "answer": "Nigeria",
+      "acceptedAnswers": [
+        "Nigeria"
+      ],
+      "clues": [
+        "West Africa",
+        "Most populous African country",
+        "Abuja is the capital",
+        "Oil-producing nation",
+        "Federal republic",
+        "Kidnapping crisis"
+      ],
+      "summary": "Nigeria announced the rescue of 308 kidnapped citizens, highlighting the ongoing crisis of kidnapping for ransom by armed groups and bandits across the country.",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/8/5/nigeria-announces-rescue-of-308-kidnapped-citizens",
+      "difficulty": "easy",
+      "region": "africa",
+      "event": "Nigeria mass kidnapping rescue operation",
+      "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-04T193540Z_1306600256_RC2I7LA8H5U7_RTRMADP_3_NIGERIA-MILITARY-1785968014.jpg?resize=1920%2C1440"
+    },
+    {
+      "id": 3,
+      "answer": "Daniel K. Inouye Solar Telescope",
+      "acceptedAnswers": [
+        "Daniel K. Inouye Solar Telescope",
+        "DKIST",
+        "Inouye Solar Telescope"
+      ],
+      "clues": [
+        "Maui observatory",
+        "National Science Foundation facility",
+        "Largest ground-based instrument of its kind",
+        "Located in Hawaii",
+        "Named after a U.S. senator",
+        "Haleakalā summit"
+      ],
+      "summary": "The most detailed images ever taken of the sun's surface were revealed using the Daniel K. Inouye Solar Telescope on Maui, offering unprecedented views of solar structures.",
+      "sourceUrl": "https://www.cbsnews.com/news/sun-surface-images-inouye-solar-telescope/",
+      "difficulty": "hard",
+      "region": "global",
+      "event": "Record-breaking solar surface imaging",
+      "imageUrl": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/05/dc2c4ecd-e439-4186-9572-f5989f6026be/thumbnail/1200x630/f85c25571ecef63f832e09f10cb539d2/ap26216740532718.jpg"
+    },
+    {
+      "id": 4,
+      "answer": "Spokane",
+      "acceptedAnswers": [
+        "Spokane"
+      ],
+      "clues": [
+        "Eastern Washington state",
+        "Pacific Northwest city",
+        "Inland Empire",
+        "Expo '74 host city",
+        "Near Idaho border",
+        "Gonzaga University location"
+      ],
+      "summary": "Firefighters are battling the Spokane Complex Fire, working 16-hour shifts as the Old Trails, Autumn Lane, and Fairview fires remain only partially contained.",
+      "sourceUrl": "https://www.nbcnews.com/news/us-news/firefighters-are-working-16-hour-shifts-battle-spokane-complex-fire-rcna591062",
+      "difficulty": "medium",
+      "region": "north-america",
+      "event": "Spokane Complex Fire August 2026",
+      "imageUrl": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-08/260805-spokane-fire-ch-1535-3f8a9e.jpg"
+    },
+    {
+      "id": 5,
+      "answer": "Nintendo Switch 2",
+      "acceptedAnswers": [
+        "Nintendo Switch 2",
+        "Switch 2"
+      ],
+      "clues": [
+        "Next-generation gaming console",
+        "Japanese gaming hardware",
+        "Hybrid portable and home system",
+        "Successor to a 2017 device",
+        "Joy-Con controllers",
+        "Backwards compatible platform"
+      ],
+      "summary": "Minecraft confirmed its arrival on Switch 2 in October 2026, featuring the Vibrant Visuals graphics upgrade and a digital upgrade path for existing owners.",
+      "sourceUrl": "https://www.nintendolife.com/news/2026/08/minecraft-arrives-on-switch-2-this-october-digital-upgrade-path-confirmed",
+      "difficulty": "easy",
+      "region": "global",
+      "event": "Minecraft launch on Nintendo Switch 2",
+      "imageUrl": "https://images.nintendolife.com/0dbc4b4f42471/large.jpg"
+    },
+    {
+      "id": 6,
+      "answer": "Hydrothermal vent",
+      "acceptedAnswers": [
+        "Hydrothermal vent",
+        "Hydrothermal vents"
+      ],
+      "clues": [
+        "Deep-sea geology",
+        "Origin of life research",
+        "Underwater geothermal feature",
+        "Black smoker",
+        "Chemosynthesis habitat",
+        "Mid-ocean ridge feature"
+      ],
+      "summary": "A study published in Science revealed intermediate stages in the origin of metabolism at phosphorylating hydrothermal vents, showing how enzymatic metabolism may have emerged from metal-catalyzed reactions of simple molecules.",
+      "sourceUrl": "https://www.science.org/doi/10.1126/sciadv.aef3128",
+      "difficulty": "hard",
+      "region": "global",
+      "event": "Origin of metabolism research breakthrough",
+      "imageUrl": "https://www.science.org/cms/asset/fa104fdd-535a-409a-b7e1-4f4e9ca55409/sciadv.aef3128-keyimage.gif"
+    },
+    {
+      "id": 7,
+      "answer": "Pokémon Pokopia",
+      "acceptedAnswers": [
+        "Pokémon Pokopia",
+        "Pokopia"
+      ],
+      "clues": [
+        "Video game franchise",
+        "Expansion pass content",
+        "Bubbly Basin setting",
+        "Japanese media franchise",
+        "Creature collection game",
+        "Underwater town exploration"
+      ],
+      "summary": "The first part of the Pokémon Pokopia Expansion Pass, called Bubbly Basin, launched today, introducing players to a charming underwater town with new content.",
+      "sourceUrl": "https://www.pokemon.com/uk/news/pokemon-pokopia-expansion-pass-part-1-bubbly-basin-is-available-today",
+      "difficulty": "medium",
+      "region": "global",
+      "event": "Pokémon Pokopia Expansion Pass Part 1 launch",
+      "imageUrl": "https://mcdn.pokemon.com/pokemon-prod/image/upload/c_limit,w_1920/f_auto/v1/live/pcom-cms/static-assets/cms3/us/img/video-games/tiles/pokemon-pokopia/2026/08/05/pokemon-pokopia-169-en.png"
+    },
+    {
+      "id": 8,
+      "answer": "Dementia",
+      "acceptedAnswers": [
+        "Dementia"
+      ],
+      "clues": [
+        "Neurodegenerative condition",
+        "Cognitive decline",
+        "Age-related health concern",
+        "Memory loss disorder",
+        "Geriatric medicine",
+        "Brain health research"
+      ],
+      "summary": "A new study found that managing three key health factors during middle age may delay the risk of developing dementia by up to 13 years, highlighting the importance of preventive health measures.",
+      "sourceUrl": "https://www.cnn.com/2026/08/05/health/dementia-smoking-diabetes-blood-pressure-wellness",
+      "difficulty": "easy",
+      "region": "global",
+      "event": "Middle-age health factors delaying dementia study",
+      "imageUrl": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2183019660.jpg?c=16x9&q=w_800,c_fill"
+    },
+    {
+      "id": 9,
+      "answer": "Chuck Edwards",
+      "acceptedAnswers": [
+        "Chuck Edwards"
+      ],
+      "clues": [
+        "U.S. House of Representatives member",
+        "North Carolina politician",
+        "Republican Party",
+        "Congressional resignation",
+        "Western district representative",
+        "Special election trigger"
+      ],
+      "summary": "Republican Chuck Edwards' abrupt exit from Congress has left the party scrambling to hold his North Carolina seat, with reports he had already damaged their chances of keeping it.",
+      "sourceUrl": "https://www.axios.com/2026/08/05/house-republicans-mike-johnson-chuck-edwards-midterms-north-carolina",
+      "difficulty": "hard",
+      "region": "north-america",
+      "event": "Chuck Edwards congressional resignation scramble",
+      "imageUrl": "https://images.axios.com/9mRN753JGdfJNYKL-iddkZlduU0=/0x0:5000x2813/1366x768/2026/08/05/1785963115547.jpeg"
+    },
+    {
+      "id": 10,
+      "answer": "Aaron Donald",
+      "acceptedAnswers": [
+        "Aaron Donald"
+      ],
+      "clues": [
+        "NFL defensive lineman",
+        "Pittsburgh Panthers alumnus",
+        "Multiple Defensive Player of the Year",
+        "Los Angeles football",
+        "Retired and returned",
+        "Interior pass rusher"
+      ],
+      "summary": "Aaron Donald logged an official workout with the Los Angeles Rams, signaling a potential return to the NFL after his retirement.",
+      "sourceUrl": "https://www.nbcsports.com/fantasy/football/player-news/2026-08-05/aaron-donald-logs-official-workout-with-the-rams",
+      "difficulty": "medium",
+      "region": "north-america",
+      "event": "Aaron Donald comeback workout with Rams",
+      "imageUrl": "https://nbcsports.brightspotcdn.com/dims4/default/829c6c4/2147483647/strip/true/crop/100x56+0+39/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fc2%2F03%2Fa23273ac441c924269b959daae14%2Fdonald-aaron-cropped.jpg"
+    }
+  ]
+}
