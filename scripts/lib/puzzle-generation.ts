@@ -186,17 +186,38 @@ export async function fetchNews(recentAnswers: string[]): Promise<{
 
 // Claude is told to return ONLY JSON, but under a large, crowded prompt
 // (long exclusion lists) it can still wrap the object in a stray sentence
-// of commentary despite that instruction. Slice out the outermost {...}
-// rather than assuming the whole cleaned response is valid JSON on its own.
+// of commentary despite that instruction. Walk brace depth (respecting
+// string literals, so braces inside clue/summary text don't confuse the
+// count) to find where the outermost object actually closes, rather than
+// grabbing the last "}" in the text — trailing commentary can itself
+// contain braces, which would overshoot the real end.
 function extractJsonObject(text: string): string {
   const start = text.indexOf("{");
-  const end = text.lastIndexOf("}");
+  if (start === -1) throw new Error("No JSON object found in model response");
 
-  if (start === -1 || end === -1 || end < start) {
-    throw new Error("No JSON object found in model response");
+  let depth = 0;
+  let inString = false;
+  let escaped = false;
+
+  for (let i = start; i < text.length; i++) {
+    const ch = text[i];
+
+    if (inString) {
+      if (escaped) escaped = false;
+      else if (ch === "\\") escaped = true;
+      else if (ch === '"') inString = false;
+      continue;
+    }
+
+    if (ch === '"') inString = true;
+    else if (ch === "{") depth++;
+    else if (ch === "}") {
+      depth--;
+      if (depth === 0) return text.slice(start, i + 1);
+    }
   }
 
-  return text.slice(start, end + 1);
+  throw new Error("No complete JSON object found in model response");
 }
 
 export async function generatePuzzle(
@@ -206,7 +227,8 @@ export async function generatePuzzle(
   recentEvents: string[],
   urlMap: Record<string, string>,
   imageMap: Record<string, string>,
-  dayShape: DayShape
+  dayShape: DayShape,
+  feedback?: string
 ) {
   const answerExclusion = recentAnswers.length > 0
     ? `\nCRITICAL: You MUST NOT use any of the following as an answer. This is a hard rule — if a topic appears in this list, skip it entirely and pick something else:\n${recentAnswers.map((a) => `- ${a}`).join("\n")}\n`
@@ -216,10 +238,14 @@ export async function generatePuzzle(
     ? `\nCRITICAL: The following underlying news stories were already used as a puzzle answer in the last ${STORY_EXCLUSION_DAYS} days. Do NOT use any of them again — including by picking a *different* person, place, or organisation tied to the same story. Example: if "Israel-Hamas ceasefire negotiations" was already used, neither a negotiator's name nor a different figure from that same negotiation may be used again either. The story is banned, not just the specific answer word:\n${recentEvents.map((e) => `- ${e}`).join("\n")}\n`
     : "";
 
+  const feedbackBlock = feedback
+    ? `\nCRITICAL: Your previous attempt was rejected for this reason: ${feedback} Do not make the same mistake again — pick a genuinely different set this time.\n`
+    : "";
+
   const prompt = `You are generating puzzles for Deasil, a daily news guessing game similar to Wordle.
 
 Today's date is ${date}.
-${answerExclusion}${eventExclusion}
+${answerExclusion}${eventExclusion}${feedbackBlock}
 Here are today's top news headlines (each has an article ID):
 ${headlines}
 
@@ -228,7 +254,7 @@ Your task:
    - Vary the answer type: mix people, places, events, organisations, companies, and trends.
    - ${dayShape.emphasis}
    - At most ${dayShape.sportCap} of the 10 should be sport, and at most ${dayShape.usDomesticCap} should be US-domestic stories. Actively look for stories relevant to Europe, Asia, Africa, Latin America, the Middle East, and Oceania — the set should feel genuinely global, not dominated by American politics and sport.
-   - Make each of the 10 feel distinct from the others — don't pick multiple topics driven by the same underlying story or news cycle (e.g. not both "Iran" and "Strait of Hormuz" if both stem from the same conflict, and not two different people who are both newsmakers in the same court case, election, or conflict).
+   - Make each of the 10 feel distinct from the others — don't pick multiple topics driven by the same underlying story or news cycle. This applies even when the entities are different *types*: if a concert is postponed, pick only ONE of {the performer, the venue, the opening act} as an answer, not several; if there's a court case, pick only ONE of {plaintiff, defendant, the case itself}; not both "Iran" and "Strait of Hormuz" if both stem from the same conflict. One story, one answer, period.
    - Prefer topics that a global English-speaking audience would know.
 2. Answers must be proper nouns - names of people, places, organisations, events, or things. NEVER use a date (e.g. "January 6") as an answer — instead use the event name (e.g. "Capitol riot" or "January 6 Capitol Attack").
 3. For each topic, generate 6-10 category-style clue tags (like Wikipedia categories).
@@ -300,10 +326,11 @@ export async function generatePuzzleWithRetry(
   retries = 5
 ): Promise<any> {
   const recentAnswersLower = recentAnswers.map((a) => a.toLowerCase());
+  let feedback: string | undefined;
 
   for (let i = 0; i < retries; i++) {
     try {
-      const puzzle = await generatePuzzle(headlines, date, recentAnswers, recentEvents, urlMap, imageMap, dayShape);
+      const puzzle = await generatePuzzle(headlines, date, recentAnswers, recentEvents, urlMap, imageMap, dayShape, feedback);
 
       const answerRepeats = puzzle.puzzles.filter((p: { answer: string }) =>
         recentAnswersLower.includes(p.answer.toLowerCase())
@@ -321,6 +348,29 @@ export async function generatePuzzleWithRetry(
           `${eventRepeats.length} same-story repeats vs recent days, ` +
           `${sameDayClashes.length} same-story clashes within today's set. Retrying...`
         );
+
+        // Tell the next attempt exactly what went wrong, rather than just
+        // resampling blind — otherwise the model tends to repeat the same
+        // mistake (e.g. using both the performer and the venue from one
+        // concert-postponement story) on every retry.
+        const feedbackParts: string[] = [];
+        if (answerRepeats.length > 0) {
+          feedbackParts.push(
+            `you used these already-recent answers: ${answerRepeats.map((p: { answer: string }) => p.answer).join(", ")}`
+          );
+        }
+        if (eventRepeats.length > 0) {
+          feedbackParts.push(
+            `these answers belong to a story already used in the last ${STORY_EXCLUSION_DAYS} days: ${eventRepeats.map((p: { answer: string; event?: string }) => `${p.answer} ("${p.event}")`).join(", ")}`
+          );
+        }
+        if (sameDayClashes.length > 0) {
+          feedbackParts.push(
+            `you used more than one answer for the same underlying story: ${sameDayClashes.map(([a, b]) => `"${a}" / "${b}"`).join("; ")} — pick only one entity per story`
+          );
+        }
+        feedback = feedbackParts.join("; ");
+
         continue;
       }
 
