@@ -1,0 +1,224 @@
+{
+  "date": "2026-08-09",
+  "puzzles": [
+    {
+      "id": 1,
+      "answer": "RWE",
+      "acceptedAnswers": [
+        "RWE",
+        "RWE AG"
+      ],
+      "clues": [
+        "German multinational corporation",
+        "Energy sector",
+        "Headquartered in Essen",
+        "European utility company",
+        "Power generation and trading",
+        "DAX-listed conglomerate"
+      ],
+      "summary": "The US government is paying German energy giant RWE $1.2 billion to cancel offshore wind projects, part of the Trump administration's broader effort to halt wind energy development.",
+      "sourceUrl": "https://www.bbc.com/news/articles/c1e1vg0gjl5o",
+      "difficulty": "hard",
+      "region": "global",
+      "event": "US government paying to cancel offshore wind projects",
+      "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/5720/live/f30947f0-9240-11f1-8a95-af174e9f8ab7.jpg"
+    },
+    {
+      "id": 2,
+      "answer": "Thailand",
+      "acceptedAnswers": [
+        "Thailand"
+      ],
+      "clues": [
+        "Southeast Asian kingdom",
+        "Constitutional monarchy",
+        "Capital known as City of Angels",
+        "Gulf and Andaman Sea coastlines",
+        "Theravada Buddhist majority nation",
+        "Former name: Siam"
+      ],
+      "summary": "A teenage gunman carried out a deadly school shooting rampage in Thailand after allegedly killing his grandparents, leaving several dead in a shocking act of violence.",
+      "sourceUrl": "https://www.cnn.com/2026/08/07/world/live-news/thailand-school-shooting-intl-hnk",
+      "difficulty": "easy",
+      "region": "asia",
+      "event": "Thailand high school shooting rampage",
+      "imageUrl": "https://media.cnn.com/api/v1/images/stellar/prod/2026-08-07t050421z-336133338-rc2ftma0an6b-rtrmadp-3-thailand-shooting.JPG?c=16x9&q=w_800,c_fill"
+    },
+    {
+      "id": 3,
+      "answer": "Mike Rogers",
+      "acceptedAnswers": [
+        "Mike Rogers",
+        "Michael Rogers"
+      ],
+      "clues": [
+        "Republican politician",
+        "Former intelligence committee chairman",
+        "Michigan political figure",
+        "Former US Army officer",
+        "FBI special agent background",
+        "Senate campaign contender"
+      ],
+      "summary": "Republican Mike Rogers is working to fracture his Democratic opponent's coalition in the Michigan gubernatorial race by courting Jewish and Black voters after a bruising primary.",
+      "sourceUrl": "https://www.politico.com/news/2026/08/07/rogers-el-sayed-michigan-voters-01028511",
+      "difficulty": "hard",
+      "region": "north_america",
+      "event": "Michigan gubernatorial race coalition building",
+      "imageUrl": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F91%2Fa4%2F3cdd914641faa89530cc211db203%2F08-04-2026-michigan-abdul-097.jpg"
+    },
+    {
+      "id": 4,
+      "answer": "Doug Burgum",
+      "acceptedAnswers": [
+        "Doug Burgum",
+        "Burgum"
+      ],
+      "clues": [
+        "Former North Dakota governor",
+        "Cabinet secretary",
+        "Software entrepreneur",
+        "Great Plains politician",
+        "Former presidential candidate",
+        "Technology business background"
+      ],
+      "summary": "Interior Secretary Doug Burgum has faced sharp public criticism from D.C. prosecutor Jeanine Pirro, echoing months of private complaints from agency staffers about his leadership.",
+      "sourceUrl": "https://www.politico.com/news/2026/08/07/doug-burgum-interior-department-pirro-01028360",
+      "difficulty": "medium",
+      "region": "north_america",
+      "event": "Interior Secretary criticism from prosecutor and staffers",
+      "imageUrl": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F08%2F6a%2F2d662e6d4598afa81d2b58d6b701%2Ftrump-83822.jpg"
+    },
+    {
+      "id": 5,
+      "answer": "Lionel Richie",
+      "acceptedAnswers": [
+        "Lionel Richie"
+      ],
+      "clues": [
+        "American singer-songwriter",
+        "Grammy Award winner",
+        "Commodores former member",
+        "American Idol judge",
+        "'All Night Long' performer",
+        "Motown Records artist"
+      ],
+      "summary": "A concert by Lionel Richie and Earth, Wind & Fire at San Francisco's Chase Center was postponed at the last minute due to a medical emergency, stranding thousands of fans.",
+      "sourceUrl": "https://abc7news.com/post/earth-wind-fire-concert-san-franciscos-chase-center-postponed-last-minute-due-medical-emergency/19639014/",
+      "difficulty": "easy",
+      "region": "north_america",
+      "event": "San Francisco Chase Center concert postponed medical emergency",
+      "imageUrl": "https://cdn.abcotvs.com/dip/images/19639523_080626-kgo-concert-canceled-img.jpg?w=1600"
+    },
+    {
+      "id": 6,
+      "answer": "Artificial intelligence",
+      "acceptedAnswers": [
+        "Artificial intelligence",
+        "AI"
+      ],
+      "clues": [
+        "Machine learning applications",
+        "Neural network technology",
+        "Computer science field",
+        "Automation and reasoning systems",
+        "Deep learning research area",
+        "Dual-use technology concerns"
+      ],
+      "summary": "US researchers have used AI to design and create 16 novel viruses not found in nature for the first time, raising both hopes for medical breakthroughs and serious biosecurity concerns.",
+      "sourceUrl": "https://www.aljazeera.com/economy/2026/8/7/ai-used-to-create-viruses-not-found-in-nature-for-first-time",
+      "difficulty": "easy",
+      "region": "global",
+      "event": "AI-designed novel viruses created in laboratory",
+      "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/08/AFP__20200526__1S994V__v5__MidRes__PanamaHealthVirusStemCells-1786064358_e9df65-1786064909.jpg?resize=1200%2C630&quality=80"
+    },
+    {
+      "id": 7,
+      "answer": "Pentagon",
+      "acceptedAnswers": [
+        "Pentagon",
+        "Department of Defense"
+      ],
+      "clues": [
+        "Five-sided headquarters building",
+        "Arlington County landmark",
+        "United States military command center",
+        "World's largest office building",
+        "Defense establishment",
+        "Built during World War II"
+      ],
+      "summary": "President Trump has ordered a leak investigation after weeks of media reports revealed depleted US munitions stockpile levels, prompting concerns about national security disclosures.",
+      "sourceUrl": "https://www.wsj.com/politics/national-security/trump-orders-leak-probe-after-venting-about-media-coverage-of-munitions-stockpile-bdd0251b",
+      "difficulty": "medium",
+      "region": "north_america",
+      "event": "Trump orders leak probe over munitions stockpile reports",
+      "imageUrl": "https://images.wsj.net/im-21794108/social"
+    },
+    {
+      "id": 8,
+      "answer": "Solar physics",
+      "acceptedAnswers": [
+        "Solar physics",
+        "Heliophysics"
+      ],
+      "clues": [
+        "Study of our nearest star",
+        "Plasma dynamics research",
+        "Coronal and chromospheric observations",
+        "Space weather science",
+        "Stellar atmosphere studies",
+        "Magnetic field cycle investigations"
+      ],
+      "summary": "Astronomers have captured the highest-resolution image ever taken of the Sun's surface, revealing never-before-seen tiny plasma whirlpool-like patterns in remarkable detail.",
+      "sourceUrl": "https://physicsworld.com/a/astronomers-capture-highest-resolution-image-ever-of-the-suns-surface/",
+      "difficulty": "hard",
+      "region": "global",
+      "event": "Highest-resolution Sun surface image captured",
+      "imageUrl": "https://physicsworld.com/wp-content/uploads/2026/08/solar-vortices-06-08-2026.png"
+    },
+    {
+      "id": 9,
+      "answer": "Offshore wind",
+      "acceptedAnswers": [
+        "Offshore wind",
+        "Offshore wind energy",
+        "Offshore wind power"
+      ],
+      "clues": [
+        "Marine renewable energy source",
+        "Turbine technology at sea",
+        "Clean power generation",
+        "Coastal infrastructure development",
+        "European energy transition leader",
+        "Subsea cable connections required"
+      ],
+      "summary": "The Trump administration continues to dismantle offshore wind energy development, with billion-dollar payouts to energy companies to cancel projects along US coastlines.",
+      "sourceUrl": "https://www.bbc.com/news/articles/c1e1vg0gjl5o",
+      "difficulty": "medium",
+      "region": "global",
+      "event": "US administration dismantling renewable energy projects",
+      "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/5720/live/f30947f0-9240-11f1-8a95-af174e9f8ab7.jpg"
+    },
+    {
+      "id": 10,
+      "answer": "Biosecurity",
+      "acceptedAnswers": [
+        "Biosecurity",
+        "Biosafety"
+      ],
+      "clues": [
+        "Dual-use research oversight",
+        "Pathogen containment protocols",
+        "Public health defense measures",
+        "Bioterrorism prevention field",
+        "Laboratory safety governance",
+        "Pandemic preparedness discipline"
+      ],
+      "summary": "The creation of AI-designed novel viruses has reignited global debate about biosecurity frameworks and the regulation of dual-use research that could be exploited for harmful purposes.",
+      "sourceUrl": "https://www.aljazeera.com/economy/2026/8/7/ai-used-to-create-viruses-not-found-in-nature-for-first-time",
+      "difficulty": "hard",
+      "region": "global",
+      "event": "Debate over AI biosecurity risks from synthetic viruses",
+      "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/08/AFP__20200526__1S994V__v5__MidRes__PanamaHealthVirusStemCells-1786064358_e9df65-1786064909.jpg?resize=1200%2C630&quality=80"
+    }
+  ]
+}
