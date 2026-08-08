@@ -184,6 +184,21 @@ export async function fetchNews(recentAnswers: string[]): Promise<{
   return { headlines, urlMap, imageMap };
 }
 
+// Claude is told to return ONLY JSON, but under a large, crowded prompt
+// (long exclusion lists) it can still wrap the object in a stray sentence
+// of commentary despite that instruction. Slice out the outermost {...}
+// rather than assuming the whole cleaned response is valid JSON on its own.
+function extractJsonObject(text: string): string {
+  const start = text.indexOf("{");
+  const end = text.lastIndexOf("}");
+
+  if (start === -1 || end === -1 || end < start) {
+    throw new Error("No JSON object found in model response");
+  }
+
+  return text.slice(start, end + 1);
+}
+
 export async function generatePuzzle(
   headlines: string,
   date: string,
@@ -249,7 +264,7 @@ Return ONLY a valid JSON object in this exact format, no markdown, no explanatio
 
   const text = message.content[0].type === "text" ? message.content[0].text : "";
   const clean = text.replace(/```json|```/g, "").trim();
-  const result = JSON.parse(clean);
+  const result = JSON.parse(extractJsonObject(clean));
 
   result.puzzles = result.puzzles.map((p: { sourceUrl: string }) => ({
     ...p,
@@ -282,7 +297,7 @@ export async function generatePuzzleWithRetry(
   urlMap: Record<string, string>,
   imageMap: Record<string, string>,
   dayShape: DayShape,
-  retries = 3
+  retries = 5
 ): Promise<any> {
   const recentAnswersLower = recentAnswers.map((a) => a.toLowerCase());
 
@@ -311,13 +326,18 @@ export async function generatePuzzleWithRetry(
 
       return puzzle;
     } catch (err: unknown) {
+      const isLastAttempt = i === retries - 1;
+      if (isLastAttempt) throw err;
+
       const isOverloaded = err instanceof Error && err.message.includes("529");
-      if (isOverloaded && i < retries - 1) {
+      if (isOverloaded) {
         const wait = (i + 1) * 10000;
         console.log(`API overloaded, retrying in ${wait / 1000}s... (attempt ${i + 2}/${retries})`);
         await new Promise((res) => setTimeout(res, wait));
       } else {
-        throw err;
+        // Malformed JSON, unexpected response shape, etc. — usually a
+        // one-off slip, not worth a backoff delay, just try again.
+        console.log(`Generation attempt ${i + 1} failed: ${err instanceof Error ? err.message : err}. Retrying...`);
       }
     }
   }
