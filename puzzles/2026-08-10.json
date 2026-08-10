@@ -1,0 +1,224 @@
+{
+  "date": "2026-08-10",
+  "puzzles": [
+    {
+      "id": 1,
+      "answer": "Hawaii",
+      "acceptedAnswers": [
+        "Hawaii",
+        "Hawaiʻi"
+      ],
+      "clues": [
+        "Pacific US state",
+        "Volcanic archipelago",
+        "Aloha State",
+        "Pearl Harbor location",
+        "Primary election 2026",
+        "50th state admitted to the Union"
+      ],
+      "summary": "Hawaii held its 2026 Primary Election on Saturday, featuring significant races at the congressional and district levels.",
+      "sourceUrl": "https://www.kitv.com/news/politics/hawaii-2026-primary-election-results-are-in/article_55f7ce83-92a8-4e5b-a917-496999fc570e.html",
+      "difficulty": "easy",
+      "region": "north-america",
+      "event": "Hawaii 2026 primary election results",
+      "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kitv.com/content/tncms/assets/v3/editorial/5/5f/55f7ce83-92a8-4e5b-a917-496999fc570e/6a77d384d0615.preview.png?crop=653%2C343%2C0%2C9"
+    },
+    {
+      "id": 2,
+      "answer": "Moderna",
+      "acceptedAnswers": [
+        "Moderna"
+      ],
+      "clues": [
+        "Biotechnology company",
+        "Cambridge, Massachusetts headquarters",
+        "COVID-19 vaccine pioneer",
+        "mRNA therapeutics developer",
+        "NASDAQ-listed pharmaceutical firm",
+        "Founded in 2010"
+      ],
+      "summary": "Moderna's mFLUSIVA has become the first mRNA flu vaccine approved in the US, marking a major milestone for the company's platform technology beyond COVID-19.",
+      "sourceUrl": "https://www.vox.com/future-perfect/498456/flu-influenza-robert-kennedy-jr-vaccine-moderna",
+      "difficulty": "easy",
+      "region": "global",
+      "event": "First mRNA flu vaccine US approval",
+      "imageUrl": "https://platform.vox.com/wp-content/uploads/sites/2/2026/08/GettyImages-2254637573.jpg?quality=90&strip=all&crop=0%2C10.75505681467%2C100%2C78.489886370659&w=1200"
+    },
+    {
+      "id": 3,
+      "answer": "Dodo",
+      "acceptedAnswers": [
+        "Dodo",
+        "The Dodo"
+      ],
+      "clues": [
+        "Flightless bird",
+        "Mauritius endemic species",
+        "Symbol of extinction",
+        "Raphus cucullatus",
+        "17th-century disappearance",
+        "Related to pigeons and doves"
+      ],
+      "summary": "Scientists have debunked a long-held myth about the dodo's extinction, challenging the idea that the bird was inherently unfit for survival and turning assumptions rooted in Darwin's era on their head.",
+      "sourceUrl": "https://nypost.com/2026/08/07/science/the-dodo-wasnt-such-a-bird-brain-after-all-study-says/",
+      "difficulty": "medium",
+      "region": "global",
+      "event": "Famous animal extinction theory debunked",
+      "imageUrl": "https://nypost.com/wp-content/uploads/sites/2/2026/08/136663009.jpg?quality=75&strip=all&w=1200"
+    },
+    {
+      "id": 4,
+      "answer": "NYT Connections",
+      "acceptedAnswers": [
+        "NYT Connections",
+        "Connections"
+      ],
+      "clues": [
+        "Daily word puzzle",
+        "Four groups of four",
+        "Color-coded difficulty levels",
+        "New York newspaper game",
+        "Online browser game",
+        "Successor to Wordle popularity"
+      ],
+      "summary": "NYT Connections puzzle #1154 was published this week, continuing the daily word game's popularity with players seeking hints and answers online.",
+      "sourceUrl": "https://mashable.com/entertainment/nyt-connections-hint-answer-today-august-8-2026",
+      "difficulty": "easy",
+      "region": "global",
+      "event": "NYT Connections daily puzzle publication",
+      "imageUrl": "https://helios-i.mashable.com/imagery/articles/02GEnXcdMXHTEyfkaMltdMk/hero-image.fill.size_1200x675.v1786129882.jpg"
+    },
+    {
+      "id": 5,
+      "answer": "Planet parade",
+      "acceptedAnswers": [
+        "Planet parade",
+        "Planetary alignment",
+        "Planetary parade"
+      ],
+      "clues": [
+        "Multiple worlds visible simultaneously",
+        "Naked-eye astronomy event",
+        "Celestial alignment phenomenon",
+        "Night sky spectacle",
+        "Involves orbiting bodies in our system",
+        "Conjunction of wandering stars"
+      ],
+      "summary": "A rare planet parade is among four major celestial events set to dominate the night sky around August 12, 2026, with multiple planets visible in alignment.",
+      "sourceUrl": "https://www.foxweather.com/earth-space/august-12-2026-perseids-new-moon-solar-eclipse-planet-parade",
+      "difficulty": "hard",
+      "region": "global",
+      "event": "Multiple celestial events mid-August 2026",
+      "imageUrl": "https://images.foxweather.com/static.foxweather.com/www.foxweather.com/content/uploads/2026/01/1024/512/gettyimages-2166010142-scaled.jpg?ve=1&tl=1"
+    },
+    {
+      "id": 6,
+      "answer": "Mauritius",
+      "acceptedAnswers": [
+        "Mauritius"
+      ],
+      "clues": [
+        "Indian Ocean island nation",
+        "Port Louis capital",
+        "Former Dutch colony",
+        "East of Madagascar",
+        "Sugar cane economy",
+        "Home to extinct flightless bird"
+      ],
+      "summary": "Mauritius is back in scientific discussion as researchers debunked long-held myths about the extinction of its most famous endemic species, challenging centuries-old evolutionary assumptions.",
+      "sourceUrl": "https://nypost.com/2026/08/07/science/the-dodo-wasnt-such-a-bird-brain-after-all-study-says/",
+      "difficulty": "medium",
+      "region": "africa",
+      "event": "Mauritius endemic species extinction research",
+      "imageUrl": "https://nypost.com/wp-content/uploads/sites/2/2026/08/136663009.jpg?quality=75&strip=all&w=1200"
+    },
+    {
+      "id": 7,
+      "answer": "Charles Darwin",
+      "acceptedAnswers": [
+        "Charles Darwin",
+        "Darwin"
+      ],
+      "clues": [
+        "HMS Beagle voyage",
+        "On the Origin of Species author",
+        "Natural selection theory",
+        "Victorian-era naturalist",
+        "Galápagos Islands researcher",
+        "Buried at Westminster Abbey"
+      ],
+      "summary": "New research has challenged theories originally rooted in Darwin's evolutionary framework regarding a famous animal extinction, prompting renewed debate about his assumptions.",
+      "sourceUrl": "https://nypost.com/2026/08/07/science/the-dodo-wasnt-such-a-bird-brain-after-all-study-says/",
+      "difficulty": "easy",
+      "region": "global",
+      "event": "Darwin evolutionary assumptions challenged by new study",
+      "imageUrl": "https://nypost.com/wp-content/uploads/sites/2/2026/08/136663009.jpg?quality=75&strip=all&w=1200"
+    },
+    {
+      "id": 8,
+      "answer": "mRNA",
+      "acceptedAnswers": [
+        "mRNA",
+        "Messenger RNA"
+      ],
+      "clues": [
+        "Genetic instruction molecule",
+        "Ribosome template",
+        "Vaccine platform technology",
+        "Transcribed from DNA",
+        "Carries codon sequences",
+        "Key to protein synthesis"
+      ],
+      "summary": "The first mRNA-based flu vaccine has been approved in the US, highlighting how this technology platform could make seasonal flu shots faster to update and more effective.",
+      "sourceUrl": "https://www.vox.com/future-perfect/498456/flu-influenza-robert-kennedy-jr-vaccine-moderna",
+      "difficulty": "medium",
+      "region": "global",
+      "event": "mRNA technology expansion beyond COVID vaccines",
+      "imageUrl": "https://platform.vox.com/wp-content/uploads/sites/2/2026/08/GettyImages-2254637573.jpg?quality=90&strip=all&crop=0%2C10.75505681467%2C100%2C78.489886370659&w=1200"
+    },
+    {
+      "id": 9,
+      "answer": "Mauna Kea",
+      "acceptedAnswers": [
+        "Mauna Kea",
+        "Maunakea"
+      ],
+      "clues": [
+        "Dormant Hawaiian volcano",
+        "World-class observatory site",
+        "Tallest mountain from base to peak",
+        "Sacred site in Polynesian culture",
+        "High-altitude astronomical research",
+        "Big Island landmark"
+      ],
+      "summary": "As Hawaii holds its 2026 primary elections, the future management of Mauna Kea and its observatories remains a key political issue for candidates across the islands.",
+      "sourceUrl": "https://www.kitv.com/news/politics/hawaii-2026-primary-election-results-are-in/article_55f7ce83-92a8-4e5b-a917-496999fc570e.html",
+      "difficulty": "hard",
+      "region": "north-america",
+      "event": "Hawaii 2026 political issues and elections",
+      "imageUrl": "https://bloximages.newyork1.vip.townnews.com/kitv.com/content/tncms/assets/v3/editorial/5/5f/55f7ce83-92a8-4e5b-a917-496999fc570e/6a77d384d0615.preview.png?crop=653%2C343%2C0%2C9"
+    },
+    {
+      "id": 10,
+      "answer": "Influenza",
+      "acceptedAnswers": [
+        "Influenza",
+        "Flu"
+      ],
+      "clues": [
+        "Respiratory viral illness",
+        "Annual seasonal epidemic",
+        "Orthomyxoviridae family",
+        "H and N subtypes classification",
+        "1918 pandemic pathogen",
+        "Antigenic drift and shift"
+      ],
+      "summary": "The approval of the first mRNA flu vaccine has renewed focus on why influenza vaccines have historically been so difficult to improve compared to other immunizations.",
+      "sourceUrl": "https://www.vox.com/future-perfect/498456/flu-influenza-robert-kennedy-jr-vaccine-moderna",
+      "difficulty": "easy",
+      "region": "global",
+      "event": "Flu vaccine technology improvement challenges",
+      "imageUrl": "https://platform.vox.com/wp-content/uploads/sites/2/2026/08/GettyImages-2254637573.jpg?quality=90&strip=all&crop=0%2C10.75505681467%2C100%2C78.489886370659&w=1200"
+    }
+  ]
+}
