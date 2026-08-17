@@ -1,0 +1,220 @@
+{
+  "date": "2026-08-13",
+  "puzzles": [
+    {
+      "id": 1,
+      "answer": "Tomorrowland",
+      "acceptedAnswers": [
+        "Tomorrowland",
+        "Tomorrowland Disneyland"
+      ],
+      "clues": [
+        "Theme park attraction area",
+        "Futuristic design concept",
+        "Opening day original land",
+        "Anaheim attraction",
+        "Space Mountain location",
+        "Walt's vision of the future"
+      ],
+      "summary": "Disney has announced a complete overhaul of Tomorrowland at Disneyland, a project fans have been anticipating for years. The iconic themed area is getting a full transformation.",
+      "sourceUrl": "https://mickeyvisit.com/disneyland-tomorrowland-rides-overhaul-august-15-2026/",
+      "difficulty": "medium",
+      "region": "north_america",
+      "event": "Disneyland Tomorrowland complete overhaul announcement",
+      "imageUrl": "https://mickeyvisit.com/wp-content/uploads/2026/08/Astro-Orbitor-in-Tomorrowland-Sleeping-Beauty-Castle-Disneyland.jpg"
+    },
+    {
+      "id": 2,
+      "answer": "Joshua Báez",
+      "acceptedAnswers": [
+        "Joshua Báez",
+        "Joshua Baez"
+      ],
+      "clues": [
+        "MLB rookie debut",
+        "St. Louis outfielder",
+        "Triple-A Memphis promotion",
+        "Historic three-homer game",
+        "Dominican-born prospect",
+        "Cardinals slugger"
+      ],
+      "summary": "Joshua Báez became the first player in MLB history to hit a home run in each of his first three at-bats in the majors, leading the Cardinals to victory over the Cubs in a historic debut.",
+      "sourceUrl": "https://apnews.com/article/cardinals-joshua-baez-debut-home-runs-0b0e9a1b40e5a03155d9fad6cb8e8758",
+      "difficulty": "hard",
+      "region": "north_america",
+      "event": "Cardinals rookie historic three-homer MLB debut",
+      "imageUrl": "https://dims.apnews.com/dims4/default/e66b495/2147483647/strip/true/crop/5568x3710+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fd0%2Fdb%2Fd26103a69cc4c28d64536a509e0d%2Fb3dd316ee36c4cf089d408e6341062f5"
+    },
+    {
+      "id": 3,
+      "answer": "Alexandria Ocasio-Cortez",
+      "acceptedAnswers": [
+        "Alexandria Ocasio-Cortez",
+        "AOC"
+      ],
+      "clues": [
+        "U.S. House representative",
+        "New York 14th District",
+        "Progressive Democratic politician",
+        "Former bartender turned lawmaker",
+        "Bronx-born political figure",
+        "Social media-savvy congresswoman"
+      ],
+      "summary": "AOC and White House press secretary Karoline Leavitt have sparked a public conversation about the challenges of balancing high-pressure careers with motherhood and family life.",
+      "sourceUrl": "https://www.bbc.com/news/articles/cjwxgz95jvgo",
+      "difficulty": "easy",
+      "region": "north_america",
+      "event": "Working mothers career-family balance political discussion",
+      "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/cdba/live/bc3d3e00-9828-11f1-a7ab-8b30adf0800a.jpg"
+    },
+    {
+      "id": 4,
+      "answer": "Arabian Sea",
+      "acceptedAnswers": [
+        "Arabian Sea"
+      ],
+      "clues": [
+        "Indian Ocean body of water",
+        "Between Indian subcontinent and peninsula",
+        "Borders Oman and Yemen",
+        "Monsoon-affected waters",
+        "Major shipping route",
+        "Northwest Indian Ocean"
+      ],
+      "summary": "The top U.S. military commander in the Middle East, Adm. Brad Cooper, visited the USS Lincoln aircraft carrier currently deployed in the Arabian Sea amid concerns about crew welfare during the extended deployment.",
+      "sourceUrl": "https://apnews.com/article/iran-us-israel-lebanon-gaza-uss-lincoln-august-16-2026-98f43f920c102080a3526981cf0dd7b8",
+      "difficulty": "medium",
+      "region": "middle_east",
+      "event": "US Middle East commander visits deployed carrier",
+      "imageUrl": "https://dims.apnews.com/dims4/default/d7c96bf/2147483647/strip/true/crop/2400x1599+0+3/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fd4%2F11%2F83fbb3af58f9b6f034b5df56eb3d%2F4ee9b92012b64f0d865e10a03b907681"
+    },
+    {
+      "id": 5,
+      "answer": "Reddit",
+      "acceptedAnswers": [
+        "Reddit"
+      ],
+      "clues": [
+        "Online discussion platform",
+        "Subreddit-based communities",
+        "Founded by Steve Huffman and Alexis Ohanian",
+        "2024 IPO tech company",
+        "Upvote and downvote system",
+        "Front page of the internet"
+      ],
+      "summary": "Reddit's stock is surging after the announcement that the social media platform will join the S&P 500 index next week, though the company still faces challenges with its business model.",
+      "sourceUrl": "https://finance.yahoo.com/technology/article/reddit-stock-is-surging-thanks-to-the-sp-500-but-it-hasnt-solved-its-big-dilemma-095800339.html",
+      "difficulty": "easy",
+      "region": "global",
+      "event": "Reddit joining S&P 500 stock index",
+      "imageUrl": "https://s.yimg.com/lo/mysterio/api/291B13121923B84B25105AB1841EF05810722D239BC93957F38747F933EBDD54/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-08%2F859eb65b-7c6a-4475-b895-c5dd2b481332"
+    },
+    {
+      "id": 6,
+      "answer": "Avengers: Doomsday",
+      "acceptedAnswers": [
+        "Avengers: Doomsday",
+        "Avengers Doomsday"
+      ],
+      "clues": [
+        "Upcoming MCU ensemble film",
+        "Superhero franchise sequel",
+        "Robert Downey Jr. villain role",
+        "Russo Brothers directing",
+        "Comic book adaptation",
+        "Phase Six tentpole"
+      ],
+      "summary": "Disney released a new 'special look' trailer for Avengers: Doomsday featuring Doctor Doom and Sentinels, building anticipation for the upcoming Marvel Cinematic Universe film.",
+      "sourceUrl": "https://www.avclub.com/d23-avengers-doomsday-trailer-robert-downey-jr-sentinels",
+      "difficulty": "easy",
+      "region": "global",
+      "event": "Avengers Doomsday new trailer special look release",
+      "imageUrl": "https://img.pastemagazine.com/wp-content/avuploads/2026/08/15021817/doomsday2-feature.jpg"
+    },
+    {
+      "id": 7,
+      "answer": "Indiana",
+      "acceptedAnswers": [
+        "Indiana"
+      ],
+      "clues": [
+        "Hoosier State",
+        "Midwestern U.S. state",
+        "Indianapolis is the capital",
+        "Borders Lake Michigan",
+        "Home of the Indy 500",
+        "Crossroads of America motto"
+      ],
+      "summary": "Devastating flooding across central Indiana has killed at least five people as days of heavy rain continue to send water downstream into Indianapolis, prompting emergency response efforts.",
+      "sourceUrl": "https://www.indystar.com/story/weather/indianapolis/2026/08/15/live-flood-updates-white-river-crests-in-noblesville-over-night--live/91317499007/",
+      "difficulty": "easy",
+      "region": "north_america",
+      "event": "Central Indiana deadly flooding August 2026",
+      "imageUrl": "https://www.indystar.com/gcdn/authoring/authoring-images/2026/08/15/PIND/91320086007-mp-indy-flooding-102.JPG?crop=2999,1687,x0,y29&width=2999&height=1687&format=pjpg&auto=webp"
+    },
+    {
+      "id": 8,
+      "answer": "Ty Simpson",
+      "acceptedAnswers": [
+        "Ty Simpson"
+      ],
+      "clues": [
+        "2026 NFL Draft first-round pick",
+        "Former Alabama quarterback",
+        "13th overall selection",
+        "Los Angeles franchise QB",
+        "Preseason debut standout",
+        "SEC college football product"
+      ],
+      "summary": "Rookie quarterback Ty Simpson dazzled in his NFL preseason debut with the Rams, validating the team's decision to select him 13th overall in the 2026 draft.",
+      "sourceUrl": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/ty-simpson-dazzles-in-his-rams-debut",
+      "difficulty": "hard",
+      "region": "north_america",
+      "event": "Rams rookie quarterback impressive preseason debut",
+      "imageUrl": "https://nbcsports.brightspotcdn.com/dims4/default/7959162/2147483647/strip/true/crop/4014x2258+0+209/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F03%2F44%2F6dfb3bee4966864af2a6b8daf57b%2Fhttps-cdn1-agency-thomsonreuters-com-download-image-tag-reuters-com-2026-newsml-mt1usatoday29593697-295763764-tag-reuters-com-2026-binary-mt1usatoday29593697-baseimage-4014x2676-2026-08-15t233819z-295763764-mt1usatoday29593697-rtrmadp-3-nfl-los-angeles-rams-at-kansas-city-chiefs.JPG"
+    },
+    {
+      "id": 9,
+      "answer": "Black hole",
+      "acceptedAnswers": [
+        "Black hole",
+        "Black hole star"
+      ],
+      "clues": [
+        "Gravitational singularity",
+        "Event horizon boundary",
+        "Predicted by general relativity",
+        "Hawking radiation source",
+        "Spacetime curvature extreme",
+        "Sagittarius A* example"
+      ],
+      "summary": "Astronomers have discovered an entirely new type of cosmic object dubbed a 'black hole star' — a monstrous black hole that functions like a star on the scale of an entire solar system.",
+      "sourceUrl": "https://futurism.com/space/astronomers-discover-black-hole-star",
+      "difficulty": "medium",
+      "region": "global",
+      "event": "Discovery of new black hole star cosmic object",
+      "imageUrl": "https://futurism.com/wp-content/uploads/2026/08/astronomers-discover-black-hole-star.jpg?quality=85&w=1200"
+    },
+    {
+      "id": 10,
+      "answer": "Karoline Leavitt",
+      "acceptedAnswers": [
+        "Karoline Leavitt"
+      ],
+      "clues": [
+        "White House press secretary",
+        "New Hampshire political figure",
+        "Trump administration spokesperson",
+        "Youngest person in the role",
+        "Former congressional candidate",
+        "Daily briefing host"
+      ],
+      "summary": "White House press secretary Karoline Leavitt and AOC have sparked a wider public conversation about the challenges working mothers face balancing demanding careers with family responsibilities.",
+      "sourceUrl": "https://www.bbc.com/news/articles/cjwxgz95jvgo",
+      "difficulty": "medium",
+      "region": "north_america",
+      "event": "White House press secretary motherhood public discussion",
+      "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/cdba/live/bc3d3e00-9828-11f1-a7ab-8b30adf0800a.jpg"
+    }
+  ]
+}
