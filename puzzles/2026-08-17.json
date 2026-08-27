@@ -1,0 +1,223 @@
+{
+  "date": "2026-08-17",
+  "puzzles": [
+    {
+      "id": 1,
+      "answer": "Tim Curry",
+      "acceptedAnswers": [
+        "Tim Curry",
+        "Timothy Curry"
+      ],
+      "clues": [
+        "British actor",
+        "Horror and comedy icon",
+        "Tony Award nominee",
+        "Famous for playing villains",
+        "Appeared in Home Alone 2",
+        "Voice actor in animated series"
+      ],
+      "summary": "Beloved British actor Tim Curry, famous for The Rocky Horror Picture Show and the 1990 TV adaptation of Stephen King's It, has died at the age of 80.",
+      "sourceUrl": "https://www.nbcnews.com/news/obituaries/tim-curry-star-rocky-horror-picture-show-dies-80-rcna594532",
+      "difficulty": "easy",
+      "region": "global",
+      "event": "Death of iconic British actor at 80",
+      "imageUrl": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-08/260826-tim-curry-ONE-TIMEUSE-mn-1150-730099.jpg"
+    },
+    {
+      "id": 2,
+      "answer": "Blake Lively",
+      "acceptedAnswers": [
+        "Blake Lively"
+      ],
+      "clues": [
+        "American actress",
+        "Gossip Girl star",
+        "Married to Ryan Reynolds",
+        "Starred in A Simple Favor",
+        "Fashion and lifestyle entrepreneur",
+        "The Age of Adaline lead"
+      ],
+      "summary": "Blake Lively received only $400,000 in legal fees from her prolonged legal battle with Justin Baldoni, far less than she had sought, with further legal action potentially ahead.",
+      "sourceUrl": "http://deadline.com/2026/08/blake-lively-legal-fees-lawyer-reaction-1237051334/",
+      "difficulty": "easy",
+      "region": "north-america",
+      "event": "Lively-Baldoni legal dispute fee ruling",
+      "imageUrl": "https://deadline.com/wp-content/uploads/2026/08/Rebel-Wilson-and-Blake-Lively-.jpg?w=1024"
+    },
+    {
+      "id": 3,
+      "answer": "Gut microbiome",
+      "acceptedAnswers": [
+        "Gut microbiome",
+        "Microbiome",
+        "Gut microbiota"
+      ],
+      "clues": [
+        "Human digestive tract ecosystem",
+        "Trillions of microorganisms",
+        "Influenced by diet and lifestyle",
+        "Linked to mental health research",
+        "Probiotics and prebiotics field",
+        "Subject of Harvard Medical School studies"
+      ],
+      "summary": "New research highlighted by CBS News explores how gut bacteria significantly impact long-term brain health, drawing attention to the growing science of the microbiome-brain connection.",
+      "sourceUrl": "https://www.cbsnews.com/news/gut-microbiome-impact-brain-health-dr-laura-cox-healthful/",
+      "difficulty": "medium",
+      "region": "global",
+      "event": "Research on gut bacteria and brain health connection",
+      "imageUrl": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/08/25/4647dfb5-c79b-4aee-b78b-3b9fd01b6d63/thumbnail/1200x630/9975b757d9ff565fe884a3b8628d25c7/untitled-design.jpg"
+    },
+    {
+      "id": 4,
+      "answer": "Maryland",
+      "acceptedAnswers": [
+        "Maryland"
+      ],
+      "clues": [
+        "Mid-Atlantic U.S. state",
+        "Home to Chesapeake Bay",
+        "Borders Washington D.C.",
+        "Old Line State nickname",
+        "Annapolis is its capital",
+        "Known for blue crabs"
+      ],
+      "summary": "A Maryland court has ruled that a Democratic-backed redistricting constitutional amendment cannot appear on the November ballot, blocking efforts to redraw congressional districts.",
+      "sourceUrl": "https://apnews.com/article/redistricting-congress-maryland-gerrymandering-d56807bc5c45b8cfffeaf22dac9109df",
+      "difficulty": "medium",
+      "region": "north-america",
+      "event": "Court blocks redistricting ballot amendment",
+      "imageUrl": "https://dims.apnews.com/dims4/default/11a2520/2147483647/strip/true/crop/6094x4061+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F1d%2Ffe%2F433ddaa1718d5bbd461f412c126d%2F8dfcd0d262624007845bb994ad5e313f"
+    },
+    {
+      "id": 5,
+      "answer": "Data centers",
+      "acceptedAnswers": [
+        "Data centers",
+        "Data centre",
+        "Data centres",
+        "Data center"
+      ],
+      "clues": [
+        "Cloud computing infrastructure",
+        "Massive electricity consumers",
+        "Server farms",
+        "Tech industry real estate",
+        "AI computing demand drivers",
+        "Cooling system engineering challenges"
+      ],
+      "summary": "Public support for data center construction has cratered across the U.S. and beyond, prompting both Democrats and Republicans to adopt more skeptical positions on the energy-intensive facilities.",
+      "sourceUrl": "https://www.politico.com/news/2026/08/26/data-centers-midterms-politicians-voters-sour-01050143",
+      "difficulty": "medium",
+      "region": "global",
+      "event": "Bipartisan backlash against data center expansion",
+      "imageUrl": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fe7%2F2c%2F9db310294dfc813e11a478c2dc77%2Ftrump-data-centers-5-777.jpg"
+    },
+    {
+      "id": 6,
+      "answer": "Deshaun Watson",
+      "acceptedAnswers": [
+        "Deshaun Watson"
+      ],
+      "clues": [
+        "NFL quarterback",
+        "Formerly with the Houston Texans",
+        "Controversial guaranteed contract",
+        "Clemson Tigers alumni",
+        "Subject of multiple civil lawsuits",
+        "AFC North player"
+      ],
+      "summary": "Cleveland Browns fans vandalized the Jim Brown statue outside the stadium in protest after the team named the controversial quarterback as the starter for the 2026 season.",
+      "sourceUrl": "https://www.cbssports.com/nfl/news/jim-brown-statue-vandalized-fans-protest-deshaun-watson/",
+      "difficulty": "medium",
+      "region": "north-america",
+      "event": "Browns fan backlash over starting quarterback decision",
+      "imageUrl": "https://sportshub.cbsistatic.com/i/r/2026/08/26/fa87169d-9b70-479d-811d-ed295d26befb/thumbnail/1200x675/d46ac4771d448f1e08a3a1899d18cca1/watson20261.jpg"
+    },
+    {
+      "id": 7,
+      "answer": "Tariffs",
+      "acceptedAnswers": [
+        "Tariffs",
+        "Trump tariffs"
+      ],
+      "clues": [
+        "International trade policy tool",
+        "Import taxes on goods",
+        "Subject of trade wars",
+        "Affect consumer prices",
+        "Protectionist economic measure",
+        "Central to U.S.-China economic tensions"
+      ],
+      "summary": "Republicans are frustrated that President Trump has revived tariff drama just ahead of the 2026 midterm elections, fearing the trade issue could hurt their electoral prospects.",
+      "sourceUrl": "https://www.cnn.com/2026/08/26/politics/republicans-trump-tariffs-midterms",
+      "difficulty": "easy",
+      "region": "global",
+      "event": "Trump tariff revival ahead of 2026 midterms",
+      "imageUrl": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2291878561.jpg?c=16x9&q=w_800,c_fill"
+    },
+    {
+      "id": 8,
+      "answer": "Rabies",
+      "acceptedAnswers": [
+        "Rabies"
+      ],
+      "clues": [
+        "Viral zoonotic disease",
+        "Transmitted through animal bites",
+        "Almost always fatal without treatment",
+        "Post-exposure prophylaxis required",
+        "Lyssavirus genus",
+        "Nocturnal flying mammal vector"
+      ],
+      "summary": "A Virginia doctor's viral story about waking up with a bat in her mouth has sparked renewed public health warnings about the deadly disease transmitted by bat encounters indoors.",
+      "sourceUrl": "https://www.wral.com/news/ap/virginia-woman-wakes-up-finds-bat-in-mouth-august-2026/",
+      "difficulty": "hard",
+      "region": "global",
+      "event": "Viral bat encounter sparks public health warning",
+      "imageUrl": "https://images.wral.com/30b9b4cc-d745-4607-94c2-66ec06ffcd58?w=1200&h=630&height=630"
+    },
+    {
+      "id": 9,
+      "answer": "Big Ten",
+      "acceptedAnswers": [
+        "Big Ten",
+        "Big Ten Conference"
+      ],
+      "clues": [
+        "Major collegiate athletic conference",
+        "Includes teams from multiple U.S. states",
+        "Recently expanded membership",
+        "Part of NCAA Division I",
+        "Television rights mega-deal",
+        "Features historic football rivalries"
+      ],
+      "summary": "The Big Ten and SEC have banned players who previously signed NFL contracts from returning to college football, a move that has invited a contempt-of-court motion challenging the policy.",
+      "sourceUrl": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/big-ten-sec-ban-on-former-nfl-players-invites-a-contempt-of-court-motion",
+      "difficulty": "hard",
+      "region": "north-america",
+      "event": "College conferences ban former NFL players from returning",
+      "imageUrl": "https://nbcsports.brightspotcdn.com/dims4/default/d725f6f/2147483647/strip/true/crop/3000x1688+0+139/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F58%2F79%2F083b1567424983c0520160a8a2cd%2Fdownload.jpg"
+    },
+    {
+      "id": 10,
+      "answer": "Dana White",
+      "acceptedAnswers": [
+        "Dana White"
+      ],
+      "clues": [
+        "Combat sports executive",
+        "Las Vegas-based promoter",
+        "Known for Contender Series",
+        "Controversial media personality",
+        "Former boxing manager",
+        "Mixed martial arts mogul"
+      ],
+      "summary": "Dana White commented on Bella Mir's shocking upset loss on the Contender Series, attributing it to her lack of deep-water fighting experience despite her famous fighting family pedigree.",
+      "sourceUrl": "https://www.mmafighting.com/ufc/507100/dana-white-reacts-to-bella-mirs-shocking-upset-loss-on-contender-series-she-didnt-have-deep-water-experience",
+      "difficulty": "medium",
+      "region": "global",
+      "event": "Contender Series shocking upset loss reaction",
+      "imageUrl": "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/08/gettyimages-2292059550.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+    }
+  ]
+}
