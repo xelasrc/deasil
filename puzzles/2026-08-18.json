@@ -1,0 +1,223 @@
+{
+  "date": "2026-08-18",
+  "puzzles": [
+    {
+      "id": 1,
+      "answer": "Prostate cancer",
+      "acceptedAnswers": [
+        "Prostate cancer",
+        "Prostate Cancer"
+      ],
+      "clues": [
+        "Oncology",
+        "Men's health",
+        "PSA test debate",
+        "Screening guidelines",
+        "Urological disease",
+        "Adenocarcinoma"
+      ],
+      "summary": "A Washington Post column by an oncologist highlights what every man should know about prostate cancer screening, reigniting debate about when and whether routine screening is recommended.",
+      "sourceUrl": "https://www.washingtonpost.com/wellness/2026/08/31/what-men-need-know-about-psa-screening-prostate-cancer/",
+      "difficulty": "medium",
+      "region": "global",
+      "event": "Oncologist op-ed on cancer screening guidelines",
+      "imageUrl": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/QSSVVIG2ZDHSSAKZP472KL3DYY.jpg&w=1440"
+    },
+    {
+      "id": 2,
+      "answer": "Dolly Parton",
+      "acceptedAnswers": [
+        "Dolly Parton",
+        "Parton"
+      ],
+      "clues": [
+        "Smoky Mountains native",
+        "Jolene performer",
+        "Theme park founder",
+        "Country Music Hall of Fame",
+        "9 to 5 actress",
+        "Philanthropist and songwriter"
+      ],
+      "summary": "Dolly Parton, the legendary country music icon, was laid to rest in Nashville alongside her husband after passing away at the age of 80.",
+      "sourceUrl": "https://www.bbc.com/news/articles/cew95ke74l7o",
+      "difficulty": "easy",
+      "region": "north-america",
+      "event": "Death and funeral of legendary country music icon",
+      "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/a36d/live/d19e2b60-a51b-11f1-89d5-dd5482a9fcc2.jpg"
+    },
+    {
+      "id": 3,
+      "answer": "Nepal",
+      "acceptedAnswers": [
+        "Nepal"
+      ],
+      "clues": [
+        "Himalayan nation",
+        "Kathmandu capital",
+        "Landlocked South Asian country",
+        "Hydropower development hub",
+        "Mount Sagarmatha location",
+        "Federal democratic republic"
+      ],
+      "summary": "Catastrophic flooding in Nepal has killed at least 900 people, with hundreds of workers feared trapped in hydropower tunnels as international rescue teams assist in recovery efforts.",
+      "sourceUrl": "https://apnews.com/article/nepal-tibet-china-flash-floods-744fe6e15ae7751e15efcd6dff70170c",
+      "difficulty": "easy",
+      "region": "asia",
+      "event": "Catastrophic South Asian flooding and tunnel rescue",
+      "imageUrl": "https://dims.apnews.com/dims4/default/6d40803/2147483647/strip/true/crop/8640x5757+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fb1%2Fd2%2F6f32842f0e0cc8dc8fb15a285979%2Fa226309baac34ebba48eae8881ee9700"
+    },
+    {
+      "id": 4,
+      "answer": "Mariano Navone",
+      "acceptedAnswers": [
+        "Mariano Navone",
+        "Navone"
+      ],
+      "clues": [
+        "Argentine tennis player",
+        "ATP Tour competitor",
+        "Clay court specialist",
+        "South American athlete",
+        "Grand Slam upset maker",
+        "Five-set thriller winner"
+      ],
+      "summary": "Argentine Mariano Navone stunned Novak Djokovic in a five-set first-round match at the 2026 US Open, marking Djokovic's first opening-round loss at the tournament.",
+      "sourceUrl": "https://abcnews.com/Sports/wireStory/novak-djokovic-loses-opening-round-us-open-time-136079604",
+      "difficulty": "hard",
+      "region": "global",
+      "event": "2026 US Open first-round major upset",
+      "imageUrl": "https://i.abcnewsfe.com/a/6be2ce5f-c50d-4d06-84b5-cc568661539f/wirestory_8541a748a9e48346ddaea528ee7a739b_16x9.jpg?w=1600"
+    },
+    {
+      "id": 5,
+      "answer": "Photosynthesis",
+      "acceptedAnswers": [
+        "Photosynthesis"
+      ],
+      "clues": [
+        "Chloroplast process",
+        "Light-dependent reactions",
+        "Carbon fixation pathway",
+        "Plant energy conversion",
+        "Calvin cycle component",
+        "Oxygenic biological process"
+      ],
+      "summary": "Scientists have captured the first molecular-level images of water reorganization during proton-coupled electron transfer, a reaction crucial for photosynthesis and biological energy conversion.",
+      "sourceUrl": "https://phys.org/news/2026-08-scientists-capture-molecular-images-reaction.html",
+      "difficulty": "medium",
+      "region": "global",
+      "event": "Molecular imaging breakthrough of water reaction mechanism",
+      "imageUrl": "https://scx2.b-cdn.net/gfx/news/hires/2026/scientists-capture-fir.jpg"
+    },
+    {
+      "id": 6,
+      "answer": "Tibet",
+      "acceptedAnswers": [
+        "Tibet",
+        "Xizang"
+      ],
+      "clues": [
+        "Autonomous region of China",
+        "Plateau of Asia",
+        "Potala Palace location",
+        "Roof of the World",
+        "Buddhist cultural center",
+        "Source of major Asian rivers"
+      ],
+      "summary": "The catastrophic flooding affecting South Asia has also devastated parts of Tibet, with massive death tolls and thousands still missing as international rescue efforts continue.",
+      "sourceUrl": "https://apnews.com/article/nepal-tibet-china-flash-floods-744fe6e15ae7751e15efcd6dff70170c",
+      "difficulty": "medium",
+      "region": "asia",
+      "event": "Trans-Himalayan flood disaster affecting Chinese autonomous region",
+      "imageUrl": "https://dims.apnews.com/dims4/default/6d40803/2147483647/strip/true/crop/8640x5757+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fb1%2Fd2%2F6f32842f0e0cc8dc8fb15a285979%2Fa226309baac34ebba48eae8881ee9700"
+    },
+    {
+      "id": 7,
+      "answer": "Nashville",
+      "acceptedAnswers": [
+        "Nashville"
+      ],
+      "clues": [
+        "Tennessee state capital",
+        "Music Row location",
+        "Grand Ole Opry city",
+        "Country music capital",
+        "Cumberland River metropolis",
+        "Ryman Auditorium home"
+      ],
+      "summary": "Nashville hosted the private funeral of Dolly Parton, reinforcing the city's deep connection to country music history as fans gathered to pay their respects.",
+      "sourceUrl": "https://www.bbc.com/news/articles/cew95ke74l7o",
+      "difficulty": "easy",
+      "region": "north-america",
+      "event": "City hosts funeral of beloved country music legend",
+      "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/a36d/live/d19e2b60-a51b-11f1-89d5-dd5482a9fcc2.jpg"
+    },
+    {
+      "id": 8,
+      "answer": "Proton-coupled electron transfer",
+      "acceptedAnswers": [
+        "Proton-coupled electron transfer",
+        "PCET"
+      ],
+      "clues": [
+        "Electrochemistry concept",
+        "Biological energy mechanism",
+        "Catalysis fundamental process",
+        "Charge movement phenomenon",
+        "Quantum tunneling related",
+        "Reaction dynamics research"
+      ],
+      "summary": "Researchers have for the first time captured molecular-level images of this fundamental chemical mechanism, revealing how water molecules reorganize during reactions essential for life.",
+      "sourceUrl": "https://phys.org/news/2026-08-scientists-capture-molecular-images-reaction.html",
+      "difficulty": "hard",
+      "region": "global",
+      "event": "First molecular imaging of fundamental chemical reaction",
+      "imageUrl": "https://scx2.b-cdn.net/gfx/news/hires/2026/scientists-capture-fir.jpg"
+    },
+    {
+      "id": 9,
+      "answer": "US Open",
+      "acceptedAnswers": [
+        "US Open",
+        "U.S. Open"
+      ],
+      "clues": [
+        "Flushing Meadows tournament",
+        "Grand Slam event",
+        "Arthur Ashe Stadium host",
+        "Hard court major championship",
+        "USTA organized competition",
+        "Late summer tennis event"
+      ],
+      "summary": "The 2026 US Open produced a major shock as top-seeded Novak Djokovic was eliminated in the first round, one of the biggest upsets in the tournament's recent history.",
+      "sourceUrl": "https://abcnews.com/Sports/wireStory/novak-djokovic-loses-opening-round-us-open-time-136079604",
+      "difficulty": "easy",
+      "region": "global",
+      "event": "2026 Grand Slam tennis tournament drama",
+      "imageUrl": "https://i.abcnewsfe.com/a/6be2ce5f-c50d-4d06-84b5-cc568661539f/wirestory_8541a748a9e48346ddaea528ee7a739b_16x9.jpg?w=1600"
+    },
+    {
+      "id": 10,
+      "answer": "PSA test",
+      "acceptedAnswers": [
+        "PSA test",
+        "PSA",
+        "Prostate-specific antigen test"
+      ],
+      "clues": [
+        "Blood screening method",
+        "Biomarker measurement",
+        "Preventive health tool",
+        "Controversial diagnostic procedure",
+        "Urological assessment",
+        "Serum protein level analysis"
+      ],
+      "summary": "An oncologist's widely-shared column has reignited the medical debate over when PSA testing is appropriate, noting that routine screening is not universally recommended for all men.",
+      "sourceUrl": "https://www.washingtonpost.com/wellness/2026/08/31/what-men-need-know-about-psa-screening-prostate-cancer/",
+      "difficulty": "hard",
+      "region": "global",
+      "event": "Medical debate over routine cancer screening value",
+      "imageUrl": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/QSSVVIG2ZDHSSAKZP472KL3DYY.jpg&w=1440"
+    }
+  ]
+}
