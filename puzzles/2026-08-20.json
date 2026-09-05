@@ -1,0 +1,221 @@
+{
+  "date": "2026-08-20",
+  "puzzles": [
+    {
+      "id": 1,
+      "answer": "Falkland Islands",
+      "acceptedAnswers": [
+        "Falkland Islands",
+        "Falklands",
+        "Malvinas",
+        "Islas Malvinas"
+      ],
+      "clues": [
+        "South Atlantic archipelago",
+        "1982 armed conflict territory",
+        "British Overseas Territory",
+        "Disputed sovereignty claim",
+        "Offshore oil exploration zone",
+        "Port Stanley capital"
+      ],
+      "summary": "Argentine President Milei has escalated his country's long-standing sovereignty dispute over the Falkland Islands, announcing tougher sanctions on companies involved in offshore oil projects near the archipelago.",
+      "sourceUrl": "https://apnews.com/article/argentina-president-donald-trump-javier-milei-falkland-islands-britain-e84d99c99cfb1cb1ad232be8e3ea6c8a",
+      "difficulty": "easy",
+      "region": "global",
+      "event": "Argentina-UK South Atlantic sovereignty dispute escalation",
+      "imageUrl": "https://dims.apnews.com/dims4/default/9fc69d6/2147483647/strip/true/crop/3564x2375+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F5a%2F65%2Fd8e6d19fc8bb3c90e34611ca2f57%2Ff61e6bc2fd754158918e1fc81b05fb8d"
+    },
+    {
+      "id": 2,
+      "answer": "BepiColombo",
+      "acceptedAnswers": [
+        "BepiColombo"
+      ],
+      "clues": [
+        "Joint ESA-JAXA mission",
+        "Named after Italian scientist",
+        "Innermost planet explorer",
+        "Eight-year interplanetary cruise",
+        "Two-orbiter spacecraft stack",
+        "Solar system's smallest planet destination"
+      ],
+      "summary": "After eight years traveling through space, the BepiColombo spacecraft is approaching Mercury for orbital insertion, carrying instruments to study the planet's surface, magnetic field, and internal structure.",
+      "sourceUrl": "https://www.space.com/astronomy/mercury/2-spacecraft-will-soon-reach-mercury-after-8-years-in-space-heres-what-bepicolombo-can-do",
+      "difficulty": "hard",
+      "region": "global",
+      "event": "BepiColombo Mercury orbital insertion mission",
+      "imageUrl": "https://cdn.mos.cms.futurecdn.net/X7aomcFSXbUu6dCikuzsAV-2000-80.jpg"
+    },
+    {
+      "id": 3,
+      "answer": "Einstein",
+      "acceptedAnswers": [
+        "Einstein",
+        "Albert Einstein"
+      ],
+      "clues": [
+        "Nobel Prize in Physics 1921",
+        "General relativity theorist",
+        "Princeton Institute for Advanced Study",
+        "Equivalence principle formulator",
+        "Photoelectric effect explanation",
+        "German-born theoretical physicist"
+      ],
+      "summary": "Physicists have confirmed Einstein's equivalence principle holds at quantum scales by sending 20,000 atoms into free fall, validating a prediction the physicist called his 'happiest thought' over a century ago.",
+      "sourceUrl": "https://www.livescience.com/physics-mathematics/quantum-physics/there-is-no-conflict-between-quantum-physics-and-gravity-physicists-prove-einsteins-happiest-thought-holds-true-at-quantum-scales",
+      "difficulty": "easy",
+      "region": "global",
+      "event": "Quantum test confirms gravitational equivalence principle",
+      "imageUrl": "https://cdn.mos.cms.futurecdn.net/pu5VYFNYZ4ejNSKjDw9SES-2000-80.jpg"
+    },
+    {
+      "id": 4,
+      "answer": "Ugreen",
+      "acceptedAnswers": [
+        "Ugreen"
+      ],
+      "clues": [
+        "Shenzhen-based electronics brand",
+        "Charging accessories manufacturer",
+        "MagSafe-compatible product line",
+        "Consumer tech peripherals company",
+        "Power delivery solutions provider",
+        "Founded in 2012"
+      ],
+      "summary": "Ugreen has unveiled what it claims is the world's first liquid-cooled magnetic power bank, featuring a transparent window that lets users watch coolant flowing inside the device.",
+      "sourceUrl": "https://www.theverge.com/tech/988648/ugreen-magflow-pro-magnetic-wireless-power-bank-10k-liquid-cooling",
+      "difficulty": "hard",
+      "region": "global",
+      "event": "Liquid-cooled power bank product launch",
+      "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/ugreen1.jpg?quality=90&strip=all&crop=0%2C10.776325370133%2C100%2C78.447349259734&w=1200"
+    },
+    {
+      "id": 5,
+      "answer": "Javier Milei",
+      "acceptedAnswers": [
+        "Javier Milei",
+        "Milei"
+      ],
+      "clues": [
+        "Libertarian economist turned leader",
+        "La Libertad Avanza party founder",
+        "Argentine head of state",
+        "Former television personality",
+        "Buenos Aires native politician",
+        "Chainsaw-wielding campaign symbol"
+      ],
+      "summary": "Argentine President Javier Milei is intensifying his country's dispute with Britain over the Falkland Islands, announcing sanctions on offshore oil companies and new military spending near the contested territory.",
+      "sourceUrl": "https://apnews.com/article/argentina-president-donald-trump-javier-milei-falkland-islands-britain-e84d99c99cfb1cb1ad232be8e3ea6c8a",
+      "difficulty": "medium",
+      "region": "south-america",
+      "event": "Argentine president escalates Falklands oil sanctions",
+      "imageUrl": "https://dims.apnews.com/dims4/default/9fc69d6/2147483647/strip/true/crop/3564x2375+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F5a%2F65%2Fd8e6d19fc8bb3c90e34611ca2f57%2Ff61e6bc2fd754158918e1fc81b05fb8d"
+    },
+    {
+      "id": 6,
+      "answer": "Big Brother",
+      "acceptedAnswers": [
+        "Big Brother"
+      ],
+      "clues": [
+        "Reality television competition format",
+        "Originated in the Netherlands",
+        "Houseguests and evictions format",
+        "CBS summer programming staple",
+        "Diary room confessionals",
+        "Surveillance-themed game show"
+      ],
+      "summary": "Big Brother Season 28 has reached its jury phase, with the first juror being evicted in the Week 8 episode, generating significant fan discussion about the season's trajectory.",
+      "sourceUrl": "https://www.tvline.com/2250846/big-brother-recap-lala-evicted-latrice-first-juror-season-28/",
+      "difficulty": "easy",
+      "region": "north-america",
+      "event": "Big Brother Season 28 jury phase begins",
+      "imageUrl": "https://www.tvline.com/img/gallery/bb28-eviction-juror-1/l-intro-1788484482.jpg"
+    },
+    {
+      "id": 7,
+      "answer": "American Medical Association",
+      "acceptedAnswers": [
+        "American Medical Association",
+        "AMA"
+      ],
+      "clues": [
+        "Founded in 1847",
+        "Largest physician organization in the US",
+        "Publishes JAMA journals",
+        "Professional advocacy group for doctors",
+        "Chicago-headquartered healthcare body",
+        "Medical ethics code publisher"
+      ],
+      "summary": "The AMA has collaborated with the Vaccine Integrity Project to release independent flu and COVID vaccine recommendations for the 2026-27 season amid confusion caused by shifting federal guidance.",
+      "sourceUrl": "https://thehill.com/policy/healthcare/6068925-ama-vip-vaccine-recommendations/",
+      "difficulty": "medium",
+      "region": "north-america",
+      "event": "Medical groups issue independent vaccine guidance",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/03/69b45227237263.74689135-e1788460120585.jpeg?w=1280"
+    },
+    {
+      "id": 8,
+      "answer": "Mercury",
+      "acceptedAnswers": [
+        "Mercury"
+      ],
+      "clues": [
+        "Closest planet to the Sun",
+        "Smallest planet in our solar system",
+        "Named after Roman messenger god",
+        "Heavily cratered rocky world",
+        "88-day orbital period",
+        "Extreme temperature swings surface"
+      ],
+      "summary": "The BepiColombo mission is nearing its destination at Mercury after an eight-year journey, preparing to study the tiny planet's many mysteries including its oversized iron core and tenuous atmosphere.",
+      "sourceUrl": "https://www.space.com/astronomy/mercury/2-spacecraft-will-soon-reach-mercury-after-8-years-in-space-heres-what-bepicolombo-can-do",
+      "difficulty": "easy",
+      "region": "global",
+      "event": "BepiColombo Mercury arrival scientific preview",
+      "imageUrl": "https://cdn.mos.cms.futurecdn.net/X7aomcFSXbUu6dCikuzsAV-2000-80.jpg"
+    },
+    {
+      "id": 9,
+      "answer": "Greg Schiano",
+      "acceptedAnswers": [
+        "Greg Schiano"
+      ],
+      "clues": [
+        "Former Tampa Bay Buccaneers head coach",
+        "Rutgers football program leader",
+        "New Jersey college athletics figure",
+        "Previously coached in the NFL",
+        "Scarlet Knights sideline leader",
+        "Known for rebuilding programs"
+      ],
+      "summary": "Rutgers head football coach Greg Schiano finds himself on the hot seat after a shocking upset loss to UMass, a result that has derailed the Scarlet Knights' season.",
+      "sourceUrl": "https://www.nj.com/rutgersfootball/2026/09/umassacre-rutgers-suffers-shocking-upset-that-derails-season-throws-greg-schiano-squarely-on-hot-seat.html",
+      "difficulty": "hard",
+      "region": "north-america",
+      "event": "Rutgers shocking upset puts coach on hot seat",
+      "imageUrl": "https://www.nj.com/resizer/v2/G55MDUJHIBF2HBVWKIT2SSOSMI.jpg?auth=f5d129333f96aee1e910d9a4e1bda5fcbadd5ca2e58ef450cb24243c2faedeb8&width=1280&smart=true&quality=90"
+    },
+    {
+      "id": 10,
+      "answer": "Minneapolis",
+      "acceptedAnswers": [
+        "Minneapolis"
+      ],
+      "clues": [
+        "Twin Cities metropolitan area",
+        "Hennepin County seat",
+        "Mississippi River city",
+        "Minnesota's largest city",
+        "Mill City historic nickname",
+        "Prince's home metropolitan area"
+      ],
+      "summary": "A deadly shooting occurred in downtown Minneapolis during a custody exchange, prompting an active police investigation and raising concerns about safety during family court-related interactions.",
+      "sourceUrl": "https://kstp.com/kstp-news/top-news/deadly-downtown-minneapolis-shooting-started-as-a-custody-exchange-heres-what-else-we-know/",
+      "difficulty": "medium",
+      "region": "north-america",
+      "event": "Downtown Minneapolis custody exchange shooting",
+      "imageUrl": "https://kstp.com/wp-content/uploads/2026/09/0902-MPLS-LOWRY-TOWERS-SHOOTING-KSTP_BCMP01_1_mxf_00.01.52.54.jpg"
+    }
+  ]
+}
