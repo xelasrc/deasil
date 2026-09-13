@@ -1,0 +1,215 @@
+{
+  "date": "2026-09-13",
+  "puzzles": [
+    {
+      "id": 1,
+      "answer": "Lady Gaga",
+      "acceptedAnswers": [
+        "Lady Gaga",
+        "Stefani Germanotta"
+      ],
+      "clues": [
+        "Pop music icon",
+        "Oscar-winning actress",
+        "A Star Is Born performer",
+        "Born This Way album",
+        "Engaged to tech entrepreneur",
+        "Chromatica artist"
+      ],
+      "summary": "Lady Gaga has welcomed her first child with fiancé Michael Polansky, making headlines worldwide.",
+      "sourceUrl": "http://www.hollywoodreporter.com/music/music-news/lady-gaga-first-baby-1236698474/",
+      "difficulty": "easy",
+      "region": "global",
+      "imageUrl": "https://www.hollywoodreporter.com/wp-content/uploads/2026/09/GettyImages-2272296467-e1789175737889.jpg?w=1440&h=810&crop=1"
+    },
+    {
+      "id": 2,
+      "answer": "Palawan",
+      "acceptedAnswers": [
+        "Palawan"
+      ],
+      "clues": [
+        "Philippine province",
+        "Island in the western part of the archipelago",
+        "Known for underground river",
+        "Popular tourist destination in Southeast Asia",
+        "Bordered by the South China Sea",
+        "Provincial capital is Puerto Princesa"
+      ],
+      "summary": "A deadly ferry fire near Palawan province in the Philippines has killed at least 35 people with 54 still missing.",
+      "sourceUrl": "https://apnews.com/article/philippines-ferry-fire-53da1f785c386cfbd189ef1dd3017c03",
+      "difficulty": "hard",
+      "region": "asia",
+      "imageUrl": "https://dims.apnews.com/dims4/default/bed562f/2147483647/strip/true/crop/8566x5708+0+2/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fed%2F16%2F2be5dc0e86c4d612444ee79005df%2F8433aac7a461438e98e8fcc8b0ecf305"
+    },
+    {
+      "id": 3,
+      "answer": "Sweden Democrats",
+      "acceptedAnswers": [
+        "Sweden Democrats",
+        "Sverigedemokraterna"
+      ],
+      "clues": [
+        "European political party",
+        "Right-wing populist movement",
+        "Scandinavian nationalist group",
+        "Founded in 1988",
+        "Anti-immigration platform",
+        "Led by Jimmie Åkesson"
+      ],
+      "summary": "Sweden's election has become a tight race, with the far-right party being promised cabinet positions by PM Ulf Kristersson if his bloc wins.",
+      "sourceUrl": "https://www.bbc.com/news/articles/cwyz8dn5nn3o",
+      "difficulty": "hard",
+      "region": "europe",
+      "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/3cfc/live/fe574770-add8-11f1-bc1f-3f186ca4140c.png"
+    },
+    {
+      "id": 4,
+      "answer": "Saudi Arabia",
+      "acceptedAnswers": [
+        "Saudi Arabia",
+        "Kingdom of Saudi Arabia"
+      ],
+      "clues": [
+        "Middle Eastern monarchy",
+        "Major oil-producing nation",
+        "Home to Mecca and Medina",
+        "Member of OPEC",
+        "Has extensive pipeline infrastructure",
+        "Bordered by Iraq to the north"
+      ],
+      "summary": "Saudi Arabia reported that its East-West oil pipeline was struck by drones launched from Iraq, escalating regional tensions.",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/9/11/saudi-arabia-says-east-west-pipeline-hit-by-drones-launched-from-iraq",
+      "difficulty": "easy",
+      "region": "middle_east",
+      "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6aa466375933-1789158967.jpg?resize=1920%2C1440"
+    },
+    {
+      "id": 5,
+      "answer": "CDC",
+      "acceptedAnswers": [
+        "CDC",
+        "Centers for Disease Control and Prevention"
+      ],
+      "clues": [
+        "U.S. federal health agency",
+        "Headquartered in Atlanta",
+        "Tracks infectious disease outbreaks",
+        "Publishes the MMWR",
+        "Leads vaccination campaigns",
+        "Part of the Department of Health and Human Services"
+      ],
+      "summary": "The CDC's response to measles deaths has raised concerns about federal health data reliability amid the worst U.S. measles outbreak in decades.",
+      "sourceUrl": "https://www.npr.org/2026/09/11/nx-s1-5950002/as-diseases-loom-cdcs-response-to-measles-deaths-stirs-fears-about-agencys-reliability",
+      "difficulty": "easy",
+      "region": "north_america",
+      "imageUrl": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2121x1193+0+110/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F1b%2Fc0%2Fb7f0eecf4341827759d2a40ec4ca%2Fgettyimages-1412593493.jpg"
+    },
+    {
+      "id": 6,
+      "answer": "Mercury",
+      "acceptedAnswers": [
+        "Mercury"
+      ],
+      "clues": [
+        "Smallest body in its system",
+        "Named after a Roman deity",
+        "Has extreme temperature variations",
+        "Visited by MESSENGER spacecraft",
+        "Closest to the Sun",
+        "Heavily cratered surface"
+      ],
+      "summary": "A new study reveals that the solar system's smallest planet may be shrinking faster than scientists previously expected.",
+      "sourceUrl": "https://www.nbcnews.com/science/space/mercury-shrinking-faster-expected-rcna597090",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-09/PIA10398orig-f8d350.jpg"
+    },
+    {
+      "id": 7,
+      "answer": "McClatchy",
+      "acceptedAnswers": [
+        "McClatchy",
+        "The McClatchy Company"
+      ],
+      "clues": [
+        "American newspaper publisher",
+        "Emerged from bankruptcy in 2020",
+        "Owns the Miami Herald",
+        "Sacramento-based media company",
+        "Once owned the Star-Telegram",
+        "Major chain of regional dailies"
+      ],
+      "summary": "Newspaper publisher McClatchy has conducted sweeping nationwide layoffs, eliminating the entire sports department at the Sacramento Bee.",
+      "sourceUrl": "https://www.sfgate.com/sports/article/mcclatchy-layoffs-sacbee-sports-22427517.php",
+      "difficulty": "hard",
+      "region": "north_america",
+      "imageUrl": "https://s.hdnux.com/photos/01/67/24/21/31278148/3/rawImage.jpg"
+    },
+    {
+      "id": 8,
+      "answer": "Artemis",
+      "acceptedAnswers": [
+        "Artemis",
+        "Artemis program",
+        "Artemis II"
+      ],
+      "clues": [
+        "NASA lunar program",
+        "Named after a Greek goddess",
+        "Successor to Apollo",
+        "Uses the SLS rocket",
+        "Aims for crewed Moon landing",
+        "Orion spacecraft mission"
+      ],
+      "summary": "Three of the four Artemis II astronauts have announced career transitions, shifting to emeritus status at NASA as the program's future is discussed.",
+      "sourceUrl": "https://www.space.com/space-exploration/artemis/what-comes-after-the-moon-artemis-ii-commander-and-pilot-shift-to-emeritus-status-at-nasa",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://cdn.mos.cms.futurecdn.net/XorTsHrMDXuBR4vHhzp32U-1920-80.jpg"
+    },
+    {
+      "id": 9,
+      "answer": "Anthropic",
+      "acceptedAnswers": [
+        "Anthropic"
+      ],
+      "clues": [
+        "AI safety company",
+        "Founded by former OpenAI researchers",
+        "Creator of Claude",
+        "San Francisco-based startup",
+        "Backed by major tech investors",
+        "Focus on responsible artificial intelligence"
+      ],
+      "summary": "A former Anthropic researcher's warning that AI could soon destroy humanity has ignited a fierce public debate about AI doomsday scenarios.",
+      "sourceUrl": "https://thehill.com/newsletters/technology/6085640-the-debate-over-ai-doomsday-warnings/",
+      "difficulty": "medium",
+      "region": "global",
+      "imageUrl": "https://thehill.com/wp-content/uploads/sites/2/2026/09/Elsewhere-Iran_090626_AP_Vahid-Salemi.jpg?w=1280"
+    },
+    {
+      "id": 10,
+      "answer": "UK Parliament",
+      "acceptedAnswers": [
+        "UK Parliament",
+        "Parliament of the United Kingdom",
+        "British Parliament",
+        "House of Commons"
+      ],
+      "clues": [
+        "Bicameral legislature in Westminster",
+        "Oldest continuous representative assembly",
+        "Includes the Lords and elected chamber",
+        "Governed by the Speaker",
+        "Sits in the Palace on the Thames",
+        "Home of Prime Minister's Questions"
+      ],
+      "summary": "The UK Parliament has voted to reject a bill that would have allowed assisted dying for terminally ill patients, leaving Britain outside a growing list of countries permitting it.",
+      "sourceUrl": "https://www.washingtonpost.com/world/2026/09/11/uk-parliament-rejects-bill-allow-assisted-dying-terminally-ill/",
+      "difficulty": "medium",
+      "region": "europe",
+      "imageUrl": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FJ3WBK5PTIH63BB2SWF2KE74FU_size-normalized.jpg&w=1440"
+    }
+  ]
+}
