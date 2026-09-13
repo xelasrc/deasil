@@ -1,16 +1,9 @@
 import Anthropic from "@anthropic-ai/sdk";
-import * as fs from "fs";
-import * as path from "path";
 import * as dotenv from "dotenv";
 
 dotenv.config({ path: ".env.local" });
 
 const anthropic = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY });
-
-// How far back to look when banning a story's underlying event from
-// reappearing under a different entity (see STORY_EXCLUSION_DAYS below).
-const STORY_EXCLUSION_DAYS = 14;
-const ANSWER_EXCLUSION_DAYS = 180;
 
 // New Zealand switches between NZST (UTC+12) and NZDT (UTC+13) — a fixed
 // offset drifts by an hour for half the year. Use the IANA tz database via
@@ -28,76 +21,6 @@ export function addDays(dateStr: string, days: number): string {
   const d = new Date(`${dateStr}T00:00:00Z`);
   d.setUTCDate(d.getUTCDate() + days);
   return d.toISOString().split("T")[0];
-}
-
-type StoredPuzzle = { answer: string; event?: string };
-
-function readRecentPuzzles(referenceDate: string, days: number): StoredPuzzle[] {
-  const puzzles: StoredPuzzle[] = [];
-
-  for (let i = 1; i <= days; i++) {
-    const dateStr = addDays(referenceDate, -i);
-    const filePath = path.join(process.cwd(), "puzzles", `${dateStr}.json`);
-
-    if (fs.existsSync(filePath)) {
-      const data = JSON.parse(fs.readFileSync(filePath, "utf-8"));
-      puzzles.push(...data.puzzles);
-    }
-  }
-
-  return puzzles;
-}
-
-// Answers already used as a puzzle answer in the last ~6 months — a hard,
-// literal-text ban so the exact same answer word doesn't recur.
-export function getRecentAnswers(referenceDate: string, days = ANSWER_EXCLUSION_DAYS): string[] {
-  return readRecentPuzzles(referenceDate, days).map((p) => p.answer);
-}
-
-// Underlying stories used in the last couple of weeks — a broader,
-// story-level ban. This is what stops "Person A" being the answer on
-// Monday and "Person B" (same lawsuit/conflict/event) being the answer on
-// Wednesday: the literal answer text differs, but the story doesn't.
-export function getRecentEvents(referenceDate: string, days = STORY_EXCLUSION_DAYS): string[] {
-  return readRecentPuzzles(referenceDate, days)
-    .map((p) => p.event)
-    .filter((e): e is string => !!e);
-}
-
-const STOPWORDS = new Set([
-  "the", "a", "an", "of", "in", "on", "at", "to", "for", "and", "or", "with",
-  "after", "over", "amid", "as", "its", "his", "her", "their", "new", "vs", "v",
-  "into", "from", "by", "is", "are", "was", "were", "this", "that",
-]);
-
-function significantTokens(text: string): Set<string> {
-  return new Set(
-    text
-      .toLowerCase()
-      .replace(/[^a-z0-9\s]/g, " ")
-      .split(/\s+/)
-      .filter((t) => t.length > 2 && !STOPWORDS.has(t))
-  );
-}
-
-// Cheap keyword-overlap heuristic used as an automated backstop for the
-// "same story, different entity" rule — catches egregious repeats even if
-// the model's own compliance with the prompt instruction slips.
-export function isLikelyRepeatEvent(candidate: string, others: string[], threshold = 0.6): string | null {
-  const candidateTokens = significantTokens(candidate);
-  if (candidateTokens.size === 0) return null;
-
-  for (const other of others) {
-    const otherTokens = significantTokens(other);
-    if (otherTokens.size === 0) continue;
-
-    const shared = [...candidateTokens].filter((t) => otherTokens.has(t)).length;
-    const overlap = shared / Math.min(candidateTokens.size, otherTokens.size);
-
-    if (overlap >= threshold) return other;
-  }
-
-  return null;
 }
 
 // Deterministic per-date PRNG so re-running generation for the same date
@@ -146,7 +69,7 @@ export function dayShapeFor(date: string): DayShape {
   return { sportCap, usDomesticCap, emphasis };
 }
 
-export async function fetchNews(recentAnswers: string[]): Promise<{
+export async function fetchNews(): Promise<{
   headlines: string;
   urlMap: Record<string, string>;
   imageMap: Record<string, string>;
@@ -163,16 +86,11 @@ export async function fetchNews(recentAnswers: string[]): Promise<{
     }[];
   };
 
-  const recentLower = recentAnswers.map((a) => a.toLowerCase());
   const urlMap: Record<string, string> = {};
   const imageMap: Record<string, string> = {};
 
   const headlines = data.articles
-    .filter((a) => {
-      if (!a.title || !a.description) return false;
-      const text = `${a.title} ${a.description}`.toLowerCase();
-      return !recentLower.some((answer) => text.includes(answer.toLowerCase()));
-    })
+    .filter((a) => !!a.title && !!a.description)
     .map((a, i) => {
       const id = `article_${i}`;
       urlMap[id] = a.url;
@@ -223,29 +141,14 @@ function extractJsonObject(text: string): string {
 export async function generatePuzzle(
   headlines: string,
   date: string,
-  recentAnswers: string[],
-  recentEvents: string[],
   urlMap: Record<string, string>,
   imageMap: Record<string, string>,
-  dayShape: DayShape,
-  feedback?: string
+  dayShape: DayShape
 ) {
-  const answerExclusion = recentAnswers.length > 0
-    ? `\nCRITICAL: You MUST NOT use any of the following as an answer. This is a hard rule — if a topic appears in this list, skip it entirely and pick something else:\n${recentAnswers.map((a) => `- ${a}`).join("\n")}\n`
-    : "";
-
-  const eventExclusion = recentEvents.length > 0
-    ? `\nCRITICAL: The following underlying news stories were already used as a puzzle answer in the last ${STORY_EXCLUSION_DAYS} days. Do NOT use any of them again — including by picking a *different* person, place, or organisation tied to the same story. Example: if "Israel-Hamas ceasefire negotiations" was already used, neither a negotiator's name nor a different figure from that same negotiation may be used again either. The story is banned, not just the specific answer word:\n${recentEvents.map((e) => `- ${e}`).join("\n")}\n`
-    : "";
-
-  const feedbackBlock = feedback
-    ? `\nCRITICAL: Your previous attempt was rejected for this reason: ${feedback} Do not make the same mistake again — pick a genuinely different set this time.\n`
-    : "";
-
   const prompt = `You are generating puzzles for Deasil, a daily news guessing game similar to Wordle.
 
 Today's date is ${date}.
-${answerExclusion}${eventExclusion}${feedbackBlock}
+
 Here are today's top news headlines (each has an article ID):
 ${headlines}
 
@@ -262,7 +165,6 @@ Your task:
 5. Clues should be broad enough to be challenging but fair.
 6. Write a 1-3 sentence summary explaining why this topic is in the news right now.
 7. For sourceUrl, use the article ID (e.g. "article_3") from the headlines list that is most relevant to the topic.
-8. For each topic, also write an "event" field: a short (4-10 word) descriptor of the underlying news story that would stay the same no matter which specific person, place, or organisation involved you picked as the answer (e.g. "OpenAI board leadership dispute", "2026 Wimbledon men's singles final", "Venezuela contested election crisis"). Two topics about different entities from the same underlying story must use the same "event" text — this is how repeats across different days get caught, so be precise and consistent rather than vague.
 
 Return ONLY a valid JSON object in this exact format, no markdown, no explanation:
 {
@@ -276,8 +178,7 @@ Return ONLY a valid JSON object in this exact format, no markdown, no explanatio
       "summary": "One or two sentences about why this is in the news.",
       "sourceUrl": "article_0",
       "difficulty": "medium",
-      "region": "global",
-      "event": "Short underlying-story descriptor here"
+      "region": "global"
     }
   ]
 }`;
@@ -301,80 +202,17 @@ Return ONLY a valid JSON object in this exact format, no markdown, no explanatio
   return result;
 }
 
-function findSameDayEventClashes(puzzles: { event?: string }[]): Array<[string, string]> {
-  const clashes: Array<[string, string]> = [];
-
-  for (let i = 0; i < puzzles.length; i++) {
-    for (let j = i + 1; j < puzzles.length; j++) {
-      const a = puzzles[i].event;
-      const b = puzzles[j].event;
-      if (a && b && isLikelyRepeatEvent(a, [b])) clashes.push([a, b]);
-    }
-  }
-
-  return clashes;
-}
-
 export async function generatePuzzleWithRetry(
   headlines: string,
   date: string,
-  recentAnswers: string[],
-  recentEvents: string[],
   urlMap: Record<string, string>,
   imageMap: Record<string, string>,
   dayShape: DayShape,
   retries = 5
 ): Promise<any> {
-  const recentAnswersLower = recentAnswers.map((a) => a.toLowerCase());
-  let feedback: string | undefined;
-
   for (let i = 0; i < retries; i++) {
     try {
-      const puzzle = await generatePuzzle(headlines, date, recentAnswers, recentEvents, urlMap, imageMap, dayShape, feedback);
-
-      const answerRepeats = puzzle.puzzles.filter((p: { answer: string }) =>
-        recentAnswersLower.includes(p.answer.toLowerCase())
-      );
-
-      const eventRepeats = puzzle.puzzles.filter(
-        (p: { event?: string }) => p.event && isLikelyRepeatEvent(p.event, recentEvents)
-      );
-
-      const sameDayClashes = findSameDayEventClashes(puzzle.puzzles);
-
-      if (answerRepeats.length > 0 || eventRepeats.length > 0 || sameDayClashes.length > 0) {
-        console.log(
-          `Rejecting generation: ${answerRepeats.length} literal answer repeats, ` +
-          `${eventRepeats.length} same-story repeats vs recent days, ` +
-          `${sameDayClashes.length} same-story clashes within today's set. Retrying...`
-        );
-
-        // Tell the next attempt exactly what went wrong, rather than just
-        // resampling blind — otherwise the model tends to repeat the same
-        // mistake (e.g. using both the performer and the venue from one
-        // concert-postponement story) on every retry.
-        const feedbackParts: string[] = [];
-        if (answerRepeats.length > 0) {
-          feedbackParts.push(
-            `you used these already-recent answers: ${answerRepeats.map((p: { answer: string }) => p.answer).join(", ")}`
-          );
-        }
-        if (eventRepeats.length > 0) {
-          feedbackParts.push(
-            `these answers belong to a story already used in the last ${STORY_EXCLUSION_DAYS} days: ${eventRepeats.map((p: { answer: string; event?: string }) => `${p.answer} ("${p.event}")`).join(", ")}`
-          );
-        }
-        if (sameDayClashes.length > 0) {
-          feedbackParts.push(
-            `you used more than one answer for the same underlying story: ${sameDayClashes.map(([a, b]) => `"${a}" / "${b}"`).join("; ")} — pick only one entity per story`
-          );
-        }
-        feedback = feedbackParts.join("; ");
-
-        continue;
-      }
-
-      return puzzle;
+      return await generatePuzzle(headlines, date, urlMap, imageMap, dayShape);
     } catch (err: unknown) {
       const isLastAttempt = i === retries - 1;
       if (isLastAttempt) throw err;
@@ -391,5 +229,5 @@ export async function generatePuzzleWithRetry(
       }
     }
   }
-  throw new Error("Failed to generate puzzle without repeats after max retries");
+  throw new Error("Failed to generate puzzle after max retries");
 }

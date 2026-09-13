@@ -3,8 +3,6 @@ import * as path from "path";
 import {
   nzDateString,
   addDays,
-  getRecentAnswers,
-  getRecentEvents,
   fetchNews,
   generatePuzzleWithRetry,
   dayShapeFor,
@@ -38,14 +36,11 @@ async function main() {
   }
 
   console.log(`Fetching news for ${date}...`);
-  const recentAnswers = getRecentAnswers(date);
-  const recentEvents = getRecentEvents(date);
-  console.log(`Excluding ${recentAnswers.length} recent answers (~6 months) and ${recentEvents.length} recent stories (~2 weeks).`);
-  const { headlines, urlMap, imageMap } = await fetchNews(recentAnswers);
+  const { headlines, urlMap, imageMap } = await fetchNews();
 
   console.log("Generating puzzle with Claude...");
   const dayShape = dayShapeFor(date);
-  const puzzle = await generatePuzzleWithRetry(headlines, date, recentAnswers, recentEvents, urlMap, imageMap, dayShape);
+  const puzzle = await generatePuzzleWithRetry(headlines, date, urlMap, imageMap, dayShape);
 
   if (!puzzle.puzzles || puzzle.puzzles.length !== 10) {
     throw new Error(`Expected 10 puzzles, got ${puzzle.puzzles?.length ?? 0}`);
